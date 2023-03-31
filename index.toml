@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
+hash = "c3c73a4ae07f1ab6de623b37007df3581286fe3495377af6d3da4b105892adb2"
 metafile = true
 
 [[files]]
@@ -280,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7873ca5fa00f1d5bcc11ba839aed4866e660017f8caee9337c7dffc8682d5653"
+hash = "8d1e45cdea6bb16c53496bc3b4d3504c933075c73084d294f8a57387f71e6d8b"
 metafile = true
 
 [[files]]
@@ -386,6 +386,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
+metafile = true
+
+[[files]]
+file = "mods/lootr-fabric.pw.toml"
+hash = "de55e473653cdd5046f3f79220f6aa9d1cf0eccfe97e8902c72935d0bbb0272e"
 metafile = true
 
 [[files]]
