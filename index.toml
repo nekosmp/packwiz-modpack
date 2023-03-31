@@ -63,15 +63,20 @@ preserve = true
 
 [[files]]
 file = "config/plasmovoice/server/config.toml"
-hash = "8b838a406ec72ae6cc7ff0804bef1eb0fb75238cd9d42e8ca59aaec55a20b309"
+hash = "ca7fecb5dd1e279001cf5ffdfdf80443fff3cebeb31e9d34b999dd38aea1f3d3"
 
 [[files]]
 file = "config/rightclickharvest.json"
 hash = "0f813c3f339bfb9b8f75d500ebc2e60c29c9e65daeca304676aea399c8ef0ce6"
 
 [[files]]
+file = "config/roughlyenoughitems/changelog.txt"
+hash = "8d3828692497be68d54e98820db28df65ef79b28f16ec4ebeef0e0916588dd8e"
+preserve = true
+
+[[files]]
 file = "config/roughlyenoughitems/config.json5"
-hash = "8c4f04c82ca2f3084d6b5ed6129cd41fc5051c2de5001a70cf3db33551159c00"
+hash = "7670b96099e1734c49005900c098693ff717adbb5e2a266daafb2b64c1ef681f"
 preserve = true
 
 [[files]]
