@@ -361,8 +361,8 @@ hash = "2b79142a10b48360c1f66e57caaf66523181e02ce5a104fd5791bc1c0be4510d"
 metafile = true
 
 [[files]]
-file = "mods/modelfix.pw.toml"
-hash = "bf69a7d3a8b2f983b937a166df751628caf13d6ff8f83afbcce8eb96c6615a6e"
+file = "mods/model-gap-fix.pw.toml"
+hash = "818526e4e84e4d4d700e15b9139a4f91fafd17ed1f554cc2307bc08c7e098271"
 metafile = true
 
 [[files]]
