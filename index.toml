@@ -9,20 +9,65 @@ file = "config/fallingtree.json"
 hash = "d761ae5f4c25199c563662eaa81fe1cfc4dcf20a40a462d9383687a9d1d755b7"
 
 [[files]]
+file = "config/fancymenu/assets/splashes.txt"
+hash = "abc2059c28ec156469fc039c7d74765b12d93798418349ebaf3f74a273f1e081"
+
+[[files]]
+file = "config/fancymenu/assets/title.png"
+hash = "c52f890efd2aaa6838c0c31c7273397659a8cabfc5def86d18d7c76887136c4c"
+
+[[files]]
+file = "config/fancymenu/assets/trolley.png"
+hash = "cdbb85eda9e20ba965eeb4bddfba404742b4ac7b4f7e479b9b00bf06f65aa41a"
+
+[[files]]
+file = "config/fancymenu/config.txt"
+hash = "803bec473e163927357a3d2f2ba11705ba4770ad70998300c7b72929d962a301"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "8c8b873b973562bbbb77b86b5c3c71f48b9e32b72fbba4ae755a744ee8ca74d9"
+
+[[files]]
+file = "config/fancymenu/customization/creative_menu.txt"
+hash = "65bf1c463e0e5916ccb98083355bd1b259584e36f7c6a6974dba0a87d93a6128"
+
+[[files]]
+file = "config/fancymenu/customization/main_menu.txt"
+hash = "55f66008fb343ef1d174864fdbdc158d5cec922ee0bfa75115d6e1bc6ee22873"
+
+[[files]]
+file = "config/fancymenu/customization/pause_menu.txt"
+hash = "0f5e08d07171c8ed6b0f8217988f8e22a3c8b2e90c37f83a75f853e8a1abc585"
+
+[[files]]
+file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
+hash = "cb9182c78974040b1b4463f8840944ade524043e15aaf7107a28b846842f1a5e"
+
+[[files]]
+file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
+hash = "6ab46e579fad8383218cda04a1042e21625ce82d7e22fb7fdb7ce7226b8f575b"
+
+[[files]]
 file = "config/gravestones.json"
 hash = "cf70bdd32099976d82d074e9b16418b3c00c37a7dce0320a9fd0340cf360ec61"
 
 [[files]]
 file = "config/moderate-loading-screen.json5"
-hash = "83620996e1c96580ffdf2082b356c95a726def0bdab06efb5880dca3c8e8768d"
+hash = "a093bcdc46cf349a407235b8afb4ff34566534a0b29591922a75dc528036ee79"
 
 [[files]]
 file = "config/rightclickharvest.json"
 hash = "0f813c3f339bfb9b8f75d500ebc2e60c29c9e65daeca304676aea399c8ef0ce6"
 
 [[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "8c4f04c82ca2f3084d6b5ed6129cd41fc5051c2de5001a70cf3db33551159c00"
+preserve = true
+
+[[files]]
 file = "config/shulkerboxtooltip.json5"
-hash = "0439df489f743409151b6f7a7b5fd527760410e15f24d54062916d2a90c47ddb"
+hash = "93b048b75fda918a782ac6dcd69edf47eb12a735bb71177654a5a215e8bf4a2d"
 preserve = true
 
 [[files]]

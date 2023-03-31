@@ -1,17 +1,23 @@
 {
-	"backgroundColor": 1184274,
-	"logoOpacity": 1.0,
-	"barOpacity": 1.0,
-	"showTater": true,
-	"modsOnlyOnce": true,
-	"hideLibraries": false,
-	"modIdBlacklist": [
-		"fabric-*",
-		"fabric"
-	],
-	"iconSize": 48,
-	"screenType": "SNOWFLAKES",
-	"stackingConfig": {
-		"cycleSeconds": 20
-	}
+  "backgroundColor": 1184274,
+  "logoOpacity": 1.0,
+  "barOpacity": 1.0,
+  "showTater": true,
+  "modsOnlyOnce": true,
+  "hideLibraries": false,
+  "modIdBlacklist": [
+    "fabric-*",
+    "fabric",
+    "kotlin-*",
+    "kotlinx-*",
+    "nmc-*",
+    "settxi-*",
+    "porting_lib",
+    "porting_lib_*",
+  ],
+  "iconSize": 48,
+  "screenType": "SNOWFLAKES",
+  "stackingConfig": {
+    "cycleSeconds": 20
+  }
 }

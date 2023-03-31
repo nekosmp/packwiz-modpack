@@ -1,0 +1,136 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_433
+  randomgroup = 1
+  renderorder = background
+  randommode = false
+  custom_menu_title = 
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_return_to_game_button%
+  orientation = mid-centered
+  x = -102
+  action = movebutton
+  y = -49
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_feedback_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_options_button%
+  orientation = mid-centered
+  x = -102
+  action = movebutton
+  y = 23
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_options_button%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_report_bugs_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=504342%
+  orientation = mid-centered
+  x = 2
+  action = movebutton
+  y = 23
+}
+
+customization {
+  identifier = %id=504342%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=374294%
+  orientation = mid-centered
+  x = -102
+  action = movebutton
+  y = -1
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_advancements_button%
+  orientation = mid-centered
+  x = -102
+  action = movebutton
+  y = -25
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_advancements_button%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=398318%
+  orientation = mid-centered
+  x = -78
+  action = movebutton
+  y = -1
+}
+
+customization {
+  identifier = %id=398318%
+  width = 180
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_disconnect_button%
+  orientation = mid-centered
+  x = -102
+  action = movebutton
+  y = 47
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_stats_button%
+  orientation = mid-centered
+  x = 2
+  action = movebutton
+  y = -25
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_stats_button%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  path = config/fancymenu/assets/title.png
+  orientation = top-centered
+  x = -151
+  width = 302
+  action = addtexture
+  actionid = e07d2dd8-dafa-4c46-a174-ea5e59d904b31680236853510
+  y = 27
+  height = 48
+}
+

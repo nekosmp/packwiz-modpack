@@ -1,0 +1,26 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_481
+  randomgroup = 1
+  renderorder = background
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  path = config/fancymenu/assets/trolley.png
+  orientation = mid-centered
+  x = 21
+  width = 16
+  action = addtexture
+  actionid = b4ab896d-5083-4e6a-b452-1691701563ee1680236147091
+  y = -95
+  height = 16
+}
+
