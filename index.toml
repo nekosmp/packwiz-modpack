@@ -57,6 +57,15 @@ file = "config/moderate-loading-screen.json5"
 hash = "a093bcdc46cf349a407235b8afb4ff34566534a0b29591922a75dc528036ee79"
 
 [[files]]
+file = "config/plasmovoice/client.toml"
+hash = "a9e05b67776f88ae2aca5ebab4cdae64e1ef48d91a3d29c9b53d57af8b148c37"
+preserve = true
+
+[[files]]
+file = "config/plasmovoice/server/config.toml"
+hash = "8b838a406ec72ae6cc7ff0804bef1eb0fb75238cd9d42e8ca59aaec55a20b309"
+
+[[files]]
 file = "config/rightclickharvest.json"
 hash = "0f813c3f339bfb9b8f75d500ebc2e60c29c9e65daeca304676aea399c8ef0ce6"
 
@@ -517,7 +526,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "6d1ffba704b6402f8c526ec146bbfd13a0dfc750d4a48a05645daa6ed2f1d4ff"
+hash = "6a7d3825a96a81fe6d4adfc704f31c055ee3f4255ab7dace5d77ccc1c76d9613"
 preserve = true
 
 [[files]]
