@@ -275,6 +275,11 @@ hash = "b8d91a91ac8820ed7c99c12636c7de0a3e93ef825c1925d4a9287b443cd65f92"
 metafile = true
 
 [[files]]
+file = "mods/fastback.pw.toml"
+hash = "b257615c6f78313e3ed9d344a1ef0d3a846f68fdd662d171d6117e6d8607112c"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
 metafile = true
