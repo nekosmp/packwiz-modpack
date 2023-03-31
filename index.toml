@@ -139,6 +139,11 @@ hash = "e8cd685b609577ab23e2a55ec3273a1ff9475daef52f0999b2c5d27f7c795f5c"
 metafile = true
 
 [[files]]
+file = "mods/betterleads.pw.toml"
+hash = "0a8bb1e39da1a8e16c83d0144f75a85ec942c74ddc73f92838e3bf55c06a0093"
+metafile = true
+
+[[files]]
 file = "mods/biomesyougo.pw.toml"
 hash = "f9daa7f4a22030249d4ba643df59c7fc4e49b2cdaf6fc4adb9df70a8827d3f6e"
 metafile = true
@@ -196,6 +201,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
+metafile = true
+
+[[files]]
+file = "mods/consistencyplus.pw.toml"
+hash = "0a82c23063612bf1baf43934323d8fca8dd23ddc2dc0a3db968f72d14b99e887"
 metafile = true
 
 [[files]]
@@ -286,6 +296,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
+metafile = true
+
+[[files]]
+file = "mods/forcecloseworldloadingscreen.pw.toml"
+hash = "0c7c2c37874d5341092e6c63f95f4f95d7fa804e1c28ea9e83c1ed5115dcf12f"
 metafile = true
 
 [[files]]
@@ -404,8 +419,13 @@ hash = "229fa2db8ad12c21a8a6a8165cb7bace7ea67950c07333fa2d9869a00285bc77"
 metafile = true
 
 [[files]]
+file = "mods/nmc-menu-background.pw.toml"
+hash = "b2b7c72ecc2d7db126ea60679794f6d65b7d26898b00898b3741555bd6a000b9"
+metafile = true
+
+[[files]]
 file = "mods/nmc-menu-music.pw.toml"
-hash = "ea7b3fc86d9930f124ffa4d34f1351ad9e9e7c6b6b317ee7fef6c75f3f2cc566"
+hash = "bec0cf256c8c83a209c6e47b91a123b2242d355cf4b2be504fa29d7805bc67b3"
 metafile = true
 
 [[files]]
@@ -421,6 +441,11 @@ metafile = true
 [[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
+metafile = true
+
+[[files]]
+file = "mods/nyfs-spiders.pw.toml"
+hash = "d02faadb0665db5f148eb7a5bcb817221a139b42d1437231e1def2f06a452bce"
 metafile = true
 
 [[files]]
