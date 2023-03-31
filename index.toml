@@ -314,11 +314,6 @@ hash = "b257615c6f78313e3ed9d344a1ef0d3a846f68fdd662d171d6117e6d8607112c"
 metafile = true
 
 [[files]]
-file = "mods/fastentitytransfer.pw.toml"
-hash = "6611d49996fcc7a7348f32fec98ea5abbae4d0ba1bdb1c068b255ccf05385cad"
-metafile = true
-
-[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
 metafile = true
