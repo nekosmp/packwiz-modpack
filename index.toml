@@ -26,7 +26,7 @@ hash = "803bec473e163927357a3d2f2ba11705ba4770ad70998300c7b72929d962a301"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "8c8b873b973562bbbb77b86b5c3c71f48b9e32b72fbba4ae755a744ee8ca74d9"
+hash = "c1a39f8710b0ef653215551cf3a14cd6af079bb03c8d87993586178ff8333262"
 
 [[files]]
 file = "config/fancymenu/customization/creative_menu.txt"
@@ -34,7 +34,7 @@ hash = "65bf1c463e0e5916ccb98083355bd1b259584e36f7c6a6974dba0a87d93a6128"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
-hash = "55f66008fb343ef1d174864fdbdc158d5cec922ee0bfa75115d6e1bc6ee22873"
+hash = "f0dd9d4e814b9522322cbc092f24cb492c01739a15c50fff5f6cde240c5c1210"
 
 [[files]]
 file = "config/fancymenu/customization/pause_menu.txt"

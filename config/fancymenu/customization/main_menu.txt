@@ -204,7 +204,7 @@ customization {
   actionid = de1920ee-f263-4b9d-9a71-81731677332e1680239316180
   action = addbutton
   y = -33
-  label = Join Server {"placeholder":"serverplayercount","values":{"ip":"mc.neko.rs:25565"}} online
+  label = Join Server
   value = mc.neko.rs
   height = 20
 }
