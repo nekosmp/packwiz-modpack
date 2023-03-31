@@ -60,11 +60,6 @@ customization {
 }
 
 customization {
-  identifier = %id=4948%
-  action = hidebutton
-}
-
-customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
   orientation = mid-centered
   x = -100

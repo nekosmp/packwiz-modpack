@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/byg/client/biomepedia_inventory.json5"
+hash = "a5e9cbd9ce3331dfad0c79129d7a38fbc724806549da3087b866f784966f4c33"
+
+[[files]]
 file = "config/craftpresence.json"
 hash = "591840089662b7eb00fbc260504739727c6ca12a0fc4d0b693304a6a5b933025"
 
@@ -34,7 +38,7 @@ hash = "65bf1c463e0e5916ccb98083355bd1b259584e36f7c6a6974dba0a87d93a6128"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
-hash = "f0dd9d4e814b9522322cbc092f24cb492c01739a15c50fff5f6cde240c5c1210"
+hash = "771dd2060acb7180e7c7ca492f7f52329f8cceb5b5d5201cfcfd89d6e4259c54"
 
 [[files]]
 file = "config/fancymenu/customization/pause_menu.txt"
@@ -212,11 +216,6 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "729347957739e9f4778fe6204264fdddb32081bd835808cd640e5b98499898af"
-metafile = true
-
-[[files]]
-file = "mods/dark-mode-everywhere-fabric.pw.toml"
-hash = "bdf215245142cde4a149d0e6fd3005fdb749c1ad85c7c05aed1cf4ff878058cd"
 metafile = true
 
 [[files]]
