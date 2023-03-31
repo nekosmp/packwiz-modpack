@@ -1,0 +1,13 @@
+name = "Trading Post"
+filename = "TradingPost-v4.2.0-1.19.2-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8pcjMDgj/versions/vxQCqkT0/TradingPost-v4.2.0-1.19.2-Fabric.jar"
+hash-format = "sha1"
+hash = "a53fee75239a678684f716620b1784fcb6aa9a56"
+
+[update]
+[update.modrinth]
+mod-id = "8pcjMDgj"
+version = "vxQCqkT0"
