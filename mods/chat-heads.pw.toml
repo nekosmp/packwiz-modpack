@@ -1,0 +1,18 @@
+name = "Chat Heads"
+filename = "chat_heads-0.10.9-fabric-1.19.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/iFYnpixb/chat_heads-0.10.9-fabric-1.19.2.jar"
+hash-format = "sha1"
+hash = "cc67b94ff4c6c4d139d894a29b1a43c07da93605"
+
+[update]
+[update.modrinth]
+mod-id = "Wb5oqrBJ"
+version = "iFYnpixb"
+
+[option]
+optional = false
+description = "Performance impact: Minimal\n\nDescription: This clientside mod adds player heads next to chat messages. It makes telling various people in chat apart a bit easier, and it looks hella nice."
+default = true

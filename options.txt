@@ -1,0 +1,9 @@
+version:3120
+autoJump:false
+renderDistance:10
+simulationDistance:10
+lastServer:mc.neko.rs
+tutorialStep:none
+skipMultiplayerWarning:true
+joinedFirstServer:true
+soundCategory_music:0.2

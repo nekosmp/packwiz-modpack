@@ -1,0 +1,18 @@
+name = "Screenshot to Clipboard"
+filename = "screenshot-to-clipboard-1.0.9-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1KiJRrTg/versions/1.0.9%2Bfabric/screenshot-to-clipboard-1.0.9-fabric.jar"
+hash-format = "sha1"
+hash = "39c55d7e0ebe4a7f626e0d4bc85b8d2bea353092"
+
+[option]
+optional = false
+default = true
+description = "Performance impact: None\n\nDescription: Any time you take a screenshot in the game, the image data is copied to the clipboard. You can then paste this anywhere (e.g. Discord, Imgur, Reddit) to upload the image and share it with others."
+
+[update]
+[update.modrinth]
+mod-id = "1KiJRrTg"
+version = "rObP72r1"

@@ -1,0 +1,18 @@
+name = "Distant Horizons"
+filename = "DistantHorizons-1.6.9a-1.19.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.9a-1.19.2/DistantHorizons-1.6.9a-1.19.2.jar"
+hash-format = "sha1"
+hash = "a77fb15f91a7b2838c9d402e9e01ed46a3f0cd02"
+
+[option]
+optional = true
+default = false
+description = "Performance impact: Major\n\nDescription: What does Distant Horizons do?\nSimply put, it add simplified terrain past Minecraft's default view distance to improve performance and allow for longer draw distances.\nNow you can finally enjoy that lookout tower you built on top of a mountain!"
+
+[update]
+[update.modrinth]
+mod-id = "uCdwusMi"
+version = "yEUygWBv"

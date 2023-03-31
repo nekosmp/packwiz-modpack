@@ -1,0 +1,13 @@
+name = "Dark Mode Everywhere - Fabric"
+filename = "DarkModeEverywhere-1.19.2-1.0.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bJF8eNMy/versions/YTJjyICD/DarkModeEverywhere-1.19.2-1.0.4.jar"
+hash-format = "sha1"
+hash = "f65ec564ace6ddd41430962979ded716817fae41"
+
+[update]
+[update.modrinth]
+mod-id = "bJF8eNMy"
+version = "YTJjyICD"

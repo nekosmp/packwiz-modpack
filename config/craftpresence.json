@@ -1,0 +1,324 @@
+{
+  "_README": "https://gitlab.com/CDAGaming/CraftPresence/-/wikis/home",
+  "_schemaVersion": 3,
+  "_lastMCVersionId": 760,
+  "generalSettings": {
+    "detectCurseManifest": false,
+    "detectMultiMCManifest": false,
+    "detectMCUpdaterInstance": false,
+    "detectTechnicPack": false,
+    "detectBiomeData": true,
+    "detectDimensionData": true,
+    "detectWorldData": true,
+    "clientId": "1090082794941730886",
+    "defaultIcon": "nekomc",
+    "enableJoinRequests": false,
+    "partyPrivacyLevel": 1,
+    "preferredClientLevel": 3,
+    "resetTimeOnInit": false,
+    "autoRegister": false
+  },
+  "biomeSettings": {
+    "fallbackBiomeIcon": "nekomc",
+    "biomeData": {
+      "default": {
+        "textOverride": "Exploring a {biome.name} biome",
+        "data": {
+          "enabled": true,
+          "useAsMain": false,
+          "details": "",
+          "gameState": "",
+          "largeImageKey": "",
+          "largeImageText": "",
+          "smallImageKey": "",
+          "smallImageText": "",
+          "startTimestamp": "",
+          "endTimestamp": "",
+          "buttons": {
+            "default": {
+              "label": "Example Text",
+              "url": "https://google.com"
+            }
+          }
+        }
+      }
+    }
+  },
+  "dimensionSettings": {
+    "fallbackDimensionIcon": "nekomc",
+    "dimensionData": {
+      "default": {
+        "textOverride": "In the {dimension.name}",
+        "data": {
+          "enabled": true,
+          "useAsMain": false,
+          "details": "",
+          "gameState": "",
+          "largeImageKey": "",
+          "largeImageText": "",
+          "smallImageKey": "",
+          "smallImageText": "",
+          "startTimestamp": "",
+          "endTimestamp": "",
+          "buttons": {
+            "default": {
+              "label": "Example Text",
+              "url": "https://google.com"
+            }
+          }
+        }
+      }
+    }
+  },
+  "serverSettings": {
+    "fallbackServerIcon": "nekomc",
+    "fallbackServerName": "Minecraft Server",
+    "fallbackServerMotd": "A Minecraft Server",
+    "serverData": {
+      "default": {
+        "textOverride": "{server.players.current} players online",
+        "data": {
+          "enabled": true,
+          "useAsMain": false,
+          "details": "",
+          "gameState": "",
+          "largeImageKey": "",
+          "largeImageText": "",
+          "smallImageKey": "",
+          "smallImageText": "",
+          "startTimestamp": "",
+          "endTimestamp": "",
+          "buttons": {
+            "default": {
+              "label": "Example Text",
+              "url": "https://google.com"
+            }
+          }
+        }
+      }
+    }
+  },
+  "statusMessages": {
+    "mainMenuData": {
+      "textOverride": "In the Main Menu",
+      "data": {
+        "enabled": true,
+        "useAsMain": false,
+        "details": "",
+        "gameState": "",
+        "largeImageKey": "",
+        "largeImageText": "",
+        "smallImageKey": "",
+        "smallImageText": "",
+        "startTimestamp": "",
+        "endTimestamp": "",
+        "buttons": {
+          "default": {
+            "label": "Example Text",
+            "url": "https://google.com"
+          }
+        }
+      }
+    },
+    "loadingData": {
+      "textOverride": "Loading...",
+      "data": {
+        "enabled": true,
+        "useAsMain": false,
+        "details": "",
+        "gameState": "",
+        "largeImageKey": "",
+        "largeImageText": "",
+        "smallImageKey": "",
+        "smallImageText": "",
+        "startTimestamp": "",
+        "endTimestamp": "",
+        "buttons": {
+          "default": {
+            "label": "Example Text",
+            "url": "https://google.com"
+          }
+        }
+      }
+    },
+    "lanData": {
+      "textOverride": "Testing stuff on a LAN Server",
+      "data": {
+        "enabled": true,
+        "useAsMain": false,
+        "details": "",
+        "gameState": "",
+        "largeImageKey": "",
+        "largeImageText": "",
+        "smallImageKey": "",
+        "smallImageText": "",
+        "startTimestamp": "",
+        "endTimestamp": "",
+        "buttons": {
+          "default": {
+            "label": "Example Text",
+            "url": "https://google.com"
+          }
+        }
+      }
+    },
+    "singleplayerData": {
+      "textOverride": "Testing stuff in Singleplayer",
+      "data": {
+        "enabled": true,
+        "useAsMain": false,
+        "details": "",
+        "gameState": "",
+        "largeImageKey": "",
+        "largeImageText": "",
+        "smallImageKey": "",
+        "smallImageText": "",
+        "startTimestamp": "",
+        "endTimestamp": "",
+        "buttons": {
+          "default": {
+            "label": "Example Text",
+            "url": "https://google.com"
+          }
+        }
+      }
+    }
+  },
+  "advancedSettings": {
+    "enableCommands": true,
+    "enablePerGui": false,
+    "enablePerItem": false,
+    "enablePerEntity": false,
+    "renderTooltips": true,
+    "formatWords": true,
+    "debugMode": false,
+    "verboseMode": false,
+    "refreshRate": 2,
+    "roundSize": 3,
+    "includeExtraGuiClasses": false,
+    "allowPlaceholderPreviews": false,
+    "guiSettings": {
+      "fallbackGuiIcon": "nekomc",
+      "guiData": {
+        "default": {
+          "textOverride": "In {screen.name}",
+          "data": {
+            "enabled": true,
+            "useAsMain": false,
+            "details": "",
+            "gameState": "",
+            "largeImageKey": "",
+            "largeImageText": "",
+            "smallImageKey": "",
+            "smallImageText": "",
+            "startTimestamp": "",
+            "endTimestamp": "",
+            "buttons": {
+              "default": {
+                "label": "Example Text",
+                "url": "https://google.com"
+              }
+            }
+          }
+        }
+      }
+    },
+    "itemMessages": {
+      "default": "Holding {item.message.holding}"
+    },
+    "entitySettings": {
+      "fallbackEntityIcon": "nekomc",
+      "targetData": {
+        "default": {
+          "textOverride": "Targeting {entity.target.name}",
+          "data": {
+            "enabled": true,
+            "useAsMain": false,
+            "details": "",
+            "gameState": "",
+            "largeImageKey": "",
+            "largeImageText": "",
+            "smallImageKey": "",
+            "smallImageText": "",
+            "startTimestamp": "",
+            "endTimestamp": "",
+            "buttons": {
+              "default": {
+                "label": "Example Text",
+                "url": "https://google.com"
+              }
+            }
+          }
+        }
+      },
+      "ridingData": {
+        "default": {
+          "textOverride": "Riding {entity.riding.name}",
+          "data": {
+            "enabled": true,
+            "useAsMain": false,
+            "details": "",
+            "gameState": "",
+            "largeImageKey": "",
+            "largeImageText": "",
+            "smallImageKey": "",
+            "smallImageText": "",
+            "startTimestamp": "",
+            "endTimestamp": "",
+            "buttons": {
+              "default": {
+                "label": "Example Text",
+                "url": "https://google.com"
+              }
+            }
+          }
+        }
+      }
+    },
+    "allowEndpointIcons": true,
+    "serverIconEndpoint": "https://api.mcsrvstat.us/icon/{server.address.short}",
+    "playerSkinEndpoint": "https://minotar.net/helm/{getOrDefault(player.uuid.short, player.name)}/128.png"
+  },
+  "accessibilitySettings": {
+    "tooltipBackgroundColor": "0xF0100010",
+    "tooltipBorderColor": "0x505000FF",
+    "guiBackgroundColor": "minecraft:textures/gui/options_background.png",
+    "buttonBackgroundColor": "minecraft:textures/gui/widgets.png",
+    "languageId": "en_us",
+    "showBackgroundAsDark": true,
+    "stripTranslationColors": false,
+    "showLoggingInChat": false,
+    "stripExtraGuiElements": false,
+    "configKeyCode": 96
+  },
+  "displaySettings": {
+    "presenceData": {
+      "enabled": true,
+      "useAsMain": false,
+      "details": "{getFirst(menu.message, biome.message)}",
+      "gameState": "{getOrDefault(server.message)}",
+      "largeImageKey": "{getFirst(menu.icon, dimension.icon)}",
+      "largeImageText": "{getFirst(menu.message, dimension.message)}",
+      "smallImageKey": "{getOrDefault(player.name)}",
+      "smallImageText": "{getOrDefault(player.name)}",
+      "startTimestamp": "{data.general.time}",
+      "endTimestamp": "",
+      "buttons": {
+        "discord": {
+          "label": "Join game",
+          "url": "https://discord.gg/VFRHNGrydD"
+        },
+        "bluemap": {
+          "label": "Spectate",
+          "url": "https://mc.neko.rs"
+        }
+      }
+    },
+    "dynamicIcons": {
+      "default": "https://via.placeholder.com/256.png"
+    },
+    "dynamicVariables": {
+      "default": "Example Text"
+    }
+  }
+}

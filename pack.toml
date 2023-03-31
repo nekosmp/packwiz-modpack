@@ -1,0 +1,13 @@
+name = "neko.mc"
+author = "Atakku"
+version = "0.3.6"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "22591669fcde1341a697ec7172015233b8774cdc653b7fc585694083a088fee5"
+
+[versions]
+fabric = "0.14.18"
+minecraft = "1.19.2"
