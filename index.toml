@@ -337,17 +337,17 @@ metafile = true
 
 [[files]]
 file = "mods/nmc-discord-bridge.pw.toml"
-hash = "9d301a2bae91b8b8d0bd6bfe33e373bd00955b9c6de2b74c70f877dbffe68664"
+hash = "229fa2db8ad12c21a8a6a8165cb7bace7ea67950c07333fa2d9869a00285bc77"
 metafile = true
 
 [[files]]
 file = "mods/nmc-menu-music.pw.toml"
-hash = "7581d07601bd945618f830cd1b61a52936281454ffd26ace9b030abb6a825a95"
+hash = "ea7b3fc86d9930f124ffa4d34f1351ad9e9e7c6b6b317ee7fef6c75f3f2cc566"
 metafile = true
 
 [[files]]
 file = "mods/nmc-no-border-gen.pw.toml"
-hash = "4cf5d9ea7dcdb3e09d0628957a68899c9c6a00f054efdc4108b49a2cad7463ae"
+hash = "24030f13101474ec0d8ac99f6a9007182f0aefac7f9e790a460aa101ab8ad988"
 metafile = true
 
 [[files]]

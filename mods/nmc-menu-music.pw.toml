@@ -3,6 +3,6 @@ filename = "nmc-menu-music-0.0.1.jar"
 side = "client"
 
 [download]
-url = "https://raw.githubusercontent.com/Atakku/neko.mc-mods/nmc-menu-music-0.0.1.jar"
+url = "https://raw.githubusercontent.com/Atakku/neko.mc-mods/main/nmc-menu-music-0.0.1.jar"
 hash-format = "sha1"
 hash = "3533047375d0275097aa3f389a98ea68d3ce8bc0"
