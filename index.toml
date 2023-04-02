@@ -285,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "3ecd59b2ab957aadc6759fdb82b82d63c03dfef49c1199f271078659e94cdbf1"
+hash = "62360beac5e427be02b732421c9e4fe53819bc6f5e2cc821fd6f2d9278c5485b"
 metafile = true
 
 [[files]]
@@ -485,7 +485,7 @@ metafile = true
 
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
-hash = "a2d98e011c93cdca11345a8c6a4a3cf099f8b096b5c2f75c78c1adbb95e242b3"
+hash = "805f5d4c6653406bf5ca7a5fc676f342c5e7b48646691628cbbe313ac69c4df6"
 metafile = true
 
 [[files]]
