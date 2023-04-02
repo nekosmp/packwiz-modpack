@@ -53,10 +53,6 @@ file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
 hash = "6ab46e579fad8383218cda04a1042e21625ce82d7e22fb7fdb7ce7226b8f575b"
 
 [[files]]
-file = "config/gravestones.json"
-hash = "cf70bdd32099976d82d074e9b16418b3c00c37a7dce0320a9fd0340cf360ec61"
-
-[[files]]
 file = "config/moderate-loading-screen.json5"
 hash = "a093bcdc46cf349a407235b8afb4ff34566534a0b29591922a75dc528036ee79"
 
@@ -200,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "c3c73a4ae07f1ab6de623b37007df3581286fe3495377af6d3da4b105892adb2"
+hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
 
 [[files]]
@@ -229,6 +225,11 @@ hash = "b1aa83bed8ef891dff38190701b48f6dd70085c26159f9316334bbe85b935ead"
 metafile = true
 
 [[files]]
+file = "mods/create-track-map.pw.toml"
+hash = "7b868702c1115d9fdb13f65891becb33089740ef4efd5761b4051741b7fd5c65"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "729347957739e9f4778fe6204264fdddb32081bd835808cd640e5b98499898af"
 metafile = true
@@ -241,6 +242,11 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "d1581cf1e2fb4d3feb2b608d1eb7567f7d95d4a5e79eaa6e2ee87d1304cf0d88"
+metafile = true
+
+[[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "8d8ba1d500070cac1b9961d78e2fd90d973cee01d373175d64e3250aa1d3b2c7"
 metafile = true
 
 [[files]]
@@ -259,8 +265,18 @@ hash = "81a389a5035dc0852ce12c796f1d667bb4715b1d6ffde16433bf80f02e3796bc"
 metafile = true
 
 [[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "acbe2b86cf452fd742fe76d32b6473f1da2f3e8f2d36d43a6f96fc32b369327e"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "0e05dae2adc425099c80c7b3a027ee63b34b5a9cc82c7085cf0b6543073a2353"
+metafile = true
+
+[[files]]
+file = "mods/emicompat.pw.toml"
+hash = "7f2bac9db41f54dfc2f505602ea94e9fcd01454282f3d7f0075fb61ad2543e76"
 metafile = true
 
 [[files]]
@@ -275,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8d1e45cdea6bb16c53496bc3b4d3504c933075c73084d294f8a57387f71e6d8b"
+hash = "7873ca5fa00f1d5bcc11ba839aed4866e660017f8caee9337c7dffc8682d5653"
 metafile = true
 
 [[files]]
@@ -321,11 +337,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "c7864e8e3af437b95455a51a7dbb04bcc0f006eb70fcea661d25f8633295ff97"
-metafile = true
-
-[[files]]
-file = "mods/gravestones.pw.toml"
-hash = "58ec51afc2354d65aeb2f9e068d8467fb2d3c13a3e751325385a59d5d493930f"
 metafile = true
 
 [[files]]
@@ -601,6 +612,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "80bab11e8d1438ec93695050f087dc2f9d0ae1d2523a17b8236af7029f14119e"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "d50f1f988b35d7b788d945fece5e8605daac9c9b819a23f2ed3f87e9142f4a24"
 metafile = true
 
 [[files]]
