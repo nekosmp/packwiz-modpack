@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/2Uev7LdA/versions/1.3.0%2B1.19/lambdabetter
 hash-format = "sha1"
 hash = "95847e7ac49fbccb679f7e8ede37835a0cd65bf2"
 
+[option]
+optional = true
+default = true
+description = "Performance impact: Minimal\n\nDescription: An actual better grass and snow mod for Quilt."
+
 [update]
 [update.modrinth]
 mod-id = "2Uev7LdA"

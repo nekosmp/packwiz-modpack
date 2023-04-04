@@ -8,7 +8,7 @@ hash-format = "sha1"
 hash = "a2f8ab8fc203a6b4a2d2a756ab5e74ac621ebfdd"
 
 [option]
-optional = false
+optional = true
 default = true
 description = "Performance impact: Minor\n\nDescription: It's dark outside, extremely dark... You can't see a lot in the darkness, you wish you had a torch, or a lantern to hold and see in the light...\nAnd this is now possible with this mod as it adds dynamic lights to the game. You can see in the darkness thanks to your torch now!\nThis mod adds dynamic lights to Minecraft. Dynamic lights are lights created by an entity holding an item which makes light as a block, or created by an entity on fire, etc."
 

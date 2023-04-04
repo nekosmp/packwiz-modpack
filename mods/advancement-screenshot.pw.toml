@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/lU8KbfG2/versions/WNWV3Vcl/advancementscree
 hash-format = "sha1"
 hash = "b788f667ae08340db210af546e7f998d71e855fe"
 
+[option]
+optional = true
+default = true
+description = "Performance impact: None\n\nDescription: Advancement Screenshot is a client-side mod which can automatically document the journey through a world without having to remember to take screenshots manually. Every time an advancement is achieved, a screenshot will be taken. The same code as the screenshot key (F2) is used, so the screenshots are located in the default folder. Works in multiplayer environments with the mod only on the client."
+
 [update]
 [update.modrinth]
 mod-id = "lU8KbfG2"

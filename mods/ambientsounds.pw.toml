@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/fM515JnW/versions/HzAe7PdZ/AmbientSounds_FA
 hash-format = "sha1"
 hash = "5977b2703f12121f92f00c6c4458fcff5f558e0c"
 
+[option]
+optional = true
+default = true
+description = "Performance impact: Minimal\n\nDescription: Adds a rich ambience to the minecraft world. It supports custom engines and works well with mods world gen mods."
+
 [update]
 [update.modrinth]
 mod-id = "fM515JnW"

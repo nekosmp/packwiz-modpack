@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/2.2.0/dynamic-fps-2.2.0.j
 hash-format = "sha1"
 hash = "8d264374dc08df87777fb51b94c781476c315bb5"
 
+[option]
+optional = true
+default = true
+description = "Performance impact: Improvement\n\nDescription: Dynamic FPS automatically reduces the speed at which Minecraft renders when it's not focused (to 1 FPS) or hidden (no renders at all)."
+
 [update]
 [update.modrinth]
 mod-id = "LQ3K71Q1"

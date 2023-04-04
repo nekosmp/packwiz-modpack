@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/n6PXGAoM/versions/oCC1YLFI/betterstats-2.4%
 hash-format = "sha1"
 hash = "2dfbb41983fccdc22813fd39ae6e7b54c5c3f324"
 
+[option]
+optional = true
+default = true
+description = "Performance impact: None\n\nDescription: BetterF3 is a mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD. You can customize colors, position, add spacings, and more."
+
 [update]
 [update.modrinth]
 mod-id = "n6PXGAoM"

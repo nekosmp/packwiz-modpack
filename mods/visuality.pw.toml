@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/rI0hvYcd/versions/TrPcZLjs/visuality-0.5.6.
 hash-format = "sha1"
 hash = "86eafa73e5de6f6aec6401312f3b242a6e48b94b"
 
+[option]
+optional = true
+default = true
+description = "Performance impact: None\n\nDescription: Visuality is a Minecraft mod for fabric loader. This is a simple client-sided cosmetic mod that will add a bunch of new particles such as crystal sparkles, particles on mob hitting, custom blob particles for slimes, environmental particles to your Minecraft world. Expect particles collection expanding with the mod updates!"
+
 [update]
 [update.modrinth]
 mod-id = "rI0hvYcd"

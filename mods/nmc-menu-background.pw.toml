@@ -2,6 +2,11 @@ name = "NMC Menu Background"
 filename = "nmc-menu-background-0.0.1.jar"
 side = "client"
 
+[option]
+optional = true
+default = true
+description = "Performance impact: None\n\nDescription: Changes dirt backround in menu's to gray concrete"
+
 [download]
 url = "https://raw.githubusercontent.com/Atakku/neko.mc-mods/main/nmc-menu-background-0.0.1.jar"
 hash-format = "sha1"

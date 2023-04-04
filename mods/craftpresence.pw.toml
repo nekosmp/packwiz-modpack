@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/DFqQfIBR/versions/HtS5TcBp/CraftPresence-2.
 hash-format = "sha1"
 hash = "dede70bb7d61ebe7a63ba8e4864616f28d170320"
 
+[option]
+optional = true
+default = true
+description = "Performance impact: None\n\nDescription: Completely customize the way others see you play Minecraft via Discord's Rich Presence API & the DiscordIPC API by jagrosh!"
+
 [update]
 [update.modrinth]
 mod-id = "DFqQfIBR"

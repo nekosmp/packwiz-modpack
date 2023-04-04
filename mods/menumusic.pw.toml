@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/To1L7Q0X/versions/pGryqMhD/menumusic-1.19.2
 hash-format = "sha1"
 hash = "485fd14157214624e00d57ab3c315cf5f024a2ec"
 
+[option]
+optional = true
+default = true
+description = "Performance impact: Minimal\n\nDescription: Change the title menu music without much fuzz!"
+
 [update]
 [update.modrinth]
 mod-id = "To1L7Q0X"

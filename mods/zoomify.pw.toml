@@ -8,7 +8,7 @@ hash-format = "sha1"
 hash = "0ac09c47fba094d22e52fe6e53f990be63f650d8"
 
 [option]
-optional = false
+optional = true
 default = true
 description = "Performance impact: Minimal\n\nDescription: Zoomify aims to provide the easiest, most configurable and most sexy looking zoom mod you will ever find."
 

@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/hg77g4Pw/versions/l9SfLZDA/no-telemetry-1.7
 hash-format = "sha1"
 hash = "6caa14083d087d0fc0b6af47d0e5d27196816150"
 
+[option]
+optional = true
+default = true
+description = "Performance impact: None\n\nDescription: Disable the telemetry introduced in 21w38a"
+
 [update]
 [update.modrinth]
 mod-id = "hg77g4Pw"

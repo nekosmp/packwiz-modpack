@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/WhbRG4iK/versions/aufE28Na/fallingleaves-1.
 hash-format = "sha1"
 hash = "7472f0cbd986fb5620640469316d9fae924119f9"
 
+[option]
+optional = true
+default = true
+description = "Performance impact: Minimal\n\nDescription: This Fabric mod for Minecraft 1.19+ adds a neat little particle effect to leaf blocks.\nUsers can configure which types of leaf blocks will drop leaves and the frequency that these leaves are dropped at."
+
 [update]
 [update.modrinth]
 mod-id = "WhbRG4iK"

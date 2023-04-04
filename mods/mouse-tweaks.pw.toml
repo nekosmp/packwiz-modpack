@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/aC3cM3Vq/versions/1.19-2.22-fabric/MouseTwe
 hash-format = "sha1"
 hash = "6004ccf55a3013c54fdbef3b28613c3326231d2c"
 
+[option]
+optional = true
+default = true
+description = "Performance impact: None\n\nDescription: Enhances inventory management by adding various functions to the mouse buttons. "
+
 [update]
 [update.modrinth]
 mod-id = "aC3cM3Vq"

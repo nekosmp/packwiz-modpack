@@ -8,7 +8,7 @@ hash-format = "sha1"
 hash = "2d5587e0ad79685bd3fdd369d6b0d6d3c7b56bcf"
 
 [option]
-optional = false
+optional = true
 default = true
 description = "Performance impact: Minimal\n\nDescription: Replaces the usually flat second layer of player skins with a 3d modeled version. Will automatically switch to the vanilla 2d rendering when players are further away than 12 blocks in order to increase the framerate. Also supports transparent parts on things like glasses!"
 

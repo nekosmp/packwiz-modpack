@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/rcTfTZr3/versions/3fEb2K4u/PresenceFootstep
 hash-format = "sha1"
 hash = "ca03578ac0ce30c50c9b644babe2db1c7125c669"
 
+[option]
+optional = true
+default = true
+description = "Performance impact: Minimal\n\nDescription: This is the continuation of Huricaaan (Ha3)'s original mod, maintained and updated to the latest version of Minecraft. All previous features have been restored and some new ones added, with new development promised for the future on the opensource github profile!"
+
 [update]
 [update.modrinth]
 mod-id = "rcTfTZr3"

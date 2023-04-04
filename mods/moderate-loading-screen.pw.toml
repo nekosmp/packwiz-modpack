@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/RCjGlCDj/versions/1.1.3%2B1.19/moderate-loa
 hash-format = "sha1"
 hash = "c525e886430cc265cda7e578ee186cc5c22a0e18"
 
+[option]
+optional = true
+default = true
+description = "Performance impact: Minimal\n\nDescription: Makes the icons of installed mods fall down the loading screen like snowflakes. Includes a few configuration options like showing every mod only once, hiding libraries, and changing the background color. I'd recommend installing the actual Mod Menu mod to access the configs."
+
 [update]
 [update.modrinth]
 mod-id = "RCjGlCDj"

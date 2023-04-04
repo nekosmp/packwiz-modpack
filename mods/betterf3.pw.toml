@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/8shC1gFX/versions/RbNy07Bx/BetterF3-4.0.0-F
 hash-format = "sha1"
 hash = "1bbc527d23b53e0aae4d5e1deddf92b1f394b94b"
 
+[option]
+optional = true
+default = true
+description = "Performance impact: Minimal\n\nDescription: This Minecraft mod replaces the Vanilla statistics screen with an new and improved statistics screen that is easier to use and that has more helpful features. The new statistics screen features an easier to navigate and read UI layout, as well as a few filters and a search field that will help you find the statictics you need a lot easier, especially when there are dozens, if not hundreds of entries to keep track of."
+
 [update]
 [update.modrinth]
 mod-id = "8shC1gFX"

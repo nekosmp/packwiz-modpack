@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/S5ivha5X/versions/MjxKpliA/IKnowWhatImDoing
 hash-format = "sha1"
 hash = "6b8b9d16217798367e8ba2917e5357fef2bd7c43"
 
+[option]
+optional = true
+default = true
+description = "Performance impact: None\n\nDescription: This Fabric mod for Minecraft 1.19+ adds a neat little particle effect to leaf blocks.\nUsers can configure which types of leaf blocks will drop leaves and the frequency that these leaves are dropped at."
+
 [update]
 [update.modrinth]
 mod-id = "S5ivha5X"

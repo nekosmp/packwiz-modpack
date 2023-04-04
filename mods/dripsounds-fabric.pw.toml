@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/T8MMXTpr/versions/1.19-0.3.0/DripSounds-1.1
 hash-format = "sha1"
 hash = "2376f47b06d2dfe6f854fa7dfc298f64f7a67fa5"
 
+[option]
+optional = true
+default = true
+description = "Performance impact: Minimal\n\nDescription: Minecraft Fabric mod that adds sounds for drip particles landing and other related changes"
+
 [update]
 [update.modrinth]
 mod-id = "T8MMXTpr"

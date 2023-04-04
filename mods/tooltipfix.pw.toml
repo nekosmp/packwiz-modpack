@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/2RKFTmiB/versions/xDXBXur9/tooltipfix-1.1.1
 hash-format = "sha1"
 hash = "a5693f4886c190cc7bd66afdff063ebe333b2d6c"
 
+[option]
+optional = true
+default = true
+description = "Performance impact: None\n\nDescription: Fixes Tooltips from runnning off the screen."
+
 [update]
 [update.modrinth]
 mod-id = "2RKFTmiB"

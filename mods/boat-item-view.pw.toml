@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/BdKIyOLe/versions/1.19.1-1.19.2-fabric/Boat
 hash-format = "sha1"
 hash = "8f0540293306a2b514b9d2229c88b27ad48ffe3d"
 
+[option]
+optional = true
+default = true
+description = "Performance impact: None\n\nDescription: The Boat Item View Mod is a client-side only Minecraft Mod that allows the player to see the item held in their hand while riding in a boat."
+
 [update]
 [update.modrinth]
 mod-id = "BdKIyOLe"
