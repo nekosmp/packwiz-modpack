@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/bluemap.pw.toml"
-hash = "d6bdc4c228cf5064f43686bd65ad4412381e02824b39c7a92c296bb5f97f65ea"
+hash = "9aad0aeed9cb635aa6e1c96880f3eefb15c319dd3d38e6731ac2fc41d50a4adc"
 metafile = true
 
 [[files]]
@@ -311,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "3125d9ceba3015829df05ce8e9c889555b75778dcbedff5fab95a4b94556ddec"
+hash = "812a77254dc9392bbdd73741853aa7d9ee343846a0c63f861f30c22f4ae77d4f"
 metafile = true
 
 [[files]]
@@ -491,7 +491,7 @@ metafile = true
 
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
-hash = "805f5d4c6653406bf5ca7a5fc676f342c5e7b48646691628cbbe313ac69c4df6"
+hash = "e0fdcbaa0aad1f259562bfa4e44d6ef0265561b98b33b6b115d29364dfce3b28"
 metafile = true
 
 [[files]]
