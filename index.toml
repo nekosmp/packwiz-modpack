@@ -90,6 +90,11 @@ hash = "140c93a384dbabdd5c27d65b0221f0afdf2549bf5e582d34387b05e8f63a58a6"
 metafile = true
 
 [[files]]
+file = "mods/amecs.pw.toml"
+hash = "65b0ccc80e7bb51344fc138cfe952a6c9cfea23db0282a8852799be0cca29b85"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "4d571d5ebe245ffb62a0df83e81d1c03670807d3528650d6dd9c983bd26ae860"
 metafile = true
