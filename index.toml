@@ -266,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "acbe2b86cf452fd742fe76d32b6473f1da2f3e8f2d36d43a6f96fc32b369327e"
+hash = "60c05e3f97b3093f9724eaa3ccad77401355263a3d414a12f92a15f82cc10d94"
 metafile = true
 
 [[files]]
@@ -546,7 +546,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "3b3f8dad7310746ff9a80092827faf48d284121c54399504be46c0da9d9ca508"
+hash = "0681e7ba5916ea73a1f3be9e54d3fd92a4d2a71a538b188e9b86cd4d126c1eef"
 metafile = true
 
 [[files]]
