@@ -285,6 +285,11 @@ hash = "7f2bac9db41f54dfc2f505602ea94e9fcd01454282f3d7f0075fb61ad2543e76"
 metafile = true
 
 [[files]]
+file = "mods/enchanted-vertical-slabs.pw.toml"
+hash = "152ab16312e581b0f016e62438c0b35bfb4444df350db374d81fac3197568f29"
+metafile = true
+
+[[files]]
 file = "mods/extended-drawers.pw.toml"
 hash = "a5c0c11ef2583adbaeaeba8486de5448197ef7fa1b8ab5fd7bb900ed27c21fc3"
 metafile = true
@@ -631,7 +636,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "6a7d3825a96a81fe6d4adfc704f31c055ee3f4255ab7dace5d77ccc1c76d9613"
+hash = "e7c3767f95a501addd3dde9bc80782e5db5470a9421b34224751fe12d12d6dd5"
 preserve = true
 
 [[files]]
