@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/1bZhdhsH/versions/QWnDpfVO/plasmovoice-fabr
 hash-format = "sha1"
 hash = "9f781ffba59af0888e3b80ebaf15a94dedbb7e6e"
 
+[option]
+optional = true
+default = true
+description = "Performance impact: Minimal\n\nDescription: A proximity voice chat mod with audio positioning and lots of features"
+
 [update]
 [update.modrinth]
 mod-id = "1bZhdhsH"

@@ -296,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/extrasounds.pw.toml"
-hash = "d5ec49d92d54863576c6d56ef911d7b7ff48c2315641222647b0329f7bd6c474"
+hash = "27cb61c306c472dd9976002cf377c117351523bdbecc492456cb34d2b70c6cf7"
 metafile = true
 
 [[files]]
@@ -501,7 +501,7 @@ metafile = true
 
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
-hash = "e0fdcbaa0aad1f259562bfa4e44d6ef0265561b98b33b6b115d29364dfce3b28"
+hash = "1058f697727203998b914f930a4e6c04c12935516b5e7da03a06986489107e68"
 metafile = true
 
 [[files]]
