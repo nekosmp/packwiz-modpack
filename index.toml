@@ -63,7 +63,7 @@ preserve = true
 
 [[files]]
 file = "config/plasmovoice/server/config.toml"
-hash = "71245f0d486b3ae34993ef444c41f498de64339333456b62246fdd143f5cee2e"
+hash = "42315b6f80d51bd698dc0e6c376046a88c27e73e6573f0cf45815f98b43477bc"
 
 [[files]]
 file = "config/rightclickharvest.json"
