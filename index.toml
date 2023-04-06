@@ -170,6 +170,11 @@ hash = "a59de5ab77480a853a891793add1892d8e0d0a261a811d97d8bdd3f025808bb3"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "5d898bbdb655828c59223382f85016f8328884b3ff176b697c51e8dedaec68c1"
+metafile = true
+
+[[files]]
 file = "mods/cc-restitched.pw.toml"
 hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
 metafile = true
@@ -485,6 +490,11 @@ hash = "a7d38d4f54ca26a5407d421712bd2a86ebea44612834cad949ac5d733fc72ed4"
 metafile = true
 
 [[files]]
+file = "mods/numismatic-overhaul.pw.toml"
+hash = "943ef78dd994c3ab19e78201dabd0a60f6308e763d2e8dcd23a022def7d3148a"
+metafile = true
+
+[[files]]
 file = "mods/nyfs-spiders.pw.toml"
 hash = "d02faadb0665db5f148eb7a5bcb817221a139b42d1437231e1def2f06a452bce"
 metafile = true
@@ -497,6 +507,11 @@ metafile = true
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "ce638706dae5cff9163262d4c5db8b1af749339b5e6921e1fd3a642ad9c7079b"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
 metafile = true
 
 [[files]]
