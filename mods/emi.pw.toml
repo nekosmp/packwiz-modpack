@@ -8,7 +8,7 @@ hash-format = "sha1"
 hash = "084fd2fb892e612049772b55d6aad1248602d260"
 
 [option]
-optional = false
+optional = true
 default = true
 description = "Performance impact: Minor\n\nDescription: EMI is a featureful and accessible item and recipe viewer. It brings many new features, and optimizes for the user experience. Outside of the standard Fabric/Quilt API, EMI requires zero dependencies, and can be launched with the game simply and easily."
 

@@ -286,17 +286,17 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "8dbac037a24adf1bcb4981ef8bb98fe5720478a3091083ee43f5dcb2b619beab"
+hash = "587fde796efa5cbf101dfd0134c3058d57eca1cf9354af6221900255a9bba0da"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "080a81d568ced097341c06ead2a2bac1c062887742476fd1c949dd90a4540041"
+hash = "5c404e6bf90dd54880fced5270b32bb772a71b0ae9fbfed5ad3133e9b6d9c262"
 metafile = true
 
 [[files]]
 file = "mods/emicompat.pw.toml"
-hash = "6d3b9774ac86901423a8011b6f301a725ad72b86896ce112863618c2aab80fdd"
+hash = "b37f9a42c52b2bb10cf977991fd7baec6642cc73791d48b74a9ffeafc0a5c571"
 metafile = true
 
 [[files]]

@@ -8,7 +8,7 @@ hash-format = "sha1"
 hash = "c30e2a25a5521bde65fb51b60271080dd609dce2"
 
 [option]
-optional = false
+optional = true
 default = true
 description = "Performance impact: Minor\n\nDescription: A loot drop (chest, block, entity) plugin for the EMI Recipe and Item viewer."
 
