@@ -385,11 +385,6 @@ hash = "9823c79588e43aa9164b0827004fb4ac12c764be56494286c03a77f919174357"
 metafile = true
 
 [[files]]
-file = "mods/isometric-renders.pw.toml"
-hash = "0a24b83cbfd521b20b6dca8dfb75fc5c5d07b26181b296189ebc27fe10247530"
-metafile = true
-
-[[files]]
 file = "mods/jamlib.pw.toml"
 hash = "6cb50f4dcb3f6ba70ecbae01c0691b25fb40610a859aa41bf6ce261ad70429d2"
 metafile = true
@@ -526,7 +521,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "dd8530ab7d63b539bd822b7d50126c637c568c0650fbe49e6e6dad308a339d21"
+hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
 metafile = true
 
 [[files]]
