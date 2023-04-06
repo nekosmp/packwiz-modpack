@@ -170,6 +170,11 @@ hash = "62be287b44f91f58805bf771fc55bf147fa07d53eb7e0b4511ab46c693e988dd"
 metafile = true
 
 [[files]]
+file = "mods/bttf_blahaj.pw.toml"
+hash = "bba77af18100c8adf8636b5ac06fb94f5b41a55598ac23ae61aa41e222d9fe0f"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "a59de5ab77480a853a891793add1892d8e0d0a261a811d97d8bdd3f025808bb3"
 metafile = true
