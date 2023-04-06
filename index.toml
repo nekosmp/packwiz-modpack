@@ -682,3 +682,7 @@ preserve = true
 [[files]]
 file = "servers.dat"
 hash = "4b777834d65935d948969b8db506b23f9b5061b5dfafb21afb21f9beb4123aa8"
+
+[[files]]
+file = "world/serverconfig/openpartiesandclaims-server.toml"
+hash = "34388f230777440369b0ad72a97a0e94d6d91fad9db3221b77429f1a9e34ba89"
