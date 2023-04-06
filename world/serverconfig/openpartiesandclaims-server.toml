@@ -410,8 +410,8 @@
 			itemUseProtectionExceptionList = [
 				"minecraft:goat_horn",
 				"minecraft:firework_rocket",
-				"computercraft:pocket_computer_(normal,advanced)",
-				"minecraft:(written, writable)_book"
+				"computercraft:pocket_computer_(normal|advanced)",
+				"minecraft:(written|writable)_book"
 			]
 			#Custom groups of items that a player/claim config should be able to make protection exceptions for. Each group can consist of multiple items and item tags.
 			#Each group creates a player config option for the right-click use of the group items. The format for an item group is <group ID>{<items/tags/wildcards separated by ,>}.
