@@ -369,10 +369,10 @@
 		[playerConfig.claims.forceload]
 			#When enabled, the chunks you have marked for forceloading are forceloaded.
 			#If the forceload limit has changed and you have more chunks marked than the new limit, then some of the chunks won't be forceloaded. Unmark any chunks until you are within the limit to ensure that all marked chunks are forceloaded.
-			enabled = false
+			enabled = true
 			#When enabled, the chunks you have marked for forceloading stay loaded even when you are offline (can significantly affect server performance!).
 			#If your forceload limit is affected by your FTB Ranks rank/permissions, then you need to login at least once after a server (re)launch for it to take effect while you are offline.
-			offlineForceload = false
+			offlineForceload = true
 
 	[playerConfig.parties]
 		#When not empty, used in some places as the name for the parties that you create.

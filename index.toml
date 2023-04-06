@@ -700,7 +700,7 @@ hash = "4b777834d65935d948969b8db506b23f9b5061b5dfafb21afb21f9beb4123aa8"
 
 [[files]]
 file = "world/serverconfig/openpartiesandclaims-default-player-config.toml"
-hash = "fae16033c0fda2344adb43fd1020fc48b2e3195f087526a932f8f573e6519daa"
+hash = "163ef2e6aa9467d15795b7fcb0e0982ca519949d2ffac06f258fcd0efd7ec820"
 
 [[files]]
 file = "world/serverconfig/openpartiesandclaims-server.toml"
