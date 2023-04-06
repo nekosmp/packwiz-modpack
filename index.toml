@@ -694,5 +694,9 @@ file = "servers.dat"
 hash = "4b777834d65935d948969b8db506b23f9b5061b5dfafb21afb21f9beb4123aa8"
 
 [[files]]
+file = "world/serverconfig/openpartiesandclaims-default-player-config.toml"
+hash = "ab744a32ca2db2237a9c724bc4c2c2239ff40542cb43fd624d874abdcd4524ab"
+
+[[files]]
 file = "world/serverconfig/openpartiesandclaims-server.toml"
-hash = "34388f230777440369b0ad72a97a0e94d6d91fad9db3221b77429f1a9e34ba89"
+hash = "9be0b2601b0fdec733a8c1a9da583285dcd4bf947e10a5c2da186bf291a62803"
