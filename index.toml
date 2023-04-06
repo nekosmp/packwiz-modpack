@@ -410,6 +410,11 @@ hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
 
 [[files]]
+file = "mods/libz.pw.toml"
+hash = "167349ced87b2aeb37ff05a77572769d5825b2e7ed86aeff15e247f206f41c42"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
 metafile = true
@@ -497,6 +502,11 @@ metafile = true
 [[files]]
 file = "mods/numismatic-overhaul.pw.toml"
 hash = "1d93acb8fe0f4afc330701c2bb19e30ee91e54426b7c8ffca6e7c53bdecac9d0"
+metafile = true
+
+[[files]]
+file = "mods/numismaticclaim.pw.toml"
+hash = "a6e33b66290b80281b0da1d0837631a1571d11c3ccc0a462b944fb25ac8bf4fc"
 metafile = true
 
 [[files]]

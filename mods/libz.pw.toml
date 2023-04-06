@@ -1,0 +1,13 @@
+name = "LibZ"
+filename = "libz-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ca413e6c4e704480a99345c1b5590e6528824cd1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4454838
+project-id = 841617

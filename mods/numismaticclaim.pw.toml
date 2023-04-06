@@ -1,0 +1,13 @@
+name = "NumismaticClaim"
+filename = "numismaticclaim-1.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "220dea7460d34da4cdef9f5a79320d445f0f1a0b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4463134
+project-id = 693762
