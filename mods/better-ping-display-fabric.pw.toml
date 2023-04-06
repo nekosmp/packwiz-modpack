@@ -8,7 +8,7 @@ hash-format = "sha1"
 hash = "7185f04b2089d29af83f4d32366b00c09fb1c90e"
 
 [option]
-optional = true
+optional = false
 default = true
 description = "Performance impact: None\n\nDescription: A Fabric mod for Minecraft to display each player's ping in the player list as a number."
 

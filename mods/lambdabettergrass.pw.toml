@@ -8,7 +8,7 @@ hash-format = "sha1"
 hash = "95847e7ac49fbccb679f7e8ede37835a0cd65bf2"
 
 [option]
-optional = true
+optional = false
 default = true
 description = "Performance impact: Minimal\n\nDescription: An actual better grass and snow mod for Quilt."
 

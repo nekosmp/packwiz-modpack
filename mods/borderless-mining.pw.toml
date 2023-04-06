@@ -8,7 +8,7 @@ hash-format = "sha1"
 hash = "08f98e28057a0fbdb288c947b7871def4b18b176"
 
 [option]
-optional = true
+optional = false
 default = true
 description = "Performance impact: None\n\nDescription: Borderless Mining changes the fullscreen option to use a borderless window that fills the screen. This allows you to have Minecraft open on one monitor, while using other programs on another monitor - as normally Minecraft minimises when you unfocus it. This mod also adds the Borderless Windowed option to the Video Settings screen, so you can easily disable the mod ingame, and has a configuration menu accessible through Mod Menu."
 

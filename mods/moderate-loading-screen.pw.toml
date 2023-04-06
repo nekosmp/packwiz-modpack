@@ -8,7 +8,7 @@ hash-format = "sha1"
 hash = "c525e886430cc265cda7e578ee186cc5c22a0e18"
 
 [option]
-optional = true
+optional = false
 default = true
 description = "Performance impact: Minimal\n\nDescription: Makes the icons of installed mods fall down the loading screen like snowflakes. Includes a few configuration options like showing every mod only once, hiding libraries, and changing the background color. I'd recommend installing the actual Mod Menu mod to access the configs."
 

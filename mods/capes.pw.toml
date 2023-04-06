@@ -8,7 +8,7 @@ hash-format = "sha1"
 hash = "559e74951bd6bdec8d185eac33b64b2f12998562"
 
 [option]
-optional = true
+optional = false
 default = true
 description = "Performance impact: None\n\nDescription: A Fabric and Forge mod that lets you use capes from Optifine, LabyMod, and the MinecraftCapes Mod."
 

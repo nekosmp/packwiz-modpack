@@ -8,7 +8,7 @@ hash-format = "sha1"
 hash = "22cd35654012bbb6cb136d8152a51533ca3b1467"
 
 [option]
-optional = true
+optional = false
 default = true
 description = "Performance impact: Minimal\n\nDescription: Clear Despawn is a mod that makes dropped items flash when they're about to despawn. By default, this happens when the item has about 20 seconds left until despawn and the flashing gradually gets faster as the timer goes down."
 
