@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "c8e5d8df1d4425a8f2d6433794cc43fc8ca7515c1b62b626b617777be1b301b2"
+hash = "b1aa83bed8ef891dff38190701b48f6dd70085c26159f9316334bbe85b935ead"
 metafile = true
 
 [[files]]
@@ -267,11 +267,6 @@ metafile = true
 [[files]]
 file = "mods/dripsounds-fabric.pw.toml"
 hash = "cc60a6fec6c45e5611f0ce6b3e1f9ed309ece5908f972f552bd63d4ac7fd4dc9"
-metafile = true
-
-[[files]]
-file = "mods/ducky-periphs.pw.toml"
-hash = "5e7e44652267bacd4412a7eaa14e3f2c588d3f89d53915105fffbd225d3ac055"
 metafile = true
 
 [[files]]

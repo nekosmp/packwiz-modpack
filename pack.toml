@@ -1,12 +1,12 @@
 name = "neko.mc"
 author = "Atakku"
-version = "1.0.26"
+version = "1.0.27"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1b23bd76b7cefe367bb9066e6176be538cfee12e24462ba851cecee398aa1bdd"
+hash = "679d1e5fcc7ba42c202d9105455a2bf6cc3a05dd7f0763bef81c29d9d453da3e"
 
 [versions]
 fabric = "0.14.19"
