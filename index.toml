@@ -506,7 +506,7 @@ metafile = true
 
 [[files]]
 file = "mods/numismatic-overhaul.pw.toml"
-hash = "943ef78dd994c3ab19e78201dabd0a60f6308e763d2e8dcd23a022def7d3148a"
+hash = "1d93acb8fe0f4afc330701c2bb19e30ee91e54426b7c8ffca6e7c53bdecac9d0"
 metafile = true
 
 [[files]]
@@ -686,7 +686,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "435811c3869a34e2ace79e4e2ac13da47ab355523bb76878c08b55cb5a423f97"
+hash = "ba8ec6a6bbd93b1f43c970025153d419913d552e7173f46ca89ff9026fdb53e3"
 preserve = true
 
 [[files]]
