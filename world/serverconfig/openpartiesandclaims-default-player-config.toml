@@ -253,17 +253,12 @@
 				[playerConfig.claims.protection.exceptionGroups.entity]
 
 					[playerConfig.claims.protection.exceptionGroups.entity.barrier]
-						#When enabled, claimed chunk protection prevents the following additional entities from entering the claim (except wilderness): minecraft:player.
-						#
-						#1) Every - protected from all players/entities that don't have chunk access.
-						#2) Not Party - only players/entities not in the same party as you.
-						#3) Not Ally - only players/entities not in any party allied by yours.
-						Players = 0
 						#When enabled, claimed chunk protection prevents the following additional entities from entering the claim (except wilderness): minecraft:ender_pearl.
 						#
 						#1) Every - protected from all players/entities that don't have chunk access.
 						#2) Not Party - only players/entities not in the same party as you.
 						#3) Not Ally - only players/entities not in any party allied by yours.
+						Boats = 0
 						Ender_Pearls = 0
 
 					[playerConfig.claims.protection.exceptionGroups.entity.interact]
@@ -272,13 +267,13 @@
 						#1) Party - players or entities owned by players in the same party as you.
 						#2) Allies - players or entities owned by players in parties that are allied by yours.
 						#3) Every - all players/entities.
-						Traders = 0
+						#Traders = 0
 						#When enabled, claimed chunk protection makes an exception for interaction with the following entities: minecraft:armor_stand.
 						#
 						#1) Party - players or entities owned by players in the same party as you.
 						#2) Allies - players or entities owned by players in parties that are allied by yours.
 						#3) Every - all players/entities.
-						Armor_Stands = 0
+						#Armor_Stands = 0
 
 					[playerConfig.claims.protection.exceptionGroups.entity.handInteract]
 						#When enabled, claimed chunk protection makes an exception for interaction with an empty hand with the following entities: minecraft:item_frame.
@@ -286,7 +281,11 @@
 						#1) Party - players or entities owned by players in the same party as you.
 						#2) Allies - players or entities owned by players in parties that are allied by yours.
 						#3) Every - all players/entities.
-						Item_Frames = 0
+						Villagers = 0
+						Wandering_Traders = 0
+						Minecarts = 0
+						Chest_Minecarts = 0
+						Furnace_Minecarts = 0
 
 					[playerConfig.claims.protection.exceptionGroups.entity.break]
 						#When enabled, claimed chunk protection makes an exception for destruction of the following entities: minecraft:cow, minecraft:mooshroom, minecraft:sheep, minecraft:chicken, minecraft:pig, minecraft:rabbit, minecraft:goat.
@@ -294,7 +293,7 @@
 						#1) Party - players or entities owned by players in the same party as you.
 						#2) Allies - players or entities owned by players in parties that are allied by yours.
 						#3) Every - all players/entities.
-						Livestock = 0
+						#Livestock = 0
 
 					[playerConfig.claims.protection.exceptionGroups.entity.blockAccess]
 						#When enabled, claimed chunk protection makes an exception for block access by the following entities: minecraft:villager. If the block protection is based on the mob griefing rule check, then the claimed neighbor chunks must also allow the block access.
@@ -319,17 +318,7 @@
 						#2) Allies - players or entities owned by players in parties that are allied by yours.
 						#3) Every - all players/entities.
 						Villagers = 0
-						#When enabled, claimed chunk protection makes an exception for dropped item access by the following entities: minecraft:piglin. If the dropped item protection is based on the mob griefing rule check, then the claimed neighbor chunks must also allow the item access.
-						#
-						#1) Party - players or entities owned by players in the same party as you.
-						#2) Allies - players or entities owned by players in parties that are allied by yours.
-						#3) Every - all players/entities.
 						Piglins = 0
-						#When enabled, claimed chunk protection makes an exception for dropped item access by the following entities: minecraft:fox. If the dropped item protection is based on the mob griefing rule check, then the claimed neighbor chunks must also allow the item access.
-						#
-						#1) Party - players or entities owned by players in the same party as you.
-						#2) Allies - players or entities owned by players in parties that are allied by yours.
-						#3) Every - all players/entities.
 						Foxes = 0
 
 				[playerConfig.claims.protection.exceptionGroups.block]
@@ -340,79 +329,24 @@
 						#1) Party - players or entities owned by players in the same party as you.
 						#2) Allies - players or entities owned by players in parties that are allied by yours.
 						#3) Every - all players/entities.
-						Controls = 0
-						#When enabled, claimed chunk protection makes an exception for interaction with the following blocks: #minecraft:doors, #minecraft:fence_gates, #forge:fence_gates, #minecraft:trapdoors.
-						#
-						#1) Party - players or entities owned by players in the same party as you.
-						#2) Allies - players or entities owned by players in parties that are allied by yours.
-						#3) Every - all players/entities.
 						Doors = 0
-						#When enabled, claimed chunk protection makes an exception for interaction with the following blocks: minecraft:chest, minecraft:trapped_chest, #forge:chests/wooden.
-						#
-						#1) Party - players or entities owned by players in the same party as you.
-						#2) Allies - players or entities owned by players in parties that are allied by yours.
-						#3) Every - all players/entities.
+						Trapdoors = 0
+						Fence_Gates = 0
+						Levers = 0
+						Buttons = 0
+						Analog_Levers = 0
 						Chests = 0
-						#When enabled, claimed chunk protection makes an exception for interaction with the following blocks: minecraft:barrel, #forge:barrels.
-						#
-						#1) Party - players or entities owned by players in the same party as you.
-						#2) Allies - players or entities owned by players in parties that are allied by yours.
-						#3) Every - all players/entities.
 						Barrels = 0
-						#When enabled, claimed chunk protection makes an exception for interaction with the following blocks: minecraft:ender_chest, #forge:chests/ender.
-						#
-						#1) Party - players or entities owned by players in the same party as you.
-						#2) Allies - players or entities owned by players in parties that are allied by yours.
-						#3) Every - all players/entities.
-						Ender_Chests = 0
-						#When enabled, claimed chunk protection makes an exception for interaction with the following blocks: #minecraft:shulker_boxes.
-						#
-						#1) Party - players or entities owned by players in the same party as you.
-						#2) Allies - players or entities owned by players in parties that are allied by yours.
-						#3) Every - all players/entities.
 						Shulker_Boxes = 0
-						#When enabled, claimed chunk protection makes an exception for interaction with the following blocks: minecraft:furnace, minecraft:blast_furnace, minecraft:smoker.
-						#
-						#1) Party - players or entities owned by players in the same party as you.
-						#2) Allies - players or entities owned by players in parties that are allied by yours.
-						#3) Every - all players/entities.
-						Furnaces = 0
-						#When enabled, claimed chunk protection makes an exception for interaction with the following blocks: minecraft:hopper.
-						#
-						#1) Party - players or entities owned by players in the same party as you.
-						#2) Allies - players or entities owned by players in parties that are allied by yours.
-						#3) Every - all players/entities.
-						Hoppers = 0
-						#When enabled, claimed chunk protection makes an exception for interaction with the following blocks: minecraft:dispenser, minecraft:dropper.
-						#
-						#1) Party - players or entities owned by players in the same party as you.
-						#2) Allies - players or entities owned by players in parties that are allied by yours.
-						#3) Every - all players/entities.
-						Dispenser-like = 0
-						#When enabled, claimed chunk protection makes an exception for interaction with the following blocks: #minecraft:anvil.
-						#
-						#1) Party - players or entities owned by players in the same party as you.
-						#2) Allies - players or entities owned by players in parties that are allied by yours.
-						#3) Every - all players/entities.
-						Anvils = 0
-						#When enabled, claimed chunk protection makes an exception for interaction with the following blocks: #minecraft:beds.
-						#
-						#1) Party - players or entities owned by players in the same party as you.
-						#2) Allies - players or entities owned by players in parties that are allied by yours.
-						#3) Every - all players/entities.
-						Beds = 0
-						#When enabled, claimed chunk protection makes an exception for interaction with the following blocks: minecraft:beacon.
-						#
-						#1) Party - players or entities owned by players in the same party as you.
-						#2) Allies - players or entities owned by players in parties that are allied by yours.
-						#3) Every - all players/entities.
 						Beacons = 0
-						#When enabled, claimed chunk protection makes an exception for interaction with the following blocks: minecraft:enchanting_table.
-						#
-						#1) Party - players or entities owned by players in the same party as you.
-						#2) Allies - players or entities owned by players in parties that are allied by yours.
-						#3) Every - all players/entities.
-						Enchanting_Tables = 0
+						Furnaces = 0
+						Dispensers = 0
+						Droppers = 0
+						Hoppers = 0
+						Anvils = 0
+						Computers = 0
+						Monitors = 0
+						Turtles = 0
 
 					[playerConfig.claims.protection.exceptionGroups.block.break]
 						#When enabled, claimed chunk protection makes an exception for destruction of the following blocks: #minecraft:crops.
@@ -420,7 +354,7 @@
 						#1) Party - players or entities owned by players in the same party as you.
 						#2) Allies - players or entities owned by players in parties that are allied by yours.
 						#3) Every - all players/entities.
-						Crops = 0
+						#Crops = 0
 
 				[playerConfig.claims.protection.exceptionGroups.item]
 
@@ -430,7 +364,7 @@
 						#1) Party - players or entities owned by players in the same party as you.
 						#2) Allies - players or entities owned by players in parties that are allied by yours.
 						#3) Every - all players/entities.
-						Books = 0
+						#Books = 0
 
 		[playerConfig.claims.forceload]
 			#When enabled, the chunks you have marked for forceloading are forceloaded.

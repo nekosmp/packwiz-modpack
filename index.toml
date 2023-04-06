@@ -695,8 +695,8 @@ hash = "4b777834d65935d948969b8db506b23f9b5061b5dfafb21afb21f9beb4123aa8"
 
 [[files]]
 file = "world/serverconfig/openpartiesandclaims-default-player-config.toml"
-hash = "ab744a32ca2db2237a9c724bc4c2c2239ff40542cb43fd624d874abdcd4524ab"
+hash = "fae16033c0fda2344adb43fd1020fc48b2e3195f087526a932f8f573e6519daa"
 
 [[files]]
 file = "world/serverconfig/openpartiesandclaims-server.toml"
-hash = "9be0b2601b0fdec733a8c1a9da583285dcd4bf947e10a5c2da186bf291a62803"
+hash = "6cd04a84de65a78faff8e0da3a196dab0f689455f8eda1f2c67f4cc327b09d55"
