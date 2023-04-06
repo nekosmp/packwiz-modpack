@@ -101,7 +101,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "a714c0d9b19e623a1ed9e130c446174a7eda24a7146afeb4e2d82498f8c8ea5c"
+hash = "843fefd7cf34bfe36b1fb2b6dc35ddfe44db53e23637d6b2674a7fb4e05e803f"
 metafile = true
 
 [[files]]
@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "b1aa83bed8ef891dff38190701b48f6dd70085c26159f9316334bbe85b935ead"
+hash = "c8e5d8df1d4425a8f2d6433794cc43fc8ca7515c1b62b626b617777be1b301b2"
 metafile = true
 
 [[files]]
@@ -336,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "812a77254dc9392bbdd73741853aa7d9ee343846a0c63f861f30c22f4ae77d4f"
+hash = "43ba95d6c69c29b5be47ab63b48bdaf0204849a9fa5eface6a5192277aef4b2b"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "FancyMenu"
-filename = "fancymenu_fabric_2.14.1_MC_1.19-1.19.2.jar"
+filename = "fancymenu_fabric_2.14.2_MC_1.19-1.19.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Wq5SjeWM/versions/9eiReGiv/fancymenu_fabric_2.14.1_MC_1.19-1.19.2.jar"
+url = "https://cdn.modrinth.com/data/Wq5SjeWM/versions/LbjlNn6Z/fancymenu_fabric_2.14.2_MC_1.19-1.19.2.jar"
 hash-format = "sha1"
-hash = "0524dd9f1b79f2be181654e1336e06d72cd081b3"
+hash = "2c1b46e9502b3975d2f84f5719314082eb14ba84"
 
 [update]
 [update.modrinth]
 mod-id = "Wq5SjeWM"
-version = "9eiReGiv"
+version = "LbjlNn6Z"
