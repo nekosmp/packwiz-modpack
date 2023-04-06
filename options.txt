@@ -1,6 +1,6 @@
 version:3120
 autoJump:false
-renderDistance:6
+renderDistance:12
 simulationDistance:6
 lastServer:mc.neko.rs
 tutorialStep:none

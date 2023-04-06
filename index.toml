@@ -160,6 +160,11 @@ hash = "111e33ffd142eaf6fd71b62891e8a86f5e2c7a7e9722278f0098b873167afbc8"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "66ebb7e65db001e13caa1255688f65fa8873de2b0fd1e0e443e075a3a0326170"
+metafile = true
+
+[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "62be287b44f91f58805bf771fc55bf147fa07d53eb7e0b4511ab46c693e988dd"
 metafile = true
@@ -380,6 +385,11 @@ hash = "9823c79588e43aa9164b0827004fb4ac12c764be56494286c03a77f919174357"
 metafile = true
 
 [[files]]
+file = "mods/isometric-renders.pw.toml"
+hash = "0a24b83cbfd521b20b6dca8dfb75fc5c5d07b26181b296189ebc27fe10247530"
+metafile = true
+
+[[files]]
 file = "mods/jamlib.pw.toml"
 hash = "6cb50f4dcb3f6ba70ecbae01c0691b25fb40610a859aa41bf6ce261ad70429d2"
 metafile = true
@@ -452,6 +462,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "c199f80bb2b034203fe46413b550d670c7577e871858cb6ffea0f5d371479bb6"
+metafile = true
+
+[[files]]
+file = "mods/morechathistory.pw.toml"
+hash = "5c941b559c3b1cafcf531c42652b4f90d464b3076c9626b36eeeeb18731528c9"
 metafile = true
 
 [[files]]
@@ -671,7 +686,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "e7c3767f95a501addd3dde9bc80782e5db5470a9421b34224751fe12d12d6dd5"
+hash = "435811c3869a34e2ace79e4e2ac13da47ab355523bb76878c08b55cb5a423f97"
 preserve = true
 
 [[files]]
