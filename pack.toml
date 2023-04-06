@@ -1,6 +1,6 @@
 name = "neko.mc"
 author = "Atakku"
-version = "1.0.22"
+version = "1.0.23"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = "f26bfb6737e7b6b9153dbc321a475ffa3b6b31e384999a6d0c2f925086c171f4"
 
 [versions]
-fabric = "0.14.18"
+fabric = "0.14.19"
 minecraft = "1.19.2"
