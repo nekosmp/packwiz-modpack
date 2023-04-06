@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/cK0i8gTV/versions/T2RoU5TJ/emicompat-2.0.3.
 hash-format = "sha1"
 hash = "e481ca7d09a76890921e12d53c4558dbb58b77a4"
 
+[option]
+optional = false
+default = true
+description = "Performance impact: Minor\n\nDescription: Adds recipe support for AE2, Farmer's Delight, AE2WTLIB and CreateAddition to EMI"
+
 [update]
 [update.modrinth]
 mod-id = "cK0i8gTV"

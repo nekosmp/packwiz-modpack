@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "be125029b9b8b8bc3667ee48a495257f7acdb5dc0edbaf7ba9a5821abe99b3be"
+hash = "283f8bb237faa7cd6861fe8b83a0a27e2cceb1a096eac6e5cc58dfdf15c92e56"
 metafile = true
 
 [[files]]
@@ -286,17 +286,17 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "60c05e3f97b3093f9724eaa3ccad77401355263a3d414a12f92a15f82cc10d94"
+hash = "8dbac037a24adf1bcb4981ef8bb98fe5720478a3091083ee43f5dcb2b619beab"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "0e05dae2adc425099c80c7b3a027ee63b34b5a9cc82c7085cf0b6543073a2353"
+hash = "080a81d568ced097341c06ead2a2bac1c062887742476fd1c949dd90a4540041"
 metafile = true
 
 [[files]]
 file = "mods/emicompat.pw.toml"
-hash = "7f2bac9db41f54dfc2f505602ea94e9fcd01454282f3d7f0075fb61ad2543e76"
+hash = "6d3b9774ac86901423a8011b6f301a725ad72b86896ce112863618c2aab80fdd"
 metafile = true
 
 [[files]]

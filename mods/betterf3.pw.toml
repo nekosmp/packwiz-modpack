@@ -10,7 +10,7 @@ hash = "1bbc527d23b53e0aae4d5e1deddf92b1f394b94b"
 [option]
 optional = true
 default = true
-description = "Performance impact: Minimal\n\nDescription: This Minecraft mod replaces the Vanilla statistics screen with an new and improved statistics screen that is easier to use and that has more helpful features. The new statistics screen features an easier to navigate and read UI layout, as well as a few filters and a search field that will help you find the statictics you need a lot easier, especially when there are dozens, if not hundreds of entries to keep track of."
+description = "Performance impact: Minimal\n\nDescription: BetterF3 is a mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD. You can customize colors, position, add spacings, and more."
 
 [update]
 [update.modrinth]
