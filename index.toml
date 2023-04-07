@@ -480,6 +480,11 @@ hash = "229fa2db8ad12c21a8a6a8165cb7bace7ea67950c07333fa2d9869a00285bc77"
 metafile = true
 
 [[files]]
+file = "mods/nmc-femil.pw.toml"
+hash = "c44db2ff7693c9da3b60e4ea70e38218de6b91f717ed279f3268c1ff0eb9af1f"
+metafile = true
+
+[[files]]
 file = "mods/nmc-menu-background.pw.toml"
 hash = "1beab150ca63082bdd25ce8d05153c4247e436962304c6bab4364a088af0801a"
 metafile = true
