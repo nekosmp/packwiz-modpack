@@ -1,5 +1,5 @@
-name = "NMC FakeEMILoot"
-filename = "nmc-femil-0.0.1.jar"
+name = "FakeEMILoot"
+filename = "femil-0.0.1.jar"
 side = "client"
 
 [option]
@@ -8,6 +8,6 @@ default = false
 description = "Performance impact: None\n\nDescription: Fakes EMI Loot mod registries, use this if you want to disable EMI"
 
 [download]
-url = "https://github.com/Atakku/nmc-femil/releases/download/0.0.1/nmc-femil-0.0.1.jar"
+url = "https://github.com/Atakku/nmc-femil/releases/download/0.0.1/femil-0.0.1.jar"
 hash-format = "sha1"
-hash = "38882f6376998ce6ae05877b913b1eb49fa9f0e8"
+hash = "c27d1a5c24ae94391c22b146c1f07f96c7c24103"
