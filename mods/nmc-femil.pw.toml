@@ -8,6 +8,6 @@ default = false
 description = "Performance impact: None\n\nDescription: Fakes EMI Loot mod registries, use this if you want to disable EMI"
 
 [download]
-url = "https://github.com/Atakku/nmc-femil/releases/download/0.0.1/femil-0.0.1.jar"
+url = "https://github.com/nekosmp/nsmp-femil/releases/download/0.0.1/femil-0.0.1.jar"
 hash-format = "sha1"
 hash = "8915cd0553074be466af0247641500d0c6cc716d"

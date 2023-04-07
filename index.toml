@@ -476,27 +476,27 @@ metafile = true
 
 [[files]]
 file = "mods/nmc-discord-bridge.pw.toml"
-hash = "229fa2db8ad12c21a8a6a8165cb7bace7ea67950c07333fa2d9869a00285bc77"
+hash = "3325a012c7ef1b90e1455ec1e52e4b46518c521977edf5d57fd18c81969ea225"
 metafile = true
 
 [[files]]
 file = "mods/nmc-femil.pw.toml"
-hash = "c48f975bffeedfb26834a77d24780edd34674c98240e32c8908be5c71c87aaeb"
+hash = "bb07db6ef83ff209b6012ee7e73fb7253d0b41a7b6042a8cbe0c92133973fad8"
 metafile = true
 
 [[files]]
 file = "mods/nmc-menu-background.pw.toml"
-hash = "1beab150ca63082bdd25ce8d05153c4247e436962304c6bab4364a088af0801a"
+hash = "51c4d1839c63f72127c227dd3212815d864e70717b046d96316de482d97c643b"
 metafile = true
 
 [[files]]
 file = "mods/nmc-menu-music.pw.toml"
-hash = "d774a3d98f6abfb409d1e85e4b14f13b2627323e5c365fae99eaf1093b250239"
+hash = "2a843f54d0aded31fce726811a46b9636b97ac838fdb348d313cc62c2fd87b3e"
 metafile = true
 
 [[files]]
 file = "mods/nmc-no-border-gen.pw.toml"
-hash = "24030f13101474ec0d8ac99f6a9007182f0aefac7f9e790a460aa101ab8ad988"
+hash = "dde9131b9124e54f6a7c7e7ddc454fec6680079a52c5a351c0e8d05fbd8a29c0"
 metafile = true
 
 [[files]]

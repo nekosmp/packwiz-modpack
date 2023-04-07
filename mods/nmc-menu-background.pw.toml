@@ -8,6 +8,6 @@ default = true
 description = "Performance impact: None\n\nDescription: Changes dirt backround in menu's to gray concrete"
 
 [download]
-url = "https://raw.githubusercontent.com/Atakku/neko.mc-mods/main/nmc-menu-background-0.0.1.jar"
+url = "https://raw.githubusercontent.com/nekosmp/nsmp-mods/main/nmc-menu-background-0.0.1.jar"
 hash-format = "sha1"
 hash = "e6db487304d004d4c00f090d907fc60493e19506"

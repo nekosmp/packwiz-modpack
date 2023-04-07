@@ -3,6 +3,6 @@ filename = "nmc-no-border-gen-0.0.2.jar"
 side = "server"
 
 [download]
-url = "https://raw.githubusercontent.com/Atakku/neko.mc-mods/main/nmc-no-border-gen-0.0.2.jar"
+url = "https://raw.githubusercontent.com/nekosmp/nsmp-mods/main/nmc-no-border-gen-0.0.2.jar"
 hash-format = "sha1"
 hash = "9e56a99c19dd6dd454a203d897178aaf17e253ba"
