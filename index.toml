@@ -241,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "b1aa83bed8ef891dff38190701b48f6dd70085c26159f9316334bbe85b935ead"
+hash = "d3b6493205ea43ac22c65a229b2be0611f4c947c2180364fd5881bdef74f0104"
 metafile = true
 
 [[files]]
@@ -511,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "mods/numismatic-overhaul.pw.toml"
-hash = "1d93acb8fe0f4afc330701c2bb19e30ee91e54426b7c8ffca6e7c53bdecac9d0"
+hash = "d58ceb4fda1dd143a01336569f57951e7d77656034f7bc296c96f26a0e7ac671"
 metafile = true
 
 [[files]]
@@ -551,7 +551,7 @@ metafile = true
 
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
-hash = "1058f697727203998b914f930a4e6c04c12935516b5e7da03a06986489107e68"
+hash = "410ad3db1eb1f780e5c6939ce83b4240c1748858126851ba3e812d0047daefb0"
 metafile = true
 
 [[files]]
