@@ -10,4 +10,4 @@ description = "Performance impact: None\n\nDescription: Fakes EMI Loot mod regis
 [download]
 url = "https://github.com/Atakku/nmc-femil/releases/download/0.0.1/femil-0.0.1.jar"
 hash-format = "sha1"
-hash = "c27d1a5c24ae94391c22b146c1f07f96c7c24103"
+hash = "8915cd0553074be466af0247641500d0c6cc716d"
