@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-track-map.pw.toml"
-hash = "7b868702c1115d9fdb13f65891becb33089740ef4efd5761b4051741b7fd5c65"
+hash = "263d4b58fe88e1c2a553f6634cac7790168b1dbd1ae4067b223dfc0185a6dff6"
 metafile = true
 
 [[files]]
