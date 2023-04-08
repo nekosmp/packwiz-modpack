@@ -6,7 +6,7 @@ hash = "a5e9cbd9ce3331dfad0c79129d7a38fbc724806549da3087b866f784966f4c33"
 
 [[files]]
 file = "config/craftpresence.json"
-hash = "984ad76b2fc3300469fdb7a8d0642291ebb2603a49f1949fc7483c7d6e689fd2"
+hash = "3e1dbda92f6dab4a11d26ba6eeb121eb89cf2ad3a3588be7fc2ed42348166821"
 
 [[files]]
 file = "config/fallingtree.json"
@@ -38,7 +38,7 @@ hash = "65bf1c463e0e5916ccb98083355bd1b259584e36f7c6a6974dba0a87d93a6128"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
-hash = "771dd2060acb7180e7c7ca492f7f52329f8cceb5b5d5201cfcfd89d6e4259c54"
+hash = "f836c80bfc432a1207cb45bc6b292a580b9d253ad005c8e1e5edb9702d00425b"
 
 [[files]]
 file = "config/fancymenu/customization/pause_menu.txt"
@@ -701,7 +701,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "89d137fb8b1e6ce0d52efc4cd6519a7744ad6a14013295ac2404277af17197cf"
+hash = "2dce2645348d314fbe99a20f52f70c72da91630ca90f0099e5951254590b6796"
 preserve = true
 
 [[files]]

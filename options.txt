@@ -2,7 +2,7 @@ version:3120
 autoJump:false
 renderDistance:12
 simulationDistance:6
-lastServer:mc.neko.rs
+lastServer:smp.neko.rs
 tutorialStep:none
 skipMultiplayerWarning:true
 joinedFirstServer:true

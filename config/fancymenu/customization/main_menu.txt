@@ -200,7 +200,7 @@ customization {
   action = addbutton
   y = -33
   label = Join Server
-  value = mc.neko.rs
+  value = smp.neko.rs
   height = 20
 }
 
