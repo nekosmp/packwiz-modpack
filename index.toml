@@ -706,7 +706,7 @@ preserve = true
 
 [[files]]
 file = "servers.dat"
-hash = "4b777834d65935d948969b8db506b23f9b5061b5dfafb21afb21f9beb4123aa8"
+hash = "350a2a51c042dd9b3e84c848aaf48f3155fc34c813654058cf82c94bbc30e8f9"
 
 [[files]]
 file = "world/serverconfig/openpartiesandclaims-default-player-config.toml"
