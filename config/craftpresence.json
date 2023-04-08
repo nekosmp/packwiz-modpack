@@ -11,7 +11,7 @@
     "detectDimensionData": true,
     "detectWorldData": true,
     "clientId": "1090082794941730886",
-    "defaultIcon": "nekomc",
+    "defaultIcon": "nekosmp",
     "enableJoinRequests": false,
     "partyPrivacyLevel": 1,
     "preferredClientLevel": 3,
@@ -19,7 +19,7 @@
     "autoRegister": false
   },
   "biomeSettings": {
-    "fallbackBiomeIcon": "nekomc",
+    "fallbackBiomeIcon": "nekosmp",
     "biomeData": {
       "default": {
         "textOverride": "Exploring a {biome.name} biome",
@@ -45,7 +45,7 @@
     }
   },
   "dimensionSettings": {
-    "fallbackDimensionIcon": "nekomc",
+    "fallbackDimensionIcon": "nekosmp",
     "dimensionData": {
       "default": {
         "textOverride": "In the {dimension.name}",
@@ -71,7 +71,7 @@
     }
   },
   "serverSettings": {
-    "fallbackServerIcon": "nekomc",
+    "fallbackServerIcon": "nekosmp",
     "fallbackServerName": "Minecraft Server",
     "fallbackServerMotd": "A Minecraft Server",
     "serverData": {
@@ -198,7 +198,7 @@
     "includeExtraGuiClasses": false,
     "allowPlaceholderPreviews": false,
     "guiSettings": {
-      "fallbackGuiIcon": "nekomc",
+      "fallbackGuiIcon": "nekosmp",
       "guiData": {
         "default": {
           "textOverride": "In {screen.name}",
@@ -227,7 +227,7 @@
       "default": "Holding {item.message.holding}"
     },
     "entitySettings": {
-      "fallbackEntityIcon": "nekomc",
+      "fallbackEntityIcon": "nekosmp",
       "targetData": {
         "default": {
           "textOverride": "Targeting {entity.target.name}",
