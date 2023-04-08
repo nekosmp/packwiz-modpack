@@ -8,7 +8,7 @@ hash-format = "sha1"
 hash = "6e627ee1b31f5be89e14c85e888f47463d8da9c2"
 
 [option]
-optional = false
+optional = true
 default = true
 description = "Performance impact: None\n\nDescription: Adds a mod menu to view the list of mods you have installed."
 

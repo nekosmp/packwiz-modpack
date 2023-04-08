@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/rcLriA4v/versions/1.3.8%2Bmc.1.19-rc2/amecs
 hash-format = "sha1"
 hash = "88c0fcf573a511760be66c562b14f9a3a056fee2"
 
+[option]
+optional = true
+default = true
+description = "Performance impact: None\n\nDescription: Amecs is a mod that tries to improve your keyboard immersion. Therefore it introduces several modifier keys (alt, control and shift) for now to give you a larger variety to chose from when making keybindings."
+
 [update]
 [update.modrinth]
 mod-id = "rcLriA4v"

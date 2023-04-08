@@ -3,7 +3,7 @@ filename = "nmc-menu-background-0.0.1.jar"
 side = "client"
 
 [option]
-optional = false
+optional = true
 default = true
 description = "Performance impact: None\n\nDescription: Changes dirt backround in menu's to gray concrete"
 

@@ -8,7 +8,7 @@ hash-format = "sha1"
 hash = "cc67b94ff4c6c4d139d894a29b1a43c07da93605"
 
 [option]
-optional = false
+optional = true
 default = true
 description = "Performance impact: Minimal\n\nDescription: This clientside mod adds player heads next to chat messages. It makes telling various people in chat apart a bit easier, and it looks hella nice."
 

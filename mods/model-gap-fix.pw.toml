@@ -8,7 +8,7 @@ hash = "2702ce386bb0e84ea7bc5cac86c314e38389fc89"
 mode = "metadata:curseforge"
 
 [option]
-optional = false
+optional = true
 default = true
 description = "Performance impact: None\n\nDescription: Fixes gaps in Block Models and Item Models"
 

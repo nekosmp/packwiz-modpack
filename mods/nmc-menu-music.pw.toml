@@ -3,7 +3,7 @@ filename = "nmc-menu-music-0.0.1.jar"
 side = "client"
 
 [option]
-optional = false
+optional = true
 default = true
 description = "Performance impact: None\n\nDescription: Changes main menu sound definition to include all music in Minecraft, including disks"
 

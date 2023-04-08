@@ -1,11 +1,16 @@
 name = "Xaero's World Map"
 filename = "XaerosWorldMap_1.29.5_Fabric_1.19.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
 hash = "f5e659df4bb8276cce0ba40afd672895940a7900"
 mode = "metadata:curseforge"
+
+[option]
+optional = true
+default = true
+description = "Performance impact: Minimal\n\nDescription: Xaero's World Map mod adds a self-writing fullscreen map to your Minecraft client. Works as a separate mod but is a lot better with Xaero's Minimap. The reason why it's available separately is to keep Xaero's Minimap as light-weight as possible. This mod is mostly client-sided. Installing it on the server side is optional for some additional features like world identification."
 
 [update]
 [update.curseforge]

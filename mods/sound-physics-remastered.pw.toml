@@ -1,11 +1,16 @@
 name = "Sound Physics Remastered"
 filename = "soundphysics-fabric-1.19.2-1.0.18.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/qyVF9oeo/versions/xXUcyQrd/soundphysics-fabric-1.19.2-1.0.18.jar"
 hash-format = "sha1"
 hash = "1708d7578def69d41fc019534b0c5b5fd6bbc1d9"
+
+[option]
+optional = true
+default = true
+description = "Performance impact: Minimal\n\nDescription: A Minecraft mod that provides realistic sound attenuation, reverberation, and absorption through blocks."
 
 [update]
 [update.modrinth]

@@ -8,7 +8,7 @@ hash-format = "sha1"
 hash = "16a99205b99e78d8c716c25b257fa5c42696f366"
 
 [option]
-optional = false
+optional = true
 default = true
 description = "Performance impact: None\n\nDescription: Auth Me is a Minecraft mod that brings account authentication into the game in the efforts of overcoming the infamous session validation error when connecting to a server."
 
