@@ -46,11 +46,11 @@ hash = "0f5e08d07171c8ed6b0f8217988f8e22a3c8b2e90c37f83a75f853e8a1abc585"
 
 [[files]]
 file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
-hash = "cb9182c78974040b1b4463f8840944ade524043e15aaf7107a28b846842f1a5e"
+hash = "ca97e2e43b6e57e0f76bc3e2d4fff4166bf5f76c43db70aacf8f5464ddc07893"
 
 [[files]]
 file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
-hash = "6ab46e579fad8383218cda04a1042e21625ce82d7e22fb7fdb7ce7226b8f575b"
+hash = "4187eab6ebcac0cf713cf0c08631b6ba538b35e4a477cc6c608ca928449b5d8f"
 
 [[files]]
 file = "config/moderate-loading-screen.json5"
@@ -572,7 +572,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "2dce2645348d314fbe99a20f52f70c72da91630ca90f0099e5951254590b6796"
+hash = "b6b384a5d80698050f0a68b3213f99b134888a1f382dfe0efbc7541c84048da3"
 preserve = true
 
 [[files]]

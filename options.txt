@@ -1,7 +1,5 @@
 version:3120
 autoJump:false
-renderDistance:12
-simulationDistance:6
 lastServer:smp.neko.rs
 tutorialStep:none
 skipMultiplayerWarning:true
@@ -14,5 +12,4 @@ key_key.plasmovoice.settings:key.keyboard.v
 key_gui.xaero_new_waypoint:key.keyboard.b
 key_gui.xaero_open_map:key.keyboard.x
 key_zoomify.key.zoom:key.keyboard.c
-key_key.isometric-renders.area_select:key.keyboard.unknown
 key_key.socialInteractions:key.keyboard.unknown
