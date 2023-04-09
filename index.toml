@@ -181,6 +181,11 @@ hash = "38eb236e5f8665d91bcf548481cfffed432e88f03ba8901e4d5bdca394f80778"
 metafile = true
 
 [[files]]
+file = "mods/chisel-reborn.pw.toml"
+hash = "5e6e844c0d69d2d70ba909dac227a90075ba6ee4f166a73896f6cdc9077a07b6"
+metafile = true
+
+[[files]]
 file = "mods/cleardespawn.pw.toml"
 hash = "1e2c5da31855689d64e55e8f4771dff3e1e745cac680589b1d18cb54c46df84d"
 metafile = true
