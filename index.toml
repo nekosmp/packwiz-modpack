@@ -436,6 +436,11 @@ hash = "a6e33b66290b80281b0da1d0837631a1571d11c3ccc0a462b944fb25ac8bf4fc"
 metafile = true
 
 [[files]]
+file = "mods/nyfs-spiders.pw.toml"
+hash = "d02faadb0665db5f148eb7a5bcb817221a139b42d1437231e1def2f06a452bce"
+metafile = true
+
+[[files]]
 file = "mods/opac-fabric-create-support.pw.toml"
 hash = "50bd803afaf12d3406ad7bf1781e2f75bb38bbccb5d7720c32cf6f833a97eb15"
 metafile = true
