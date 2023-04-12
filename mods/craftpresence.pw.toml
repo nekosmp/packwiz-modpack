@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/DFqQfIBR/versions/sr3oIkcy/CraftPresence-2.
 hash-format = "sha1"
 hash = "2d84439abe0d59f4a83c19b5558c13f2a05535d5"
 
+[option]
+optional = true
+default = true
+description = "Performance impact: None\n\nDescription: Completely Customize the way others see you play in Discord!"
+
 [update]
 [update.modrinth]
 mod-id = "DFqQfIBR"
