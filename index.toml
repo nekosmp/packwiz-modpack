@@ -500,11 +500,6 @@ hash = "99dc10c737cff18f2f08d076f3c6ba1f54a714fddd4d690cfb9631e1d25136f7"
 metafile = true
 
 [[files]]
-file = "mods/pv-addon-replaymod.pw.toml"
-hash = "75e263529f28e15665e99854d356f009fbc494e4629665721eec9e389720e731"
-metafile = true
-
-[[files]]
 file = "mods/pv-addon-sculk.pw.toml"
 hash = "5e6b572e61b65e964baebd2c234ce439241b30517cf8765df4c6204cc1125077"
 metafile = true
@@ -517,11 +512,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "72ba73fd6a1adfdd3513af909dd2a742cdf66ccabd3fa8655cf99f6313421f0f"
-metafile = true
-
-[[files]]
-file = "mods/replaymod.pw.toml"
-hash = "e19c7b63d07c691b3ab8b5f09d2ef9d5c52530f9aee79e2234bacb96330b02aa"
 metafile = true
 
 [[files]]
