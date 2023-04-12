@@ -1,0 +1,13 @@
+name = "MariaDB JDBC (Fabric/Forge)"
+filename = "mariadb-jdbc-2.7.4+20211227-all.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "2379b0b590493f020b539f62e561ca95025b76cd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3586357
+project-id = 561883

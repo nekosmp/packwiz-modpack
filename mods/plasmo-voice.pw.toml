@@ -1,0 +1,18 @@
+name = "Plasmo Voice"
+filename = "plasmovoice-fabric-1.19.2-2.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1bZhdhsH/versions/CPTO5fua/plasmovoice-fabric-1.19.2-2.0.3.jar"
+hash-format = "sha1"
+hash = "5e70b54af60c63aca18bddef37fb5eb93f085a91"
+
+[option]
+optional = true
+default = true
+description = "Performance impact: Minor\n\nDescription: A proximity voice chat mod with audio positioning and lots of features"
+
+[update]
+[update.modrinth]
+mod-id = "1bZhdhsH"
+version = "CPTO5fua"

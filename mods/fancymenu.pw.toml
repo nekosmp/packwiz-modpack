@@ -1,18 +1,18 @@
 name = "FancyMenu"
-filename = "fancymenu_fabric_2.14.2_MC_1.19-1.19.2.jar"
+filename = "fancymenu_fabric_2.14.3_MC_1.19-1.19.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Wq5SjeWM/versions/LbjlNn6Z/fancymenu_fabric_2.14.2_MC_1.19-1.19.2.jar"
+url = "https://cdn.modrinth.com/data/Wq5SjeWM/versions/v0Bptzq4/fancymenu_fabric_2.14.3_MC_1.19-1.19.2.jar"
 hash-format = "sha1"
-hash = "2c1b46e9502b3975d2f84f5719314082eb14ba84"
-
-[option]
-optional = true
-default = true
-description = "Performance impact: None\n\nDescription: FancyMenu is a client-side Minecraft mod to customize ingame menus and the first mod ever with a fully functional ingame menu editor GUI to edit your menu screens without leaving the game!"
+hash = "99c319bcd016d2a89503cc018dd0c81478897602"
 
 [update]
 [update.modrinth]
 mod-id = "Wq5SjeWM"
-version = "LbjlNn6Z"
+version = "v0Bptzq4"
+
+[option]
+optional = true
+description = "Performance impact: None\n\nDescription: FancyMenu is a client-side Minecraft mod to customize ingame menus and the first mod ever with a fully functional ingame menu editor GUI to edit your menu screens without leaving the game!"
+default = true

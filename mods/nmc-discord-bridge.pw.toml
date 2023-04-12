@@ -1,8 +1,0 @@
-name = "NMC Discord Bridge"
-filename = "nmc-discord-bridge-0.0.1.jar"
-side = "server"
-
-[download]
-url = "https://raw.githubusercontent.com/nekosmp/nsmp-mods/main/nmc-discord-bridge-0.0.1.jar"
-hash-format = "sha1"
-hash = "41e6c917f8bf9eec34fab82a7d12dedff2fd3edd"

@@ -1,0 +1,18 @@
+name = "Sodium Extra"
+filename = "sodium-extra-0.4.16+mc1.19.2-build.90.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/MTxUvPFz/sodium-extra-0.4.16%2Bmc1.19.2-build.90.jar"
+hash-format = "sha1"
+hash = "39a06ef409c407304dd9581b3f2d6537ecd5b63d"
+
+[update]
+[update.modrinth]
+mod-id = "PtjYWJkn"
+version = "MTxUvPFz"
+
+[option]
+optional = true
+default = false
+description = "Features that shouldn't be in Sodium.\nSodium Extra aims to bring most of OptiFine's eye-candy options to Sodium; in addition to providing some features such as visual bug fixes and other performance options that are not yet available on Sodium."

@@ -1,10 +1,10 @@
 {
-  "backgroundColor": 1184274,
+  "backgroundColor": 2236468,
   "logoOpacity": 1.0,
   "barOpacity": 1.0,
   "showTater": true,
-  "modsOnlyOnce": true,
-  "hideLibraries": false,
+  "modsOnlyOnce": false,
+  "hideLibraries": true,
   "modIdBlacklist": [
     "fabric-*",
     "fabric",
@@ -15,7 +15,7 @@
     "porting_lib",
     "porting_lib_*",
   ],
-  "iconSize": 48,
+  "iconSize": 64,
   "screenType": "SNOWFLAKES",
   "stackingConfig": {
     "cycleSeconds": 20

@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/l6YH9Als/versions/N7JzEApO/spark-1.10.34-fa
 hash-format = "sha1"
 hash = "aa67f7b653bf4b091d37732ced8cb858290ad2dc"
 
+[option]
+optional = true
+default = true
+description = "Performance impact: None\n\nDescription: spark is a performance profiler for Minecraft clients, servers and proxies."
+
 #[update]
 #[update.modrinth]
 #mod-id = "l6YH9Als"

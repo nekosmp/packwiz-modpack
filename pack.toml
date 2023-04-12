@@ -1,13 +1,16 @@
 name = "neko.smp"
 author = "Atakku"
-version = "1.2.3"
+version = "1.3.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ae1486356475ce13017eef5bc7f36498bc4624a4c5a0c7f42bbb193a3b6ac7cf"
+hash = "c9f9aa8192588a863deb979ec2bcd0e93697f865a4cb67180b7af5d3ba6ef2bc"
 
 [versions]
 fabric = "0.14.19"
 minecraft = "1.19.2"
+
+[options]
+acceptable-game-versions = ["1.19", "1.19.1", "1.19.2"]

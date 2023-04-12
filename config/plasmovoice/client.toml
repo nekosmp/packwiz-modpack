@@ -1,7 +1,0 @@
-debug = false
-
-[[key_bindings]]
-keys = []
-name = "key.plasmovoice.proximity.ptt"
-any_context = true
-category = "hidden"

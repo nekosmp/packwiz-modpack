@@ -9,6 +9,11 @@ customization-meta {
 }
 
 customization {
+  path = config/fancymenu/assets/background.png
+  action = texturizebackground
+}
+
+customization {
   keepaspectratio = false
   action = backgroundoptions
 }
@@ -139,7 +144,7 @@ customization {
   width = 165
   action = deep_customization_element:title_screen_branding
   actionid = 2ce515dc-77e2-4d6d-b1d2-4020fbb577fd1680229845526
-  y = 447
+  y = 677
   height = 10
 }
 
@@ -179,33 +184,21 @@ customization {
 }
 
 customization {
-  path = config/fancymenu/assets/title.png
-  orientation = top-centered
-  x = -150
-  width = 302
-  action = addtexture
-  actionid = 140320a0-4a33-4ae3-b1a0-31a6b235b96d1680236918133
-  y = 27
-  height = 48
-}
-
-customization {
   orientation = mid-centered
   loopbackgroundanimations = true
   restartbackgroundanimations = true
-  buttonaction = joinserver
+  buttonaction = joinserver;smp.neko.rs%btnaction_splitter_fm%
   x = -100
   width = 200
-  actionid = de1920ee-f263-4b9d-9a71-81731677332e1680239316180
   action = addbutton
+  actionid = de1920ee-f263-4b9d-9a71-81731677332e1680239316180
   y = -33
   label = Join Server
-  value = smp.neko.rs
   height = 20
 }
 
 customization {
-  orientation = top-centered
+  orientation = mid-centered
   basecolor = #ffff00
   shadow = true
   splashfilepath = config/fancymenu/assets/splashes.txt
@@ -214,10 +207,10 @@ customization {
   refresh = false
   bouncing = true
   vanilla-like = false
-  x = 61
+  x = 103
   actionid = b4be5d03-8afc-40b7-87ee-4332e9f54d941680241068204
   action = addsplash
-  y = 56
+  y = -66
 }
 
 customization {
@@ -245,5 +238,16 @@ customization {
   auto_cape = false
   is_baby = false
   height = 54
+}
+
+customization {
+  path = config/fancymenu/assets/title.png
+  orientation = mid-centered
+  x = -157
+  width = 314
+  action = addtexture
+  actionid = c8402578-2dbc-4a13-a245-f4d9f7a126471681255276795
+  y = -137
+  height = 100
 }
 
