@@ -441,17 +441,17 @@ metafile = true
 
 [[files]]
 file = "mods/nmc-menu-background.pw.toml"
-hash = "4941f96d8645a3bac89d4f545bf487508cb0007cbaa6e0dd238c49cbc2abd39c"
+hash = "bee27802ac86eec3406f63e454c3edcf009345013ca0712728ee5d11771a12bb"
 metafile = true
 
 [[files]]
 file = "mods/nmc-menu-music.pw.toml"
-hash = "0f1c02356be79f1bf63ce1d3405483dced18bb8d9ed0a0ae46d0fc4901adcd38"
+hash = "c364290b96a492cbe261fc9bfc334108663fbf4c52339b6528d3e326eb5e1f86"
 metafile = true
 
 [[files]]
 file = "mods/nmc-no-border-gen.pw.toml"
-hash = "dde9131b9124e54f6a7c7e7ddc454fec6680079a52c5a351c0e8d05fbd8a29c0"
+hash = "049d8982fc3d0ccbc2516a2400ca20d80a8637b8d67066f414347aedfbe792b0"
 metafile = true
 
 [[files]]

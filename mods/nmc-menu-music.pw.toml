@@ -8,6 +8,6 @@ default = true
 description = "Performance impact: None\n\nDescription: Changes main menu sound definition to include all music in Minecraft, including disks"
 
 [download]
-url = "https://raw.githubusercontent.com/nekosmp/nsmp-mods/main/nmc-menu-music-0.0.1.jar"
+url = "https://raw.githubusercontent.com/nekosmp/nsmp-mods-old/main/nmc-menu-music-0.0.1.jar"
 hash-format = "sha1"
 hash = "3533047375d0275097aa3f389a98ea68d3ce8bc0"
