@@ -30,7 +30,7 @@ hash = "cdbb85eda9e20ba965eeb4bddfba404742b4ac7b4f7e479b9b00bf06f65aa41a"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "8fd3c69e8940a419e4c876697dce44aa5e0dabd19d5a3a0eeffbd287a98666cb"
+hash = "6479239ed088573530efd6d72f1df6341133a728032275c16f07db20f39f4ae7"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -50,11 +50,11 @@ hash = "0f5e08d07171c8ed6b0f8217988f8e22a3c8b2e90c37f83a75f853e8a1abc585"
 
 [[files]]
 file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
-hash = "ca97e2e43b6e57e0f76bc3e2d4fff4166bf5f76c43db70aacf8f5464ddc07893"
+hash = "63d03c44fa1c1229c96a578bd869aa5625fa07431e1e41bf699cbe7e04ca6ad4"
 
 [[files]]
 file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
-hash = "4187eab6ebcac0cf713cf0c08631b6ba538b35e4a477cc6c608ca928449b5d8f"
+hash = "739912fd8ba9e91b0beafd84f067af1a5c7106bb0b59ca0d1bedfeb570021f8a"
 
 [[files]]
 file = "config/moderate-loading-screen.json5"
@@ -77,6 +77,11 @@ preserve = true
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "71ca591d551e02a5c5f84d4b6926a1b0a80b81475b3cd65c78931b897f000e2d"
+metafile = true
+
+[[files]]
+file = "mods/advancement-screenshot.pw.toml"
+hash = "e57c38dfdefea2e0f7ac6eab387f902263e019a2cdf8dd31a320fa6b8b90ff65"
 metafile = true
 
 [[files]]
@@ -210,6 +215,11 @@ hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "ec9dcdc4cf6f7208534c58834c64d30aa1c38e7f0c99c8c12eaa608edf230011"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "984741a3b4d5612df37b81d7349dd1f130257eaf7d94d95b72ce43fff9411885"
 metafile = true
@@ -231,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-track-map.pw.toml"
-hash = "2b066662a900116e940b00e7ea265d36824ad90efdba52dce00b081051d54244"
+hash = "dfa45c0bd222bd7a708fbb4046638a13c34d5aa617a7e2b6377dd2b32abc0882"
 metafile = true
 
 [[files]]
@@ -242,6 +252,11 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "d1581cf1e2fb4d3feb2b608d1eb7567f7d95d4a5e79eaa6e2ee87d1304cf0d88"
+metafile = true
+
+[[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "8d8ba1d500070cac1b9961d78e2fd90d973cee01d373175d64e3250aa1d3b2c7"
 metafile = true
 
 [[files]]
@@ -522,6 +537,11 @@ metafile = true
 [[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "5cfb97de6456ead37fa3e8739d89a53034a2079d57d34ad3c7eeebcbf6bead1d"
+metafile = true
+
+[[files]]
+file = "mods/server-chat-history.pw.toml"
+hash = "d0fc643e099e25a108693492f6f88913801dc96c52bb91d6ecc53fcdd1bb98d5"
 metafile = true
 
 [[files]]
