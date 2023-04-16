@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/ITYIgKth/versions/YOu7lXGn/nsmp-mmcz-0.1.0%
 hash-format = "sha1"
 hash = "562f623e435b56e429cf6218f01e4901ba35d05b"
 
+[option]
+optional = true
+default = true
+
 [update]
 [update.modrinth]
 mod-id = "ITYIgKth"
