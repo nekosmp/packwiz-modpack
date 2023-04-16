@@ -465,13 +465,18 @@ hash = "df8d964a850c5bad7e9c547d518d1de802adee22b6c9070e72700e6c3e32751e"
 metafile = true
 
 [[files]]
+file = "mods/nsmp-ae2.pw.toml"
+hash = "91b91aaa74949e19385ab608f765d547cf335aed1de59d731cff43823a113f76"
+metafile = true
+
+[[files]]
 file = "mods/nsmp-mmcz.pw.toml"
-hash = "729c4e14716a7d01403daf25a682a7be04db97a312d4d005ebe3ef779ec4ff6c"
+hash = "2c6507dc1d829cc55e948d66958f7f52bd85d02eae648bdae5dd9ea94522a3a6"
 metafile = true
 
 [[files]]
 file = "mods/nsmp-napi.pw.toml"
-hash = "2ab0653b41c88733f8541ed9a6db0d4106d21304b7f62476860f592aed3652e0"
+hash = "c24856c375d9e1ffc93f5ad854cb4ca557ea561b937465b3c278faed6435db04"
 metafile = true
 
 [[files]]

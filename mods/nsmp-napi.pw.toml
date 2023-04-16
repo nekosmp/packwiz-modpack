@@ -1,4 +1,4 @@
-name = "[nsmp] NApi"
+name = "NApi"
 filename = "nsmp-napi-0.1.0+1.19.2-fabric.jar"
 side = "both"
 
