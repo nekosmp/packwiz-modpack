@@ -465,6 +465,16 @@ hash = "df8d964a850c5bad7e9c547d518d1de802adee22b6c9070e72700e6c3e32751e"
 metafile = true
 
 [[files]]
+file = "mods/nsmp-mmcz.pw.toml"
+hash = "729c4e14716a7d01403daf25a682a7be04db97a312d4d005ebe3ef779ec4ff6c"
+metafile = true
+
+[[files]]
+file = "mods/nsmp-napi.pw.toml"
+hash = "2ab0653b41c88733f8541ed9a6db0d4106d21304b7f62476860f592aed3652e0"
+metafile = true
+
+[[files]]
 file = "mods/numismatic-overhaul.pw.toml"
 hash = "d58ceb4fda1dd143a01336569f57951e7d77656034f7bc296c96f26a0e7ac671"
 metafile = true

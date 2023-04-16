@@ -1,0 +1,13 @@
+name = "[nsmp] NApi"
+filename = "nsmp-napi-0.1.0+1.19.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AtZiX0Zu/versions/NtGIWNug/nsmp-napi-0.1.0%2B1.19.2-fabric.jar"
+hash-format = "sha1"
+hash = "0840ededcb1a43e0fa104670e0ce3353e114afb7"
+
+[update]
+[update.modrinth]
+mod-id = "AtZiX0Zu"
+version = "NtGIWNug"

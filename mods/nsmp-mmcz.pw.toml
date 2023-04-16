@@ -1,0 +1,13 @@
+name = "[nsmp] MMCZ"
+filename = "nsmp-mmcz-0.1.0+1.19.2-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ITYIgKth/versions/YOu7lXGn/nsmp-mmcz-0.1.0%2B1.19.2-fabric.jar"
+hash-format = "sha1"
+hash = "562f623e435b56e429cf6218f01e4901ba35d05b"
+
+[update]
+[update.modrinth]
+mod-id = "ITYIgKth"
+version = "YOu7lXGn"
