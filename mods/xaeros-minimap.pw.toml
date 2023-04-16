@@ -1,18 +1,18 @@
 name = "Xaero's Minimap"
-filename = "Xaeros_Minimap_23.3.3_Fabric_1.19.1.jar"
+filename = "Xaeros_Minimap_23.4.0_Fabric_1.19.1.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "0427baf7e4cb8a8542d4d7beea832c8022659272"
+hash = "f8c8c61877cd83c309d78c86655e5632208629af"
 mode = "metadata:curseforge"
-
-[option]
-optional = true
-default = true
-description = "Performance impact: Minimal\n\nDescription: Unlike many other minimap mods, Xaero's minimap keeps the aesthetic of vanilla Minecraft, which helps it be a more seamless addition to the game. It is also the first rotating square minimap for Minecraft. Among a wide variety of customization settings, there is an option for a circle-shaped minimap and a separate setting for locking the minimap's rotation (using a direction arrow instead)."
 
 [update]
 [update.curseforge]
-file-id = 4470056
+file-id = 4492931
 project-id = 263420
+
+[option]
+optional = true
+description = "Performance impact: Minimal\n\nDescription: Unlike many other minimap mods, Xaero's minimap keeps the aesthetic of vanilla Minecraft, which helps it be a more seamless addition to the game. It is also the first rotating square minimap for Minecraft. Among a wide variety of customization settings, there is an option for a circle-shaped minimap and a separate setting for locking the minimap's rotation (using a direction arrow instead)."
+default = true
