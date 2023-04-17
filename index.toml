@@ -170,11 +170,6 @@ hash = "bba77af18100c8adf8636b5ac06fb94f5b41a55598ac23ae61aa41e222d9fe0f"
 metafile = true
 
 [[files]]
-file = "mods/capes.pw.toml"
-hash = "84dcc199690e8dcb5bf177ce23b24e587331c57bc36561bcc570fcbfb8ef521c"
-metafile = true
-
-[[files]]
 file = "mods/carpet.pw.toml"
 hash = "1a9a74b1daf966121b0b25af28259c7c35a7ab0b0b37f0f6c056a84813982468"
 metafile = true
@@ -322,6 +317,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+hash = "844688a85c629939d311cf16000c861cd6921125ff5c58ce2dd296a980bea3d7"
 metafile = true
 
 [[files]]
@@ -557,6 +557,11 @@ metafile = true
 [[files]]
 file = "mods/server-chat-history.pw.toml"
 hash = "d0fc643e099e25a108693492f6f88913801dc96c52bb91d6ecc53fcdd1bb98d5"
+metafile = true
+
+[[files]]
+file = "mods/show-me-your-skin.pw.toml"
+hash = "29697f65ac1f689091748d43ea89f63d69dc3cd1b89ea60ccb9a8e6d45dff54a"
 metafile = true
 
 [[files]]
