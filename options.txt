@@ -13,3 +13,5 @@ key_gui.xaero_new_waypoint:key.keyboard.b
 key_gui.xaero_open_map:key.keyboard.x
 key_zoomify.key.zoom:key.keyboard.c
 key_key.socialInteractions:key.keyboard.unknown
+key_key.craftpresence.config_keycode.name:key.keyboard.unknown
+key_key.amecs.toggle_auto_jump:key.keyboard.unknown

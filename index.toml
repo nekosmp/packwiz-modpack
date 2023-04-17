@@ -75,6 +75,16 @@ file = "config/rightclickharvest.json"
 hash = "eb925cdde8d4f09dab91b825960d48153933f7c42bb4f053e35d4b663136d19d"
 
 [[files]]
+file = "config/roughlyenoughitems/changelog.txt"
+hash = "ce66b50cd2caed7aa91f6044e0cd363f13b71a6b979d532a42fa7bbc3782f927"
+preserve = true
+
+[[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "fddd01da048061f420abced5eaa7f73290ab8421d5bed7053682aa7f5f08cc7a"
+preserve = true
+
+[[files]]
 file = "config/shulkerboxtooltip.json5"
 hash = "9031a001df51dc0c5f9f67e88d7145074e214f9313a2cb097fcade317d8dec24"
 preserve = true
@@ -107,6 +117,11 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "4d571d5ebe245ffb62a0df83e81d1c03670807d3528650d6dd9c983bd26ae860"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "843fefd7cf34bfe36b1fb2b6dc35ddfe44db53e23637d6b2674a7fb4e05e803f"
 metafile = true
 
 [[files]]
@@ -267,16 +282,6 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "ffece4b0d993b1b71d01aacea74925d071dbdc29424cb0d3adfd48ef9c4a7fb4"
-metafile = true
-
-[[files]]
-file = "mods/emi.pw.toml"
-hash = "bb46340a12733003853038beabc4881bd90a50bf3dad99c2dd71e1bfa34cee4b"
-metafile = true
-
-[[files]]
-file = "mods/emicompat.pw.toml"
-hash = "b37f9a42c52b2bb10cf977991fd7baec6642cc73791d48b74a9ffeafc0a5c571"
 metafile = true
 
 [[files]]
@@ -550,6 +555,11 @@ hash = "72ba73fd6a1adfdd3513af909dd2a742cdf66ccabd3fa8655cf99f6313421f0f"
 metafile = true
 
 [[files]]
+file = "mods/rei.pw.toml"
+hash = "f37d98015547fa4c5c392eec612376bebf6af9ed83cde466938bebf60c7ab68d"
+metafile = true
+
+[[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "eb7d098a1b5e6e0cfb014073b5b3db6330f88b593ddc81f0d6c320cfa94178b9"
 metafile = true
@@ -676,7 +686,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "45849f78c4d54e12d80eb4a24ede8594bddf3ad019c28714d33605f98815fe06"
+hash = "7a84473f0fe8ffb48e267b0a0f4d8904f182a5be38d026b9f125cb3156adfab6"
 preserve = true
 
 [[files]]
