@@ -1,7 +1,7 @@
 name = "nsmp-ae2"
-filename = "nsmp-ae2-0.0.4.jar"
+filename = "nsmp-ae2-0.0.5.jar"
 
 [download]
-url = "https://github.com/nekosmp/nsmp-ae2/releases/download/0.0.4/nsmp-ae2-0.0.4.jar"
+url = "https://github.com/nekosmp/nsmp-ae2/releases/download/0.0.5/nsmp-ae2-0.0.5.jar"
 hash-format = "sha1"
-hash = "e7c22509a085dea952c94b5fcc60aff0728f8887"
+hash = "04a2b7e13249473e929bed18bc1548df29f955e9"
