@@ -113,7 +113,8 @@
 	#If an option is in neither of the configurable option lists, then the value in the default player config is used across the server.
 	#Check the default player config .toml file for the option names.
 	opConfigurablePlayerConfigOptions = [
-		"claims.bonusChunkClaims"
+		"claims.bonusChunkClaims",
+		"claims.bonusChunkForceloads"
 	]
 
 	[serverConfig.parties]
