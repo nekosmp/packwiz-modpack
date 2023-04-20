@@ -85,6 +85,10 @@ hash = "fddd01da048061f420abced5eaa7f73290ab8421d5bed7053682aa7f5f08cc7a"
 preserve = true
 
 [[files]]
+file = "config/seasons.json"
+hash = "37b50df0925acb18b48635c222f707db7c7db0fc11a9e7b74822c4fba3bc7a02"
+
+[[files]]
 file = "config/shulkerboxtooltip.json5"
 hash = "9031a001df51dc0c5f9f67e88d7145074e214f9313a2cb097fcade317d8dec24"
 preserve = true
