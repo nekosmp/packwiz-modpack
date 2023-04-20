@@ -256,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-track-map.pw.toml"
-hash = "dfa45c0bd222bd7a708fbb4046638a13c34d5aa617a7e2b6377dd2b32abc0882"
+hash = "2619e7c5de58b102047e6035e597e40a8c78ecb6c017e3aa7ceb1676cf997c2b"
 metafile = true
 
 [[files]]
@@ -305,6 +305,16 @@ hash = "62360beac5e427be02b732421c9e4fe53819bc6f5e2cc821fd6f2d9278c5485b"
 metafile = true
 
 [[files]]
+file = "mods/fabric-seasons-byg-compat.pw.toml"
+hash = "184db6c4677f168c8e4dffaa3067f73bbfc6f0a74906b17d67b7cc5bd04b2471"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons.pw.toml"
+hash = "9cbc9c0e1012f08349ada76ace1e36db8b9d17f43a6203be4b519a721fe986b9"
+metafile = true
+
+[[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "014635eb4a0aa6e8526965339d65bf34a5d3b604fb8f46c9989c292718291f5f"
 metafile = true
@@ -316,7 +326,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "cd5df872ac8006b45baeb780c8dd8e65ce3ad1bfea533bf3386880de06e14795"
+hash = "dda9b99fb0bb17bc7a24f94b0a86cff89afaa6c2e6c85a95bf361a8814ad08c3"
 metafile = true
 
 [[files]]
@@ -347,6 +357,11 @@ metafile = true
 [[files]]
 file = "mods/i-know-what-im-doing.pw.toml"
 hash = "4d5ba48582c7b2136f19ec3152732cda15ce49ce06beb2d98d64dd605df5bcd4"
+metafile = true
+
+[[files]]
+file = "mods/immersive-snow.pw.toml"
+hash = "fdd7626de4d08dbd2c7b204e0e1205fcfa08a74775c2901ab675b92b8138772e"
 metafile = true
 
 [[files]]
@@ -556,7 +571,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "f37d98015547fa4c5c392eec612376bebf6af9ed83cde466938bebf60c7ab68d"
+hash = "8d8b64a366a91efd9174ee9fc511eb160089c6b8f465bef1d4e5981ce4fcbcdc"
 metafile = true
 
 [[files]]

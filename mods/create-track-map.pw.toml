@@ -1,13 +1,13 @@
 name = "Create Track Map"
-filename = "create-track-map-1.1+mc1.19.2.jar"
+filename = "create-track-map-1.2+mc1.19.2-fabric.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/gxoNIjg6/versions/MM9j41Pu/create-track-map-1.1%2Bmc1.19.2.jar"
+url = "https://cdn.modrinth.com/data/gxoNIjg6/versions/J5Q4TzSK/create-track-map-1.2%2Bmc1.19.2-fabric.jar"
 hash-format = "sha1"
-hash = "8511f09ca8a8f9ec5f1599d05dfc55d6a7e414e9"
+hash = "b41a7875a83ce04994b2ddb2ca4addc456b3deab"
 
 [update]
 [update.modrinth]
 mod-id = "gxoNIjg6"
-version = "MM9j41Pu"
+version = "J5Q4TzSK"
