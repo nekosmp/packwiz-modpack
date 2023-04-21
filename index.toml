@@ -260,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-track-map.pw.toml"
-hash = "2619e7c5de58b102047e6035e597e40a8c78ecb6c017e3aa7ceb1676cf997c2b"
+hash = "ba6df17d242b21f6a70817c7a2e0f0e62cf5ceb4939023fba681686373dae8fe"
 metafile = true
 
 [[files]]
@@ -330,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "dda9b99fb0bb17bc7a24f94b0a86cff89afaa6c2e6c85a95bf361a8814ad08c3"
+hash = "02d5d2e2cc9cb05c64ab8611ba8f1c80ea3562234dd6f8f9d8a068c1b0e15b33"
 metafile = true
 
 [[files]]
@@ -550,7 +550,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "0568443a68c429253e10bee7655f0baf669f1fd8dd06b39cb83423f6c522cadc"
+hash = "269545a61478d0c92f3beecb5c41e3d0580b8a2efe204412d8f4e4734337fada"
 metafile = true
 
 [[files]]
@@ -595,7 +595,7 @@ metafile = true
 
 [[files]]
 file = "mods/show-me-your-skin.pw.toml"
-hash = "29697f65ac1f689091748d43ea89f63d69dc3cd1b89ea60ccb9a8e6d45dff54a"
+hash = "92b3144e8cceb6193ec498088fc74920a39be26b4a7ffbd1079a103245f05c0a"
 metafile = true
 
 [[files]]
