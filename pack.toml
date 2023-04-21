@@ -1,12 +1,12 @@
 name = "neko.smp"
 author = "Atakku"
-version = "1.5.2"
+version = "1.5.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f8ade2f7025fe6b54280d3cc86f9b376300119b3b23d05e1a65e8fc0da0d8b3c"
+hash = "d89fe3bae0e57057085351219bf24171fb68f3248cb2ae380c9180cb204d4a03"
 
 [versions]
 fabric = "0.14.19"
