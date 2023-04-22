@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "38eb236e5f8665d91bcf548481cfffed432e88f03ba8901e4d5bdca394f80778"
+hash = "6e22dda1115a32e5b6add12de3e46f8638f733e3c75ccf4949a83c5d03c418a5"
 metafile = true
 
 [[files]]
@@ -330,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "02d5d2e2cc9cb05c64ab8611ba8f1c80ea3562234dd6f8f9d8a068c1b0e15b33"
+hash = "031a4087367fb30fa3760c3cdf522abb02f78a2aa751b4009b80f14c7f6af4a4"
 metafile = true
 
 [[files]]
@@ -651,6 +651,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "a91685c7ac5ad42b2a378fb71b8efacb89a306cd6fcc0d591ab52ccf693f4005"
 metafile = true
 
 [[files]]
