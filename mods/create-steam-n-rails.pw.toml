@@ -1,8 +1,0 @@
-name = "Create: Steam 'n' Rails"
-filename = "Steam_Rails-1.2.2+fabric-mc1.19.2.jar"
-side = "both"
-
-[download]
-url = "https://github.com/nekosmp/Railway/releases/download/1.2.2/Steam_Rails-1.2.2+fabric-mc1.19.2.jar"
-hash-format = "sha1"
-hash = "d9dd28f9c278fcd0943df3cebdf2250bdcdf1671"
