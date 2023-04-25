@@ -254,8 +254,18 @@ hash = "f607326c12ffa1b5d0915673095ee505acc8a568d976f3ad41d918868fce9aeb"
 metafile = true
 
 [[files]]
+file = "mods/create-deco-fabric.pw.toml"
+hash = "19d7a6c74d602cd7fec2506804bd703359d9074f9ee9e40b8c061fc192c27a75"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "d3b6493205ea43ac22c65a229b2be0611f4c947c2180364fd5881bdef74f0104"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "e3494400900128224cc0583ceb006130086eec376ac328836b8aed4d3ae9d588"
 metafile = true
 
 [[files]]
@@ -600,7 +610,7 @@ metafile = true
 
 [[files]]
 file = "mods/show-me-your-skin.pw.toml"
-hash = "92b3144e8cceb6193ec498088fc74920a39be26b4a7ffbd1079a103245f05c0a"
+hash = "e3a06fd4f4c93c0f0bf1940750485dede186e041c97a4c307fd08eeba49c1676"
 metafile = true
 
 [[files]]
