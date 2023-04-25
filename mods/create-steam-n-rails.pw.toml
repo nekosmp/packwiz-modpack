@@ -3,11 +3,6 @@ filename = "Steam_Rails-1.2.2+fabric-mc1.19.2.jar"
 side = "both"
 
 [download]
+url = "https://github.com/nekosmp/Railway/releases/download/1.2.2/Steam_Rails-1.2.2+fabric-mc1.19.2.jar"
 hash-format = "sha1"
-hash = "f100e82afc87da1788d6ef4fcedd3d7f81d52a6e"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 4504511
-project-id = 688231
+hash = "d9dd28f9c278fcd0943df3cebdf2250bdcdf1671"
