@@ -1,18 +1,18 @@
 name = "Better Statistics Screen (Fabric/Forge)"
-filename = "betterstats-2.4+1.19.2.jar"
+filename = "betterstats-2.6+1.19.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/n6PXGAoM/versions/oCC1YLFI/betterstats-2.4%2B1.19.2.jar"
+url = "https://cdn.modrinth.com/data/n6PXGAoM/versions/vsM2NrtL/betterstats-2.6%2B1.19.2.jar"
 hash-format = "sha1"
-hash = "2dfbb41983fccdc22813fd39ae6e7b54c5c3f324"
-
-[option]
-optional = true
-default = true
-description = "Performance impact: None\n\nDescription: BetterF3 is a mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD. You can customize colors, position, add spacings, and more."
+hash = "4c3cfc876408119592bd6cb8873ebcaaa0398c13"
 
 [update]
 [update.modrinth]
 mod-id = "n6PXGAoM"
-version = "oCC1YLFI"
+version = "vsM2NrtL"
+
+[option]
+optional = true
+description = "Performance impact: None\n\nDescription: BetterF3 is a mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD. You can customize colors, position, add spacings, and more."
+default = true

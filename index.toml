@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "d45c9a0de4f5462f458bc55b828e0624afaadf99a7520875dcd31ab90554bf55"
+hash = "f241c7e78d1d1b62726c733e45a7824583aa1272a6c1f7c60091677baa00175b"
 metafile = true
 
 [[files]]
@@ -260,12 +260,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "d3b6493205ea43ac22c65a229b2be0611f4c947c2180364fd5881bdef74f0104"
+hash = "d704cac0396798f84364471332c1d956a99433aa6dc55005153cffc5e31db262"
 metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "c75dd26cb1d658f10903bb78d1910b7701b181da91915c19e45e2a40ce45e75e"
+hash = "8d03cff468c91772a76e3d52e4b81f8c0a29d0038f408a4be88d857568a2914a"
 metafile = true
 
 [[files]]
@@ -315,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "62360beac5e427be02b732421c9e4fe53819bc6f5e2cc821fd6f2d9278c5485b"
+hash = "7be1e122e9ef8f1b7f2df9ffccf02cf83a52d0a53ae5ba7d07ea7bd3cc149101"
 metafile = true
 
 [[files]]
@@ -695,7 +695,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "33182a32e49cacb0e697b8fb9b114fed222af3877422b6a06d3103716ebb1b9b"
+hash = "643e00c0248a7630520b3ba78ba094c20298640203dc5e08e30899ffb13015e5"
 metafile = true
 
 [[files]]
