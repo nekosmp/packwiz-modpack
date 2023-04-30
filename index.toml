@@ -239,6 +239,11 @@ hash = "ec9dcdc4cf6f7208534c58834c64d30aa1c38e7f0c99c8c12eaa608edf230011"
 metafile = true
 
 [[files]]
+file = "mods/concrete-plus.pw.toml"
+hash = "431dea54f25b5c02a3948833b03b7754f67d51efaa044bc6004821c731f85743"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "984741a3b4d5612df37b81d7349dd1f130257eaf7d94d95b72ce43fff9411885"
 metafile = true
