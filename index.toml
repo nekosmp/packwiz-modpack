@@ -125,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "843fefd7cf34bfe36b1fb2b6dc35ddfe44db53e23637d6b2674a7fb4e05e803f"
+hash = "fdea52d254e5318fe4884301ca865356ade3f685798548aaa23804b25ff01ca1"
 metafile = true
 
 [[files]]
@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "f241c7e78d1d1b62726c733e45a7824583aa1272a6c1f7c60091677baa00175b"
+hash = "a5c90dc964da685331dbe9ae1e55ce93713f035640c15d3ae595ae6edad4606f"
 metafile = true
 
 [[files]]
@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "6e22dda1115a32e5b6add12de3e46f8638f733e3c75ccf4949a83c5d03c418a5"
+hash = "74613d432d2bfa068db51332b7c1ba4bd891a7e2248892bbb3dea8415206dc99"
 metafile = true
 
 [[files]]
@@ -250,12 +250,12 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "f607326c12ffa1b5d0915673095ee505acc8a568d976f3ad41d918868fce9aeb"
+hash = "84749684438517b81ef90bb3b28353a6ef32e3e8b9e94ecad38b1c32ffb19eb9"
 metafile = true
 
 [[files]]
 file = "mods/create-deco-fabric.pw.toml"
-hash = "19d7a6c74d602cd7fec2506804bd703359d9074f9ee9e40b8c061fc192c27a75"
+hash = "ae5f3899809a6dfc05d5b123872a49c1ebac752f2057045532307a3944a25f3a"
 metafile = true
 
 [[files]]
@@ -325,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-seasons.pw.toml"
-hash = "9cbc9c0e1012f08349ada76ace1e36db8b9d17f43a6203be4b519a721fe986b9"
+hash = "7dd3a5ab216b53e7711060065fea18c1a1ad556eed92adc5ef1730dda7033b79"
 metafile = true
 
 [[files]]
@@ -385,7 +385,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "b0354ff5e9238302186f671d27dbc3744fc2adf83d4c3320efda12d9091ccee7"
+hash = "a17bc550594a0397b44c4f24084bfa0b3e91e4ab24b7564921717410c15e95ff"
 metafile = true
 
 [[files]]
@@ -395,7 +395,7 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete.pw.toml"
-hash = "04646a63e96ed574af1d8ce11451c466688d4473b79faf0883b42ab4ab30a1b7"
+hash = "cb3c97f308902677efda6da5f6bbfaef669b26ca86a765deaab43df305246118"
 metafile = true
 
 [[files]]
@@ -700,12 +700,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "e1fd7d7b564e5a2b7131be51e99877afdd279c8a8f5884a45c60e5463e702a23"
+hash = "2fbcd367d954a8bfb606c8ce05e5f4f990b7647345c6c543169e6e287e068bad"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "ba9054f6d2722fa7f596eba38f77e7e95ac63757ab9aa55142d5014c8f2ee82b"
+hash = "2bea61192721d44193490bf81660e4b8bf7e163c3df5783e96b71151315e9397"
 metafile = true
 
 [[files]]

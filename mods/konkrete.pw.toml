@@ -1,13 +1,13 @@
 name = "Konkrete"
-filename = "konkrete_fabric_1.6.0_MC_1.19.1-1.19.2.jar"
+filename = "konkrete_fabric_1.6.1_MC_1.19.1-1.19.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/J81TRJWm/versions/OJaX8Ruf/konkrete_fabric_1.6.0_MC_1.19.1-1.19.2.jar"
+url = "https://cdn.modrinth.com/data/J81TRJWm/versions/pz9SoIJL/konkrete_fabric_1.6.1_MC_1.19.1-1.19.2.jar"
 hash-format = "sha1"
-hash = "4317c1801cb1ea88107e65cc571c86a4a70aa514"
+hash = "fb12af8874a9ea41899321f914ee1cd817603881"
 
 [update]
 [update.modrinth]
 mod-id = "J81TRJWm"
-version = "OJaX8Ruf"
+version = "pz9SoIJL"
