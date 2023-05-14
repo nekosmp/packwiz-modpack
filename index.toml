@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "a5c90dc964da685331dbe9ae1e55ce93713f035640c15d3ae595ae6edad4606f"
+hash = "e2fd6a3ec2688326a9061b33383185f938de7aeab8be94e649cb39335ca979fb"
 metafile = true
 
 [[files]]
@@ -325,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-seasons.pw.toml"
-hash = "7dd3a5ab216b53e7711060065fea18c1a1ad556eed92adc5ef1730dda7033b79"
+hash = "fc11b8c7166b382a8239814e8eb35310d81801b6311fa2be08ada0c8063624ec"
 metafile = true
 
 [[files]]
@@ -595,7 +595,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "eb7d098a1b5e6e0cfb014073b5b3db6330f88b593ddc81f0d6c320cfa94178b9"
+hash = "44e9de6f61164aea315b8e452bbaa05bb7bec5ff5382e9b44d336591f59b3d2c"
 metafile = true
 
 [[files]]
@@ -695,17 +695,17 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "643e00c0248a7630520b3ba78ba094c20298640203dc5e08e30899ffb13015e5"
+hash = "0e4fde9625ae0e2da13b42e96affc7788828f01d5abddba765fcb669e7aa4ddb"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "2fbcd367d954a8bfb606c8ce05e5f4f990b7647345c6c543169e6e287e068bad"
+hash = "39ce9daa374c84aece5b4563821c27fe3dc3a8e1a3f1e0184f5f38fd76980b93"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "2bea61192721d44193490bf81660e4b8bf7e163c3df5783e96b71151315e9397"
+hash = "866ba38062bb3c95c9c569da32c59c0932077478ee742d79bb5a976476dc5ce0"
 metafile = true
 
 [[files]]
