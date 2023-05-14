@@ -86,7 +86,7 @@ preserve = true
 
 [[files]]
 file = "config/seasons.json"
-hash = "37b50df0925acb18b48635c222f707db7c7db0fc11a9e7b74822c4fba3bc7a02"
+hash = "be83b774552ab73f3201140321ae8a66151036e320d4064e455748ce55b51c16"
 
 [[files]]
 file = "config/shulkerboxtooltip.json5"
@@ -733,4 +733,4 @@ hash = "e3d40b86690e26b2b6f8252947b72e5d571906980e9967292dd027e37bb257b0"
 
 [[files]]
 file = "world/serverconfig/openpartiesandclaims-server.toml"
-hash = "202798cf122d004ee5e951af26952c234c2337f2c6b408a398a2720bb0a2bd8b"
+hash = "0f3b8d6521ff86f61223a1e3b32ef1520a32a5553e6aa23cb573b7c9dec0da94"
