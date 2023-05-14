@@ -413,7 +413,8 @@
 				"minecraft:firework_rocket",
 				"computercraft:pocket_computer_(normal|advanced)",
 				"minecraft:(written|writable)_book",
-				"ae2:wireless(_crafting)?_terminal",
+				"ae2:wireless_terminal",
+				"ae2:wireless_crafting_terminal",
 				"ae2:biometric_card"
 			]
 			#Custom groups of items that a player/claim config should be able to make protection exceptions for. Each group can consist of multiple items and item tags.
