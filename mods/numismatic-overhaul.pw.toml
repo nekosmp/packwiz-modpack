@@ -7,7 +7,7 @@ url = "https://cdn.modrinth.com/data/ZXm8hVxN/versions/byjB2dk6/numismatic-overh
 hash-format = "sha1"
 hash = "fa047e540e09801304de9f15acda43faba61dd59"
 
-#[update]
-#[update.modrinth]
-#mod-id = "ZXm8hVxN"
-#version = "byjB2dk6"
+[update]
+[update.modrinth]
+mod-id = "ZXm8hVxN"
+version = "byjB2dk6"

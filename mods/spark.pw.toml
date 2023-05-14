@@ -1,18 +1,18 @@
 name = "spark"
-filename = "spark-1.10.34-fabric.jar"
+filename = "spark-1.10.37-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/l6YH9Als/versions/N7JzEApO/spark-1.10.34-fabric.jar"
+url = "https://cdn.modrinth.com/data/l6YH9Als/versions/XhFbpH8f/spark-1.10.37-fabric.jar"
 hash-format = "sha1"
-hash = "aa67f7b653bf4b091d37732ced8cb858290ad2dc"
+hash = "11ca9a59e95b50a9cbfb3b1e14b8bfd7cfa7e31c"
 
 [option]
 optional = true
 default = true
 description = "Performance impact: None\n\nDescription: spark is a performance profiler for Minecraft clients, servers and proxies."
 
-#[update]
-#[update.modrinth]
-#mod-id = "l6YH9Als"
-#version = "N7JzEApO"
+[update]
+[update.modrinth]
+mod-id = "l6YH9Als"
+version = "XhFbpH8f"

@@ -520,12 +520,7 @@ metafile = true
 
 [[files]]
 file = "mods/numismatic-overhaul.pw.toml"
-hash = "d58ceb4fda1dd143a01336569f57951e7d77656034f7bc296c96f26a0e7ac671"
-metafile = true
-
-[[files]]
-file = "mods/numismaticclaim.pw.toml"
-hash = "a6e33b66290b80281b0da1d0837631a1571d11c3ccc0a462b944fb25ac8bf4fc"
+hash = "1d93acb8fe0f4afc330701c2bb19e30ee91e54426b7c8ffca6e7c53bdecac9d0"
 metafile = true
 
 [[files]]
@@ -640,7 +635,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "ade5e54f7c04c5fe72d5b8ce1016f0893f56b6a8d1c7ff8ffcdfc64ad917693b"
+hash = "3d835724b49b57acde363e5e830689bdca212d1ff4ab25b2c7dec6590089dc83"
 metafile = true
 
 [[files]]
