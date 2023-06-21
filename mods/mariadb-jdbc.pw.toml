@@ -1,13 +1,13 @@
-name = "MariaDB JDBC (Fabric/Forge)"
-filename = "mariadb-jdbc-2.7.4+20211227-all.jar"
+name = "MariaDB JDBC"
+filename = "mariadb-jdbc-3.1.4+20230506-all.jar"
 side = "server"
 
 [download]
+url = "https://cdn.modrinth.com/data/Rn50PHM9/versions/2RGGABYP/mariadb-jdbc-3.1.4%2B20230506-all.jar"
 hash-format = "sha1"
-hash = "2379b0b590493f020b539f62e561ca95025b76cd"
-mode = "metadata:curseforge"
+hash = "3c49d74b8ffeb1fd742c36397ae8b8930f925f56"
 
 [update]
-[update.curseforge]
-file-id = 3586357
-project-id = 561883
+[update.modrinth]
+mod-id = "Rn50PHM9"
+version = "2RGGABYP"

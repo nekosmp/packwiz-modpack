@@ -1,18 +1,13 @@
 name = "Collective"
-filename = "collective-1.19.2-6.53.jar"
+filename = "collective-1.19.2-6.61.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/ODKDGTON/collective-1.19.2-6.53.jar"
+url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/GiHLPR1f/collective-1.19.2-6.61.jar"
 hash-format = "sha1"
-hash = "fdb545999dde092a17c56ba30491cdcdb6226f1e"
-
-[option]
-optional = true
-default = true
-description = "Dependency of Advancement Screenshot"
+hash = "3b3f9df268a902cdf4b5e30dfd35bc2b93da18da"
 
 [update]
 [update.modrinth]
 mod-id = "e0M1UDsY"
-version = "ODKDGTON"
+version = "GiHLPR1f"
