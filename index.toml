@@ -425,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr-fabric.pw.toml"
-hash = "de55e473653cdd5046f3f79220f6aa9d1cf0eccfe97e8902c72935d0bbb0272e"
+hash = "2056cbbc69741580c892bcc238ca54ad61f568ba726beb7380c216ef58e17eee"
 metafile = true
 
 [[files]]
