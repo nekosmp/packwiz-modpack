@@ -9,6 +9,10 @@ file = "config/craftpresence.json"
 hash = "b2ca7b261a487071731693ff83d96fab1bad0c667a13e36232321473e0c6a2f1"
 
 [[files]]
+file = "config/create-track.map.json"
+hash = "d4e19ba3eb29134851e083653977768ddf95c114743386df21acfdb4161fcfcf"
+
+[[files]]
 file = "config/fallingtree.json"
 hash = "b944ced3d58f8ad785b08cf8f4d9d2835a88ba74614ba70c8ee102b0a54dbdfb"
 
@@ -86,7 +90,7 @@ preserve = true
 
 [[files]]
 file = "config/seasons.json"
-hash = "be83b774552ab73f3201140321ae8a66151036e320d4064e455748ce55b51c16"
+hash = "62aa19d8f9decfdd329b5eaec3a0e8022ebd61013f327770a3153f8d46fd2954"
 
 [[files]]
 file = "config/shulkerboxtooltip.json5"
