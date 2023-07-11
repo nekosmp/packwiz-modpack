@@ -209,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/cccbridge.pw.toml"
-hash = "72a444170f6963bc57c323f98d01d22bdcd400be26a2bfd1d3d02ea34ad096de"
+hash = "4dcf5c66d30f78d3d84d2596149b457f7ab2021591e98f9d34b3636e8c961d60"
 metafile = true
 
 [[files]]
@@ -234,7 +234,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
+hash = "d1dc8ac9ea0e5aed978c464ff34e460924dfc44d518eece4abbbfb9a5d49abf8"
 metafile = true
 
 [[files]]
@@ -254,27 +254,27 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "19e87fd7f41d28c69dde54612c211d7064bfc58d941c53c0d9ece1e961f68c79"
+hash = "17275b95a85a9df3540cc79f2ef59836413249d03e2c649abc726d21f42ccf42"
 metafile = true
 
 [[files]]
 file = "mods/create-deco-fabric.pw.toml"
-hash = "ae5f3899809a6dfc05d5b123872a49c1ebac752f2057045532307a3944a25f3a"
+hash = "a2da82dff5c76651934a5a7fa6ba45cf876cb2da3e07ff15566c60498265fd25"
 metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "d704cac0396798f84364471332c1d956a99433aa6dc55005153cffc5e31db262"
+hash = "1458e4909039fdd41aeb1d7cc7c82fa6def77a48b29ab45f99a9248e05f1e8e1"
 metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "f149d011c5cd4f30da32a4c06f4e24a7b2f532f6cbae5f11a77609032c7174ec"
+hash = "d548306cf5dc3860d8c2fff876c41fa4ba65a7517f14c0c4fd651055ab3b6b8d"
 metafile = true
 
 [[files]]
 file = "mods/create-track-map.pw.toml"
-hash = "4b74d44c2456358257d7f5728a012bd3dbc1a761350c1fd169fc5e401c80cbb7"
+hash = "11dcef38596a6c3594f8c07ad8fb1b4dfe4d3b48ff34c4394811b7ebb366f640"
 metafile = true
 
 [[files]]
@@ -319,7 +319,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "4ee359a86da950211a8da17a896c815af7d35fd9c5b7d3472f3fd5676476ba81"
+hash = "de9b5bac4165fb069bf6df9da2bb6028d50dd51fa0d294f0fb62d1d0c64b707b"
 metafile = true
 
 [[files]]
@@ -504,7 +504,7 @@ metafile = true
 
 [[files]]
 file = "mods/nsmp-ae2.pw.toml"
-hash = "035529d1f133668dd4ef051324cf77e165098a0d65dcacbfe96c7c044c934e5a"
+hash = "0f46242646698ad0cd92ccf5b660bdbeaf4728ca5cc2031ad26ebd06ade3043c"
 metafile = true
 
 [[files]]
@@ -529,12 +529,12 @@ metafile = true
 
 [[files]]
 file = "mods/opac-fabric-create-support.pw.toml"
-hash = "766c74901386e7e1b8388b7792f3e43946151af25b90cea44815229b450b2746"
+hash = "5f9113ba8565bb1bbfc6534dbb3e0dcc767b721d534dd1a0f210f9ae16fb5d40"
 metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "9afe996ab07e8d2adadcb58a8ce39665277194c4c430607b04120612dd6f9925"
+hash = "36a0f51be98cd65d4a07bbd1ddce0059ed635409549a3f961433c460099b02db"
 metafile = true
 
 [[files]]
