@@ -263,6 +263,11 @@ hash = "a2da82dff5c76651934a5a7fa6ba45cf876cb2da3e07ff15566c60498265fd25"
 metafile = true
 
 [[files]]
+file = "mods/create-enchantment-industry-fabric.pw.toml"
+hash = "5193877e240226edc991c82d4d949979ca79f779e555f79093bf3ecbca942ee4"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "1458e4909039fdd41aeb1d7cc7c82fa6def77a48b29ab45f99a9248e05f1e8e1"
 metafile = true
@@ -349,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
-hash = "90e12faef274adbecb4f05de11dd9032c5bf986fe54e158ae9043c6b1cc7a6cf"
+hash = "ee9ec8acfb96b060f3caae3172651436f8388c39db630ba9a7112b8d0f290746"
 metafile = true
 
 [[files]]
@@ -610,6 +615,11 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "737dc9c05e78d419a4d733faf2d7a2a35c978b6a74cc8de06b3f7f9912c679b6"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "a4d3ff3da2ec18672889c279406ab6d01022e097d8d6a51c46256ddf6ebbb9df"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Farmer's Delight [Fabric]"
-filename = "farmers-delight-fabric-1.19.X-1.3.10-SNAPSHOT.jar"
+filename = "farmers-delight-fabric-1.19.2-1.3.10.jar"
 side = "both"
 
 [download]
-url = "https://github.com/nekosmp/farmers-delight-fabric/releases/download/1.19.2-1.3.10-SNAPSHOT/farmers-delight-fabric-1.3.10-SNAPSHOT.jar"
+url = "https://cdn.modrinth.com/data/4EakbH8e/versions/Zlgy4hSU/farmers-delight-fabric-1.19.2-1.3.10.jar"
 hash-format = "sha1"
-hash = "cc48453fd456a628d6d8d22346054d1ece8d5ca7"
+hash = "e332b0b0324581a63d2ce4866bbca80258d67f15"
 
-#[update]
-#[update.modrinth]
-#mod-id = "4EakbH8e"
-#version = "baQ9tohQ"
+[update]
+[update.modrinth]
+mod-id = "4EakbH8e"
+version = "Zlgy4hSU"
