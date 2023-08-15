@@ -363,11 +363,6 @@ hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
 metafile = true
 
 [[files]]
-file = "mods/figura.pw.toml"
-hash = "a38a1991d430fcc5c8e78121b3423e2998041e20dc3fa2e4e574da57f3545f8c"
-metafile = true
-
-[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "3a68d8f694877589b9d29bd7b44b590a123007f28142d0deed1ba34c9b90b51c"
 metafile = true
