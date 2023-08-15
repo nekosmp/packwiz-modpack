@@ -1,18 +1,18 @@
 name = "ClearDespawn"
-filename = "ClearDespawn-fabric-1.19.2-1.1.10.jar"
+filename = "ClearDespawn-fabric-1.19.2-1.1.11.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/yoJJjRRE/versions/tol35oV4/ClearDespawn-fabric-1.19.2-1.1.10.jar"
+url = "https://cdn.modrinth.com/data/yoJJjRRE/versions/RynPxbsG/ClearDespawn-fabric-1.19.2-1.1.11.jar"
 hash-format = "sha1"
-hash = "22cd35654012bbb6cb136d8152a51533ca3b1467"
-
-[option]
-optional = true
-default = true
-description = "Performance impact: Minimal\n\nDescription: Clear Despawn is a mod that makes dropped items flash when they're about to despawn. By default, this happens when the item has about 20 seconds left until despawn and the flashing gradually gets faster as the timer goes down."
+hash = "3791d142b30793e7c67555c45c5b3863b18238b2"
 
 [update]
 [update.modrinth]
 mod-id = "yoJJjRRE"
-version = "tol35oV4"
+version = "RynPxbsG"
+
+[option]
+optional = true
+description = "Performance impact: Minimal\n\nDescription: Clear Despawn is a mod that makes dropped items flash when they're about to despawn. By default, this happens when the item has about 20 seconds left until despawn and the flashing gradually gets faster as the timer goes down."
+default = true
