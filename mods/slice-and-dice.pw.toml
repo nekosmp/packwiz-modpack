@@ -1,13 +1,13 @@
 name = "Create Slice & Dice"
-filename = "sliceanddice-fabric-2.3.0.jar"
+filename = "sliceanddice-fabric-2.3.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/GmjmRQ0A/versions/tAgVGTaW/sliceanddice-fabric-2.3.0.jar"
+url = "https://cdn.modrinth.com/data/GmjmRQ0A/versions/s9l4uqVE/sliceanddice-fabric-2.3.1.jar"
 hash-format = "sha1"
-hash = "14ff52ebed995b3448a619602045766238f4c98b"
+hash = "31d7f6877f8d4cc258b9e03420fa15c5fb82c4a9"
 
 [update]
 [update.modrinth]
 mod-id = "GmjmRQ0A"
-version = "tAgVGTaW"
+version = "s9l4uqVE"
