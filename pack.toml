@@ -6,8 +6,11 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "189c708693cdfdb664e187512f420710dcf436dcd578e9b4a4d7dad8b1261934"
 
 [versions]
 fabric = "0.14.23"
 minecraft = "1.20.1"
+
+[options]
+meta-folder = "modpack"
+no-internal-hashes = true

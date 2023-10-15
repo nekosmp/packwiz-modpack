@@ -1,0 +1,9 @@
+hash-format = "sha256"
+
+[[files]]
+file = "modpack/mods/create-fabric-sodium-fix.pw.toml"
+metafile = true
+
+[[files]]
+file = "modpack/mods/fabric-api.pw.toml"
+metafile = true
