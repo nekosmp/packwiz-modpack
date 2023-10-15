@@ -1,0 +1,5 @@
+.dockerignore
+.gitignore
+.packwizignore
+Dockerfile
+index.toml
