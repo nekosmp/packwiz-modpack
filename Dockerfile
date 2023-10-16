@@ -1,6 +1,6 @@
 FROM docker.io/golang:alpine3.17 AS build
 
-RUN apk add --no-cache git=2.38.3-r1
+RUN apk add --no-cache git
 
 RUN git clone https://github.com/packwiz/packwiz.git /build
 
