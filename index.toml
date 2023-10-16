@@ -1,13 +1,17 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/create-steam-n-rails.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/create-fabric-sodium-fix.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
 metafile = true
