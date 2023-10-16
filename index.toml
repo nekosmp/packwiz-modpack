@@ -5,11 +5,23 @@ file = "mods/3dskinlayers.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/additional-lanterns.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/blanket.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/bluemap-sign-markers.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/bluemap.pw.toml"
 metafile = true
 
 [[files]]
@@ -21,15 +33,23 @@ file = "mods/carpet.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
+file = "mods/create-fabric-sodium-fix.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/create-fabric-sodium-fix.pw.toml"
+file = "mods/create-fabric.pw.toml"
 metafile = true
 
 [[files]]
@@ -46,6 +66,10 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
 metafile = true
 
 [[files]]
@@ -105,6 +129,14 @@ file = "mods/presence-footsteps.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/rechiseled-create.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 metafile = true
 
@@ -114,6 +146,14 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
 metafile = true
 
 [[files]]
