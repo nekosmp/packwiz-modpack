@@ -1,6 +1,34 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/blanket.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/carpet-fixes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric-sodium-fix.pw.toml"
 metafile = true
 
@@ -13,5 +41,85 @@ file = "mods/fabric-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/opac-fabric-create-support.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/physicsmod.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/vivecraft.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
 metafile = true

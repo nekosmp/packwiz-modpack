@@ -1,0 +1,13 @@
+name = "Blanket"
+filename = "blanket-client-tweaks-1.1.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gxpkKtVH/versions/Bugxmes1/blanket-client-tweaks-1.1.4.jar"
+hash-format = "sha1"
+hash = "31a7b67a99fc21d7ae423d80018b6e8133d4e04b"
+
+[update]
+[update.modrinth]
+mod-id = "gxpkKtVH"
+version = "Bugxmes1"
