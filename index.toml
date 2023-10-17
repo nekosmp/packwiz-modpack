@@ -9,7 +9,19 @@ file = "mods/additional-lanterns.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/better-stats.pw.toml"
 metafile = true
 
 [[files]]
@@ -22,6 +34,10 @@ metafile = true
 
 [[files]]
 file = "mods/bluemap.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
 metafile = true
 
 [[files]]
@@ -41,6 +57,10 @@ file = "mods/cccbridge.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 metafile = true
 
@@ -57,7 +77,23 @@ file = "mods/create-steam-n-rails.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/eating-animation.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fallingleaves.pw.toml"
 metafile = true
 
 [[files]]
@@ -101,7 +137,15 @@ file = "mods/memoryleakfix.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/modelfix.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
 metafile = true
 
 [[files]]
@@ -125,7 +169,15 @@ file = "mods/physicsmod.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/plasmo-voice.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/pv-addon-soundphysics.pw.toml"
 metafile = true
 
 [[files]]
@@ -141,6 +193,10 @@ file = "mods/reeses-sodium-options.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 metafile = true
 
@@ -149,11 +205,27 @@ file = "mods/sodium.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/visuality.pw.toml"
 metafile = true
 
 [[files]]
@@ -166,4 +238,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yeetus-experimentus.pw.toml"
 metafile = true
