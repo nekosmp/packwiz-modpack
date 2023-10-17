@@ -17,11 +17,19 @@ file = "mods/appleskin.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/biome-makeover.pw.toml"
 metafile = true
 
 [[files]]
@@ -153,6 +161,10 @@ file = "mods/moreculling.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/natures-spirit.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 metafile = true
 
@@ -193,6 +205,10 @@ file = "mods/reeses-sodium-options.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/regions-unexplored.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 metafile = true
 
@@ -222,6 +238,10 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
 metafile = true
 
 [[files]]
