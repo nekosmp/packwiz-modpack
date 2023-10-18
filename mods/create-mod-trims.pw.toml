@@ -1,0 +1,13 @@
+name = "Create mod Trims"
+filename = "create-mod-trims-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Q4F90RHI/versions/ByiqtTHM/create-mod-trims-1.0.0.jar"
+hash-format = "sha1"
+hash = "8ff0224566342edc47fbb6ba8e20f998b592127b"
+
+[update]
+[update.modrinth]
+mod-id = "Q4F90RHI"
+version = "ByiqtTHM"

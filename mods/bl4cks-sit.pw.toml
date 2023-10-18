@@ -1,0 +1,13 @@
+name = "Sit"
+filename = "sit-1.20-24.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VKXzIykF/versions/gBDMhF2c/sit-1.20-24.jar"
+hash-format = "sha1"
+hash = "0740abbaa0860195b8a2ddb8ca86c712cef2eabe"
+
+[update]
+[update.modrinth]
+mod-id = "VKXzIykF"
+version = "gBDMhF2c"

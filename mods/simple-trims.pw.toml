@@ -1,0 +1,13 @@
+name = "Simple Trims"
+filename = "simpletrims-0.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1HTMYuJn/versions/DpU8veYU/simpletrims-0.2.0.jar"
+hash-format = "sha1"
+hash = "2c477518117d977c144f5b8368de4764e61ef2b1"
+
+[update]
+[update.modrinth]
+mod-id = "1HTMYuJn"
+version = "DpU8veYU"

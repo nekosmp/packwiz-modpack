@@ -1,0 +1,13 @@
+name = "Sprout"
+filename = "sprout-1.5.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/m7Az3ZOX/versions/QWlveWh6/sprout-1.5.0.jar"
+hash-format = "sha1"
+hash = "2c78bc8f5c5e15f0029d3bc7cbd72b5663926397"
+
+[update]
+[update.modrinth]
+mod-id = "m7Az3ZOX"
+version = "QWlveWh6"

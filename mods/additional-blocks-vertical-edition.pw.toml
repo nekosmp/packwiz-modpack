@@ -1,0 +1,13 @@
+name = "Additional Blocks: Vertical Edition"
+filename = "abverticaledition-1.0.3b-fabric-mc1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EZxoN8vL/versions/Hr1mEd9K/abverticaledition-1.0.3b-fabric-mc1.20.jar"
+hash-format = "sha1"
+hash = "89bc02d8f6cd482bf3c238c3c956f9c85d389555"
+
+[update]
+[update.modrinth]
+mod-id = "EZxoN8vL"
+version = "Hr1mEd9K"

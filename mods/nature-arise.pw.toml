@@ -1,0 +1,13 @@
+name = "Nature Arise"
+filename = "Nature_Arise-fabric-1.20.1-0.5.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sBj82FD9/versions/zI9O2nXl/Nature_Arise-fabric-1.20.1-0.5.0.jar"
+hash-format = "sha1"
+hash = "429a4b035e45cfffe6b0b755bbf74134e8bcadf3"
+
+[update]
+[update.modrinth]
+mod-id = "sBj82FD9"
+version = "zI9O2nXl"
