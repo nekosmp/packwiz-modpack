@@ -29,7 +29,15 @@ file = "mods/architectury-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/azurelib-armor.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/bclib.pw.toml"
 metafile = true
 
 [[files]]
@@ -42,6 +50,14 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/betternether.pw.toml"
 metafile = true
 
 [[files]]
@@ -93,7 +109,23 @@ file = "mods/chefs-delight.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/chipped.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/chunks-fade-in.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
 metafile = true
 
 [[files]]
@@ -157,6 +189,10 @@ file = "mods/ctov-wizards-compat.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/dark-loading-screen.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/dawn.pw.toml"
 metafile = true
 
@@ -206,6 +242,14 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/grass-seeds.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
 metafile = true
 
 [[files]]
@@ -317,6 +361,10 @@ file = "mods/regions-unexplored.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-lib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/runes.pw.toml"
 metafile = true
 
@@ -365,6 +413,14 @@ file = "mods/terrablender.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/travelers-titles.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/twigs.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/villagersplus.pw.toml"
 metafile = true
 
@@ -394,4 +450,52 @@ metafile = true
 
 [[files]]
 file = "mods/yeetus-experimentus.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras.pw.toml"
 metafile = true
