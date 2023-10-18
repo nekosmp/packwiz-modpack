@@ -1,0 +1,13 @@
+name = "This Rocks!"
+filename = "rocks-1.7.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Sb5ypgDP/versions/LSUORevX/rocks-1.7.1.jar"
+hash-format = "sha1"
+hash = "a25261b5d3affffd16b9b9d613e693db55deea60"
+
+[update]
+[update.modrinth]
+mod-id = "Sb5ypgDP"
+version = "LSUORevX"

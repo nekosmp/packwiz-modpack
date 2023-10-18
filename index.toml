@@ -21,6 +21,10 @@ file = "mods/ambientsounds.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/amplified-nether.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 metafile = true
 
@@ -30,6 +34,10 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/artifacts.pw.toml"
 metafile = true
 
 [[files]]
@@ -89,6 +97,10 @@ file = "mods/bountiful.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/bushier-flowers.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/cameraoverhaul.pw.toml"
 metafile = true
 
@@ -133,6 +145,10 @@ file = "mods/cloth-config.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/clutter.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 metafile = true
 
@@ -142,6 +158,10 @@ metafile = true
 
 [[files]]
 file = "mods/connectible_chains.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/continents.pw.toml"
 metafile = true
 
 [[files]]
@@ -158,6 +178,10 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-structures.pw.toml"
 metafile = true
 
 [[files]]
@@ -233,6 +257,18 @@ file = "mods/eating-animation.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/ends-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/explorations.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/explorify.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 metafile = true
 
@@ -262,6 +298,10 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/galosphere.pw.toml"
 metafile = true
 
 [[files]]
@@ -325,6 +365,10 @@ file = "mods/lithium.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/manic.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 metafile = true
 
@@ -337,6 +381,10 @@ file = "mods/modmenu.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/moogs-voyager-structures.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 metafile = true
 
@@ -345,7 +393,23 @@ file = "mods/more-mob-variants.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/more-mobs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/more-music-discs.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mythic-upgrades.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
 metafile = true
 
 [[files]]
@@ -354,6 +418,10 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/nullscape.pw.toml"
 metafile = true
 
 [[files]]
@@ -390,6 +458,10 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/profundis.pw.toml"
 metafile = true
 
 [[files]]
@@ -461,6 +533,10 @@ file = "mods/spell-power.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/spelunkery.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/status-effect-bars.pw.toml"
 metafile = true
 
@@ -485,11 +561,23 @@ file = "mods/terrablender.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/this-rocks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tidal-towns.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/travelers-titles.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/trique-api.pw.toml"
 metafile = true
 
 [[files]]
