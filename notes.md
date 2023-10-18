@@ -2,4 +2,4 @@
 - [lazydfu](https://modrinth.com/mod/lazydfu) is no longer needed as Mojang optimized DFU initialization
 - [starlight](https://modrinth.com/mod/starlight) no longer needed on client, **but** possibly can still benefit the server
 
-- removed dramatic-doors for now (every-compat skill issue)
+- removed every-compat for now (too many blocks)

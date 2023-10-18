@@ -353,6 +353,10 @@ file = "mods/double-doors.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/dramatic-doors.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/duckling.pw.toml"
 metafile = true
 
@@ -398,10 +402,6 @@ metafile = true
 
 [[files]]
 file = "mods/etcetera.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/every-compat.pw.toml"
 metafile = true
 
 [[files]]
