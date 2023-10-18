@@ -1,0 +1,13 @@
+name = "VillagersPlus - Supplementaries Compatability"
+filename = "VillagersPlus - Supplementaries Compatability.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qQCeAB8E/versions/X7w1vCVU/VillagersPlus%20-%20Supplementaries%20Compatability.zip"
+hash-format = "sha1"
+hash = "11c15f42a865499d721d5bc2df15a8e274946032"
+
+[update]
+[update.modrinth]
+mod-id = "qQCeAB8E"
+version = "X7w1vCVU"

@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/openloader/data/villagersplus-promenade-compatability.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/openloader/data/villagersplus-supplementaries-compatability.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 metafile = true
 
@@ -18,6 +26,14 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/azurelib-armor.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/beautify-refabricated.pw.toml"
 metafile = true
 
 [[files]]
@@ -49,6 +65,10 @@ file = "mods/bobby.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/bountiful.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/carpet-fixes.pw.toml"
 metafile = true
 
@@ -66,6 +86,10 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/chefs-delight.pw.toml"
 metafile = true
 
 [[files]]
@@ -89,6 +113,54 @@ file = "mods/creativecore.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/croptopia.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ctov-beautify-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ctov-chefs-delight-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ctov-croptopia-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ctov-farmers-delight-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ctov-friends-and-foes-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ctov-gazebo-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ctov-paladins-n-priests-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ctov-villagers-plus-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ctov-wizards-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dawn.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 metafile = true
 
@@ -101,7 +173,15 @@ file = "mods/fabric-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/fallingleaves.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
 metafile = true
 
 [[files]]
@@ -113,7 +193,19 @@ file = "mods/forge-config-api-port.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/friends-and-foes.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gazebos.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
 metafile = true
 
 [[files]]
@@ -126,6 +218,10 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/kambrik.pw.toml"
 metafile = true
 
 [[files]]
@@ -173,7 +269,15 @@ file = "mods/opac-fabric-create-support.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/open-loader.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/open-parties-and-claims.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/paladins-and-priests.pw.toml"
 metafile = true
 
 [[files]]
@@ -186,6 +290,10 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/promenade.pw.toml"
 metafile = true
 
 [[files]]
@@ -209,6 +317,10 @@ file = "mods/regions-unexplored.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/runes.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 metafile = true
 
@@ -229,6 +341,14 @@ file = "mods/spark.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/spell-engine.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/spell-power.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 metafile = true
 
@@ -245,11 +365,19 @@ file = "mods/terrablender.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/villagersplus.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/visuality.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/vivecraft.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/wizards.pw.toml"
 metafile = true
 
 [[files]]

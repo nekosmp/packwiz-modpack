@@ -1,0 +1,13 @@
+name = "VillagersPlus - Promenade Compatability"
+filename = "VillagersPlus - Promenade Compatability.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uBgJtPlZ/versions/HodygcR8/VillagersPlus%20-%20Promenade%20Compatability.zip"
+hash-format = "sha1"
+hash = "ea75e973fc0e116698a31a184c71e8d0795af62b"
+
+[update]
+[update.modrinth]
+mod-id = "uBgJtPlZ"
+version = "HodygcR8"
