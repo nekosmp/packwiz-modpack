@@ -405,6 +405,10 @@ file = "mods/ends-delight.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/etcetera.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/every-compat.pw.toml"
 metafile = true
 
@@ -829,10 +833,6 @@ file = "mods/snow-under-trees-remastered.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/snowyleavesplus.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/snuffles-fabric.pw.toml"
 metafile = true
 
@@ -850,6 +850,10 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/species.pw.toml"
 metafile = true
 
 [[files]]
@@ -906,6 +910,10 @@ metafile = true
 
 [[files]]
 file = "mods/terrestria.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/thigh-highs-etc.pw.toml"
 metafile = true
 
 [[files]]
