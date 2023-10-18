@@ -57,6 +57,10 @@ file = "mods/beautify-refabricated.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/better-lily-pads.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
 metafile = true
 
@@ -110,6 +114,10 @@ metafile = true
 
 [[files]]
 file = "mods/carpet.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/carpeted-stairs.pw.toml"
 metafile = true
 
 [[files]]
@@ -406,6 +414,10 @@ metafile = true
 
 [[files]]
 file = "mods/moyai.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mystical-oak-tree.pw.toml"
 metafile = true
 
 [[files]]
