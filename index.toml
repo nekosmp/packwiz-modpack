@@ -85,6 +85,10 @@ file = "mods/bountiful.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/cameraoverhaul.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/carpet-fixes.pw.toml"
 metafile = true
 
@@ -117,6 +121,10 @@ file = "mods/chunks-fade-in.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/cinderscapes.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 metafile = true
 
@@ -126,6 +134,14 @@ metafile = true
 
 [[files]]
 file = "mods/comforts.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/connectible_chains.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/couplings.pw.toml"
 metafile = true
 
 [[files]]
@@ -198,6 +214,10 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-fences.pw.toml"
 metafile = true
 
 [[files]]
@@ -317,6 +337,10 @@ file = "mods/moonlight.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/more-mob-variants.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 metafile = true
 
@@ -361,6 +385,10 @@ file = "mods/promenade.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/pv-addon-soundphysics.pw.toml"
 metafile = true
 
@@ -393,6 +421,10 @@ file = "mods/shulkerboxtooltip.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/snowyleavesplus.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 metafile = true
 
@@ -414,6 +446,14 @@ metafile = true
 
 [[files]]
 file = "mods/spell-power.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/status-effect-bars.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/stoneworks.pw.toml"
 metafile = true
 
 [[files]]
