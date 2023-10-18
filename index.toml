@@ -25,6 +25,10 @@ file = "mods/appleskin.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/aquamirae.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 metafile = true
 
@@ -353,6 +357,10 @@ file = "mods/no-chat-reports.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/obscure-api.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/opac-fabric-create-support.pw.toml"
 metafile = true
 
@@ -374,6 +382,10 @@ metafile = true
 
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
 metafile = true
 
 [[files]]
@@ -474,6 +486,10 @@ metafile = true
 
 [[files]]
 file = "mods/travelers-titles.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
 metafile = true
 
 [[files]]
