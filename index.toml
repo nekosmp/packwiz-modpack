@@ -317,10 +317,6 @@ file = "mods/dark-loading-screen.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/dashloader.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/dawn.pw.toml"
 metafile = true
 
