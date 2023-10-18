@@ -201,6 +201,10 @@ file = "mods/debugify.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/do-api.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/eating-animation.pw.toml"
 metafile = true
 
@@ -274,6 +278,22 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-bakery.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-beachparty.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-candlelight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-cheese.pw.toml"
 metafile = true
 
 [[files]]
@@ -422,6 +442,10 @@ metafile = true
 
 [[files]]
 file = "mods/villagersplus.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/vinery.pw.toml"
 metafile = true
 
 [[files]]

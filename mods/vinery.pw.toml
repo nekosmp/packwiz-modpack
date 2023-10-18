@@ -1,0 +1,13 @@
+name = "Let's Do: Vinery"
+filename = "Vinery - 1.4.5 - FABRIC - 1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1DWmBJVA/versions/SxiAveF9/Vinery%20-%201.4.5%20-%20FABRIC%20-%201.20.1.jar"
+hash-format = "sha1"
+hash = "cfccb9ddcbc10e31d9fa14552b08a84bd88e30b5"
+
+[update]
+[update.modrinth]
+mod-id = "1DWmBJVA"
+version = "SxiAveF9"

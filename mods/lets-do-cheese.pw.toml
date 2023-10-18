@@ -1,0 +1,13 @@
+name = "Let's Do: Meadow"
+filename = "letsdo-meadow-fabric-1.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ra7o6Sl7/versions/CkvEEK6t/letsdo-meadow-fabric-1.3.1.jar"
+hash-format = "sha1"
+hash = "95ec1cc06e0f0089a0b347e12602ea4cb9eeb5db"
+
+[update]
+[update.modrinth]
+mod-id = "ra7o6Sl7"
+version = "CkvEEK6t"
