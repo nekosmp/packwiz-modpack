@@ -405,7 +405,7 @@ file = "mods/moreculling.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/mythic-upgrades.pw.toml"
+file = "mods/moyai.pw.toml"
 metafile = true
 
 [[files]]
@@ -574,10 +574,6 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/trique-api.pw.toml"
 metafile = true
 
 [[files]]
