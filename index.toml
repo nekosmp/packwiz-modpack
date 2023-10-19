@@ -62,10 +62,6 @@ file = "mods/create-fabric-sodium-fix.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/create-fabric.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 metafile = true
 
