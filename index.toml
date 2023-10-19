@@ -1,6 +1,15 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bclib/client.json"
+
+[[files]]
+file = "config/bclib/server.json"
+
+[[files]]
+file = "modlist.md"
+
+[[files]]
 file = "mods/bclib.pw.toml"
 metafile = true
 
