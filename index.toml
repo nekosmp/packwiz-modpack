@@ -10,6 +10,10 @@ file = "config/bclib/server.json"
 file = "modlist.md"
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/bclib.pw.toml"
 metafile = true
 
@@ -22,6 +26,10 @@ file = "mods/better-ping-display-fabric.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/better-stats.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/betterend.pw.toml"
 metafile = true
 
@@ -30,7 +38,15 @@ file = "mods/betternether.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/borderless-mining.pw.toml"
 metafile = true
 
 [[files]]
@@ -43,6 +59,10 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
 metafile = true
 
 [[files]]
@@ -82,6 +102,14 @@ file = "mods/fabric-language-kotlin.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/fallingleaves.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 metafile = true
 
@@ -114,7 +142,15 @@ file = "mods/jamlib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
 metafile = true
 
 [[files]]
@@ -195,6 +231,10 @@ metafile = true
 
 [[files]]
 file = "mods/visuality.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/vivecraft.pw.toml"
 metafile = true
 
 [[files]]
