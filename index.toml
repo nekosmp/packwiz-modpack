@@ -226,6 +226,10 @@ file = "mods/sodium.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 metafile = true
 
