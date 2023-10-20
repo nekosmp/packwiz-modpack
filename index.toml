@@ -198,11 +198,11 @@ file = "mods/opac-fabric-create-support.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/open-loader.pw.toml"
+file = "mods/open-parties-and-claims.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/open-parties-and-claims.pw.toml"
+file = "mods/paxi.pw.toml"
 metafile = true
 
 [[files]]
