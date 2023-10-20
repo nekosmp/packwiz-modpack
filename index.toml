@@ -31,6 +31,10 @@ file = "mods/appleskin.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/axolotl-bucket-fix.pw.toml"
 metafile = true
 
@@ -151,6 +155,10 @@ file = "mods/do-a-barrel-roll.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/expandingtechnologies.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 metafile = true
 
@@ -259,6 +267,10 @@ file = "mods/moonlight.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/moreculling.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/moyai.pw.toml"
 metafile = true
 
@@ -316,6 +328,10 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
 metafile = true
 
 [[files]]
