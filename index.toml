@@ -310,6 +310,10 @@ file = "mods/yungs-better-jungle-temples.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/yungs-better-nether-fortresses.pw.toml"
 metafile = true
 
