@@ -7,6 +7,9 @@ file = "config/bclib/client.json"
 file = "config/bclib/server.json"
 
 [[files]]
+file = "config/paxi/datapack_load_order.json"
+
+[[files]]
 file = "config/paxi/datapacks/better-villages-bountiful.pw.toml"
 metafile = true
 
@@ -19,8 +22,14 @@ file = "config/paxi/datapacks/ctov-friends-and-foes-compat.pw.toml"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepack_load_order.json"
+
+[[files]]
 file = "config/paxi/resourcepacks/advancement-plaques-with-vines.pw.toml"
 metafile = true
+
+[[files]]
+file = "config/presencefootsteps/updater.json"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
