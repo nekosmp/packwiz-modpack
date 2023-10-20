@@ -163,10 +163,6 @@ file = "mods/do-a-barrel-roll.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/expandingtechnologies.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 metafile = true
 
