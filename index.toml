@@ -50,6 +50,10 @@ file = "mods/borderless-mining.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/bountiful.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 metafile = true
 
@@ -139,6 +143,10 @@ metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/kambrik.pw.toml"
 metafile = true
 
 [[files]]
