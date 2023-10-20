@@ -102,6 +102,10 @@ file = "mods/ct-overhaul-village.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/ctov-bountiful-compat.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/dark-loading-screen.pw.toml"
 metafile = true
 
