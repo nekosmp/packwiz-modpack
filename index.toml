@@ -15,6 +15,10 @@ file = "config/paxi/datapacks/ctov-bountiful-compat.pw.toml"
 metafile = true
 
 [[files]]
+file = "config/paxi/datapacks/ctov-friends-and-foes-compat.pw.toml"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/advancement-plaques-with-vines.pw.toml"
 metafile = true
 
@@ -127,6 +131,10 @@ file = "mods/controlling.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/crawl.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric-sodium-fix.pw.toml"
 metafile = true
 
@@ -180,6 +188,10 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes.pw.toml"
 metafile = true
 
 [[files]]
