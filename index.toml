@@ -7,6 +7,10 @@ file = "config/bclib/client.json"
 file = "config/bclib/server.json"
 
 [[files]]
+file = "config/paxi/datapacks/ctov-bountiful-compat.pw.toml"
+metafile = true
+
+[[files]]
 file = "modlist.md"
 
 [[files]]
@@ -99,10 +103,6 @@ metafile = true
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/ctov-bountiful-compat.pw.toml"
 metafile = true
 
 [[files]]

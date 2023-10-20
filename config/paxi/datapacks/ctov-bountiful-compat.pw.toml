@@ -1,0 +1,13 @@
+name = "CTOV - Bountiful compat"
+filename = "ctov-bounty-board-add-on-v1-0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/890hHez9/versions/OSRvnGJH/ctov-bounty-board-add-on-v1-0.zip"
+hash-format = "sha1"
+hash = "a98e5187918c75bfb814b3ee261ee43dc3af2ef1"
+
+[update]
+[update.modrinth]
+mod-id = "890hHez9"
+version = "OSRvnGJH"
