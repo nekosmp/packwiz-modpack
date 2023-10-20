@@ -328,6 +328,10 @@ file = "mods/paxi.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/pick-up-notifier.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/ping-wheel.pw.toml"
 metafile = true
 
