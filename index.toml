@@ -110,6 +110,10 @@ file = "mods/dark-loading-screen.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/diagonal-fences.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 metafile = true
 
