@@ -372,6 +372,10 @@ file = "mods/sleep-tight.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/snow-under-trees-remastered.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/snuffles-fabric.pw.toml"
 metafile = true
 
