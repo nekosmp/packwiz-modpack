@@ -303,6 +303,10 @@ file = "mods/spyglass-astronomy.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/spyglass-improvements.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/travelers-titles.pw.toml"
 metafile = true
 
@@ -364,8 +368,4 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-witch-huts.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/zoomglass.pw.toml"
 metafile = true
