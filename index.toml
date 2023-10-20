@@ -259,6 +259,14 @@ file = "mods/moonlight.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/moyai.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mystical-oak-tree.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 metafile = true
 
