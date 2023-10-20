@@ -23,7 +23,15 @@ file = "mods/advancement-plaques.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/ambient-environment.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/axolotl-bucket-fix.pw.toml"
 metafile = true
 
 [[files]]
@@ -203,6 +211,10 @@ file = "mods/konkrete.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/library-ferret-fabric.pw.toml"
 metafile = true
 
@@ -216,6 +228,14 @@ metafile = true
 
 [[files]]
 file = "mods/magnum-torch.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mavapi.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mavm.pw.toml"
 metafile = true
 
 [[files]]
@@ -304,6 +324,10 @@ metafile = true
 
 [[files]]
 file = "mods/spyglass-improvements.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/status-effect-bars.pw.toml"
 metafile = true
 
 [[files]]
