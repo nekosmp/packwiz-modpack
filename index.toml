@@ -94,6 +94,14 @@ file = "mods/create-steam-n-rails.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/cristel-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/dark-loading-screen.pw.toml"
 metafile = true
 
@@ -247,6 +255,10 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
 metafile = true
 
 [[files]]
