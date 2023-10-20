@@ -18,6 +18,10 @@ metafile = true
 file = "modlist.md"
 
 [[files]]
+file = "mods/advancement-plaques.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 metafile = true
 
@@ -139,6 +143,10 @@ metafile = true
 
 [[files]]
 file = "mods/grass-seeds.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
 metafile = true
 
 [[files]]
