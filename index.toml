@@ -255,6 +255,10 @@ file = "mods/modmenu.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 metafile = true
 
@@ -304,6 +308,10 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sleep-tight.pw.toml"
 metafile = true
 
 [[files]]
