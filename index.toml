@@ -15,6 +15,10 @@ file = "config/paxi/datapacks/ctov-bountiful-compat.pw.toml"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/advancement-plaques-with-vines.pw.toml"
+metafile = true
+
+[[files]]
 file = "modlist.md"
 
 [[files]]
