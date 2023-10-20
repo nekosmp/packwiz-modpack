@@ -7,6 +7,10 @@ file = "config/bclib/client.json"
 file = "config/bclib/server.json"
 
 [[files]]
+file = "config/paxi/datapacks/better-villages-bountiful.pw.toml"
+metafile = true
+
+[[files]]
 file = "config/paxi/datapacks/ctov-bountiful-compat.pw.toml"
 metafile = true
 
@@ -95,10 +99,6 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/cristel-lib.pw.toml"
 metafile = true
 
 [[files]]
@@ -259,10 +259,6 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/towns-and-towers.pw.toml"
 metafile = true
 
 [[files]]
