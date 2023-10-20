@@ -99,6 +99,10 @@ file = "mods/collective.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/companion.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/connectible_chains.pw.toml"
 metafile = true
 
@@ -124,6 +128,10 @@ metafile = true
 
 [[files]]
 file = "mods/diagonal-fences.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/distinguished-potions.pw.toml"
 metafile = true
 
 [[files]]
@@ -275,6 +283,10 @@ file = "mods/searchables.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/snuffles-fabric.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 metafile = true
 
@@ -284,6 +296,10 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/spyglass-astronomy.pw.toml"
 metafile = true
 
 [[files]]
@@ -348,4 +364,8 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-witch-huts.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/zoomglass.pw.toml"
 metafile = true
