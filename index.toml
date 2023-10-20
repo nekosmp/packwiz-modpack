@@ -263,6 +263,10 @@ file = "mods/memoryleakfix.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/mindful-darkness.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 metafile = true
 
