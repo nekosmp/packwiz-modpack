@@ -336,6 +336,10 @@ file = "mods/ping-wheel.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/plasmo-voice.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/plethora-peripherals.pw.toml"
 metafile = true
 
@@ -345,6 +349,10 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/pv-addon-soundphysics.pw.toml"
 metafile = true
 
 [[files]]
@@ -385,6 +393,10 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
 metafile = true
 
 [[files]]
