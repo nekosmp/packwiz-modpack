@@ -184,6 +184,10 @@ file = "mods/easy-magic.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/etcetera.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 metafile = true
 
@@ -433,6 +437,10 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/thigh-highs-etc.pw.toml"
 metafile = true
 
 [[files]]
