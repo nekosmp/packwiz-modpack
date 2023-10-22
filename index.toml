@@ -96,6 +96,10 @@ file = "mods/bountiful.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/bushier-flowers.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 metafile = true
 
@@ -252,6 +256,10 @@ file = "mods/krypton.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/language-reload.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/library-ferret-fabric.pw.toml"
 metafile = true
 
@@ -281,6 +289,10 @@ metafile = true
 
 [[files]]
 file = "mods/mindful-darkness.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
 metafile = true
 
 [[files]]
@@ -384,6 +396,10 @@ file = "mods/snow-under-trees-remastered.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/snowy-spirit.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/snuffles-fabric.pw.toml"
 metafile = true
 
@@ -413,6 +429,10 @@ metafile = true
 
 [[files]]
 file = "mods/status-effect-bars.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
 metafile = true
 
 [[files]]
