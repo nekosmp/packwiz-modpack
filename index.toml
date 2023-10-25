@@ -116,10 +116,6 @@ file = "mods/chat-heads.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/chunks-fade-in.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/chunky.pw.toml"
 metafile = true
 
