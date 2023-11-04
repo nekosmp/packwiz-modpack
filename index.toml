@@ -14,10 +14,6 @@ file = "config/paxi/datapacks/better-villages-bountiful.pw.toml"
 metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/ctov-bountiful-compat.pw.toml"
-metafile = true
-
-[[files]]
 file = "config/paxi/datapacks/ctov-friends-and-foes-compat.pw.toml"
 metafile = true
 
