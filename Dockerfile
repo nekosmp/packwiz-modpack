@@ -9,6 +9,6 @@ FROM docker.io/alpine:3.17
 EXPOSE 8080
 WORKDIR /data
 CMD [ "/bin/pacstrapwiz" ]
-RUN echo #!/bin/sh\ngit clone -b v2 https://github.com/nekosmp/nsmp-modpack .\npackwiz serve >> /bin/pacstrapwiz && chmod +x /bin/pacstrapwiz
+RUN echo "#!/bin/sh\ngit clone -b v2 https://github.com/nekosmp/nsmp-modpack .\npackwiz serve" >> /bin/pacstrapwiz && chmod +x /bin/pacstrapwiz
 RUN apk add --no-cache git
 COPY --from=build /build/packwiz /bin/packwiz
