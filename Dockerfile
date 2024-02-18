@@ -6,9 +6,9 @@ RUN go mod download
 RUN go build
 
 FROM docker.io/alpine:3.17
-RUN mkdir /app
-COPY --from=build /build/packwiz /app/
 EXPOSE 8080
 WORKDIR /data
-CMD [ "/app/packwiz", "serve" ]
-COPY . .
+CMD [ "pacstrapwiz" ]
+RUN echo #!/bin/bash\ngit clone -b v2 https://github.com/nekosmp/nsmp-modpack .\npackwiz serve >> /bin/pacstrapwiz && chmod +x /bin/pacstrapwiz
+RUN apk add --no-cache git
+COPY --from=build /build/packwiz /bin/packwiz
