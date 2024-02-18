@@ -1,6 +1,6 @@
 name = "Companion 🐕"
 filename = "Companion-1.20-fabric-5.1.0.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/4w0EzGRW/versions/gqjOYbM8/Companion-1.20-fabric-5.1.0.jar"
