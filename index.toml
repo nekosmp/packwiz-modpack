@@ -48,6 +48,10 @@ file = "mods/bclib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/beautify-refabricated.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 metafile = true
 
@@ -108,6 +112,10 @@ file = "mods/chat-heads.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/chefs-delight.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 metafile = true
 
@@ -152,6 +160,22 @@ file = "mods/ct-overhaul-village.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/ctov-beautify-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ctov-chefs-delight-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ctov-farmers-delight-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ctov-friends-and-foes-compat.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/dark-loading-screen.pw.toml"
 metafile = true
 
@@ -193,6 +217,10 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
 metafile = true
 
 [[files]]

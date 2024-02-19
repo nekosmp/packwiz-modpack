@@ -1,6 +1,6 @@
 name = "Better Villages - Bountiful Compatibility"
 filename = "BetterVillages_Bountiful_1.19.4.zip"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"
