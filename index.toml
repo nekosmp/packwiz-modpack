@@ -219,6 +219,10 @@ file = "mods/libraries/paxi.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/pehkui.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/puzzles-lib.pw.toml"
 metafile = true
 
