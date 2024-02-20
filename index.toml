@@ -151,14 +151,6 @@ file = "mods/content/silly/mystical-oak-tree.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/diagonal-fences.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/diagonal-windows.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/libraries/bclib.pw.toml"
 metafile = true
 
@@ -416,6 +408,14 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gameplay/cut-through.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/diagonal-fences.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/diagonal-windows.pw.toml"
 metafile = true
 
 [[files]]
