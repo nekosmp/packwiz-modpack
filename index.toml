@@ -14,10 +14,6 @@ file = "config/paxi/datapacks/better-villages-bountiful.pw.toml"
 metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/ctov-friends-and-foes-compat.pw.toml"
-metafile = true
-
-[[files]]
 file = "config/paxi/resourcepack_load_order.json"
 
 [[files]]
@@ -37,6 +33,10 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
 metafile = true
 
 [[files]]
@@ -372,6 +372,14 @@ file = "mods/open-parties-and-claims.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/pandas-extra-details.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/pandas-falling-trees.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/paxi.pw.toml"
 metafile = true
 
@@ -461,6 +469,10 @@ metafile = true
 
 [[files]]
 file = "mods/status-effect-bars.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/stoneworks.pw.toml"
 metafile = true
 
 [[files]]
