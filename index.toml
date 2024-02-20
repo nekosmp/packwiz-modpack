@@ -155,10 +155,6 @@ file = "mods/diagonal-fences.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/diagonal-walls.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/diagonal-windows.pw.toml"
 metafile = true
 
