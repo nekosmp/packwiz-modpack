@@ -24,167 +24,130 @@ metafile = true
 file = "config/presencefootsteps/updater.json"
 
 [[files]]
-file = "mods/advancement-plaques.pw.toml"
+file = "modlist.md"
+
+[[files]]
+file = "mods/content/bountiful.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/ambient-environment.pw.toml"
+file = "mods/content/building/beautify-refabricated.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/appleskin.pw.toml"
+file = "mods/content/building/carpeted-stairs.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/armor-statues.pw.toml"
+file = "mods/content/building/connectible_chains.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/axolotl-bucket-fix.pw.toml"
+file = "mods/content/building/stoneworks.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/bclib.pw.toml"
+file = "mods/content/building/supplementaries.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/beautify-refabricated.pw.toml"
+file = "mods/content/computers/cc-tweaked.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/better-advancements.pw.toml"
+file = "mods/content/computers/cccbridge.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/better-ping-display-fabric.pw.toml"
+file = "mods/content/computers/plethora-peripherals.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/better-stats.pw.toml"
+file = "mods/content/create/create-fabric-sodium-fix.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/better-village-fabric.pw.toml"
+file = "mods/content/create/create-steam-n-rails.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/betterend.pw.toml"
+file = "mods/content/food/chefs-delight.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/betternether.pw.toml"
+file = "mods/content/food/farmers-delight-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/block-runner.pw.toml"
+file = "mods/content/mobs/axolotl-bucket-fix.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/bluemap.pw.toml"
+file = "mods/content/mobs/ender-zoology.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/bobby.pw.toml"
+file = "mods/content/mobs/friends-and-foes.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/borderless-mining.pw.toml"
+file = "mods/content/mobs/mavm.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/bountiful.pw.toml"
+file = "mods/content/mobs/snuffles-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/bushier-flowers.pw.toml"
+file = "mods/content/mobs/tiny-skeletons.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/carpeted-stairs.pw.toml"
+file = "mods/content/qol/armor-statues.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/cc-tweaked.pw.toml"
+file = "mods/content/qol/bushier-flowers.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/cccbridge.pw.toml"
+file = "mods/content/qol/etcetera.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/chat-heads.pw.toml"
+file = "mods/content/qol/magnum-torch.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/chefs-delight.pw.toml"
+file = "mods/content/qol/mmmmmmmmmmmm.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/chunky.pw.toml"
+file = "mods/content/qol/sleep-tight.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/cloth-config.pw.toml"
+file = "mods/content/qol/snowy-spirit.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/clumps.pw.toml"
+file = "mods/content/qol/spyglass-astronomy.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/collective.pw.toml"
+file = "mods/content/qol/straw-statues.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/companion.pw.toml"
+file = "mods/content/qol/thigh-highs-etc.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/connectible_chains.pw.toml"
+file = "mods/content/silly/moyai.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/controlling.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/crawl.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/create-fabric-sodium-fix.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/create-steam-n-rails.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/ct-overhaul-village.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/ctov-beautify-compat.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/ctov-chefs-delight-compat.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/ctov-farmers-delight-compat.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/ctov-friends-and-foes-compat.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/cut-through.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/dark-loading-screen.pw.toml"
+file = "mods/content/silly/mystical-oak-tree.pw.toml"
 metafile = true
 
 [[files]]
@@ -200,373 +163,413 @@ file = "mods/diagonal-windows.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/distinguished-potions.pw.toml"
+file = "mods/libraries/bclib.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/do-a-barrel-roll.pw.toml"
+file = "mods/libraries/cloth-config.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/easy-anvils.pw.toml"
+file = "mods/libraries/collective.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/easy-magic.pw.toml"
+file = "mods/libraries/fabric-api.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/effect-descriptions.pw.toml"
+file = "mods/libraries/fabric-language-kotlin.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/ender-zoology.pw.toml"
+file = "mods/libraries/forge-config-api-port.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/etcetera.pw.toml"
+file = "mods/libraries/iceberg.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.pw.toml"
+file = "mods/libraries/jamlib.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/fabric-language-kotlin.pw.toml"
+file = "mods/libraries/kambrik.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/fallingleaves.pw.toml"
+file = "mods/libraries/konkrete.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/fancymenu.pw.toml"
+file = "mods/libraries/library-ferret-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/farmers-delight-fabric.pw.toml"
+file = "mods/libraries/lithostitched.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/ferrite-core.pw.toml"
+file = "mods/libraries/mavapi.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/forge-config-api-port.pw.toml"
+file = "mods/libraries/melody.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/friends-and-foes.pw.toml"
+file = "mods/libraries/moonlight.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/grass-seeds.pw.toml"
+file = "mods/libraries/mru.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/iceberg.pw.toml"
+file = "mods/libraries/paxi.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/immediatelyfast.pw.toml"
+file = "mods/libraries/puzzles-lib.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/indium.pw.toml"
+file = "mods/libraries/searchables.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/iris.pw.toml"
+file = "mods/libraries/trinkets.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/jade-addons-fabric.pw.toml"
+file = "mods/libraries/yacl.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/jade.pw.toml"
+file = "mods/libraries/yungs-api.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/jamlib.pw.toml"
+file = "mods/overhauls/betterend.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/kambrik.pw.toml"
+file = "mods/overhauls/betternether.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/konkrete.pw.toml"
+file = "mods/overhauls/do-a-barrel-roll.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/krypton.pw.toml"
+file = "mods/overhauls/easy-anvils.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/language-reload.pw.toml"
+file = "mods/overhauls/easy-magic.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/library-ferret-fabric.pw.toml"
+file = "mods/overhauls/structure/yungs-better-desert-temples.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/lithium.pw.toml"
+file = "mods/overhauls/structure/yungs-better-end-island.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/lithostitched.pw.toml"
+file = "mods/overhauls/structure/yungs-better-jungle-temples.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/lootr.pw.toml"
+file = "mods/overhauls/structure/yungs-better-mineshafts.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/magnum-torch.pw.toml"
+file = "mods/overhauls/structure/yungs-better-nether-fortresses.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/mavapi.pw.toml"
+file = "mods/overhauls/structure/yungs-better-ocean-monuments.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/mavm.pw.toml"
+file = "mods/overhauls/structure/yungs-better-strongholds.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/melody.pw.toml"
+file = "mods/overhauls/structure/yungs-better-witch-huts.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/memoryleakfix.pw.toml"
+file = "mods/overhauls/village/better-village-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/mindful-darkness.pw.toml"
+file = "mods/overhauls/village/ct-overhaul-village.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/mmmmmmmmmmmm.pw.toml"
+file = "mods/overhauls/village/ctov-beautify-compat.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/modelfix.pw.toml"
+file = "mods/overhauls/village/ctov-chefs-delight-compat.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/modmenu.pw.toml"
+file = "mods/overhauls/village/ctov-farmers-delight-compat.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/moonlight.pw.toml"
+file = "mods/overhauls/village/ctov-friends-and-foes-compat.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/moreculling.pw.toml"
+file = "mods/performance/bobby.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/moyai.pw.toml"
+file = "mods/performance/chunky.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/mru.pw.toml"
+file = "mods/performance/clumps.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/mystical-oak-tree.pw.toml"
+file = "mods/performance/ferrite-core.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/no-chat-reports.pw.toml"
+file = "mods/performance/immediatelyfast.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/norecipebook-fabric.pw.toml"
+file = "mods/performance/indium.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/opac-fabric-create-support.pw.toml"
+file = "mods/performance/iris.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/open-parties-and-claims.pw.toml"
+file = "mods/performance/krypton.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/paxi.pw.toml"
+file = "mods/performance/lithium.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/pick-up-notifier.pw.toml"
+file = "mods/performance/memoryleakfix.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/plasmo-voice.pw.toml"
+file = "mods/performance/moreculling.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/plethora-peripherals.pw.toml"
+file = "mods/performance/sodium-extra.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/presence-footsteps.pw.toml"
+file = "mods/performance/sodium.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/puzzles-lib.pw.toml"
+file = "mods/performance/spark.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/pv-addon-soundphysics.pw.toml"
+file = "mods/tweaks/audio/plasmo-voice.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
+file = "mods/tweaks/audio/presence-footsteps.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/rightclickharvest.pw.toml"
+file = "mods/tweaks/audio/pv-addon-soundphysics.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/screenshot-to-clipboard.pw.toml"
+file = "mods/tweaks/audio/sound-physics-remastered.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/searchables.pw.toml"
+file = "mods/tweaks/claims/opac-fabric-create-support.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/shulkerboxtooltip.pw.toml"
+file = "mods/tweaks/claims/open-parties-and-claims.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/sleep-tight.pw.toml"
+file = "mods/tweaks/gameplay/block-runner.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/snow-under-trees-remastered.pw.toml"
+file = "mods/tweaks/gameplay/companion.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/snowy-spirit.pw.toml"
+file = "mods/tweaks/gameplay/crawl.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/snuffles-fabric.pw.toml"
+file = "mods/tweaks/gameplay/cut-through.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/sodium-extra.pw.toml"
+file = "mods/tweaks/gameplay/grass-seeds.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/sodium.pw.toml"
+file = "mods/tweaks/gameplay/lootr.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/sound-physics-remastered.pw.toml"
+file = "mods/tweaks/gameplay/rightclickharvest.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/spark.pw.toml"
+file = "mods/tweaks/gameplay/snow-under-trees-remastered.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/spyglass-astronomy.pw.toml"
+file = "mods/tweaks/gameplay/spyglass-improvements.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/spyglass-improvements.pw.toml"
+file = "mods/tweaks/hud/advancement-plaques.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/status-effect-bars.pw.toml"
+file = "mods/tweaks/hud/appleskin.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/stoneworks.pw.toml"
+file = "mods/tweaks/hud/chat-heads.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/straw-statues.pw.toml"
+file = "mods/tweaks/hud/jade-addons-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/supplementaries.pw.toml"
+file = "mods/tweaks/hud/jade.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/thigh-highs-etc.pw.toml"
+file = "mods/tweaks/hud/pick-up-notifier.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tiny-skeletons.pw.toml"
+file = "mods/tweaks/hud/status-effect-bars.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/travelers-titles.pw.toml"
+file = "mods/tweaks/hud/travelers-titles.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/trinkets.pw.toml"
+file = "mods/tweaks/interface/better-advancements.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/visuality.pw.toml"
+file = "mods/tweaks/interface/better-ping-display-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/interface/better-stats.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/interface/controlling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/interface/dark-loading-screen.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/interface/fancymenu.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/interface/language-reload.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/interface/modmenu.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/interface/reeses-sodium-options.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/inventory/distinguished-potions.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/inventory/effect-descriptions.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/inventory/mindful-darkness.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/inventory/norecipebook-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/inventory/shulkerboxtooltip.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/navigation/bluemap.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/navigation/xaeros-minimap.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/navigation/xaeros-world-map.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/other/borderless-mining.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/other/modelfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/other/no-chat-reports.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/other/screenshot-to-clipboard.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/ambient-environment.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/fallingleaves.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/visuality.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/vivecraft.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/yacl.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/yungs-api.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-desert-temples.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-end-island.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-jungle-temples.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-mineshafts.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-nether-fortresses.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-ocean-monuments.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-strongholds.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-witch-huts.pw.toml"
 metafile = true
