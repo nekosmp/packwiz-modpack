@@ -36,7 +36,7 @@ file = "mods/appleskin.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/architectury-api.pw.toml"
+file = "mods/armor-statues.pw.toml"
 metafile = true
 
 [[files]]
@@ -73,6 +73,10 @@ metafile = true
 
 [[files]]
 file = "mods/betternether.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/block-runner.pw.toml"
 metafile = true
 
 [[files]]
@@ -176,11 +180,23 @@ file = "mods/ctov-friends-and-foes-compat.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/cut-through.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/dark-loading-screen.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/diagonal-fences.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-walls.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-windows.pw.toml"
 metafile = true
 
 [[files]]
@@ -197,6 +213,14 @@ metafile = true
 
 [[files]]
 file = "mods/easy-magic.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/effect-descriptions.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ender-zoology.pw.toml"
 metafile = true
 
 [[files]]
@@ -372,14 +396,6 @@ file = "mods/open-parties-and-claims.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/pandas-extra-details.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/pandas-falling-trees.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/paxi.pw.toml"
 metafile = true
 
@@ -476,11 +492,19 @@ file = "mods/stoneworks.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/straw-statues.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/thigh-highs-etc.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tiny-skeletons.pw.toml"
 metafile = true
 
 [[files]]
