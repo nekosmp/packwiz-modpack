@@ -31,6 +31,22 @@ file = "config/presencefootsteps/updater.json"
 file = "modlist.md"
 
 [[files]]
+file = "mods/advancement-frames.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/another-furniture.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/better-archeology.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/better-lily-pads.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/bountiful.pw.toml"
 metafile = true
 
@@ -115,6 +131,10 @@ file = "mods/content/mobs/tiny-skeletons.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/promenade.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/qol/armor-statues.pw.toml"
 metafile = true
 
@@ -163,6 +183,38 @@ file = "mods/content/silly/mystical-oak-tree.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/duckling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/enderman-overhaul.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fast-paintings.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/goated.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/hamsters.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/hearth-and-home.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/highlight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/labels.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/bclib.pw.toml"
 metafile = true
 
@@ -172,6 +224,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/collective.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/dawn.pw.toml"
 metafile = true
 
 [[files]]
@@ -260,6 +316,18 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/yungs-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/more-mob-variants.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/naturalist.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/nightlights.pw.toml"
 metafile = true
 
 [[files]]
@@ -396,6 +464,14 @@ metafile = true
 
 [[files]]
 file = "mods/performance/spark.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries-squared.pw.toml"
 metafile = true
 
 [[files]]
@@ -592,6 +668,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/visual/visuality.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/verdantvibes.pw.toml"
 metafile = true
 
 [[files]]

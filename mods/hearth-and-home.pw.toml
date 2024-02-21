@@ -1,0 +1,13 @@
+name = "Hearth & Home"
+filename = "hearth_and_home-fabric-1.20.1-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ePCzRQkj/versions/ByPertuX/hearth_and_home-fabric-1.20.1-2.0.1.jar"
+hash-format = "sha1"
+hash = "942accf815d68b3ff2732ea1533e7c48f1fa4fd8"
+
+[update]
+[update.modrinth]
+mod-id = "ePCzRQkj"
+version = "ByPertuX"
