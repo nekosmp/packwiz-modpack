@@ -1,0 +1,13 @@
+name = "HexLands"
+filename = "hexlands-fabric-1.20-5.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/jkmTQqWQ/versions/nwlc5ZDk/hexlands-fabric-1.20-5.0.0.jar"
+hash-format = "sha1"
+hash = "6728622db6152b3fb056036ee0586284bba396b5"
+
+[update]
+[update.modrinth]
+mod-id = "jkmTQqWQ"
+version = "nwlc5ZDk"
