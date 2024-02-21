@@ -35,6 +35,10 @@ file = "mods/advancement-frames.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/better-archeology.pw.toml"
 metafile = true
 
@@ -436,6 +440,10 @@ metafile = true
 
 [[files]]
 file = "mods/overhauls/village/ctov-friends-and-foes-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
 metafile = true
 
 [[files]]
