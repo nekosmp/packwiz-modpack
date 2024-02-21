@@ -87,11 +87,35 @@ file = "mods/content/computers/plethora-peripherals.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/bellsandwhistles.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/bits-and-chisels.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-big-cannons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-deco.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/create-fabric-sodium-fix.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/content/create/create-steam-n-rails.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-track-map.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/slice-and-dice.pw.toml"
 metafile = true
 
 [[files]]
@@ -123,6 +147,10 @@ file = "mods/content/mobs/enderman-overhaul.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/mobs/friends-and-foes-flowery-mooblooms-fabric.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/mobs/friends-and-foes.pw.toml"
 metafile = true
 
@@ -140,6 +168,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/mobs/more-mob-variants.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/more-mobs.pw.toml"
 metafile = true
 
 [[files]]
@@ -208,10 +240,6 @@ metafile = true
 
 [[files]]
 file = "mods/content/supplementaries-squared.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/friends-and-foes-flowery-mooblooms-fabric.pw.toml"
 metafile = true
 
 [[files]]
@@ -324,10 +352,6 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/yungs-api.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/more-mobs.pw.toml"
 metafile = true
 
 [[files]]
