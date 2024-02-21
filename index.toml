@@ -91,10 +91,6 @@ file = "mods/content/create/bellsandwhistles.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/create/bits-and-chisels.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/create/create-big-cannons.pw.toml"
 metafile = true
 
