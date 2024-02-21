@@ -255,10 +255,6 @@ file = "mods/libraries/trinkets.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/libraries/valkyrien-skies.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/libraries/yacl.pw.toml"
 metafile = true
 
