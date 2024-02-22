@@ -318,10 +318,6 @@ file = "mods/hex-casting.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/hexlands.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/labels.pw.toml"
 metafile = true
 
