@@ -606,10 +606,6 @@ file = "mods/powerae2cc.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tis3d.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/tweaks/audio/plasmo-voice.pw.toml"
 metafile = true
 
