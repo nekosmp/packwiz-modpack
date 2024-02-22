@@ -326,10 +326,6 @@ file = "mods/emitrades.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/expanded-ecosphere.pw.toml"
 metafile = true
 
@@ -575,6 +571,10 @@ metafile = true
 
 [[files]]
 file = "mods/performance/clumps.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/entityculling.pw.toml"
 metafile = true
 
 [[files]]
