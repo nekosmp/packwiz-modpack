@@ -58,10 +58,6 @@ file = "mods/architectury-api.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/banners4bm.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/bluemap-offline-player-markers-(fabric).pw.toml"
 metafile = true
 
