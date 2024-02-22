@@ -1,0 +1,13 @@
+name = "AE2 QoL Recipes"
+filename = "ae2qolrecipes-fabric-1.18.2-1.20.x-1.1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/K7VSm2YY/versions/fByPv5p6/ae2qolrecipes-fabric-1.18.2-1.20.x-1.1.1.jar"
+hash-format = "sha1"
+hash = "7465ec520e3fdeb68476109e1e79f9ece5ef2ebd"
+
+[update]
+[update.modrinth]
+mod-id = "K7VSm2YY"
+version = "fByPv5p6"

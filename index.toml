@@ -38,6 +38,34 @@ file = "mods/advancement-frames.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/ae2-emi-crafting.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ae2-qol-recipes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ae2.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/botarium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/computer-cartographer.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/better-archeology.pw.toml"
 metafile = true
 
@@ -242,7 +270,43 @@ file = "mods/content/supplementaries-squared.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/create-new-age.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ducky-periphs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/emi-enchanting.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/emi-ores.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/emiffect.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/expanded-ecosphere.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/extra-mod-integrations.pw.toml"
 metafile = true
 
 [[files]]
@@ -251,6 +315,10 @@ metafile = true
 
 [[files]]
 file = "mods/hex-casting.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/hexdim.pw.toml"
 metafile = true
 
 [[files]]
@@ -379,6 +447,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/yungs-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/markdownmanual.pw.toml"
 metafile = true
 
 [[files]]
@@ -523,6 +595,22 @@ metafile = true
 
 [[files]]
 file = "mods/performance/spark.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/polymorphic-energistics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/powerae2cc.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tis3d.pw.toml"
 metafile = true
 
 [[files]]
