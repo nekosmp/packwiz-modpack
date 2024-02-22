@@ -341,10 +341,6 @@ file = "mods/extra-mod-integrations.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/first-person-model.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/grass-overhaul.pw.toml"
 metafile = true
 
@@ -482,6 +478,10 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/nsmp-discord-bridge.pw.toml"
 metafile = true
 
 [[files]]
