@@ -1,0 +1,13 @@
+name = "Grass Overhaul"
+filename = "Grass_Overhaul-Fabric-23.06.09_MC1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Eeb4VkF6/versions/3fug467N/Grass_Overhaul-Fabric-23.06.09_MC1.20.jar"
+hash-format = "sha1"
+hash = "2bfc22f191a1ad32ef922d805132744cfbccc7cc"
+
+[update]
+[update.modrinth]
+mod-id = "Eeb4VkF6"
+version = "3fug467N"

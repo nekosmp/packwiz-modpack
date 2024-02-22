@@ -35,10 +35,6 @@ file = "mods/advancement-frames.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/cardinal-components-api.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/better-archeology.pw.toml"
 metafile = true
 
@@ -243,6 +239,18 @@ file = "mods/content/supplementaries-squared.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/cristel-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/expanded-ecosphere.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/grass-overhaul.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/hex-casting.pw.toml"
 metafile = true
 
@@ -256,6 +264,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/bclib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/cardinal-components-api.pw.toml"
 metafile = true
 
 [[files]]
@@ -324,6 +336,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/mru.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/paucal.pw.toml"
 metafile = true
 
 [[files]]
@@ -444,10 +460,6 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/paucal.pw.toml"
 metafile = true
 
 [[files]]
