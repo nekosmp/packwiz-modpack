@@ -41,31 +41,27 @@ file = "mods/advancement-frames.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/ae2-emi-crafting.pw.toml"
+file = "mods/ae2/ae2-emi-crafting.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/ae2-qol-recipes.pw.toml"
+file = "mods/ae2/ae2-qol-recipes.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/ae2.pw.toml"
+file = "mods/ae2/ae2.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+file = "mods/ae2/applied-energistics-2-wireless-terminals.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/architectury-api.pw.toml"
+file = "mods/bluemap/bluemap-offline-player-markers-(fabric).pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/bluemap-offline-player-markers-(fabric).pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/bluemap-sign-markers.pw.toml"
+file = "mods/bluemap/bluemap-sign-markers.pw.toml"
 metafile = true
 
 [[files]]
@@ -309,27 +305,27 @@ file = "mods/ducky-periphs.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/emi-enchanting.pw.toml"
+file = "mods/emi/emi-enchanting.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/emi-loot.pw.toml"
+file = "mods/emi/emi-loot.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/emi-ores.pw.toml"
+file = "mods/emi/emi-ores.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/emi.pw.toml"
+file = "mods/emi/emi.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/emiffect.pw.toml"
+file = "mods/emi/emiffect.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/emitrades.pw.toml"
+file = "mods/emi/emitrades.pw.toml"
 metafile = true
 
 [[files]]
@@ -350,6 +346,10 @@ metafile = true
 
 [[files]]
 file = "mods/labels.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/architectury-api.pw.toml"
 metafile = true
 
 [[files]]
