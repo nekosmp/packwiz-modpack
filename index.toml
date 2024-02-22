@@ -278,7 +278,19 @@ file = "mods/content/supplementaries-squared.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/cpmoscc.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cpmpvc.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-new-age.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/custom-player-models.pw.toml"
 metafile = true
 
 [[files]]
@@ -314,11 +326,19 @@ file = "mods/emitrades.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/expanded-ecosphere.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/extra-mod-integrations.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/first-person-model.pw.toml"
 metafile = true
 
 [[files]]
@@ -455,6 +475,10 @@ metafile = true
 
 [[files]]
 file = "mods/markdownmanual.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
 metafile = true
 
 [[files]]
@@ -611,6 +635,10 @@ metafile = true
 
 [[files]]
 file = "mods/powerae2cc.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/pv-addon-sculk.pw.toml"
 metafile = true
 
 [[files]]
@@ -827,6 +855,10 @@ metafile = true
 
 [[files]]
 file = "mods/verdantvibes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/vivecraft-compat.pw.toml"
 metafile = true
 
 [[files]]

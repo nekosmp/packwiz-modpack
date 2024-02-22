@@ -1,0 +1,13 @@
+name = "Customizable Player Models OSC Compat"
+filename = "cpm-osc-compat-1.5.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/QDihBtsN/versions/z8zaDCHj/cpm-osc-compat-1.5.1.jar"
+hash-format = "sha1"
+hash = "491b93644760e75f0072c0b80e59fb4512384e3e"
+
+[update]
+[update.modrinth]
+mod-id = "QDihBtsN"
+version = "z8zaDCHj"
