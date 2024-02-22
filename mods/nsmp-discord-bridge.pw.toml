@@ -1,8 +1,8 @@
 name = "nsmp-discord-bridge"
-filename = "nsmp-discord-bridge-1.0.2+1.20.1-server.jar"
+filename = "nsmp-discord-bridge-1.0.4+1.20.1-server.jar"
 side = "server"
 
 [download]
-url = "https://github.com/nekosmp/nsmp_discord_bridge/releases/download/mc1.20.1%2Fv1.0.2/nsmp-discord-bridge-1.0.2+1.20.1-server.jar"
+url = "https://github.com/nekosmp/nsmp_discord_bridge/releases/download/mc1.20.1%2Fv1.0.4/nsmp-discord-bridge-1.0.4+1.20.1-server.jar"
 hash-format = "sha256"
-hash = "7b1fa2ed0019103cee4fcf207d4c826401386d4e1ad3e09d209355f05faea93e"
+hash = "bea4e61b534d147e675b45b7e3daa5233ecc9b37a49cc86abf09e60c4624dcc5"
