@@ -278,6 +278,10 @@ file = "mods/content/supplementaries-squared.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/cpmoscc.pw.toml"
 metafile = true
 
