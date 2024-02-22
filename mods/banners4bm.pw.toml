@@ -1,0 +1,13 @@
+name = "Banners4BM"
+filename = "Banners4BM-1.0.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/tkiadW4P/versions/w13bBJIC/Banners4BM-1.0.2.jar"
+hash-format = "sha1"
+hash = "9eca33f8bcbb10fedb5a40d17df08d91ee2a2e4d"
+
+[update]
+[update.modrinth]
+mod-id = "tkiadW4P"
+version = "w13bBJIC"

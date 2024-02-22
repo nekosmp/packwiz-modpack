@@ -58,6 +58,18 @@ file = "mods/architectury-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/banners4bm.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/bluemap-offline-player-markers-(fabric).pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/bluemap-sign-markers.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 metafile = true
 
@@ -271,6 +283,10 @@ metafile = true
 
 [[files]]
 file = "mods/create-new-age.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/double-doors.pw.toml"
 metafile = true
 
 [[files]]
@@ -599,6 +615,10 @@ metafile = true
 
 [[files]]
 file = "mods/powerae2cc.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/toms-peripherals.pw.toml"
 metafile = true
 
 [[files]]
