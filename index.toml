@@ -10,6 +10,9 @@ file = "config/bclib/server.json"
 file = "config/bluemap/core.conf"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+
+[[files]]
 file = "config/paxi/datapack_load_order.json"
 
 [[files]]

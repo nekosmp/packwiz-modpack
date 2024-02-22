@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "overrides": {
+    "copycats": {
+      "-depends": {
+        "create": "IGNORED"
+      }
+    }
+  }
+}
