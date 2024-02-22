@@ -7,6 +7,9 @@ file = "config/bclib/client.json"
 file = "config/bclib/server.json"
 
 [[files]]
+file = "config/bluemap/core.conf"
+
+[[files]]
 file = "config/paxi/datapack_load_order.json"
 
 [[files]]
@@ -239,10 +242,6 @@ file = "mods/content/supplementaries-squared.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/cristel-lib.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/expanded-ecosphere.pw.toml"
 metafile = true
 
@@ -276,6 +275,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/collective.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/cristel-lib.pw.toml"
 metafile = true
 
 [[files]]
