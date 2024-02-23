@@ -37,22 +37,6 @@ file = "config/presencefootsteps/updater.json"
 file = "modlist.md"
 
 [[files]]
-file = "mods/accelerated-decay.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/additional-lanterns.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/advancement-frames.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/ae2-mousetweaks-fix.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/ae2/ae2-emi-crafting.pw.toml"
 metafile = true
 
@@ -69,42 +53,6 @@ file = "mods/ae2/applied-energistics-2-wireless-terminals.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/alloy-forgery.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/ambientsounds.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/amendments.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/auth-me.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/badoptimizations.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/balm.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/better-third-person.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/bettersmithingtable.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/blahaj.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/bluemap/bluemap-offline-player-markers-(fabric).pw.toml"
 metafile = true
 
@@ -113,23 +61,7 @@ file = "mods/bluemap/bluemap-sign-markers.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/bookshelf-lib.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/botarium.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/cat_jam.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/charmonium.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/completeconfig.pw.toml"
+file = "mods/brewin-and-chewin-fabric.pw.toml"
 metafile = true
 
 [[files]]
@@ -341,42 +273,6 @@ file = "mods/content/supplementaries-squared.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/crafting-tweaks.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/creativecore.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/cupboard.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/dcwa.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/deeperdarker.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/ding.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/double-doors.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/ducky-periphs.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/eating-animation.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/emi/emi-enchanting.pw.toml"
 metafile = true
 
@@ -401,43 +297,7 @@ file = "mods/emi/emitrades.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/ends-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/expanded-ecosphere.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/extra-mod-integrations.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/farmers-knives.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/festive-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/fix-gpu-memory-leak.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/fog-looks-good-now-fabric.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/friends-and-foes-beekeeper-hut-fabric.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/fusion-connected-textures.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/geckoanimfix.pw.toml"
 metafile = true
 
 [[files]]
@@ -557,7 +417,175 @@ file = "mods/gwaaa2/mouse-wheelie.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/handcrafted.pw.toml"
+file = "mods/gwaaa3/accelerated-decay.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa3/additional-lanterns.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa3/advancement-frames.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa3/ae2-mousetweaks-fix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa3/alloy-forgery.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa3/ambientsounds.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa3/amendments.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa3/auth-me.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa3/badoptimizations.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa3/balm.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa3/better-third-person.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa3/bettersmithingtable.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa3/blahaj.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa3/bookshelf-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa3/botarium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa3/cat_jam.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa3/charmonium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa3/completeconfig.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa3/crafting-tweaks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa3/creativecore.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa3/cupboard.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa3/dcwa.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa3/deeperdarker.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa3/ding.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa3/double-doors.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa3/ducky-periphs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa3/eating-animation.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa3/expanded-ecosphere.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa3/extra-mod-integrations.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa3/festive-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa3/fog-looks-good-now-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa3/friends-and-foes-beekeeper-hut-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa3/fusion-connected-textures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa3/handcrafted.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa3/markdownmanual.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa3/menulogue.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa3/neruina.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa3/netherportalfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa3/not-enough-animations.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa3/owo-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa3/smooth-chunk-save.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa3/supermartijn642s-core-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa3/treechop.pw.toml"
 metafile = true
 
 [[files]]
@@ -689,26 +717,6 @@ file = "mods/libraries/yungs-api.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/markdownmanual.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/menulogue.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/neruina.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/netherportalfix.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/not-enough-animations.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/overhauls/betterend.pw.toml"
 metafile = true
 
@@ -789,10 +797,6 @@ file = "mods/overhauls/village/ctov-friends-and-foes-compat.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/owo-lib.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/performance/bobby.pw.toml"
 metafile = true
 
@@ -857,15 +861,7 @@ file = "mods/performance/spark.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/smooth-chunk-save.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/supermartijn642s-core-lib.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/treechop.pw.toml"
+file = "mods/respite-creators-fabric.pw.toml"
 metafile = true
 
 [[files]]
