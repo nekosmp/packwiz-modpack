@@ -944,6 +944,10 @@ file = "mods/performance/spark.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/peripheralium.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/species.pw.toml"
 metafile = true
 
@@ -1141,6 +1145,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/visual/visuality.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/unlimitedperipheralworks.pw.toml"
 metafile = true
 
 [[files]]
