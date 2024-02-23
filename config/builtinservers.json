@@ -1,0 +1,10 @@
+{
+  "badgeVisible": false,
+  "builtinServers": [
+    {
+      "name": "neko.smp",
+      "address": "childlabour.co:28353",
+      "forced": true
+    }
+  ]
+}

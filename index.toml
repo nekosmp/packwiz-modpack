@@ -10,6 +10,9 @@ file = "config/bclib/server.json"
 file = "config/bluemap/core.conf"
 
 [[files]]
+file = "config/builtinservers.json"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
 
 [[files]]
@@ -57,6 +60,10 @@ file = "mods/ae2/applied-energistics-2-wireless-terminals.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/alloy-forgery.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/bluemap/bluemap-offline-player-markers-(fabric).pw.toml"
 metafile = true
 
@@ -66,6 +73,14 @@ metafile = true
 
 [[files]]
 file = "mods/botarium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/builtin-servers.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/completeconfig.pw.toml"
 metafile = true
 
 [[files]]
@@ -129,6 +144,10 @@ file = "mods/content/create/bellsandwhistles.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/copycats.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/create-big-cannons.pw.toml"
 metafile = true
 
@@ -138,6 +157,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/create/create-fabric-sodium-fix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-new-age.pw.toml"
 metafile = true
 
 [[files]]
@@ -277,10 +300,6 @@ file = "mods/content/supplementaries-squared.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/copycats.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/cpmoscc.pw.toml"
 metafile = true
 
@@ -289,11 +308,11 @@ file = "mods/cpmpvc.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/create-new-age.pw.toml"
+file = "mods/custom-player-models.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/custom-player-models.pw.toml"
+file = "mods/ding.pw.toml"
 metafile = true
 
 [[files]]
@@ -334,6 +353,14 @@ metafile = true
 
 [[files]]
 file = "mods/extra-mod-integrations.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fog-looks-good-now-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes-beekeeper-hut-fabric.pw.toml"
 metafile = true
 
 [[files]]
@@ -565,6 +592,10 @@ file = "mods/overhauls/village/ctov-friends-and-foes-compat.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 metafile = true
 
@@ -646,6 +677,10 @@ metafile = true
 
 [[files]]
 file = "mods/pv-addon-sculk.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/seamless-loading-screen.pw.toml"
 metafile = true
 
 [[files]]
