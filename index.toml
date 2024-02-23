@@ -13,9 +13,6 @@ file = "config/bluemap/core.conf"
 file = "config/builtinservers.json"
 
 [[files]]
-file = "config/fabric_loader_dependencies.json"
-
-[[files]]
 file = "config/paxi/datapack_load_order.json"
 
 [[files]]
