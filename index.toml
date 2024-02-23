@@ -61,10 +61,6 @@ file = "mods/bluemap/bluemap-sign-markers.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/brewin-and-chewin-fabric.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/better-archeology.pw.toml"
 metafile = true
 
@@ -294,6 +290,18 @@ metafile = true
 
 [[files]]
 file = "mods/emi/emitrades.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ends-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fix-gpu-memory-leak.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/geckoanimfix.pw.toml"
 metafile = true
 
 [[files]]
@@ -585,6 +593,14 @@ file = "mods/gwaaa3/treechop.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/gwaaa4/brewin-and-chewin-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa4/respite-creators-fabric.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/architectury-api.pw.toml"
 metafile = true
 
@@ -850,10 +866,6 @@ metafile = true
 
 [[files]]
 file = "mods/performance/spark.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/respite-creators-fabric.pw.toml"
 metafile = true
 
 [[files]]
