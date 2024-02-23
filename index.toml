@@ -89,10 +89,6 @@ file = "mods/badoptimizations.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/badpackets.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 metafile = true
 
@@ -125,19 +121,7 @@ file = "mods/botarium.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/brewin-and-chewin-fabric.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/builtin-servers.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/cat_jam.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/catalogue-fabric.pw.toml"
 metafile = true
 
 [[files]]
@@ -146,14 +130,6 @@ metafile = true
 
 [[files]]
 file = "mods/completeconfig.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/computer-cartographer.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/connected-glass.pw.toml"
 metafile = true
 
 [[files]]
@@ -369,19 +345,7 @@ file = "mods/content/supplementaries-squared.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/cpmoscc.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/cpmpvc.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/crafting-tweaks.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/craftpresence.pw.toml"
 metafile = true
 
 [[files]]
@@ -393,14 +357,6 @@ file = "mods/cupboard.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/custom-player-models.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/dark-paintings.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/dcwa.pw.toml"
 metafile = true
 
@@ -409,19 +365,11 @@ file = "mods/deeperdarker.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/delightful-creators-fabric.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/ding.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/double-doors.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/drippy-loading-screen.pw.toml"
 metafile = true
 
 [[files]]
@@ -457,14 +405,6 @@ file = "mods/emi/emitrades.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/ends-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/expanded-delight.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/expanded-ecosphere.pw.toml"
 metafile = true
 
@@ -473,23 +413,7 @@ file = "mods/extra-mod-integrations.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/farmers-knives.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/farmers-respite-fabric.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/festive-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/fish-on-the-line.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/fix-gpu-memory-leak.pw.toml"
 metafile = true
 
 [[files]]
@@ -501,43 +425,127 @@ file = "mods/friends-and-foes-beekeeper-hut-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/frights-delight.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/geckoanimfix.pw.toml"
+file = "mods/gwaaa/computer-cartographer.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/grass-overhaul.pw.toml"
+file = "mods/gwaaa/connected-glass.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa/cpmoscc.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa/cpmpvc.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa/custom-player-models.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa/grass-overhaul.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa/hex-casting.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa/labels.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa/nsmp-discord-bridge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa/patchouli.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa/polymorph.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa/polymorphic-energistics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa/powerae2cc.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa/pv-addon-sculk.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa/seamless-loading-screen.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa/toms-peripherals.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa/verdantvibes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa/vivecraft-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa/vivecraft.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa2/builtin-servers.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa2/catalogue-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa2/craftpresence.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa2/dark-paintings.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa2/drippy-loading-screen.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa2/fish-on-the-line.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa2/idwtialsimmoedm.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa2/invview.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa2/mouse-tweaks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa2/mouse-wheelie.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/handcrafted.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/hex-casting.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/idwtialsimmoedm.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/invview.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/iris-flw-compat.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/labels.pw.toml"
 metafile = true
 
 [[files]]
@@ -673,14 +681,6 @@ file = "mods/menulogue.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/mouse-tweaks.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/mouse-wheelie.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/neruina.pw.toml"
 metafile = true
 
@@ -690,10 +690,6 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/nsmp-discord-bridge.pw.toml"
 metafile = true
 
 [[files]]
@@ -781,10 +777,6 @@ file = "mods/owo-lib.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/patchouli.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/performance/bobby.pw.toml"
 metafile = true
 
@@ -849,39 +841,11 @@ file = "mods/performance/spark.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/polymorph.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/polymorphic-energistics.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/powerae2cc.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/pv-addon-sculk.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/respite-creators-fabric.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/seamless-loading-screen.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/smooth-chunk-save.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/toms-peripherals.pw.toml"
 metafile = true
 
 [[files]]
@@ -1086,18 +1050,6 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/visual/visuality.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/verdantvibes.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/vivecraft-compat.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/vivecraft.pw.toml"
 metafile = true
 
 [[files]]
