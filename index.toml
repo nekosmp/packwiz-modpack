@@ -944,6 +944,10 @@ file = "mods/performance/spark.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/species.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/audio/plasmo-voice.pw.toml"
 metafile = true
 
@@ -1137,6 +1141,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/visual/visuality.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
 metafile = true
 
 [[files]]
