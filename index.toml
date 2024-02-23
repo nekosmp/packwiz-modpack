@@ -56,10 +56,6 @@ file = "mods/ae2/applied-energistics-2-wireless-terminals.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/async-locator.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/bluemap/bluemap-offline-player-markers-(fabric).pw.toml"
 metafile = true
 
@@ -297,6 +293,10 @@ metafile = true
 
 [[files]]
 file = "mods/emi/emitrades.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons-delight-compat.pw.toml"
 metafile = true
 
 [[files]]
@@ -644,6 +644,10 @@ file = "mods/gwaaa5/armorful.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/gwaaa5/async-locator.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/gwaaa5/bl4cks-sit.pw.toml"
 metafile = true
 
@@ -664,11 +668,27 @@ file = "mods/gwaaa5/perfect-plushies.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/gwaaa5/peripheralium.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/gwaaa5/player-ladder.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/gwaaa5/sound.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa5/species.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa5/unlimitedperipheralworks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa5/vmp-fabric.pw.toml"
 metafile = true
 
 [[files]]
@@ -801,6 +821,62 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/yungs-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/macaw/macaws-bridges.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/macaw/macaws-doors.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/macaw/macaws-fences-and-walls.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/macaw/macaws-furniture.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/macaw/macaws-holidays.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/macaw/macaws-lights-and-lamps.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/macaw/macaws-paintings.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/macaw/macaws-paths-and-pavings.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/macaw/macaws-roofs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/macaw/macaws-trapdoors.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/macaw/macaws-windows.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mvs/mes-moogs-end-structures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mvs/mns-moogs-nether-structures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mvs/moogs-voyager-structures.pw.toml"
 metafile = true
 
 [[files]]
@@ -945,14 +1021,6 @@ metafile = true
 
 [[files]]
 file = "mods/performance/spark.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/peripheralium.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/species.pw.toml"
 metafile = true
 
 [[files]]
@@ -1149,14 +1217,6 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/visual/visuality.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/unlimitedperipheralworks.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/vmp-fabric.pw.toml"
 metafile = true
 
 [[files]]

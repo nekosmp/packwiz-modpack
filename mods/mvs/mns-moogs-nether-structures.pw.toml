@@ -1,0 +1,13 @@
+name = "MNS - Moog's Nether Structures"
+filename = "mns-1.0.0-1.19.4-fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/nGUXvjTa/versions/fFbPQh8w/mns-1.0.0-1.19.4-fabric.jar"
+hash-format = "sha1"
+hash = "b2be5497703a2ac7cd24a68e82124d55ec5c5f8e"
+
+[update]
+[update.modrinth]
+mod-id = "nGUXvjTa"
+version = "fFbPQh8w"
