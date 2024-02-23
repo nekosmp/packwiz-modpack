@@ -425,10 +425,6 @@ file = "mods/gwaaa2/mouse-tweaks.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/gwaaa2/mouse-wheelie.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/gwaaa3/accelerated-decay.pw.toml"
 metafile = true
 
