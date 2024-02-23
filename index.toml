@@ -73,10 +73,6 @@ file = "mods/alloy-forgery.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/almost-unified.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/ambientsounds.pw.toml"
 metafile = true
 
