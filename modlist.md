@@ -39,9 +39,7 @@ TODO: maybe merchant-markers
 
 TODO: check without better end but with better end
 TODO: check the sound mod in end with beterend
-TODO: mouse tweaks mod alike
 TODO: lambdabettergrass?
-TODO: JEI/REI/EMI??
 TODO: quests
 TODO: friends and foes compat 
 TODO: Bountiful claim test dupe
