@@ -308,10 +308,6 @@ file = "mods/fabric-seasons.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/flow.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/gwaaa/computer-cartographer.pw.toml"
 metafile = true
 
