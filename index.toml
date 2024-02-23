@@ -40,7 +40,19 @@ file = "config/presencefootsteps/updater.json"
 file = "modlist.md"
 
 [[files]]
+file = "mods/accelerated-decay.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/additional-lanterns.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/advancement-frames.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ae2-mousetweaks-fix.pw.toml"
 metafile = true
 
 [[files]]
@@ -64,6 +76,38 @@ file = "mods/alloy-forgery.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/almost-unified.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/auth-me.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/better-third-person.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/bettersmithingtable.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/blahaj.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/bluemap/bluemap-offline-player-markers-(fabric).pw.toml"
 metafile = true
 
@@ -72,11 +116,31 @@ file = "mods/bluemap/bluemap-sign-markers.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf-lib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/brewin-and-chewin-fabric.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/builtin-servers.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cat_jam.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/catalogue-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/charmonium.pw.toml"
 metafile = true
 
 [[files]]
@@ -85,6 +149,10 @@ metafile = true
 
 [[files]]
 file = "mods/computer-cartographer.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/connected-glass.pw.toml"
 metafile = true
 
 [[files]]
@@ -308,7 +376,39 @@ file = "mods/cpmpvc.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/crafting-tweaks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/craftpresence.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/custom-player-models.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dark-paintings.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dcwa.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/deeperdarker.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/delightful-creators-fabric.pw.toml"
 metafile = true
 
 [[files]]
@@ -320,7 +420,15 @@ file = "mods/double-doors.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/ducky-periphs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/eating-animation.pw.toml"
 metafile = true
 
 [[files]]
@@ -348,11 +456,39 @@ file = "mods/emi/emitrades.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/ends-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/expanded-delight.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/expanded-ecosphere.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/extra-mod-integrations.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/farmers-knives.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/farmers-respite-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/festive-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fish-on-the-line.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fix-gpu-memory-leak.pw.toml"
 metafile = true
 
 [[files]]
@@ -364,11 +500,39 @@ file = "mods/friends-and-foes-beekeeper-hut-fabric.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/frights-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/geckoanimfix.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/grass-overhaul.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/handcrafted.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/hex-casting.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/idwtialsimmoedm.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/invview.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/iris-flw-compat.pw.toml"
 metafile = true
 
 [[files]]
@@ -501,6 +665,26 @@ metafile = true
 
 [[files]]
 file = "mods/markdownmanual.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/menulogue.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mouse-wheelie.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/neruina.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
 metafile = true
 
 [[files]]
@@ -680,11 +864,27 @@ file = "mods/pv-addon-sculk.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/respite-creators-fabric.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/seamless-loading-screen.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/toms-peripherals.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/treechop.pw.toml"
 metafile = true
 
 [[files]]
@@ -816,19 +1016,11 @@ file = "mods/tweaks/interface/controlling.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/interface/dark-loading-screen.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/tweaks/interface/fancymenu.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/tweaks/interface/language-reload.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/tweaks/interface/modmenu.pw.toml"
 metafile = true
 
 [[files]]
@@ -905,4 +1097,8 @@ metafile = true
 
 [[files]]
 file = "mods/vivecraft.pw.toml"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
 metafile = true
