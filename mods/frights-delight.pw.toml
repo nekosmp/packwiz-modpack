@@ -1,0 +1,13 @@
+name = "Fright's Delight"
+filename = "frightsdelight-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/awWvXlb2/versions/Wpxu9M23/frightsdelight-1.20.1-1.0.1.jar"
+hash-format = "sha1"
+hash = "f079ba973e9dbd90cb46a8938e9eb2ddc0ce4402"
+
+[update]
+[update.modrinth]
+mod-id = "awWvXlb2"
+version = "Wpxu9M23"

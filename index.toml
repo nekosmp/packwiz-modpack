@@ -269,6 +269,10 @@ file = "mods/content/supplementaries-squared.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/delightful-creators-fabric.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/emi/emi-enchanting.pw.toml"
 metafile = true
 
@@ -293,15 +297,19 @@ file = "mods/emi/emitrades.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/ends-delight.pw.toml"
+file = "mods/expanded-delight.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/fix-gpu-memory-leak.pw.toml"
+file = "mods/farmers-knives.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/geckoanimfix.pw.toml"
+file = "mods/farmers-respite-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/frights-delight.pw.toml"
 metafile = true
 
 [[files]]
@@ -594,6 +602,18 @@ metafile = true
 
 [[files]]
 file = "mods/gwaaa4/brewin-and-chewin-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa4/ends-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa4/fix-gpu-memory-leak.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa4/geckoanimfix.pw.toml"
 metafile = true
 
 [[files]]
