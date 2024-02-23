@@ -56,6 +56,10 @@ file = "mods/ae2/applied-energistics-2-wireless-terminals.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/async-locator.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/bluemap/bluemap-offline-player-markers-(fabric).pw.toml"
 metafile = true
 
