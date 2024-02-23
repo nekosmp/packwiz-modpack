@@ -81,6 +81,10 @@ file = "mods/ambientsounds.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/auth-me.pw.toml"
 metafile = true
 
@@ -146,10 +150,6 @@ metafile = true
 
 [[files]]
 file = "mods/content/building/beautify-refabricated.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/building/carpeted-stairs.pw.toml"
 metafile = true
 
 [[files]]
@@ -874,10 +874,6 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/claims/open-parties-and-claims.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/tweaks/gameplay/better-lily-pads.pw.toml"
 metafile = true
 
 [[files]]

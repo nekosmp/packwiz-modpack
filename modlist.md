@@ -51,3 +51,5 @@ TODO: bosses of mass destruction
 TODO: maybe add seasons mod
 TODO: maybe remove snowy spirit (glow lights kinda suck)
 TODO: bloodmoon
+
+TODO: update amendments to modrinth
