@@ -1,0 +1,20 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/craftpresence.json"
+
+[[files]]
+file = "mods/building/macaws-fences-and-walls.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/craftpresence.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+metafile = true

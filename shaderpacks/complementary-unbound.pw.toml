@@ -1,0 +1,11 @@
+name = "Complementary Shaders - Unbound"
+filename = "ComplementaryUnbound_r5.1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/R6NEzAwj/versions/MCqlWur4/ComplementaryUnbound_r5.1.1.zip"
+
+[update]
+[update.modrinth]
+mod-id = "R6NEzAwj"
+version = "MCqlWur4"
