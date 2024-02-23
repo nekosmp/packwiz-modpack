@@ -1,0 +1,13 @@
+name = "Species"
+filename = "Species-1.20.1-1.3-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/s5d4P01r/versions/eh9J38KG/Species-1.20.1-1.3-Fabric.jar"
+hash-format = "sha1"
+hash = "501d6d54b4ef57f0e0e04ec294dcc82436caccfb"
+
+[update]
+[update.modrinth]
+mod-id = "s5d4P01r"
+version = "eh9J38KG"

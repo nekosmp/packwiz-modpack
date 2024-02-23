@@ -4,15 +4,75 @@ hash-format = "sha256"
 file = "config/craftpresence.json"
 
 [[files]]
-file = "mods/building/macaws-fences-and-walls.pw.toml"
+file = "mods/content/building/connected-glass.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/craftpresence.pw.toml"
+file = "mods/content/building/macaws-fences-and-walls.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.pw.toml"
+file = "mods/content/mobs/species.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/fabric-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/fusion-connected-textures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/supermartijn642s-core-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/optional/bobby.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/optional/craftpresence.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/building/diagonal-fences.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/building/diagonal-windows.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/do-a-barrel-roll.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/inventory/distinguished-potions.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/inventory/mindful-darkness.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/inventory/norecipebook-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/inventory/shulkerboxtooltip.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/async-locator.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/clumps.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/vmp-fabric.pw.toml"
 metafile = true
 
 [[files]]
