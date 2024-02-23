@@ -72,10 +72,6 @@ file = "mods/bluemap/bluemap-sign-markers.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/cat_jam.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/better-archeology.pw.toml"
 metafile = true
 
@@ -1140,7 +1136,7 @@ file = "mods/tweaks/visual/visuality.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/villager-names.pw.toml"
+file = "mods/windchimes.pw.toml"
 metafile = true
 
 [[files]]
