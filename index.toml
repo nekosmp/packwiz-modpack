@@ -56,11 +56,23 @@ file = "mods/ae2/applied-energistics-2-wireless-terminals.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/armorful.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/bl4cks-sit.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/bluemap/bluemap-offline-player-markers-(fabric).pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/bluemap/bluemap-sign-markers.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cat_jam.pw.toml"
 metafile = true
 
 [[files]]
@@ -272,10 +284,6 @@ file = "mods/content/supplementaries-squared.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/coroutil.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/emi/emi-enchanting.pw.toml"
 metafile = true
 
@@ -297,6 +305,14 @@ metafile = true
 
 [[files]]
 file = "mods/emi/emitrades.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/flow.pw.toml"
 metafile = true
 
 [[files]]
@@ -588,6 +604,10 @@ file = "mods/gwaaa4/brewin-and-chewin-fabric.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/gwaaa4/coroutil.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/gwaaa4/delightful-creators-fabric.pw.toml"
 metafile = true
 
@@ -625,6 +645,22 @@ metafile = true
 
 [[files]]
 file = "mods/gwaaa4/respite-creators-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa4/show-me-what-you-got.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gwaaa4/what-are-they-up-to.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/immersive-snow.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/let-sleeping-dogs-lie.pw.toml"
 metafile = true
 
 [[files]]
@@ -832,6 +868,10 @@ file = "mods/overhauls/village/ctov-friends-and-foes-compat.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/perfect-plushies.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/performance/bobby.pw.toml"
 metafile = true
 
@@ -896,7 +936,11 @@ file = "mods/performance/spark.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/show-me-what-you-got.pw.toml"
+file = "mods/player-ladder.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sound.pw.toml"
 metafile = true
 
 [[files]]
@@ -1096,7 +1140,11 @@ file = "mods/tweaks/visual/visuality.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/what-are-they-up-to.pw.toml"
+file = "mods/villager-names.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/wolves-of-other-furs.pw.toml"
 metafile = true
 
 [[files]]
