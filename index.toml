@@ -297,10 +297,6 @@ file = "mods/emi/emitrades.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/farmers-knives.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/gwaaa/computer-cartographer.pw.toml"
 metafile = true
 
@@ -586,10 +582,6 @@ metafile = true
 
 [[files]]
 file = "mods/gwaaa3/treechop.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/iris-flw-compat.pw.toml"
 metafile = true
 
 [[files]]
