@@ -92,6 +92,10 @@ file = "mods/badoptimizations.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/badpackets.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 metafile = true
 
