@@ -293,10 +293,6 @@ file = "mods/emi/emitrades.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/fullstack-watchdog.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/gwaaa/computer-cartographer.pw.toml"
 metafile = true
 
@@ -613,6 +609,10 @@ file = "mods/gwaaa4/frights-delight.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/gwaaa4/fullstack-watchdog.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/gwaaa4/geckoanimfix.pw.toml"
 metafile = true
 
@@ -889,6 +889,10 @@ file = "mods/performance/spark.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/show-me-what-you-got.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/audio/plasmo-voice.pw.toml"
 metafile = true
 
@@ -1082,6 +1086,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/visual/visuality.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
 metafile = true
 
 [[files]]
