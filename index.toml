@@ -269,6 +269,10 @@ file = "mods/content/supplementaries-squared.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/coroutil.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/emi/emi-enchanting.pw.toml"
 metafile = true
 
