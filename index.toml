@@ -13,6 +13,9 @@ file = "config/bluemap/core.conf"
 file = "config/builtinservers.json"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+
+[[files]]
 file = "config/paxi/datapack_load_order.json"
 
 [[files]]
@@ -70,6 +73,10 @@ metafile = true
 
 [[files]]
 file = "mods/alloy-forgery.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/almost-unified.pw.toml"
 metafile = true
 
 [[files]]
