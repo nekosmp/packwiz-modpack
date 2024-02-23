@@ -401,6 +401,10 @@ file = "mods/emi/emitrades.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/ends-delight.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/expanded-ecosphere.pw.toml"
 metafile = true
 
@@ -409,7 +413,15 @@ file = "mods/extra-mod-integrations.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/farmers-knives.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/festive-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fix-gpu-memory-leak.pw.toml"
 metafile = true
 
 [[files]]
@@ -422,6 +434,10 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/geckoanimfix.pw.toml"
 metafile = true
 
 [[files]]
@@ -542,6 +558,10 @@ metafile = true
 
 [[files]]
 file = "mods/handcrafted.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/iris-flw-compat.pw.toml"
 metafile = true
 
 [[files]]
