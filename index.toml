@@ -119,6 +119,10 @@ file = "mods/content/mobs/more-mobs.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/mobs/snuffles-fabric.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/mobs/species.pw.toml"
 metafile = true
 
@@ -391,6 +395,10 @@ file = "mods/libraries/paxi.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/pehkui.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/puzzles-lib.pw.toml"
 metafile = true
 
@@ -552,6 +560,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gameplay/grass-seeds.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/lootr.pw.toml"
 metafile = true
 
 [[files]]
