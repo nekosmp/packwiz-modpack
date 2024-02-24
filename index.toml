@@ -4,6 +4,20 @@ hash-format = "sha256"
 file = "config/craftpresence.json"
 
 [[files]]
+file = "config/paxi/datapack_load_order.json"
+
+[[files]]
+file = "config/paxi/resourcepack_load_order.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/advancement-plaques-with-vines.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/creeper-overhaul-overhaul.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/building/connected-glass.pw.toml"
 metafile = true
 
@@ -17,6 +31,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/decoration/additional-lanterns.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/decoration/blahaj.pw.toml"
 metafile = true
 
 [[files]]
@@ -152,6 +170,10 @@ file = "mods/core/emi/emitrades.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/core/emi/extra-mod-integrations.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/core/farmers-delight/chefs-delight.pw.toml"
 metafile = true
 
@@ -260,6 +282,10 @@ file = "mods/libraries/moonlight.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/mru.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/patchouli.pw.toml"
 metafile = true
 
@@ -328,6 +354,14 @@ file = "mods/tweaks/gameplay/armor-statues.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/armorful.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/better-third-person.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/block-runner.pw.toml"
 metafile = true
 
@@ -385,6 +419,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gameplay/spyglass-improvements.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/treechop.pw.toml"
 metafile = true
 
 [[files]]
@@ -448,6 +486,10 @@ file = "mods/tweaks/interface/controlling.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/interface/drippy-loading-screen.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/interface/fancymenu.pw.toml"
 metafile = true
 
@@ -468,11 +510,19 @@ file = "mods/tweaks/interface/seamless-loading-screen.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/inventory/ae2-mousetweaks-fix.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/inventory/distinguished-potions.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/tweaks/inventory/mindful-darkness.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/inventory/mouse-tweaks.pw.toml"
 metafile = true
 
 [[files]]
@@ -572,7 +622,15 @@ file = "mods/tweaks/visual/bobby.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/visual/eating-animation.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/visual/fallingleaves.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/fog-looks-good-now-fabric.pw.toml"
 metafile = true
 
 [[files]]
@@ -593,6 +651,14 @@ metafile = true
 
 [[files]]
 file = "mods/utils/chunky.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utils/fullstack-watchdog.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utils/invview.pw.toml"
 metafile = true
 
 [[files]]
@@ -617,6 +683,10 @@ metafile = true
 
 [[files]]
 file = "mods/worldgen/ctov/ctov-farmers-delight-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/moogs/moogs-voyager-structures.pw.toml"
 metafile = true
 
 [[files]]
