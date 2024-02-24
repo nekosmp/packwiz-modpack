@@ -1,6 +1,9 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/builtinservers.json"
+
+[[files]]
 file = "config/craftpresence.json"
 
 [[files]]
@@ -434,6 +437,10 @@ file = "mods/tweaks/gameplay/better-third-person.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/bettersmithingtable.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/block-runner.pw.toml"
 metafile = true
 
@@ -570,11 +577,19 @@ file = "mods/tweaks/interface/borderless-mining.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/interface/builtin-servers.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/interface/controlling.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/tweaks/interface/dcwa.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/interface/ding.pw.toml"
 metafile = true
 
 [[files]]
