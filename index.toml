@@ -303,6 +303,10 @@ file = "mods/libraries/collective.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/completeconfig.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/coroutil.pw.toml"
 metafile = true
 
@@ -620,6 +624,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/hud/show-me-what-you-got.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/status-effect-bars.pw.toml"
 metafile = true
 
 [[files]]
