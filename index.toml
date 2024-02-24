@@ -951,6 +951,10 @@ file = "mods/tweaks/interface/no-chat-reports.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/interface/resource-pack-overrides.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/interface/screenshot-to-clipboard.pw.toml"
 metafile = true
 
