@@ -82,6 +82,10 @@ file = "mods/content/mobs/friends-and-foes.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/mobs/mavm.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/mobs/more-mob-variants.pw.toml"
 metafile = true
 
@@ -327,6 +331,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/library-ferret-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/mavapi.pw.toml"
 metafile = true
 
 [[files]]
@@ -786,7 +794,15 @@ file = "mods/worldgen/ctov/ctov-farmers-delight-compat.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/worldgen/ctov/ctov-friends-and-foes-compat.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/worldgen/expanded-ecosphere.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/friends-and-foes-beekeeper-hut-fabric.pw.toml"
 metafile = true
 
 [[files]]
