@@ -192,6 +192,14 @@ file = "mods/core/xaero/xaeros-world-map.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/architectury-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/cloth-config.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/coroutil.pw.toml"
 metafile = true
 
@@ -232,7 +240,19 @@ file = "mods/libraries/moonlight.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/patchouli.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/paucal.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/puzzles-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/resourceful-config.pw.toml"
 metafile = true
 
 [[files]]
