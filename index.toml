@@ -310,6 +310,10 @@ file = "mods/libraries/jamlib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/kambrik.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/konkrete.pw.toml"
 metafile = true
 
