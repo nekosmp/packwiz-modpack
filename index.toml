@@ -31,10 +31,6 @@ file = "config/paxi/resourcepacks/creeper-overhaul-overhaul.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/amecs.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/bountiful.pw.toml"
 metafile = true
 
@@ -900,6 +896,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/hud/travelers-titles.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/interface/amecs.pw.toml"
 metafile = true
 
 [[files]]
