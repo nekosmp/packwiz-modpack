@@ -1,0 +1,13 @@
+name = "Perfect Plushies"
+filename = "perfectplushies-fabric-1.20.1-1.9.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/L5MLckDN/versions/lWdQkgjM/perfectplushies-fabric-1.20.1-1.9.0.jar"
+hash-format = "sha1"
+hash = "4d3931f6096196fc22febd488e7ace92c364cad8"
+
+[update]
+[update.modrinth]
+mod-id = "L5MLckDN"
+version = "lWdQkgjM"

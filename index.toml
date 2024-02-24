@@ -4,15 +4,83 @@ hash-format = "sha256"
 file = "config/craftpresence.json"
 
 [[files]]
-file = "mods/content/building/connected-glass.pw.toml"
+file = "mods/content/applied-energistics/ae2-qol-recipes.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/building/macaws-fences-and-walls.pw.toml"
+file = "mods/content/applied-energistics/ae2.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/applied-energistics/applied-energistics-2-wireless-terminals.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/computer-craft/ducky-periphs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/copycats.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-fabric-sodium-fix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-steam-n-rails.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-track-map.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/decoration/additional-lanterns.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/decoration/connected-glass.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/decoration/connectible_chains.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/decoration/macaws-fences-and-walls.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/decoration/nightlights.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/emi/ae2-emi-crafting.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/farmers-delight/chefs-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/farmers-delight/farmers-delight-fabric.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/content/mobs/species.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/supplementaries/amendments.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/supplementaries/supplementaries-squared.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/supplementaries/supplementaries.pw.toml"
 metafile = true
 
 [[files]]
@@ -28,11 +96,15 @@ file = "mods/libraries/supermartijn642s-core-lib.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/optional/bobby.pw.toml"
+file = "mods/tweaks/audio/plasmo-voice.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/optional/craftpresence.pw.toml"
+file = "mods/tweaks/audio/pv-addon-soundphysics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/audio/sound-physics-remastered.pw.toml"
 metafile = true
 
 [[files]]
@@ -41,6 +113,14 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/building/diagonal-windows.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/fixes/netherportalfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/accelerated-decay.pw.toml"
 metafile = true
 
 [[files]]
@@ -64,11 +144,67 @@ file = "mods/tweaks/inventory/shulkerboxtooltip.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/optional/bobby.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/optional/craftpresence.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/optional/fallingleaves.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/optional/visuality.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/performance/async-locator.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/tweaks/performance/clumps.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/ferrite-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/immediatelyfast.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/indium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/iris.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/krypton.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/lithium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/memoryleakfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/neruina.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/sodium-extra.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/sodium.pw.toml"
 metafile = true
 
 [[files]]

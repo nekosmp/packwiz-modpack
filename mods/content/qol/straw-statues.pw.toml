@@ -1,0 +1,13 @@
+name = "Straw Statues"
+filename = "StrawStatues-v8.0.2-1.20.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2fltysAl/versions/WjnRG2fS/StrawStatues-v8.0.2-1.20.1-Fabric.jar"
+hash-format = "sha1"
+hash = "8235d03932f51eb9185f7fa76a683e4dcfcd7173"
+
+[update]
+[update.modrinth]
+mod-id = "2fltysAl"
+version = "WjnRG2fS"
