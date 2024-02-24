@@ -31,6 +31,10 @@ file = "config/paxi/resourcepacks/creeper-overhaul-overhaul.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/amecs.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/bountiful.pw.toml"
 metafile = true
 
