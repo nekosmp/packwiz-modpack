@@ -1,0 +1,13 @@
+name = "You've Goat to be Kidding Me"
+filename = "goated-1.20-1.3.4-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/L7dBwZPX/versions/vxV0AmGB/goated-1.20-1.3.4-fabric.jar"
+hash-format = "sha1"
+hash = "cc0eaa6915bcb40b39a28befb0d977060cea5a85"
+
+[update]
+[update.modrinth]
+mod-id = "L7dBwZPX"
+version = "vxV0AmGB"

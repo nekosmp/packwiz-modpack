@@ -419,6 +419,238 @@ file = "mods/libraries/yungs-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing-prev/advancement-frames.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/alloy-forgery.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/auth-me.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/better-archeology.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/cc/computer-cartographer.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/cc/peripheralium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/cc/plethora-peripherals.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/cc/powerae2cc.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/cc/unlimitedperipheralworks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/cpm/cpmoscc.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/cpm/cpmpvc.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/cpm/custom-player-models.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/create/bellsandwhistles.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/create/create-big-cannons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/create/create-deco.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/create/create-new-age.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/create/slice-and-dice.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/decoration/another-furniture.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/decoration/grass-overhaul.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/decoration/hearth-and-home.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/decoration/snowy-spirit.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/decoration/stoneworks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/delight/brewin-and-chewin-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/delight/delightful-creators-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/delight/ends-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/delight/expanded-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/delight/farmers-knives.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/delight/farmers-respite-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/delight/festive-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/delight/frights-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/delight/respite-creators-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/etcetera.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/goated.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/let-sleeping-dogs-lie.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/macaws/macaws-bridges.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/macaws/macaws-doors.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/macaws/macaws-furniture.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/macaws/macaws-holidays.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/macaws/macaws-paintings.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/macaws/macaws-paths-and-pavings.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/macaws/macaws-roofs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/macaws/macaws-trapdoors.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/macaws/macaws-windows.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/mobs/ender-zoology.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/mobs/hamsters.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/mobs/lovely_snails.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/mobs/naturalist.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/mobs/promenade.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/mobs/tiny-skeletons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/painting/dark-paintings.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/seasons/fabric-seasons-delight-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/seasons/fabric-seasons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/seasons/immersive-snow.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/spyglass-astronomy.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/thigh-highs-etc.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/verdantvibes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/wolves-of-other-furs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/yungs-better-mineshafts.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/backslot.pw.toml"
 metafile = true
 

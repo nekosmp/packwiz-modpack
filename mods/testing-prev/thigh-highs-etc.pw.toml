@@ -1,0 +1,13 @@
+name = "Thigh highs etc."
+filename = "thigh_highs_etc-fabric-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6aZTHLYT/versions/hCkvUNpi/thigh_highs_etc-fabric-1.0.4.jar"
+hash-format = "sha1"
+hash = "efc40851bb57ec4b1dc26b3d5e0d7e64e6cc049c"
+
+[update]
+[update.modrinth]
+mod-id = "6aZTHLYT"
+version = "hCkvUNpi"
