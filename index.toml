@@ -74,6 +74,14 @@ file = "mods/content/mobs/enderman-overhaul.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/mobs/friends-and-foes-flowery-mooblooms-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/friends-and-foes.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/mobs/more-mob-variants.pw.toml"
 metafile = true
 
