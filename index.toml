@@ -26,10 +26,6 @@ file = "mods/content/building/connectible_chains.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/building/macaws-fences-and-walls.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/decoration/additional-lanterns.pw.toml"
 metafile = true
 
@@ -55,6 +51,14 @@ metafile = true
 
 [[files]]
 file = "mods/content/mobs/enderman-overhaul.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/more-mob-variants.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/more-mobs.pw.toml"
 metafile = true
 
 [[files]]
@@ -186,6 +190,14 @@ file = "mods/core/hex-casting/hex-casting.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/core/macaws/macaws-fences-and-walls.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/core/macaws/macaws-lights-and-lamps.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/core/supplementaries/amendments.pw.toml"
 metafile = true
 
@@ -231,6 +243,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/coroutil.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/cristel-lib.pw.toml"
 metafile = true
 
 [[files]]
@@ -374,6 +390,10 @@ file = "mods/tweaks/gameplay/companion.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/crafting-tweaks.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/craftpresence.pw.toml"
 metafile = true
 
@@ -387,6 +407,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gameplay/do-a-barrel-roll.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/double-doors.pw.toml"
 metafile = true
 
 [[files]]
@@ -634,6 +658,10 @@ file = "mods/tweaks/visual/fog-looks-good-now-fabric.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/visual/not-enough-animations.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/visual/visuality.pw.toml"
 metafile = true
 
@@ -683,6 +711,10 @@ metafile = true
 
 [[files]]
 file = "mods/worldgen/ctov/ctov-farmers-delight-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/expanded-ecosphere.pw.toml"
 metafile = true
 
 [[files]]
