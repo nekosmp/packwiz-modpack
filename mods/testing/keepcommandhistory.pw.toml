@@ -1,0 +1,13 @@
+name = "Keep Command History"
+filename = "Keep Command History-1.0.2+1.20.1-fabric-1.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/meoVUIBS/versions/up7C0rmw/Keep%20Command%20History-1.0.2%2B1.20.1-fabric-1.0.2.jar"
+hash-format = "sha1"
+hash = "1da0a91b22cd218009a58cb0ade4059688483c34"
+
+[update]
+[update.modrinth]
+mod-id = "meoVUIBS"
+version = "up7C0rmw"

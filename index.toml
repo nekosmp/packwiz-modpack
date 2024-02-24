@@ -47,6 +47,10 @@ file = "mods/content/decoration/additional-lanterns.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/decoration/beautify-refabricated.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/decoration/blahaj.pw.toml"
 metafile = true
 
@@ -75,7 +79,19 @@ file = "mods/content/endrem.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/magnum-torch.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/axolotl-bucket-fix.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/mobs/creeper-overhaul.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/duckling.pw.toml"
 metafile = true
 
 [[files]]
@@ -391,6 +407,42 @@ file = "mods/libraries/yungs-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/backslot.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/backslotaddon.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/chatabove.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/chatanimation.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/chatimage.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/elegantia.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/emogg.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/keepcommandhistory.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/silent-screenshots.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/audio/ambientsounds.pw.toml"
 metafile = true
 
@@ -519,6 +571,10 @@ file = "mods/tweaks/gameplay/rightclickharvest.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/snow-under-trees-remastered.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/spyglass-improvements.pw.toml"
 metafile = true
 
@@ -608,6 +664,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/interface/language-reload.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/interface/modmenu.pw.toml"
 metafile = true
 
 [[files]]
@@ -804,6 +864,10 @@ metafile = true
 
 [[files]]
 file = "mods/worldgen/ctov/ct-overhaul-village.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/ctov/ctov-beautify-compat.pw.toml"
 metafile = true
 
 [[files]]

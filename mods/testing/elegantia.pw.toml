@@ -1,0 +1,13 @@
+name = "Elegantia"
+filename = "elegantia-0.0.1-alpha+1.20-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3SldlwAN/versions/8zIrxD10/elegantia-0.0.1-alpha%2B1.20-1.20.1.jar"
+hash-format = "sha1"
+hash = "30e18d90a133ef4389d5342bbb218034d7ad2f50"
+
+[update]
+[update.modrinth]
+mod-id = "3SldlwAN"
+version = "8zIrxD10"

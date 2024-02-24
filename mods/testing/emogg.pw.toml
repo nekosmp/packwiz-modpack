@@ -1,0 +1,13 @@
+name = "emogg"
+filename = "emogg-2.0.0+1.20-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tyANotOf/versions/mlpVj8yx/emogg-2.0.0%2B1.20-1.20.1.jar"
+hash-format = "sha1"
+hash = "82e89e1a0fc7f3f856dfd876d6542f9f766264af"
+
+[update]
+[update.modrinth]
+mod-id = "tyANotOf"
+version = "mlpVj8yx"

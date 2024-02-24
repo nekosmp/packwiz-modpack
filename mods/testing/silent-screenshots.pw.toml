@@ -1,0 +1,13 @@
+name = "Silent Screenshots"
+filename = "silentscreenshots-2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/z9pjbhjW/versions/Xlxt9HgK/silentscreenshots-2.0.jar"
+hash-format = "sha1"
+hash = "064e6f2b127e8ede59819ff18797e3cc247c9b23"
+
+[update]
+[update.modrinth]
+mod-id = "z9pjbhjW"
+version = "Xlxt9HgK"

@@ -1,0 +1,13 @@
+name = "BackSlotAddon"
+filename = "backslotaddon-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/s2w3oC2W/versions/2BcMZWZF/backslotaddon-1.1.1.jar"
+hash-format = "sha1"
+hash = "7094e8f2477575594f932fdedc57ad7222610917"
+
+[update]
+[update.modrinth]
+mod-id = "s2w3oC2W"
+version = "2BcMZWZF"

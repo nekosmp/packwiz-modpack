@@ -1,0 +1,13 @@
+name = "BackSlot"
+filename = "backslot-1.2.15.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1H9ZkJwF/versions/l7Kcd7Hc/backslot-1.2.15.jar"
+hash-format = "sha1"
+hash = "e1c48feec613c6bc380e091f8e75829e76d858d0"
+
+[update]
+[update.modrinth]
+mod-id = "1H9ZkJwF"
+version = "l7Kcd7Hc"
