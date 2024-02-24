@@ -34,6 +34,14 @@ file = "mods/content/decoration/blahaj.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/decoration/handcrafted.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/decoration/labels.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/decoration/nightlights.pw.toml"
 metafile = true
 
@@ -238,6 +246,10 @@ file = "mods/libraries/balm.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/bclib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/cloth-config.pw.toml"
 metafile = true
 
@@ -338,6 +350,10 @@ file = "mods/libraries/yungs-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/audio/ambientsounds.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/audio/plasmo-voice.pw.toml"
 metafile = true
 
@@ -430,11 +446,19 @@ file = "mods/tweaks/gameplay/easy-magic.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/fish-on-the-line.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/grass-seeds.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/tweaks/gameplay/netherportalfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/player-ladder.pw.toml"
 metafile = true
 
 [[files]]
@@ -515,6 +539,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/interface/controlling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/interface/dcwa.pw.toml"
 metafile = true
 
 [[files]]

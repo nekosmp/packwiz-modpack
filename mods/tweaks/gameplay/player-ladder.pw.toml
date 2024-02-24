@@ -1,0 +1,13 @@
+name = "Player Ladder"
+filename = "player-ladder-0.6.0-1.20.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/YCcTxyDM/versions/8NZxDAIe/player-ladder-0.6.0-1.20.jar"
+hash-format = "sha1"
+hash = "5b818cee11778222ab780b7c753a5e6f889a81a9"
+
+[update]
+[update.modrinth]
+mod-id = "YCcTxyDM"
+version = "8NZxDAIe"
