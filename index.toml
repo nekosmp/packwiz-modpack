@@ -20,6 +20,9 @@ file = "config/paxi/datapacks/better-villages-bountiful.pw.toml"
 metafile = true
 
 [[files]]
+file = "config/paxi/datapacks/nsmp-connected-chains-datapack.zip"
+
+[[files]]
 file = "config/paxi/resourcepack_load_order.json"
 
 [[files]]
@@ -29,6 +32,9 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/creeper-overhaul-overhaul.pw.toml"
 metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/nsmp-connected-chains-resourcepack.zip"
 
 [[files]]
 file = "mods/content/bountiful.pw.toml"
