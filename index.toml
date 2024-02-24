@@ -262,6 +262,10 @@ file = "mods/libraries/coroutil.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/creativecore.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/cristel-lib.pw.toml"
 metafile = true
 
