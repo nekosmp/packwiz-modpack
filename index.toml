@@ -196,7 +196,15 @@ file = "mods/libraries/architectury-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/balm.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/cloth-config.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/collective.pw.toml"
 metafile = true
 
 [[files]]
@@ -232,7 +240,15 @@ file = "mods/libraries/iceberg.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/jamlib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/konkrete.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/library-ferret-fabric.pw.toml"
 metafile = true
 
 [[files]]
