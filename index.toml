@@ -212,6 +212,10 @@ file = "mods/libraries/fabric-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/fabric-language-kotlin.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/forge-config-api-port.pw.toml"
 metafile = true
 
@@ -245,6 +249,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/paucal.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/paxi.pw.toml"
 metafile = true
 
 [[files]]
