@@ -555,6 +555,22 @@ file = "mods/testing-prev/let-sleeping-dogs-lie.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing-prev/libraries/bookshelf-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/libraries/botarium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/libraries/dawn.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-prev/libraries/trinkets.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing-prev/macaws/macaws-bridges.pw.toml"
 metafile = true
 
