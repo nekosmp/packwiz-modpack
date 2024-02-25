@@ -402,6 +402,10 @@ file = "mods/libraries/library-ferret-fabric.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/markdownmanual.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/mavapi.pw.toml"
 metafile = true
 
