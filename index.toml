@@ -263,6 +263,14 @@ file = "mods/core/hex-casting/hex-casting.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/core/hex-casting/hexal.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/core/hex-casting/moreiotas.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/core/macaws/macaws-fences-and-walls.pw.toml"
 metafile = true
 

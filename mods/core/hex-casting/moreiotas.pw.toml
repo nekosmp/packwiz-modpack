@@ -1,0 +1,7 @@
+name = "moreiotas"
+filename = "moreiotas-fabric-1.20.1-0.1.0-3.jar"
+
+[download]
+url = "https://github.com/nekosmp/nsmp-artifacts/raw/main/moreiotas-fabric-1.20.1-0.1.0-3.jar"
+hash-format = "sha256"
+hash = "707cb226bf92304266091503353c256e02eec44224759fc8ebb387c28430b2fd"
