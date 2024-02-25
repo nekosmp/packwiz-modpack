@@ -738,7 +738,7 @@ file = "mods/testing/elegantia.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/emogg.pw.toml"
+file = "mods/testing/emojiful.pw.toml"
 metafile = true
 
 [[files]]
