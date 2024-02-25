@@ -1155,6 +1155,10 @@ file = "mods/utils/spark.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/utils/stackdeobf.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/worldgen/better-village-fabric.pw.toml"
 metafile = true
 
