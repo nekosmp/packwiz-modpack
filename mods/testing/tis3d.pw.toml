@@ -1,0 +1,7 @@
+name = "tis3d"
+filename = "tis3d-MC1.20.2-fabric-0.0.0+60a99b55.jar"
+
+[download]
+url = "https://github.com/nekosmp/nsmp-artifacts/raw/main/tis3d-MC1.20.2-fabric-0.0.0+60a99b55.jar"
+hash-format = "sha256"
+hash = "6d8d4f0ae7058036e7550525ad1565918f8f2902fad300f26cec0eb1a31dfc7d"

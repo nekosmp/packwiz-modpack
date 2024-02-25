@@ -1,0 +1,7 @@
+name = "hexdim"
+filename = "hexxy-dimensions-1.2.1.jar"
+
+[download]
+url = "https://github.com/nekosmp/nsmp-artifacts/raw/main/hexxy-dimensions-1.2.1.jar"
+hash-format = "sha256"
+hash = "cfb021a3f7d811ad066322a3372769acc0a11c1faca8c0bb0d1cdefaa21001e3"

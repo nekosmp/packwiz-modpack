@@ -270,6 +270,10 @@ file = "mods/core/hex-casting/hexal.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/core/hex-casting/hexdim.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/core/hex-casting/hexvr.pw.toml"
 metafile = true
 
@@ -739,6 +743,10 @@ metafile = true
 
 [[files]]
 file = "mods/testing/silent-screenshots.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/tis3d.pw.toml"
 metafile = true
 
 [[files]]
