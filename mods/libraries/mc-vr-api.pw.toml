@@ -1,0 +1,13 @@
+name = "MC VR API"
+filename = "vrapi-3.0.7-1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/B3INNxum/versions/kDQURGlV/vrapi-3.0.7-1.20.1-fabric.jar"
+hash-format = "sha1"
+hash = "d06dfd56560d20875edb36d80925d9bc48537bef"
+
+[update]
+[update.modrinth]
+mod-id = "B3INNxum"
+version = "kDQURGlV"

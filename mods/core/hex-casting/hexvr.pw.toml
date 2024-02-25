@@ -1,0 +1,7 @@
+name = "hexvr"
+filename = "HexVR-1.2.1.jar"
+
+[download]
+url = "https://github.com/nekosmp/nsmp-artifacts/raw/main/HexVR-1.2.1.jar"
+hash-format = "sha256"
+hash = "b19098b610a4229398d20e5c995cbdad28afd3feba2b45082e47bc9320c7c9d4"

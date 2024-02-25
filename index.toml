@@ -270,6 +270,10 @@ file = "mods/core/hex-casting/hexal.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/core/hex-casting/hexvr.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/core/hex-casting/moreiotas.pw.toml"
 metafile = true
 
@@ -395,6 +399,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/mavapi.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/mc-vr-api.pw.toml"
 metafile = true
 
 [[files]]
