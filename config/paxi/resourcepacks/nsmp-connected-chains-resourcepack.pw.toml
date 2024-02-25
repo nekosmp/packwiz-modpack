@@ -1,0 +1,8 @@
+name = "nsmp-connected-chains-resourcepack"
+filename = "nsmp-connected-chains-resourcepack.zip"
+side = "client"
+
+[download]
+url = "https://github.com/nekosmp/nsmp-artifacts/raw/main/nsmp-connected-chains-resourcepack.zip"
+hash-format = "sha256"
+hash = "440ed7ff177885ecb9db5cadc496e746464403d19101aab71a18adb1f4e39687"

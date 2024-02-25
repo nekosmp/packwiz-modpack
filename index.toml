@@ -20,7 +20,8 @@ file = "config/paxi/datapacks/better-villages-bountiful.pw.toml"
 metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/nsmp-connected-chains-datapack.zip"
+file = "config/paxi/datapacks/nsmp-connected-chains-datapack.pw.toml"
+metafile = true
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
@@ -34,7 +35,12 @@ file = "config/paxi/resourcepacks/creeper-overhaul-overhaul.pw.toml"
 metafile = true
 
 [[files]]
-file = "config/paxi/resourcepacks/nsmp-connected-chains-resourcepack.zip"
+file = "config/paxi/resourcepacks/custom-3d-staves-for-hex-casting.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/nsmp-connected-chains-resourcepack.pw.toml"
+metafile = true
 
 [[files]]
 file = "mods/content/bountiful.pw.toml"

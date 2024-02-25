@@ -1,0 +1,8 @@
+name = "nsmp-connected-chains-datapack"
+filename = "nsmp-connected-chains-datapack.zip"
+side = "server"
+
+[download]
+url = "https://github.com/nekosmp/nsmp-artifacts/raw/main/nsmp-connected-chains-datapack.zip"
+hash-format = "sha256"
+hash = "15c2f6f979a23b195a1ba687863d58080de30ea91006b912f4e079967bd05015"
