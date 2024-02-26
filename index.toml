@@ -424,15 +424,7 @@ file = "mods/testing-next/cave-dust.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing-next/galosphere.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing-next/subsurface.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-next/twigs.pw.toml"
 metafile = true
 
 [[files]]
