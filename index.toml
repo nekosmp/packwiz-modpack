@@ -420,6 +420,22 @@ file = "mods/libraries/yungs-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing-next/cave-dust.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-next/galosphere.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-next/subsurface.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-next/twigs.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing-prev/advancement-frames.pw.toml"
 metafile = true
 
@@ -1077,6 +1093,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/visual/fog-looks-good-now-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/lambdynamiclights.pw.toml"
 metafile = true
 
 [[files]]
