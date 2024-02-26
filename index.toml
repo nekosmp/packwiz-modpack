@@ -78,6 +78,10 @@ file = "mods/content/computer-craft/cccbridge.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/computer-craft/computer-cartographer.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/computer-craft/ducky-periphs.pw.toml"
 metafile = true
 
@@ -419,10 +423,6 @@ metafile = true
 
 [[files]]
 file = "mods/testing-prev/better-archeology.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/cc/computer-cartographer.pw.toml"
 metafile = true
 
 [[files]]
