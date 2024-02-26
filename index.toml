@@ -148,11 +148,35 @@ file = "mods/content/endrem.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/farmers-delight/brewin-and-chewin-fabric.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/farmers-delight/chefs-delight.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/farmers-delight/delightful-creators-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/farmers-delight/ends-delight.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/farmers-delight/farmers-delight-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/farmers-delight/farmers-knives.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/farmers-delight/frights-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/farmers-delight/respite-creators-fabric.pw.toml"
 metafile = true
 
 [[files]]
@@ -516,23 +540,7 @@ file = "mods/testing-prev/decoration/stoneworks.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing-prev/delight/brewin-and-chewin-fabric.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/delight/delightful-creators-fabric.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/delight/ends-delight.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing-prev/delight/expanded-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/delight/farmers-knives.pw.toml"
 metafile = true
 
 [[files]]
@@ -541,14 +549,6 @@ metafile = true
 
 [[files]]
 file = "mods/testing-prev/delight/festive-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/delight/frights-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/delight/respite-creators-fabric.pw.toml"
 metafile = true
 
 [[files]]
@@ -897,10 +897,6 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/hud/travelers-titles.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/tweaks/interface/amecs.pw.toml"
 metafile = true
 
 [[files]]
