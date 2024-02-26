@@ -7,6 +7,9 @@ file = "config/NoChatReports/NCR-Client.json"
 file = "config/NoChatReports/NCR-Encryption.json"
 
 [[files]]
+file = "config/backslot.json5"
+
+[[files]]
 file = "config/bclib/client.json"
 
 [[files]]
