@@ -4,6 +4,9 @@ hash-format = "sha256"
 file = "config/NoChatReports/NCR-Client.json"
 
 [[files]]
+file = "config/NoChatReports/NCR-Encryption.json"
+
+[[files]]
 file = "config/bclib/client.json"
 
 [[files]]
@@ -670,15 +673,7 @@ file = "mods/testing/chatabove.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/chatanimation.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/chatimage.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/elegantia.pw.toml"
 metafile = true
 
 [[files]]
@@ -687,6 +682,10 @@ metafile = true
 
 [[files]]
 file = "mods/testing/keepcommandhistory.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/kleeslabs.pw.toml"
 metafile = true
 
 [[files]]
