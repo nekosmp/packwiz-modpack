@@ -116,6 +116,10 @@ file = "mods/content/create/create-track-map.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/extended-cogwheels.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/slice-and-dice.pw.toml"
 metafile = true
 
@@ -572,19 +576,11 @@ file = "mods/libraries/yungs-api.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing-next/better-falling-block-particles.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing-next/create/create-diesel-generators-fabric.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/testing-next/create/create-enchantment-industry-fabric.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-next/create/create-fabric.pw.toml"
 metafile = true
 
 [[files]]
@@ -620,10 +616,6 @@ file = "mods/testing-next/create/create-sandpaper-overhaul.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing-next/create/create-structures.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing-next/create/create-utilities.pw.toml"
 metafile = true
 
@@ -636,19 +628,11 @@ file = "mods/testing-next/create/createaddition.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing-next/create/ctov-create-structures.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing-next/create/estrogen.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/testing-next/create/expandingtechnologies.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-next/create/extended-cogwheels.pw.toml"
 metafile = true
 
 [[files]]
@@ -701,6 +685,10 @@ metafile = true
 
 [[files]]
 file = "mods/testing-next/haunted-harvest.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-next/overweight-farming.pw.toml"
 metafile = true
 
 [[files]]
@@ -1209,6 +1197,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/visual/ambient-environment.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/better-falling-block-particles.pw.toml"
 metafile = true
 
 [[files]]
