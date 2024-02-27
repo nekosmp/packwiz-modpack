@@ -136,6 +136,10 @@ file = "mods/content/decoration/connectible_chains.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/decoration/dark-paintings.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/decoration/grass-overhaul.pw.toml"
 metafile = true
 
@@ -157,6 +161,14 @@ metafile = true
 
 [[files]]
 file = "mods/content/decoration/perfect-plushies.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/decoration/snowy-spirit.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/decoration/stoneworks.pw.toml"
 metafile = true
 
 [[files]]
@@ -228,11 +240,47 @@ file = "mods/content/hex-casting/moreiotas.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/macaws/macaws-bridges.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/macaws/macaws-doors.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/macaws/macaws-fences-and-walls.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/macaws/macaws-furniture.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/macaws/macaws-holidays.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/macaws/macaws-lights-and-lamps.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/macaws/macaws-paintings.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/macaws/macaws-paths-and-pavings.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/macaws/macaws-roofs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/macaws/macaws-trapdoors.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/macaws/macaws-windows.pw.toml"
 metafile = true
 
 [[files]]
@@ -540,14 +588,6 @@ file = "mods/testing-prev/create/slice-and-dice.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing-prev/decoration/snowy-spirit.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/decoration/stoneworks.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing-prev/delight/expanded-delight.pw.toml"
 metafile = true
 
@@ -588,42 +628,6 @@ file = "mods/testing-prev/libraries/trinkets.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing-prev/macaws/macaws-bridges.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/macaws/macaws-doors.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/macaws/macaws-furniture.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/macaws/macaws-holidays.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/macaws/macaws-paintings.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/macaws/macaws-paths-and-pavings.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/macaws/macaws-roofs.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/macaws/macaws-trapdoors.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/macaws/macaws-windows.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing-prev/mobs/ender-zoology.pw.toml"
 metafile = true
 
@@ -641,10 +645,6 @@ metafile = true
 
 [[files]]
 file = "mods/testing-prev/mobs/tiny-skeletons.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/painting/dark-paintings.pw.toml"
 metafile = true
 
 [[files]]
