@@ -576,6 +576,14 @@ file = "mods/libraries/yungs-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing-next/athena-ctm.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-next/chipped.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing-next/create/create-diesel-generators-fabric.pw.toml"
 metafile = true
 
@@ -688,7 +696,15 @@ file = "mods/testing-next/haunted-harvest.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing-next/minecraft-comes-alive-reborn.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing-next/overweight-farming.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-next/radiant-gear.pw.toml"
 metafile = true
 
 [[files]]
@@ -697,6 +713,10 @@ metafile = true
 
 [[files]]
 file = "mods/testing-next/rechiseled.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-next/resourceful-lib.pw.toml"
 metafile = true
 
 [[files]]
