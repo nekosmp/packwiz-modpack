@@ -1,13 +1,7 @@
-name = "Cultural Creators [Fabric] (Create and Cultural Delights Addon)"
+name = "cultural-creators-fabric-create-and-cultural"
 filename = "cultural-creators-1.0.0.jar"
-side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9fda29a4bac7473a3c649fb19b634ff8947421e4"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 4994379
-project-id = 953832
+url = "https://github.com/nekosmp/nsmp-artifacts/blob/main/cultural-creators-1.0.0.jar"
+hash-format = "sha256"
+hash = "233c71728ebd651a12670f71bb4472ef389c25514bb1823c37271c526ee9e06f"
