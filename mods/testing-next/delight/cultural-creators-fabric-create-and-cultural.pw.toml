@@ -2,6 +2,6 @@ name = "cultural-creators-fabric-create-and-cultural"
 filename = "cultural-creators-1.0.0.jar"
 
 [download]
-url = "https://github.com/nekosmp/nsmp-artifacts/blob/main/cultural-creators-1.0.0.jar"
+url = "https://github.com/nekosmp/nsmp-artifacts/raw/main/cultural-creators-1.0.0.jar"
 hash-format = "sha256"
-hash = "f2d25fa80dcdc56a59a75a6aa71dc9279a1dfd422329ecba0a04d628cedcbef8"
+hash = "84f33197da05c2fe73bfefa5b03b5f31949f4c52984b35cbca846d5d1e7f8d5d"
