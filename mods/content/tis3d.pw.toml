@@ -1,5 +1,6 @@
 name = "tis3d"
 filename = "tis3d-MC1.20.1-fabric-0.0.0+d007ba7.jar"
+side = "both"
 
 [download]
 url = "https://github.com/nekosmp/nsmp-artifacts/raw/main/tis3d-MC1.20.1-fabric-0.0.0+d007ba7.jar"

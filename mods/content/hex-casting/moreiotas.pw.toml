@@ -1,5 +1,6 @@
 name = "moreiotas"
 filename = "moreiotas-fabric-1.20.1-0.1.0-3.jar"
+side = "both"
 
 [download]
 url = "https://github.com/nekosmp/nsmp-artifacts/raw/main/moreiotas-fabric-1.20.1-0.1.0-3.jar"

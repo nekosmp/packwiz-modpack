@@ -1,5 +1,6 @@
 name = "cultural-creators-fabric-create-and-cultural"
 filename = "cultural-creators-1.0.0.jar"
+side = "both"
 
 [download]
 url = "https://github.com/nekosmp/nsmp-artifacts/raw/main/cultural-creators-1.0.0.jar"

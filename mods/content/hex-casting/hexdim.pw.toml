@@ -1,5 +1,6 @@
 name = "hexdim"
 filename = "hexxy-dimensions-1.2.1.jar"
+side = "both"
 
 [download]
 url = "https://github.com/nekosmp/nsmp-artifacts/raw/main/hexxy-dimensions-1.2.1.jar"

@@ -1260,6 +1260,10 @@ file = "mods/utils/bluemap/bluemap.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/utils/bluemap/opac-bluemap-integration.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/utils/chunky.pw.toml"
 metafile = true
 

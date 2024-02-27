@@ -1,0 +1,8 @@
+name = "opac-bluemap-integration"
+filename = "opac-bluemap-integration-1.0.2.jar"
+side = "server"
+
+[download]
+url = "https://github.com/nekosmp/nsmp-artifacts/raw/main/opac-bluemap-integration-1.0.2.jar"
+hash-format = "sha256"
+hash = "bb81cc9dcc9ca3ac74185bacedfe8bde482517b43a09be09ed940381e2a3a89d"

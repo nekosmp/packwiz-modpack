@@ -1,5 +1,6 @@
 name = "paucal"
 filename = "paucal-fabric-1.20.1-0.6.0-pre-118.jar"
+side = "both"
 
 [download]
 url = "https://ci.blamejared.com/job/petrakat/job/PAUCAL/job/main/lastSuccessfulBuild/artifact/Fabric/build/libs/paucal-fabric-1.20.1-0.6.0-pre-118.jar"

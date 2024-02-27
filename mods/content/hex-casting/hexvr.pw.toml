@@ -1,5 +1,6 @@
 name = "hexvr"
 filename = "HexVR-1.2.1.jar"
+side = "both"
 
 [download]
 url = "https://github.com/nekosmp/nsmp-artifacts/raw/main/HexVR-1.2.1.jar"
