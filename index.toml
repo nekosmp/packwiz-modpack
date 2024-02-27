@@ -92,7 +92,15 @@ file = "mods/content/computer-craft/toms-peripherals.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/bellsandwhistles.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/copycats.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-deco.pw.toml"
 metafile = true
 
 [[files]]
@@ -105,6 +113,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/create/create-track-map.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/slice-and-dice.pw.toml"
 metafile = true
 
 [[files]]
@@ -200,11 +212,23 @@ file = "mods/content/farmers-delight/ends-delight.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/farmers-delight/expanded-delight.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/farmers-delight/farmers-delight-fabric.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/content/farmers-delight/farmers-knives.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/farmers-delight/farmers-respite-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/farmers-delight/festive-delight.pw.toml"
 metafile = true
 
 [[files]]
@@ -300,6 +324,10 @@ file = "mods/content/mobs/duckling.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/mobs/ender-zoology.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/mobs/enderman-overhaul.pw.toml"
 metafile = true
 
@@ -309,6 +337,14 @@ metafile = true
 
 [[files]]
 file = "mods/content/mobs/friends-and-foes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/hamsters.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/lovely_snails.pw.toml"
 metafile = true
 
 [[files]]
@@ -324,6 +360,10 @@ file = "mods/content/mobs/more-mobs.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/mobs/naturalist.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/mobs/promenade.pw.toml"
 metafile = true
 
@@ -333,6 +373,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/mobs/species.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/tiny-skeletons.pw.toml"
 metafile = true
 
 [[files]]
@@ -568,35 +612,11 @@ file = "mods/testing-prev/cpm/custom-player-models.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing-prev/create/bellsandwhistles.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing-prev/create/create-big-cannons.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing-prev/create/create-deco.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing-prev/create/create-new-age.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/create/slice-and-dice.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/delight/expanded-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/delight/farmers-respite-fabric.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/delight/festive-delight.pw.toml"
 metafile = true
 
 [[files]]
@@ -625,26 +645,6 @@ metafile = true
 
 [[files]]
 file = "mods/testing-prev/libraries/trinkets.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/mobs/ender-zoology.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/mobs/hamsters.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/mobs/lovely_snails.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/mobs/naturalist.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/mobs/tiny-skeletons.pw.toml"
 metafile = true
 
 [[files]]
