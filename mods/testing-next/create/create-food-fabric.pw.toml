@@ -1,0 +1,13 @@
+name = "Create: Food [Fabric]"
+filename = "createfood-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b24da6ee69d552514ac57f89b754d77a0d065b78"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5033314
+project-id = 959439

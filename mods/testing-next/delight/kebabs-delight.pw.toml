@@ -1,0 +1,13 @@
+name = "[Fabric/Quilt] Kebab's Delight!"
+filename = "kebabsdelight-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ec64efb8c90cb8d100473a18b0bb12ed46cddb78"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4735544
+project-id = 909384

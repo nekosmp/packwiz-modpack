@@ -564,7 +564,15 @@ file = "mods/libraries/supermartijn642s-core-lib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/yacl.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/yungs-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-next/better-falling-block-particles.pw.toml"
 metafile = true
 
 [[files]]
@@ -580,11 +588,27 @@ file = "mods/testing-next/create/create-fabric.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing-next/create/create-food-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-next/create/create-full-automation.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing-next/create/create-goggles.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing-next/create/create-high-pressure.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing-next/create/create-jetpack.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-next/create/create-metalwork-fabric.pw.toml"
 metafile = true
 
 [[files]]
@@ -604,6 +628,10 @@ file = "mods/testing-next/create/create-structures.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing-next/create/create-utilities.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing-next/create/create_oxidized.pw.toml"
 metafile = true
 
@@ -620,11 +648,83 @@ file = "mods/testing-next/create/estrogen.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing-next/create/expandingtechnologies.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing-next/create/extended-cogwheels.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing-next/delight/bakingdelight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-next/delight/cakedelight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-next/delight/casualness-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-next/delight/corn-delight-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-next/delight/crate-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-next/delight/cultural-creators-fabric-create-and-cultural.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-next/delight/cultural-delights-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-next/delight/kebabs-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-next/delight/more-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-next/delight/nethers-delight-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-next/delight/oceans-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-next/delight/pineapple-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-next/delight/ubes-delight.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing-next/galosphere.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-next/haunted-harvest.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-next/rechiseled-create.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-next/rechiseled.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-next/supermartijn642s-config-lib.pw.toml"
 metafile = true
 
 [[files]]

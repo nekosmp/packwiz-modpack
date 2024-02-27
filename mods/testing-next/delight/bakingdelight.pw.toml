@@ -1,0 +1,13 @@
+name = "Baking Delight"
+filename = "bakingdelight-0.1.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/g75kX7aT/versions/xQ9UClFC/bakingdelight-0.1.0-1.20.1.jar"
+hash-format = "sha1"
+hash = "918f36169361b08ac9fc091c03bc87dc24d81d32"
+
+[update]
+[update.modrinth]
+mod-id = "g75kX7aT"
+version = "xQ9UClFC"

@@ -1,0 +1,13 @@
+name = "Pineapple Delight"
+filename = "PineappleDelight-Fabric-1.20-1.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0a8cd39e3404993a8a0844c80254dfacbe0f48fb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5062325
+project-id = 687974

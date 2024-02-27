@@ -1,0 +1,13 @@
+name = "Create: Metalwork [Fabric]"
+filename = "create-metalwork-1.0.0-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "01119ac61270d00c633e11e61235774438e1cbba"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5055955
+project-id = 966104

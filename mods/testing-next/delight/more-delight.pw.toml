@@ -1,0 +1,13 @@
+name = "More Delight"
+filename = "moredelight-1.1.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/znHQQtuU/versions/oaJ0ggON/moredelight-1.1.8.jar"
+hash-format = "sha1"
+hash = "068d01bf45f0579d05bd3148144571eadfb51aa3"
+
+[update]
+[update.modrinth]
+mod-id = "znHQQtuU"
+version = "oaJ0ggON"

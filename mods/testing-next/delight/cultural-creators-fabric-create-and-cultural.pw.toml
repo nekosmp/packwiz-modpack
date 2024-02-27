@@ -1,0 +1,13 @@
+name = "Cultural Creators [Fabric] (Create and Cultural Delights Addon)"
+filename = "cultural-creators-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9fda29a4bac7473a3c649fb19b634ff8947421e4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4994379
+project-id = 953832
