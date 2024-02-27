@@ -576,14 +576,6 @@ file = "mods/libraries/yungs-api.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing-next/athena-ctm.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-next/chipped.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing-next/create/create-diesel-generators-fabric.pw.toml"
 metafile = true
 
@@ -701,10 +693,6 @@ metafile = true
 
 [[files]]
 file = "mods/testing-next/overweight-farming.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-next/radiant-gear.pw.toml"
 metafile = true
 
 [[files]]
