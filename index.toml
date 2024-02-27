@@ -660,10 +660,6 @@ file = "mods/testing-next/delight/cakedelight.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing-next/delight/casualness-delight.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing-next/delight/corn-delight-fabric.pw.toml"
 metafile = true
 
