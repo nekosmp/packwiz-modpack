@@ -64,15 +64,11 @@ file = "mods/content/applied-energistics/applied-energistics-2-wireless-terminal
 metafile = true
 
 [[files]]
+file = "mods/content/better-archeology.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/bountiful.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/building/connected-glass.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/building/connectible_chains.pw.toml"
 metafile = true
 
 [[files]]
@@ -132,6 +128,14 @@ file = "mods/content/decoration/blahaj.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/decoration/connected-glass.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/decoration/connectible_chains.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/decoration/grass-overhaul.pw.toml"
 metafile = true
 
@@ -153,6 +157,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/decoration/perfect-plushies.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/decoration/verdantvibes.pw.toml"
 metafile = true
 
 [[files]]
@@ -193,6 +201,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/farmers-delight/respite-creators-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/goated.pw.toml"
 metafile = true
 
 [[files]]
@@ -261,6 +273,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/mobs/more-mobs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/promenade.pw.toml"
 metafile = true
 
 [[files]]
@@ -476,10 +492,6 @@ file = "mods/testing-prev/auth-me.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing-prev/better-archeology.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing-prev/cc/peripheralium.pw.toml"
 metafile = true
 
@@ -549,10 +561,6 @@ metafile = true
 
 [[files]]
 file = "mods/testing-prev/etcetera.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/goated.pw.toml"
 metafile = true
 
 [[files]]
@@ -632,10 +640,6 @@ file = "mods/testing-prev/mobs/naturalist.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing-prev/mobs/promenade.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing-prev/mobs/tiny-skeletons.pw.toml"
 metafile = true
 
@@ -661,10 +665,6 @@ metafile = true
 
 [[files]]
 file = "mods/testing-prev/thigh-highs-etc.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/verdantvibes.pw.toml"
 metafile = true
 
 [[files]]
