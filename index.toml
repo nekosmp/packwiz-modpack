@@ -692,10 +692,6 @@ file = "mods/testing-next/delight/oceans-delight.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing-next/delight/pineapple-delight.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing-next/delight/ubes-delight.pw.toml"
 metafile = true
 
