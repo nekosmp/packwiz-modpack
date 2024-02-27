@@ -1,0 +1,13 @@
+name = "Create Ore Excavation"
+filename = "createoreexcavation-fabric-1.20-1.4.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ResbpANg/versions/nyYmbpDj/createoreexcavation-fabric-1.20-1.4.3.jar"
+hash-format = "sha1"
+hash = "1926e53c51b5d4ba384b563674fb5b59007165d2"
+
+[update]
+[update.modrinth]
+mod-id = "ResbpANg"
+version = "nyYmbpDj"

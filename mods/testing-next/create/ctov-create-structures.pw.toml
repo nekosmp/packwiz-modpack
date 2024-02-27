@@ -1,0 +1,13 @@
+name = "CTOV - Create: Structures"
+filename = "ctov-create-structures-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/l9fldtN4/versions/hwClzDIs/ctov-create-structures-1.0.jar"
+hash-format = "sha1"
+hash = "0df9a99982e36f86dc1b6fd5b4c753af3c84e5ae"
+
+[update]
+[update.modrinth]
+mod-id = "l9fldtN4"
+version = "hwClzDIs"

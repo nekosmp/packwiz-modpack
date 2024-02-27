@@ -568,6 +568,62 @@ file = "mods/libraries/yungs-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing-next/create/create-diesel-generators-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-next/create/create-enchantment-industry-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-next/create/create-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-next/create/create-goggles.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-next/create/create-jetpack.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-next/create/create-ore-excavation.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-next/create/create-power-loader-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-next/create/create-sandpaper-overhaul.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-next/create/create-structures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-next/create/create_oxidized.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-next/create/createaddition.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-next/create/ctov-create-structures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-next/create/estrogen.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-next/create/extended-cogwheels.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing-next/galosphere.pw.toml"
 metafile = true
 
