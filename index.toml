@@ -592,10 +592,6 @@ file = "mods/testing-next/create/create-food-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing-next/create/create-full-automation.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing-next/create/create-goggles.pw.toml"
 metafile = true
 
