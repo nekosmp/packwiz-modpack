@@ -808,6 +808,10 @@ file = "mods/testing/minecraft-comes-alive-reborn.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/modernfix.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/rebind-narrator.pw.toml"
 metafile = true
 
