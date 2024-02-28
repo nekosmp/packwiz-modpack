@@ -224,6 +224,18 @@ file = "mods/content/farmers-delight/chefs-delight.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/farmers-delight/crate-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/farmers-delight/cultural-creators-fabric-create-and-cultural.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/farmers-delight/cultural-delights-fabric.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/farmers-delight/delightful-creators-fabric.pw.toml"
 metafile = true
 
@@ -256,7 +268,23 @@ file = "mods/content/farmers-delight/frights-delight.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/farmers-delight/kebabs-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/farmers-delight/nethers-delight-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/farmers-delight/oceans-delight.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/farmers-delight/respite-creators-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/farmers-delight/ubes-delight.pw.toml"
 metafile = true
 
 [[files]]
@@ -281,6 +309,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/hex-casting/moreiotas.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/immersive-melodies.pw.toml"
 metafile = true
 
 [[files]]
@@ -716,35 +748,7 @@ file = "mods/testing/delight/corn-delight-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/delight/crate-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/delight/cultural-creators-fabric-create-and-cultural.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/delight/cultural-delights-fabric.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/delight/kebabs-delight.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/delight/more-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/delight/nethers-delight-fabric.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/delight/oceans-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/delight/ubes-delight.pw.toml"
 metafile = true
 
 [[files]]
@@ -761,10 +765,6 @@ metafile = true
 
 [[files]]
 file = "mods/testing/haunted-harvest.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/immersive-melodies.pw.toml"
 metafile = true
 
 [[files]]
@@ -808,6 +808,10 @@ file = "mods/testing/minecraft-comes-alive-reborn.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/rebind-narrator.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/seasons/fabric-seasons-delight-compat.pw.toml"
 metafile = true
 
@@ -817,10 +821,6 @@ metafile = true
 
 [[files]]
 file = "mods/testing/seasons/immersive-snow.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/silent-screenshots.pw.toml"
 metafile = true
 
 [[files]]
@@ -1104,6 +1104,10 @@ file = "mods/tweaks/interface/seamless-loading-screen.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/interface/silent-screenshots.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/inventory/ae2-mousetweaks-fix.pw.toml"
 metafile = true
 
@@ -1289,10 +1293,6 @@ metafile = true
 
 [[files]]
 file = "mods/utils/emi/emi-enchanting.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/utils/emi/emi-loot.pw.toml"
 metafile = true
 
 [[files]]
