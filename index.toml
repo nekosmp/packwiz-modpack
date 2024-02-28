@@ -108,6 +108,10 @@ file = "mods/content/create/create-deco.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/create-enchantment-industry-fabric.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/create-fabric-sodium-fix.pw.toml"
 metafile = true
 
@@ -120,11 +124,23 @@ file = "mods/content/create/create-goggles.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/create-sandpaper-overhaul.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/create-steam-n-rails.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/content/create/create-track-map.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create_oxidized.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/createaddition.pw.toml"
 metafile = true
 
 [[files]]
@@ -624,10 +640,6 @@ file = "mods/libraries/yungs-api.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/alloy-forgery.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/auth-me.pw.toml"
 metafile = true
 
@@ -684,10 +696,6 @@ file = "mods/testing/create/create-diesel-generators-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/create/create-enchantment-industry-fabric.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/create/create-extended-cogwheels-fabric.pw.toml"
 metafile = true
 
@@ -704,27 +712,11 @@ file = "mods/testing/create/create-metalwork-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/create/create-new-age.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/create/create-ore-excavation.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/testing/create/create-power-loader-fabric.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/create/create-sandpaper-overhaul.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/create/create_oxidized.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/create/createaddition.pw.toml"
 metafile = true
 
 [[files]]
