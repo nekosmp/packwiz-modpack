@@ -100,6 +100,10 @@ file = "mods/content/create/copycats.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/create-big-cannons.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/create-deco.pw.toml"
 metafile = true
 
@@ -109,6 +113,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/create/create-food-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-goggles.pw.toml"
 metafile = true
 
 [[files]]
@@ -584,227 +592,35 @@ file = "mods/libraries/yungs-api.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing-next/building/rechiseled-create.pw.toml"
+file = "mods/testing/alloy-forgery.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing-next/building/rechiseled.pw.toml"
+file = "mods/testing/auth-me.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing-next/create/create-diesel-generators-fabric.pw.toml"
+file = "mods/testing/building/rechiseled-create.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing-next/create/create-enchantment-industry-fabric.pw.toml"
+file = "mods/testing/building/rechiseled.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing-next/create/create-goggles.pw.toml"
+file = "mods/testing/cc/peripheralium.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing-next/create/create-high-pressure.pw.toml"
+file = "mods/testing/cc/plethora-peripherals.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing-next/create/create-jetpack.pw.toml"
+file = "mods/testing/cc/powerae2cc.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing-next/create/create-metalwork-fabric.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-next/create/create-ore-excavation.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-next/create/create-power-loader-fabric.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-next/create/create-sandpaper-overhaul.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-next/create/create_oxidized.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-next/create/createaddition.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-next/create/estrogen.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-next/delight/bakingdelight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-next/delight/cakedelight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-next/delight/corn-delight-fabric.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-next/delight/crate-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-next/delight/cultural-creators-fabric-create-and-cultural.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-next/delight/cultural-delights-fabric.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-next/delight/kebabs-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-next/delight/more-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-next/delight/nethers-delight-fabric.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-next/delight/oceans-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-next/delight/ubes-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-next/galosphere.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-next/haunted-harvest.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-next/minecraft-comes-alive-reborn.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-next/resourceful-lib.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-next/supermartijn642s-config-lib.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-next/twigs.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/alloy-forgery.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/auth-me.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/cc/peripheralium.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/cc/plethora-peripherals.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/cc/powerae2cc.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/cc/unlimitedperipheralworks.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/cpm/cpmoscc.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/cpm/cpmpvc.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/cpm/custom-player-models.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/create/create-big-cannons.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/create/create-new-age.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/etcetera.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/let-sleeping-dogs-lie.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/libraries/bookshelf-lib.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/libraries/botarium.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/libraries/dawn.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/libraries/owo-lib.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/libraries/trinkets.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/seasons/fabric-seasons-delight-compat.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/seasons/fabric-seasons.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/seasons/immersive-snow.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/spyglass-astronomy.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/thigh-highs-etc.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/wolves-of-other-furs.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-prev/yungs-better-mineshafts.pw.toml"
+file = "mods/testing/cc/unlimitedperipheralworks.pw.toml"
 metafile = true
 
 [[files]]
@@ -816,7 +632,123 @@ file = "mods/testing/chatimage.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/cpm/cpmoscc.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/cpm/cpmpvc.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/cpm/custom-player-models.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/create/create-diesel-generators-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/create/create-enchantment-industry-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/create/create-high-pressure.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/create/create-jetpack.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/create/create-metalwork-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/create/create-new-age.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/create/create-ore-excavation.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/create/create-power-loader-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/create/create-sandpaper-overhaul.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/create/create_oxidized.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/create/createaddition.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/create/estrogen.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/delight/bakingdelight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/delight/cakedelight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/delight/corn-delight-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/delight/crate-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/delight/cultural-creators-fabric-create-and-cultural.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/delight/cultural-delights-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/delight/kebabs-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/delight/more-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/delight/nethers-delight-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/delight/oceans-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/delight/ubes-delight.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/emojiful.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/etcetera.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/galosphere.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/haunted-harvest.pw.toml"
 metafile = true
 
 [[files]]
@@ -824,7 +756,75 @@ file = "mods/testing/keepcommandhistory.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/let-sleeping-dogs-lie.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/libraries/bookshelf-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/libraries/botarium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/libraries/dawn.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/libraries/owo-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/libraries/resourceful-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/libraries/supermartijn642s-config-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/libraries/trinkets.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/minecraft-comes-alive-reborn.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/seasons/fabric-seasons-delight-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/seasons/fabric-seasons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/seasons/immersive-snow.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/silent-screenshots.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/spyglass-astronomy.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/thigh-highs-etc.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/twigs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/wolves-of-other-furs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/yungs-better-mineshafts.pw.toml"
 metafile = true
 
 [[files]]
