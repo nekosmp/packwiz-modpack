@@ -584,14 +584,6 @@ file = "mods/libraries/yungs-api.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing-next/building/athena-ctm.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-next/building/chipped.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing-next/building/rechiseled-create.pw.toml"
 metafile = true
 
