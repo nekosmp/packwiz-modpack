@@ -120,6 +120,10 @@ file = "mods/content/create/create-food-fabric.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/create-jetpack.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/create-sandpaper-overhaul.pw.toml"
 metafile = true
 
@@ -692,19 +696,7 @@ file = "mods/testing/create/create-broken-bad-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/create/create-diesel-generators-fabric.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/create/create-extended-cogwheels-fabric.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/create/create-high-pressure.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/create/create-jetpack.pw.toml"
 metafile = true
 
 [[files]]
@@ -792,6 +784,10 @@ file = "mods/testing/minecraft-comes-alive-reborn.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/minerally.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/seasons/fabric-seasons-delight-compat.pw.toml"
 metafile = true
 
@@ -813,6 +809,10 @@ metafile = true
 
 [[files]]
 file = "mods/testing/thigh-highs-etc.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/underground-bunkers.pw.toml"
 metafile = true
 
 [[files]]
