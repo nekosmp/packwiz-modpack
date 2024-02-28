@@ -784,7 +784,7 @@ file = "mods/testing/minecraft-comes-alive-reborn.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/minerally.pw.toml"
+file = "mods/testing/scatter-spawn.pw.toml"
 metafile = true
 
 [[files]]
@@ -1377,6 +1377,10 @@ metafile = true
 
 [[files]]
 file = "mods/worldgen/friends-and-foes-beekeeper-hut-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/minerally.pw.toml"
 metafile = true
 
 [[files]]
