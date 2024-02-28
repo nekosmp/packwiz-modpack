@@ -108,11 +108,19 @@ file = "mods/content/create/create-fabric-sodium-fix.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/create-food-fabric.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/create-steam-n-rails.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/content/create/create-track-map.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/expandingtechnologies.pw.toml"
 metafile = true
 
 [[files]]
@@ -576,15 +584,27 @@ file = "mods/libraries/yungs-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing-next/building/athena-ctm.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-next/building/chipped.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-next/building/rechiseled-create.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing-next/building/rechiseled.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing-next/create/create-diesel-generators-fabric.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/testing-next/create/create-enchantment-industry-fabric.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-next/create/create-food-fabric.pw.toml"
 metafile = true
 
 [[files]]
@@ -616,10 +636,6 @@ file = "mods/testing-next/create/create-sandpaper-overhaul.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing-next/create/create-utilities.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing-next/create/create_oxidized.pw.toml"
 metafile = true
 
@@ -629,10 +645,6 @@ metafile = true
 
 [[files]]
 file = "mods/testing-next/create/estrogen.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-next/create/expandingtechnologies.pw.toml"
 metafile = true
 
 [[files]]
@@ -689,18 +701,6 @@ metafile = true
 
 [[files]]
 file = "mods/testing-next/minecraft-comes-alive-reborn.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-next/overweight-farming.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-next/rechiseled-create.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing-next/rechiseled.pw.toml"
 metafile = true
 
 [[files]]
