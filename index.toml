@@ -696,6 +696,10 @@ file = "mods/testing/create/create-broken-bad-fabric.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/create/create-high-pressure.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/create/create-metalwork-fabric.pw.toml"
 metafile = true
 

@@ -1,0 +1,8 @@
+name = "Create: High Pressure"
+filename = "create_high_pressure-1.1.0-nsmp-patched.jar"
+side = "both"
+
+[download]
+url = "https://github.com/nekosmp/nsmp-artifacts/raw/main/create_high_pressure-1.1.0-nsmp-patched.jar"
+hash-format = "sha256"
+hash = "2417d44ab31505bf96467d0612d2a3ea8506e65a7160af84f713353043c70db8"
