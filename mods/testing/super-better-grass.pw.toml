@@ -1,0 +1,13 @@
+name = "SuperBetterGrass"
+filename = "SuperBetterGrass-1.5.2+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ac088a270899cc9430ad7e75bea81a812fa7a60e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4744836
+project-id = 911433

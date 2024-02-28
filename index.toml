@@ -120,10 +120,6 @@ file = "mods/content/create/create-food-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/create/create-goggles.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/create/create-sandpaper-overhaul.pw.toml"
 metafile = true
 
@@ -217,6 +213,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/decoration/stoneworks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/decoration/twigs.pw.toml"
 metafile = true
 
 [[files]]
@@ -752,14 +752,6 @@ file = "mods/testing/etcetera.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/galosphere.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/haunted-harvest.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/keepcommandhistory.pw.toml"
 metafile = true
 
@@ -800,14 +792,6 @@ file = "mods/testing/minecraft-comes-alive-reborn.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/modernfix.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/rebind-narrator.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/seasons/fabric-seasons-delight-compat.pw.toml"
 metafile = true
 
@@ -824,11 +808,11 @@ file = "mods/testing/spyglass-astronomy.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/thigh-highs-etc.pw.toml"
+file = "mods/testing/super-better-grass.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/twigs.pw.toml"
+file = "mods/testing/thigh-highs-etc.pw.toml"
 metafile = true
 
 [[files]]
@@ -1088,6 +1072,10 @@ file = "mods/tweaks/interface/no-chat-reports.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/interface/rebind-narrator.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/interface/resource-pack-overrides.pw.toml"
 metafile = true
 
@@ -1181,6 +1169,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/performance/memoryleakfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/modernfix.pw.toml"
 metafile = true
 
 [[files]]
