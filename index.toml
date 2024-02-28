@@ -784,10 +784,6 @@ file = "mods/testing/minecraft-comes-alive-reborn.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/scatter-spawn.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/spyglass-astronomy.pw.toml"
 metafile = true
 
@@ -1301,6 +1297,10 @@ metafile = true
 
 [[files]]
 file = "mods/utils/nsmp-discord-bridge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utils/scatter-spawn.pw.toml"
 metafile = true
 
 [[files]]
