@@ -696,10 +696,6 @@ file = "mods/testing/create/create-broken-bad-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/create/create-high-pressure.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/create/create-metalwork-fabric.pw.toml"
 metafile = true
 
@@ -785,18 +781,6 @@ metafile = true
 
 [[files]]
 file = "mods/testing/scatter-spawn.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/seasons/fabric-seasons-delight-compat.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/seasons/fabric-seasons.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/seasons/immersive-snow.pw.toml"
 metafile = true
 
 [[files]]
