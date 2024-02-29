@@ -32,18 +32,6 @@ file = "config/paxi/datapacks/better-villages-bountiful.pw.toml"
 metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/ctov-beautify-compat.pw.toml"
-metafile = true
-
-[[files]]
-file = "config/paxi/datapacks/ctov-friends-and-foes-compat.pw.toml"
-metafile = true
-
-[[files]]
-file = "config/paxi/datapacks/ctov-more-villagers-compat.pw.toml"
-metafile = true
-
-[[files]]
 file = "config/paxi/datapacks/nsmp-connected-chains-datapack.pw.toml"
 metafile = true
 
@@ -632,6 +620,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/library-ferret-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/lithostitched.pw.toml"
 metafile = true
 
 [[files]]
@@ -1411,11 +1403,23 @@ file = "mods/worldgen/ctov/ct-overhaul-village.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/worldgen/ctov/ctov-beautify-compat.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/worldgen/ctov/ctov-chefs-delight-compat.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/worldgen/ctov/ctov-farmers-delight-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/ctov/ctov-friends-and-foes-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/ctov/ctov-more-villagers-compat.pw.toml"
 metafile = true
 
 [[files]]
