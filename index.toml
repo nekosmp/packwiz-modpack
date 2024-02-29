@@ -631,6 +631,10 @@ file = "mods/libraries/lithostitched.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/mariadb-jdbc.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/markdownmanual.pw.toml"
 metafile = true
 
