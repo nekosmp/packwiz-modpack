@@ -767,6 +767,114 @@ file = "mods/testing/minecraft-comes-alive-reborn.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/new/all-the-fan-made-discs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/new/amarite.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/new/automobility.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/new/ctov-more-villagers-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/new/dramatic-doors.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/new/drogstyle.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/new/extended-drawers.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/new/hephaestus.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/new/hephaestusplus.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/new/immersive-aircraft.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/new/immersive-armors.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/new/missing-wilds.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/new/more-villagers-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/new/now-playing.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/new/nullscape.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/new/patchoulibutton.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/new/phantom-loader.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/new/plushables.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/new/spawn-mod.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/new/styled-nicknames.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/new/templates-2.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/new/things.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/new/tidal-towns.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/new/turtlematic.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/new/underground-jungle.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/new/when-dungeons-arise-seven-seas.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/new/when-dungeons-arise.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/thigh-highs-etc.pw.toml"
 metafile = true
 

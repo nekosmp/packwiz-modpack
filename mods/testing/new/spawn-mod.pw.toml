@@ -1,0 +1,13 @@
+name = "Spawn"
+filename = "spawn-1.0.3-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rex9wwpz/versions/Cjjsdx4e/spawn-1.0.3-fabric.jar"
+hash-format = "sha1"
+hash = "14b097ed2774dfb119f3397a754e59e34333d344"
+
+[update]
+[update.modrinth]
+mod-id = "rex9wwpz"
+version = "Cjjsdx4e"

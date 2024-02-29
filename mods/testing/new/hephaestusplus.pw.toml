@@ -1,0 +1,13 @@
+name = "HephaestusPlus"
+filename = "hephaestusplus-1.1.1+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SSoB0fRh/versions/bTPeNl8e/hephaestusplus-1.1.1%2B1.20.jar"
+hash-format = "sha1"
+hash = "5b32fe7399a5997a85d69574635cc7fad8eb19f2"
+
+[update]
+[update.modrinth]
+mod-id = "SSoB0fRh"
+version = "bTPeNl8e"

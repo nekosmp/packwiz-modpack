@@ -1,0 +1,13 @@
+name = "All The Fan Made Discs"
+filename = "ATFMD-0.5.6-1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/D41cWGi2/versions/DlDZPYTq/ATFMD-0.5.6-1.20.jar"
+hash-format = "sha1"
+hash = "4aabd9279f0d9e39dd563ce0b1f7400170c6c39d"
+
+[update]
+[update.modrinth]
+mod-id = "D41cWGi2"
+version = "DlDZPYTq"
