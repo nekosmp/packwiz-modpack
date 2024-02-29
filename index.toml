@@ -128,6 +128,14 @@ file = "mods/content/create/create-jetpack.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/create-metalwork-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-power-loader-fabric.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/create-sandpaper-overhaul.pw.toml"
 metafile = true
 
@@ -697,18 +705,6 @@ metafile = true
 
 [[files]]
 file = "mods/testing/create/create-broken-bad-fabric.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/create/create-metalwork-fabric.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/create/create-ore-excavation.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/create/create-power-loader-fabric.pw.toml"
 metafile = true
 
 [[files]]
