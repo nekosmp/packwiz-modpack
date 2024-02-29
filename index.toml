@@ -739,10 +739,6 @@ file = "mods/testing/keepcommandhistory.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/let-sleeping-dogs-lie.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/libraries/bookshelf-lib.pw.toml"
 metafile = true
 
@@ -1204,6 +1200,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/visual/lambdynamiclights.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/let-sleeping-dogs-lie.pw.toml"
 metafile = true
 
 [[files]]

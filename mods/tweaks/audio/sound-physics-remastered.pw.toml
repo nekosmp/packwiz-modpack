@@ -11,3 +11,7 @@ hash = "fc41d2febae832dd6e7df66ba37905b9641a3f88"
 [update.modrinth]
 mod-id = "qyVF9oeo"
 version = "GdHd0uVw"
+
+[option]
+default = false
+description = "Amazing reverb mod. But causes a lagspike every time you respawn."

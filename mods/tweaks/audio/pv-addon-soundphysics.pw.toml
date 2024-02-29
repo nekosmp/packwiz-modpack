@@ -11,3 +11,7 @@ hash = "1b9e6e312ed055187af3f8e670ca5e57b124efc0"
 [update.modrinth]
 mod-id = "K1y8brkJ"
 version = "UNgY2UqF"
+
+[option]
+default = false
+description = "Plasmo Voice addon to support Sound Physics Remastered"
