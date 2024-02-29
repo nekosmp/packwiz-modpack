@@ -2,8 +2,8 @@
   "badgeVisible": false,
   "builtinServers": [
     {
-      "name": "neko.smp test server",
-      "address": "childlabour.co:28353",
+      "name": "neko.smp",
+      "address": "smp.neko.rs",
       "forced": true
     }
   ]
