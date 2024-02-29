@@ -1,0 +1,13 @@
+name = "CTOV - Beautify Compat"
+filename = "ctov-beautify-add-on-v2-0.zip"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/iunZDj0l/versions/JuNS8z9E/ctov-beautify-add-on-v2-0.zip"
+hash-format = "sha1"
+hash = "6726ce2baaf6821b653b49c4a5f7699688ad27e8"
+
+[update]
+[update.modrinth]
+mod-id = "iunZDj0l"
+version = "JuNS8z9E"

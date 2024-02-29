@@ -1,0 +1,13 @@
+name = "CTOV - Friends and Foes Compat"
+filename = "ctov-friends-and-foes-add-on-v2-0.zip"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/kawJN2LZ/versions/YS8tcYx2/ctov-friends-and-foes-add-on-v2-0.zip"
+hash-format = "sha1"
+hash = "ffc226c07e9b2a8aca356f8dd53d79a125683b8b"
+
+[update]
+[update.modrinth]
+mod-id = "kawJN2LZ"
+version = "YS8tcYx2"

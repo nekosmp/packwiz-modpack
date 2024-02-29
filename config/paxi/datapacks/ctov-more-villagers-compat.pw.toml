@@ -1,0 +1,13 @@
+name = "CTOV - More villagers compat"
+filename = "ctov-mores-villager-add-on-v2-0.zip"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/fyGliXG0/versions/zG25D6tP/ctov-mores-villager-add-on-v2-0.zip"
+hash-format = "sha1"
+hash = "ef204b71c04fb81e5b4118c5052794f3c15ec792"
+
+[update]
+[update.modrinth]
+mod-id = "fyGliXG0"
+version = "zG25D6tP"
