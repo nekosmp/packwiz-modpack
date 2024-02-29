@@ -13,5 +13,6 @@ mod-id = "qyVF9oeo"
 version = "GdHd0uVw"
 
 [option]
+optional = true
 default = false
 description = "Amazing reverb mod. But causes a lagspike every time you respawn."

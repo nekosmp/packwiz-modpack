@@ -13,5 +13,6 @@ mod-id = "K1y8brkJ"
 version = "UNgY2UqF"
 
 [option]
+optional = true
 default = false
 description = "Plasmo Voice addon to support Sound Physics Remastered"
