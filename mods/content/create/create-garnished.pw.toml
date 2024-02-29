@@ -3,11 +3,11 @@ filename = "garnished-1.6.3+1.20.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/6e2SlzR4/versions/KbCwX87k/garnished-1.6.3%2B1.20.1.jar"
 hash-format = "sha1"
 hash = "0f7c38a62bb38ace4c75f38f9661352e2b20e23b"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5081616
-project-id = 923277
+[update.modrinth]
+mod-id = "6e2SlzR4"
+version = "KbCwX87k"

@@ -47,10 +47,6 @@ file = "config/paxi/resourcepacks/creeper-overhaul-overhaul.pw.toml"
 metafile = true
 
 [[files]]
-file = "config/paxi/resourcepacks/custom-3d-staves-for-hex-casting.pw.toml"
-metafile = true
-
-[[files]]
 file = "config/paxi/resourcepacks/nsmp-connected-chains-resourcepack.pw.toml"
 metafile = true
 
@@ -123,6 +119,10 @@ file = "mods/content/create/create-food-fabric.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/create-garnished.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/create-high-pressure.pw.toml"
 metafile = true
 
@@ -164,10 +164,6 @@ metafile = true
 
 [[files]]
 file = "mods/content/create/extended-cogwheels.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/create/garnished.pw.toml"
 metafile = true
 
 [[files]]
@@ -796,14 +792,6 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/audio/pv-addon-sculk.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/tweaks/audio/pv-addon-soundphysics.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/tweaks/audio/sound-physics-remastered.pw.toml"
 metafile = true
 
 [[files]]
