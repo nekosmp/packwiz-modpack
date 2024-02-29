@@ -807,6 +807,10 @@ file = "mods/testing/new/immersive-armors.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/new/kawaii-dishes.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/new/now-playing.pw.toml"
 metafile = true
 
