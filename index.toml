@@ -795,14 +795,6 @@ file = "mods/testing/new/extended-drawers.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/new/hephaestus.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/new/hephaestusplus.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/new/immersive-aircraft.pw.toml"
 metafile = true
 
