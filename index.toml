@@ -22,6 +22,9 @@ file = "config/builtinservers.json"
 file = "config/craftpresence.json"
 
 [[files]]
+file = "config/expanded_ecosphere/config.json5"
+
+[[files]]
 file = "config/paxi/datapack_load_order.json"
 
 [[files]]
