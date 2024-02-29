@@ -827,14 +827,6 @@ file = "mods/testing/new/templates-2.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/new/when-dungeons-arise-seven-seas.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/new/when-dungeons-arise.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/thigh-highs-etc.pw.toml"
 metafile = true
 
@@ -1440,6 +1432,14 @@ metafile = true
 
 [[files]]
 file = "mods/worldgen/nullscape.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/when-dungeons-arise-seven-seas.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/when-dungeons-arise.pw.toml"
 metafile = true
 
 [[files]]
