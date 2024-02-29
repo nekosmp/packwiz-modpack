@@ -495,6 +495,10 @@ file = "mods/content/mobs/tiny-skeletons.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/more-villagers-fabric.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/qol/bushier-flowers.pw.toml"
 metafile = true
 
@@ -803,15 +807,7 @@ file = "mods/testing/new/immersive-armors.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/new/more-villagers-fabric.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/new/now-playing.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/new/nullscape.pw.toml"
 metafile = true
 
 [[files]]
@@ -828,10 +824,6 @@ metafile = true
 
 [[files]]
 file = "mods/testing/new/templates-2.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/new/turtlematic.pw.toml"
 metafile = true
 
 [[files]]
@@ -1444,6 +1436,10 @@ metafile = true
 
 [[files]]
 file = "mods/worldgen/moogs/moogs-voyager-structures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/nullscape.pw.toml"
 metafile = true
 
 [[files]]
