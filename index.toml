@@ -42,6 +42,10 @@ file = "config/paxi/datapacks/nsmp-connected-chains-datapack.pw.toml"
 metafile = true
 
 [[files]]
+file = "config/paxi/datapacks/nsmp-structure-fix-datapack.pw.toml"
+metafile = true
+
+[[files]]
 file = "config/paxi/datapacks/when-dungeons-arise-loot-tweaks.pw.toml"
 metafile = true
 

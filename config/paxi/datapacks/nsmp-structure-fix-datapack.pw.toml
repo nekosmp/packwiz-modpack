@@ -1,0 +1,7 @@
+name = "nsmp-structure-fix-datapack"
+filename = "nsmp-structure-fix-datapack.zip"
+
+[download]
+url = "https://github.com/nekosmp/nsmp-artifacts/raw/main/nsmp-structure-fix-datapack.zip"
+hash-format = "sha256"
+hash = "c80b56779435026e8ca24915d798145bddd24d1ec26ddbfb12871ed23dcadb27"
