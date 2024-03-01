@@ -1046,10 +1046,6 @@ file = "mods/testing/newer6/autotag.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer6/environmentz.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/newer6/modern-industrialization-sound-addon.pw.toml"
 metafile = true
 
@@ -1063,22 +1059,6 @@ metafile = true
 
 [[files]]
 file = "mods/testing/newer6/mythicmetals.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer6/nears.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer6/packed-up-backpacks.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer6/realistic-bees.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer6/soulice.pw.toml"
 metafile = true
 
 [[files]]
