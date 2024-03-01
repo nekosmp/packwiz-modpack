@@ -954,6 +954,10 @@ file = "mods/testing/newer2/wyd.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/newer3/framework-fabric.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/newer3/go-fish.pw.toml"
 metafile = true
 
