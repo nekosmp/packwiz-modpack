@@ -1362,6 +1362,10 @@ file = "mods/utils/stackdeobf.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/utils/validatebiomes.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/utils/xaero/opac-fabric-create-support.pw.toml"
 metafile = true
 
