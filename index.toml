@@ -70,6 +70,10 @@ file = "mods/content/aquamirae.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/automobility.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/better-archeology.pw.toml"
 metafile = true
 
@@ -766,7 +770,23 @@ file = "mods/libraries/yungs-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/advancement-screenshot.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/all-the-fan-made-discs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/amarite.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/auth-me.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/autotag.pw.toml"
 metafile = true
 
 [[files]]
@@ -782,22 +802,6 @@ file = "mods/testing/cc/unlimitedperipheralworks.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/chatimage.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/cpm/cpmoscc.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/cpm/cpmpvc.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/cpm/custom-player-models.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/create/create-broken-bad-fabric.pw.toml"
 metafile = true
 
@@ -810,6 +814,10 @@ file = "mods/testing/create/estrogen.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/dehydration.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/dunno/adventurez.pw.toml"
 metafile = true
 
@@ -818,7 +826,7 @@ file = "mods/testing/dunno/enchantery.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/emojiful.pw.toml"
+file = "mods/testing/environmentz.pw.toml"
 metafile = true
 
 [[files]]
@@ -826,7 +834,35 @@ file = "mods/testing/etcetera.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/keepcommandhistory.pw.toml"
+file = "mods/testing/explorers-compass.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/extended-drawers.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/fabric-simple-animated-guns.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/frostiful.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/hellions-sniffer+.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/immersive-aircraft.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/immersive-armors.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/kawaii-dishes.pw.toml"
 metafile = true
 
 [[files]]
@@ -878,131 +914,43 @@ file = "mods/testing/minecraft-comes-alive-reborn.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/new/all-the-fan-made-discs.pw.toml"
+file = "mods/testing/now-playing.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/new/amarite.pw.toml"
+file = "mods/testing/ping-wheel.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/new/automobility.pw.toml"
+file = "mods/testing/plushables.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/new/drogstyle.pw.toml"
+file = "mods/testing/potionparticlepack.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/new/extended-drawers.pw.toml"
+file = "mods/testing/radiant-gear.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/new/immersive-aircraft.pw.toml"
+file = "mods/testing/simply-swords.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/new/immersive-armors.pw.toml"
+file = "mods/testing/templates-2.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/new/kawaii-dishes.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/new/now-playing.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/new/plushables.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/new/spawn-mod.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/new/styled-nicknames.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/new/templates-2.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer/3dskinlayers.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer/advancement-screenshot.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer/autotag.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer/dehydration.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer/ears.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer/environmentz.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer/explorers-compass.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer/fabric-simple-animated-guns.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer/frostiful.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer/hellions-sniffer+.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer/hopo-better-ruined-portals.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer/ping-wheel.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer/potionparticlepack.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer/radiant-gear.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer/simply-swords.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer/thermoo.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer/vanilla-zoom.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer/wavey-capes.pw.toml"
+file = "mods/testing/thermoo.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/testing/thigh-highs-etc.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/vanilla-zoom.pw.toml"
 metafile = true
 
 [[files]]
@@ -1015,6 +963,10 @@ metafile = true
 
 [[files]]
 file = "mods/testing/worldgen/explorations.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/worldgen/hopo-better-ruined-portals.pw.toml"
 metafile = true
 
 [[files]]
