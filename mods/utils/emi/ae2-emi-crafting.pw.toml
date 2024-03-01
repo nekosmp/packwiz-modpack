@@ -1,13 +1,13 @@
 name = "AE2 EMI Crafting Integration"
-filename = "ae2-emi-crafting-1.0.1.jar"
+filename = "ae2-emi-crafting-1.2.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/eVAp8Nkw/versions/jHaxpD7d/ae2-emi-crafting-1.0.1.jar"
+url = "https://cdn.modrinth.com/data/eVAp8Nkw/versions/w26K8uiv/ae2-emi-crafting-1.2.1.jar"
 hash-format = "sha1"
-hash = "2e3e976b3df739e1ac9c12cc75e79dd26a855462"
+hash = "3744419464b0c54d9b8f68c7d1e0bf393994c4c2"
 
 [update]
 [update.modrinth]
 mod-id = "eVAp8Nkw"
-version = "jHaxpD7d"
+version = "w26K8uiv"
