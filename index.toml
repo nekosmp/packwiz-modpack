@@ -266,7 +266,19 @@ file = "mods/content/decoration/windchimes.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/diet.pw.toml"
+file = "mods/content/difficulty/dehydration.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/difficulty/diet.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/difficulty/frostiful.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/difficulty/scorchful.pw.toml"
 metafile = true
 
 [[files]]
@@ -778,10 +790,6 @@ file = "mods/testing/all-the-fan-made-discs.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/amarite.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/autotag.pw.toml"
 metafile = true
 
@@ -810,10 +818,6 @@ file = "mods/testing/create/estrogen.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/dunno/adventurez.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/dunno/enchantery.pw.toml"
 metafile = true
 
@@ -827,10 +831,6 @@ metafile = true
 
 [[files]]
 file = "mods/testing/extended-drawers.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/fabric-simple-animated-guns.pw.toml"
 metafile = true
 
 [[files]]
@@ -914,23 +914,11 @@ file = "mods/testing/potionparticlepack.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/powah.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/radiant-gear.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/simply-swords.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/temperature/dehydration.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/temperature/frostiful.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/temperature/scorchful.pw.toml"
 metafile = true
 
 [[files]]
@@ -939,10 +927,6 @@ metafile = true
 
 [[files]]
 file = "mods/testing/thigh-highs-etc.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/vanilla-zoom.pw.toml"
 metafile = true
 
 [[files]]
