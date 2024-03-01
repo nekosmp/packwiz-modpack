@@ -982,6 +982,42 @@ file = "mods/testing/newer3/mighty-mail-fabric.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/newer4/frostiful.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer4/industrial-rezolution.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer4/mythic-mobs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer4/mythic-mounts.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer4/mythic-upgrades.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer4/sandwichable.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer4/scaffolding-drops-nearby.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer4/visual-workbench.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer4/wavey-capes.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/thigh-highs-etc.pw.toml"
 metafile = true
 

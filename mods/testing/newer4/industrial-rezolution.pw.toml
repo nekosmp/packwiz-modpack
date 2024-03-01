@@ -1,0 +1,13 @@
+name = "Industrial ReZolution"
+filename = "indrez-1.16.5-BETA-Hotfix.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/f6Sw2pW6/versions/M9GwiXWK/indrez-1.16.5-BETA-Hotfix.jar"
+hash-format = "sha1"
+hash = "20ee25212fac05bdd7a04256742e1d5110280207"
+
+[update]
+[update.modrinth]
+mod-id = "f6Sw2pW6"
+version = "M9GwiXWK"
