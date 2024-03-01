@@ -74,6 +74,30 @@ file = "mods/content/bountiful.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/building/chipped.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/building/connected-glass.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/building/hearth-and-home.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/building/rechiseled-create.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/building/rechiseled.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/building/stoneworks.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/computer-craft/cc-tweaked.pw.toml"
 metafile = true
 
@@ -174,19 +198,7 @@ file = "mods/content/create/slice-and-dice.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/decoration/additional-lanterns.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/decoration/advancement-frames.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/decoration/another-furniture.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/decoration/beautify-refabricated.pw.toml"
 metafile = true
 
 [[files]]
@@ -194,31 +206,11 @@ file = "mods/content/decoration/blahaj.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/decoration/connected-glass.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/decoration/connectible_chains.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/decoration/dark-paintings.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/decoration/dramatic-doors.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/decoration/grass-overhaul.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/decoration/handcrafted.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/decoration/hearth-and-home.pw.toml"
 metafile = true
 
 [[files]]
@@ -234,19 +226,11 @@ file = "mods/content/decoration/perfect-plushies.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/decoration/rechiseled-create.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/decoration/rechiseled.pw.toml"
+file = "mods/content/decoration/searchlight.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/content/decoration/snowy-spirit.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/decoration/stoneworks.pw.toml"
 metafile = true
 
 [[files]]
@@ -347,6 +331,30 @@ metafile = true
 
 [[files]]
 file = "mods/content/farmers-delight/ubes-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/furniture/additional-lanterns.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/furniture/another-furniture.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/furniture/beautify-refabricated.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/furniture/dark-paintings.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/furniture/dramatic-doors.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/furniture/handcrafted.pw.toml"
 metafile = true
 
 [[files]]
@@ -886,10 +894,6 @@ file = "mods/testing/newer/bouncier-beds.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer/chipped.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/newer/decorative-blocks.pw.toml"
 metafile = true
 
@@ -1131,10 +1135,6 @@ metafile = true
 
 [[files]]
 file = "mods/testing/newer/yungs-extras.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer2/searchlight.pw.toml"
 metafile = true
 
 [[files]]
