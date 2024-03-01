@@ -790,6 +790,10 @@ file = "mods/testing/all-the-fan-made-discs.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/argonauts.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/autotag.pw.toml"
 metafile = true
 
@@ -911,6 +915,10 @@ metafile = true
 
 [[files]]
 file = "mods/testing/potionparticlepack.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/prometheus.pw.toml"
 metafile = true
 
 [[files]]
