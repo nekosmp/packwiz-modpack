@@ -68,6 +68,10 @@ metafile = true
 file = "config/realisticbees.json5"
 
 [[files]]
+file = "mods/content/all-the-fan-made-discs.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/applied-energistics/ae2-qol-recipes.pw.toml"
 metafile = true
 
@@ -81,10 +85,6 @@ metafile = true
 
 [[files]]
 file = "mods/content/aquamirae.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/automobility.pw.toml"
 metafile = true
 
 [[files]]
@@ -148,7 +148,15 @@ file = "mods/content/computer-craft/plethora-peripherals.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/computer-craft/powerae2cc.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/computer-craft/toms-peripherals.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/computer-craft/unlimitedperipheralworks.pw.toml"
 metafile = true
 
 [[files]]
@@ -196,6 +204,10 @@ file = "mods/content/create/create-metalwork-fabric.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/create-new-age.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/create-power-loader-fabric.pw.toml"
 metafile = true
 
@@ -213,6 +225,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/create/create_oxidized.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/estrogen.pw.toml"
 metafile = true
 
 [[files]]
@@ -260,6 +276,10 @@ file = "mods/content/decoration/perfect-plushies.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/decoration/plushables.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/decoration/searchlight.pw.toml"
 metafile = true
 
@@ -297,6 +317,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/endrem.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/etcetera.pw.toml"
 metafile = true
 
 [[files]]
@@ -440,15 +464,15 @@ file = "mods/content/hex-casting/moreiotas.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/immersive-armors.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/immersive-melodies.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/inmis.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/inmisaddon.pw.toml"
+file = "mods/content/kawaii-dishes.pw.toml"
 metafile = true
 
 [[files]]
@@ -496,11 +520,11 @@ file = "mods/content/macaws/macaws-windows.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/metal-bundles.pw.toml"
+file = "mods/content/mighty-mail-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/mighty-mail-fabric.pw.toml"
+file = "mods/content/minecraft-comes-alive-reborn.pw.toml"
 metafile = true
 
 [[files]]
@@ -584,6 +608,10 @@ file = "mods/content/mobs/wildlife-fabric.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/mobs/wolves-of-other-furs.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/mobs/ydms-red-panda.pw.toml"
 metafile = true
 
@@ -616,6 +644,22 @@ file = "mods/content/silly/mystical-oak-tree.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/storage/extended-drawers.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/storage/inmis.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/storage/inmisaddon.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/storage/metal-bundles.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/supplementaries/amendments.pw.toml"
 metafile = true
 
@@ -628,7 +672,19 @@ file = "mods/content/supplementaries/supplementaries.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/thigh-highs-etc.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/tis3d.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/transport/automobility.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/transport/immersive-aircraft.pw.toml"
 metafile = true
 
 [[files]]
@@ -768,6 +824,10 @@ file = "mods/libraries/pehkui.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/peripheralium.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/puzzles-lib.pw.toml"
 metafile = true
 
@@ -789,170 +849,6 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/yungs-api.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/advancement-screenshot.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/all-the-fan-made-discs.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/argonauts.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/autotag.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/cc/peripheralium.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/cc/powerae2cc.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/cc/unlimitedperipheralworks.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/create/create-broken-bad-fabric.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/create/create-new-age.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/create/estrogen.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/dunno/enchantery.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/etcetera.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/explorers-compass.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/extended-drawers.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/immersive-aircraft.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/immersive-armors.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/kawaii-dishes.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/libraries/athena-ctm.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/libraries/azurelib.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/libraries/bookshelf-lib.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/libraries/botarium.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/libraries/dawn.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/libraries/framework-fabric.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/libraries/obscure-api.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/libraries/owo-lib.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/libraries/resourceful-lib.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/libraries/supermartijn642s-config-lib.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/libraries/thermoo.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/libraries/trinkets.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/minecraft-comes-alive-reborn.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/now-playing.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/ping-wheel.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/plushables.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/potionparticlepack.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/prometheus.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/radiant-gear.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/templates-2.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/thigh-highs-etc.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/wolves-of-other-furs.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/worldgen/better-mineshaft.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/worldgen/yungs-better-mineshafts.pw.toml"
 metafile = true
 
 [[files]]
@@ -985,6 +881,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gameplay/accelerated-decay.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/advancement-screenshot.pw.toml"
 metafile = true
 
 [[files]]
@@ -1096,6 +996,10 @@ file = "mods/tweaks/gameplay/polymorphic-energistics.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/potionparticlepack.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/realistic-bees.pw.toml"
 metafile = true
 
@@ -1153,6 +1057,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/hud/modelfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/now-playing.pw.toml"
 metafile = true
 
 [[files]]
@@ -1428,6 +1336,10 @@ file = "mods/tweaks/vivecraft/vivecraft.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/utils/argonauts.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/utils/bluemap/bluemap-offline-player-markers-(fabric).pw.toml"
 metafile = true
 
@@ -1521,6 +1433,10 @@ metafile = true
 
 [[files]]
 file = "mods/worldgen/amplified-nether.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/better-mineshaft.pw.toml"
 metafile = true
 
 [[files]]
