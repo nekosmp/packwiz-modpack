@@ -846,11 +846,19 @@ file = "mods/testing/newer/adventurez.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/newer/alloy-forgery.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/newer/amplified-nether.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/testing/newer/aquamirae.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer/athena-ctm.pw.toml"
 metafile = true
 
 [[files]]
@@ -871,6 +879,10 @@ metafile = true
 
 [[files]]
 file = "mods/testing/newer/bouncier-beds.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer/chipped.pw.toml"
 metafile = true
 
 [[files]]
@@ -974,6 +986,14 @@ file = "mods/testing/newer/minecells.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/newer/modern-industrialization-sound-addon.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer/modern-industrialization.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/newer/mythic-mobs.pw.toml"
 metafile = true
 
@@ -986,7 +1006,19 @@ file = "mods/testing/newer/mythic-upgrades.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/newer/mythicmetals-decorations.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer/mythicmetals.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/newer/nears.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer/nyfs-spiders.pw.toml"
 metafile = true
 
 [[files]]
@@ -998,11 +1030,23 @@ file = "mods/testing/newer/packed-up-backpacks.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/newer/peculiarpieces.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/newer/ping-wheel.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/testing/newer/potionparticlepack.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer/progression-reborn.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer/radiant-gear.pw.toml"
 metafile = true
 
 [[files]]
@@ -1019,6 +1063,14 @@ metafile = true
 
 [[files]]
 file = "mods/testing/newer/scaffolding-drops-nearby.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer/simply-swords.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer/softer-pastels.pw.toml"
 metafile = true
 
 [[files]]
@@ -1070,47 +1122,11 @@ file = "mods/testing/newer/yungs-extras.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer2/alloy-forgery.pw.toml"
+file = "mods/testing/newer2/fair-wage.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer2/autotag.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer2/modern-industrialization-sound-addon.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer2/modern-industrialization.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer2/mythicmetals-decorations.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer2/mythicmetals.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer2/nyfs-spiders.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer2/peculiarpieces.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer2/progression-reborn.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer2/simply-swords.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer2/softer-pastels.pw.toml"
+file = "mods/testing/newer2/numismatic-overhaul.pw.toml"
 metafile = true
 
 [[files]]
