@@ -1423,10 +1423,6 @@ file = "mods/tweaks/vivecraft/vivecraft.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/utils/argonauts.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/utils/bluemap/bluemap-offline-player-markers-(fabric).pw.toml"
 metafile = true
 
@@ -1488,10 +1484,6 @@ metafile = true
 
 [[files]]
 file = "mods/utils/nsmp-discord-bridge.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/utils/prometheus.pw.toml"
 metafile = true
 
 [[files]]
