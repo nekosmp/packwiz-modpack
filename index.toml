@@ -1074,22 +1074,6 @@ file = "mods/testing/newer/yungs-extras.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer2/alloy-forgery.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer2/autotag.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer2/mythicmetals-decorations.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer2/mythicmetals.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/thigh-highs-etc.pw.toml"
 metafile = true
 
