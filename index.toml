@@ -994,10 +994,6 @@ file = "mods/testing/newer/metal-bundles.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer/midnightlib.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/newer/mighty-mail-fabric.pw.toml"
 metafile = true
 
@@ -1094,10 +1090,6 @@ file = "mods/testing/newer/simply-swords.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer/smartbrainlib.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/newer/softer-pastels.pw.toml"
 metafile = true
 
@@ -1110,23 +1102,11 @@ file = "mods/testing/newer/thermoo.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer/thin-air.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer/trique-api.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/newer/vanilla-zoom.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/testing/newer/visual-workbench.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer/warden-tools.pw.toml"
 metafile = true
 
 [[files]]
