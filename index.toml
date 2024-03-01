@@ -918,10 +918,6 @@ file = "mods/testing/newer/enchantery.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer/enhanced-celestials.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/newer/environmentz.pw.toml"
 metafile = true
 
