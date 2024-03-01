@@ -1082,15 +1082,7 @@ file = "mods/testing/newer2/modern-industrialization.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer2/nyfs-spiders.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/newer2/progression-reborn.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer2/simply-swords.pw.toml"
 metafile = true
 
 [[files]]
