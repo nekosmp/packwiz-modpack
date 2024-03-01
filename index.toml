@@ -938,6 +938,10 @@ file = "mods/testing/newer2/inmisaddon.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/newer2/obscure-api.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/newer2/thermoo.pw.toml"
 metafile = true
 
