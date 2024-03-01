@@ -890,6 +890,14 @@ file = "mods/testing/newer1/yungs-extras.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/newer2/alloy-forgery.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer2/azurelib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/newer2/metal-bundles.pw.toml"
 metafile = true
 
@@ -942,15 +950,187 @@ file = "mods/testing/newer2/repurposed-structures-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer2/shimmer!.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/newer2/simply-swords.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/testing/newer2/softer-pastels.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/adventurez.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/aquamirae.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/autotag.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/beans-backpacks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/better-loot.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/better-mineshaft.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/common-network.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/corgilib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/decorative-blocks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/dehydration.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/diet.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/ecologics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/enchantery.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/environmentz.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/explorations.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/explorers-compass.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/fair-wage.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/framework-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/frostiful.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/fullblock-energistics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/go-fish.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/guardians-galore-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/hellions-sniffer+.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/hopo-better-ruined-portals.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/immersivemc.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/industrial-rezolution.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/inmis.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/inmisaddon.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/ketkets-furnicraft.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/mighty-mail-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/nears.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/numismatic-overhaul.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/obscure-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/peculiarpieces.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/realistic-bees.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/sandwichable.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/scaffolding-drops-nearby.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/soulice.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/thermoo.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/vanilla-zoom.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/visual-workbench.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/wavey-capes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/wildlife-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/wyd.pw.toml"
 metafile = true
 
 [[files]]

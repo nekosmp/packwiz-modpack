@@ -1,0 +1,13 @@
+name = "Wood you Dye"
+filename = "wood_you_dye-1.1.0+1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lROGvk9y/versions/ph5bnMLH/wood_you_dye-1.1.0%2B1.20.1-fabric.jar"
+hash-format = "sha1"
+hash = "b952560f20abe67cb2a536f4b0903d321a9ae71d"
+
+[update]
+[update.modrinth]
+mod-id = "lROGvk9y"
+version = "ph5bnMLH"

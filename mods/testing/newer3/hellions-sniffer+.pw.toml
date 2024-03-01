@@ -1,0 +1,13 @@
+name = "Hellion's Sniffer+"
+filename = "Sniffer+-fabric-1.20.1-0.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BVgHoKxg/versions/DLjYM0KE/Sniffer%2B-fabric-1.20.1-0.2.0.jar"
+hash-format = "sha1"
+hash = "76f3666ee46c2c8fc407cb4d478cf64274809312"
+
+[update]
+[update.modrinth]
+mod-id = "BVgHoKxg"
+version = "DLjYM0KE"
