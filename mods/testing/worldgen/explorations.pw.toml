@@ -1,6 +1,6 @@
 name = "Explorations"
 filename = "explorations-fabric-1.20.1-1.5.2.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/pcGnjJ39/versions/bxBfl7rM/explorations-fabric-1.20.1-1.5.2.jar"

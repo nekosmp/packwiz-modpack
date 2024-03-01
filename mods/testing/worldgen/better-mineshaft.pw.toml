@@ -1,6 +1,6 @@
 name = "Hopo Better Mineshaft"
 filename = "HopoBetterMineshaft-[1.20-1.20.1]-1.1.8.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/9IxCUYAP/versions/qWwQ1IQq/HopoBetterMineshaft-%5B1.20-1.20.1%5D-1.1.8.jar"
