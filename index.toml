@@ -1074,18 +1074,6 @@ file = "mods/testing/newer7/enchantery.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer7/peculiarpieces.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer7/progression-reborn.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer7/softer-pastels.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/thigh-highs-etc.pw.toml"
 metafile = true
 
