@@ -1074,6 +1074,14 @@ file = "mods/testing/newer/yungs-extras.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/newer2/peculiarpieces.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer2/softer-pastels.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/thigh-highs-etc.pw.toml"
 metafile = true
 
