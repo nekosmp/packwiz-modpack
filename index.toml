@@ -1022,6 +1022,42 @@ file = "mods/testing/newer4/wavey-capes.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/newer5/fair-wage.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer5/metal-bundles.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer5/minecells.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer5/numismatic-overhaul.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer5/nyfs-spiders.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer5/repurposed-structures-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer5/simply-swords.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer5/softer-pastels.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer5/vanilla-zoom.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/thigh-highs-etc.pw.toml"
 metafile = true
 
