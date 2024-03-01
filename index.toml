@@ -838,239 +838,239 @@ file = "mods/testing/new/templates-2.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer1/3dskinlayers.pw.toml"
+file = "mods/testing/newer/3dskinlayers.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer1/advancement-screenshot.pw.toml"
+file = "mods/testing/newer/advancement-screenshot.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer1/amplified-nether.pw.toml"
+file = "mods/testing/newer/adventurez.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer1/bouncier-beds.pw.toml"
+file = "mods/testing/newer/amplified-nether.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer1/ears.pw.toml"
+file = "mods/testing/newer/aquamirae.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer1/flat-bedrock.pw.toml"
+file = "mods/testing/newer/autotag.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer1/ping-wheel.pw.toml"
+file = "mods/testing/newer/azurelib.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer1/potionparticlepack.pw.toml"
+file = "mods/testing/newer/beans-backpacks.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer1/wiredredstone.pw.toml"
+file = "mods/testing/newer/better-mineshaft.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer1/ydms-red-panda.pw.toml"
+file = "mods/testing/newer/bouncier-beds.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer1/yungs-better-dungeons.pw.toml"
+file = "mods/testing/newer/decorative-blocks.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer1/yungs-bridges.pw.toml"
+file = "mods/testing/newer/dehydration.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer1/yungs-extras.pw.toml"
+file = "mods/testing/newer/diet.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer2/aquamirae.pw.toml"
+file = "mods/testing/newer/ears.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer2/better-mineshaft.pw.toml"
+file = "mods/testing/newer/ecologics.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer2/decorative-blocks.pw.toml"
+file = "mods/testing/newer/enchantery.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer2/dehydration.pw.toml"
+file = "mods/testing/newer/environmentz.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer2/diet.pw.toml"
+file = "mods/testing/newer/explorations.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer2/ecologics.pw.toml"
+file = "mods/testing/newer/explorers-compass.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer2/explorations.pw.toml"
+file = "mods/testing/newer/flat-bedrock.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer2/explorers-compass.pw.toml"
+file = "mods/testing/newer/framework-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer2/fullblock-energistics.pw.toml"
+file = "mods/testing/newer/frostiful.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer2/hellions-sniffer+.pw.toml"
+file = "mods/testing/newer/fullblock-energistics.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer2/inmis.pw.toml"
+file = "mods/testing/newer/go-fish.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer2/inmisaddon.pw.toml"
+file = "mods/testing/newer/guardians-galore-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer2/obscure-api.pw.toml"
+file = "mods/testing/newer/hellions-sniffer+.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer2/thermoo.pw.toml"
+file = "mods/testing/newer/hopo-better-ruined-portals.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer2/wildlife-fabric.pw.toml"
+file = "mods/testing/newer/immersivemc.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer2/wyd.pw.toml"
+file = "mods/testing/newer/industrial-rezolution.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer3/framework-fabric.pw.toml"
+file = "mods/testing/newer/inmis.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer3/go-fish.pw.toml"
+file = "mods/testing/newer/inmisaddon.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer3/guardians-galore-fabric.pw.toml"
+file = "mods/testing/newer/ketkets-furnicraft.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer3/hopo-better-ruined-portals.pw.toml"
+file = "mods/testing/newer/metal-bundles.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer3/immersivemc.pw.toml"
+file = "mods/testing/newer/mighty-mail-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer3/ketkets-furnicraft.pw.toml"
+file = "mods/testing/newer/minecells.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer3/mighty-mail-fabric.pw.toml"
+file = "mods/testing/newer/mythic-mobs.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer4/azurelib.pw.toml"
+file = "mods/testing/newer/mythic-mounts.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer4/frostiful.pw.toml"
+file = "mods/testing/newer/mythic-upgrades.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer4/industrial-rezolution.pw.toml"
+file = "mods/testing/newer/nears.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer4/mythic-mobs.pw.toml"
+file = "mods/testing/newer/obscure-api.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer4/mythic-mounts.pw.toml"
+file = "mods/testing/newer/packed-up-backpacks.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer4/mythic-upgrades.pw.toml"
+file = "mods/testing/newer/ping-wheel.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer4/sandwichable.pw.toml"
+file = "mods/testing/newer/potionparticlepack.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer4/scaffolding-drops-nearby.pw.toml"
+file = "mods/testing/newer/realistic-bees.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer4/visual-workbench.pw.toml"
+file = "mods/testing/newer/repurposed-structures-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer4/wavey-capes.pw.toml"
+file = "mods/testing/newer/sandwichable.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer5/metal-bundles.pw.toml"
+file = "mods/testing/newer/scaffolding-drops-nearby.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer5/minecells.pw.toml"
+file = "mods/testing/newer/soulice.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer5/repurposed-structures-fabric.pw.toml"
+file = "mods/testing/newer/thermoo.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer5/vanilla-zoom.pw.toml"
+file = "mods/testing/newer/vanilla-zoom.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer6/autotag.pw.toml"
+file = "mods/testing/newer/visual-workbench.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer6/environmentz.pw.toml"
+file = "mods/testing/newer/wavey-capes.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer6/nears.pw.toml"
+file = "mods/testing/newer/wildlife-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer6/packed-up-backpacks.pw.toml"
+file = "mods/testing/newer/wiredredstone.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer6/realistic-bees.pw.toml"
+file = "mods/testing/newer/wyd.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer6/soulice.pw.toml"
+file = "mods/testing/newer/ydms-red-panda.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer7/adventurez.pw.toml"
+file = "mods/testing/newer/yungs-better-dungeons.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer7/beans-backpacks.pw.toml"
+file = "mods/testing/newer/yungs-bridges.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer7/enchantery.pw.toml"
+file = "mods/testing/newer/yungs-extras.pw.toml"
 metafile = true
 
 [[files]]
