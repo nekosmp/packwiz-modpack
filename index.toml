@@ -43,10 +43,10 @@ file = "config/fancymenu/customization/options_screen_layout.txt"
 file = "config/fancymenu/customization/title_screen_layout.txt"
 
 [[files]]
-file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
+file = "config/fancymenu/minecraftwindow/minecraftwindow/icon16x16.png"
 
 [[files]]
-file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
+file = "config/fancymenu/minecraftwindow/minecraftwindow/icon32x32.png"
 
 [[files]]
 file = "config/fancymenu/options.txt"
@@ -1181,6 +1181,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/interface/dcwa.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/interface/default-options.pw.toml"
 metafile = true
 
 [[files]]
