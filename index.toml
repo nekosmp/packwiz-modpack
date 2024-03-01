@@ -922,6 +922,10 @@ file = "mods/tweaks/gameplay/companion.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/cosmetic-armor.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/crafting-tweaks.pw.toml"
 metafile = true
 
