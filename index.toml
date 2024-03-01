@@ -982,6 +982,10 @@ file = "mods/testing/newer3/mighty-mail-fabric.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/newer4/azurelib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/newer4/frostiful.pw.toml"
 metafile = true
 
