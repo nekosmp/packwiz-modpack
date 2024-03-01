@@ -970,10 +970,6 @@ file = "mods/testing/newer/hopo-better-ruined-portals.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer/hybrid-aquatic.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/newer/immersivemc.pw.toml"
 metafile = true
 
