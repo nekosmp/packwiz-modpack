@@ -98,6 +98,10 @@ file = "mods/content/blocks/stoneworks.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/blocks/wyd.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/bountiful.pw.toml"
 metafile = true
 
@@ -251,6 +255,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/decoration/windchimes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/diet.pw.toml"
 metafile = true
 
 [[files]]
@@ -446,6 +454,10 @@ file = "mods/content/macaws/macaws-windows.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/mighty-mail-fabric.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/mobs/axolotl-bucket-fix.pw.toml"
 metafile = true
 
@@ -455,6 +467,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/mobs/duckling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/ecologics.pw.toml"
 metafile = true
 
 [[files]]
@@ -514,6 +530,14 @@ file = "mods/content/mobs/tiny-skeletons.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/mobs/wildlife-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/ydms-red-panda.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/more-villagers-fabric.pw.toml"
 metafile = true
 
@@ -555,6 +579,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/tis3d.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/wiredredstone.pw.toml"
 metafile = true
 
 [[files]]
@@ -874,10 +902,6 @@ file = "mods/testing/newer/alloy-forgery.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer/amplified-nether.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/newer/aquamirae.pw.toml"
 metafile = true
 
@@ -906,15 +930,7 @@ file = "mods/testing/newer/dehydration.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer/diet.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/newer/ears.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer/ecologics.pw.toml"
 metafile = true
 
 [[files]]
@@ -974,19 +990,7 @@ file = "mods/testing/newer/inmisaddon.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer/ketkets-furnicraft.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/newer/metal-bundles.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer/mighty-mail-fabric.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer/minecells.pw.toml"
 metafile = true
 
 [[files]]
@@ -1026,10 +1030,6 @@ file = "mods/testing/newer/packed-up-backpacks.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer/peculiarpieces.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/newer/ping-wheel.pw.toml"
 metafile = true
 
@@ -1043,10 +1043,6 @@ metafile = true
 
 [[files]]
 file = "mods/testing/newer/radiant-gear.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer/realistic-bees.pw.toml"
 metafile = true
 
 [[files]]
@@ -1071,22 +1067,6 @@ metafile = true
 
 [[files]]
 file = "mods/testing/newer/wavey-capes.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer/wildlife-fabric.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer/wiredredstone.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer/wyd.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer/ydms-red-panda.pw.toml"
 metafile = true
 
 [[files]]
@@ -1251,6 +1231,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gameplay/polymorphic-energistics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/realistic-bees.pw.toml"
 metafile = true
 
 [[files]]
@@ -1659,6 +1643,10 @@ metafile = true
 
 [[files]]
 file = "mods/utils/xaero/xaeros-world-map.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/amplified-nether.pw.toml"
 metafile = true
 
 [[files]]
