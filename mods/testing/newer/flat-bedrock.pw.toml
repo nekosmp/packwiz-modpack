@@ -1,0 +1,13 @@
+name = "Flat Bedrock"
+filename = "flatbedrock-fabric-3.0.1-build.18+mc1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZYLnkiVu/versions/dEGPNZwJ/flatbedrock-fabric-3.0.1-build.18%2Bmc1.20.1.jar"
+hash-format = "sha1"
+hash = "af82a35320e5edfe4641a088f83434da41a52262"
+
+[update]
+[update.modrinth]
+mod-id = "ZYLnkiVu"
+version = "dEGPNZwJ"

@@ -1,0 +1,13 @@
+name = "UMU Backpack"
+filename = "umu_backpack-5.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aPpO2lOR/versions/5Ji87Ne9/umu_backpack-5.1-1.20.1.jar"
+hash-format = "sha1"
+hash = "b0e0f8003cddd6e4e6cdba9e155333ffe7f48ab4"
+
+[update]
+[update.modrinth]
+mod-id = "aPpO2lOR"
+version = "5Ji87Ne9"

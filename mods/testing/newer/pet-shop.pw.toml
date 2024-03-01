@@ -1,0 +1,13 @@
+name = "Pet Shop"
+filename = "petshop-fabric-1.20.1-0.1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/82sacNxj/versions/glZ03ggo/petshop-fabric-1.20.1-0.1.3.jar"
+hash-format = "sha1"
+hash = "c22cc600ae2ee93c1f90919b367e7b9369d72404"
+
+[update]
+[update.modrinth]
+mod-id = "82sacNxj"
+version = "glZ03ggo"

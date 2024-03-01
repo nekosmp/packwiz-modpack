@@ -1,0 +1,13 @@
+name = "Better Loot"
+filename = "betterloot-1.0.0+mc1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/oJabiJYC/versions/AzYujDL3/betterloot-1.0.0%2Bmc1.20.1.jar"
+hash-format = "sha1"
+hash = "25ffdd754e378c800440bcaa7255490ae6d1f01b"
+
+[update]
+[update.modrinth]
+mod-id = "oJabiJYC"
+version = "AzYujDL3"

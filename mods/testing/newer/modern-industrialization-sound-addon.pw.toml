@@ -1,0 +1,13 @@
+name = "Modern Industrialization Sound Addon"
+filename = "mi_sound_addon-1.0.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Kk4xvy7w/versions/9TqCptPZ/mi_sound_addon-1.0.1-1.20.1.jar"
+hash-format = "sha1"
+hash = "4a25c71ff9aca9c482b9e441967e3531e11e6132"
+
+[update]
+[update.modrinth]
+mod-id = "Kk4xvy7w"
+version = "9TqCptPZ"
