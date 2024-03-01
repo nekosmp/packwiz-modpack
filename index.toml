@@ -1038,6 +1038,10 @@ file = "mods/testing/newer5/vanilla-zoom.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/newer6/autotag.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/newer6/environmentz.pw.toml"
 metafile = true
 
