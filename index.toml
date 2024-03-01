@@ -926,6 +926,10 @@ file = "mods/testing/newer/explorers-compass.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/newer/fair-wage.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/newer/flat-bedrock.pw.toml"
 metafile = true
 
@@ -1019,6 +1023,10 @@ metafile = true
 
 [[files]]
 file = "mods/testing/newer/nears.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer/numismatic-overhaul.pw.toml"
 metafile = true
 
 [[files]]
@@ -1126,11 +1134,7 @@ file = "mods/testing/newer/yungs-extras.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer2/fair-wage.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer2/numismatic-overhaul.pw.toml"
+file = "mods/testing/newer2/searchlight.pw.toml"
 metafile = true
 
 [[files]]
