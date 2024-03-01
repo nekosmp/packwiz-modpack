@@ -1038,27 +1038,23 @@ file = "mods/testing/newer5/vanilla-zoom.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer6/alloy-forgery.pw.toml"
+file = "mods/testing/newer6/environmentz.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer6/autotag.pw.toml"
+file = "mods/testing/newer6/nears.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer6/modern-industrialization-sound-addon.pw.toml"
+file = "mods/testing/newer6/packed-up-backpacks.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer6/modern-industrialization.pw.toml"
+file = "mods/testing/newer6/realistic-bees.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer6/mythicmetals-decorations.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer6/mythicmetals.pw.toml"
+file = "mods/testing/newer6/soulice.pw.toml"
 metafile = true
 
 [[files]]
