@@ -1118,10 +1118,6 @@ file = "mods/testing/newer/trique-api.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer/umu-backpack.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/newer/vanilla-zoom.pw.toml"
 metafile = true
 
