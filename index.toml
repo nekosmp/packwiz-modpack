@@ -61,6 +61,9 @@ file = "config/paxi/resourcepacks/nsmp-connected-chains-resourcepack.pw.toml"
 metafile = true
 
 [[files]]
+file = "config/realisticbees.json5"
+
+[[files]]
 file = "mods/content/applied-energistics/ae2-qol-recipes.pw.toml"
 metafile = true
 
