@@ -890,6 +890,66 @@ file = "mods/testing/newer1/yungs-extras.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/newer2/aquamirae.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer2/better-mineshaft.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer2/decorative-blocks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer2/dehydration.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer2/diet.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer2/ecologics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer2/explorations.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer2/explorers-compass.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer2/fullblock-energistics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer2/hellions-sniffer+.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer2/inmis.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer2/inmisaddon.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer2/thermoo.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer2/wildlife-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer2/wyd.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/thigh-highs-etc.pw.toml"
 metafile = true
 
