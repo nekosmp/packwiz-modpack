@@ -410,6 +410,14 @@ file = "mods/content/immersive-melodies.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/inmis.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/inmisaddon.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/macaws/macaws-bridges.pw.toml"
 metafile = true
 
@@ -926,10 +934,6 @@ file = "mods/testing/newer/azurelib.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer/beans-backpacks.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/newer/better-mineshaft.pw.toml"
 metafile = true
 
@@ -978,18 +982,6 @@ file = "mods/testing/newer/immersivemc.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer/industrial-rezolution.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer/inmis.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer/inmisaddon.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/newer/metal-bundles.pw.toml"
 metafile = true
 
@@ -1015,10 +1007,6 @@ metafile = true
 
 [[files]]
 file = "mods/testing/newer/obscure-api.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer/packed-up-backpacks.pw.toml"
 metafile = true
 
 [[files]]
