@@ -895,6 +895,10 @@ file = "mods/libraries/resourceful-config.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/resourceful-lib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/searchables.pw.toml"
 metafile = true
 
@@ -1484,6 +1488,10 @@ metafile = true
 
 [[files]]
 file = "mods/utils/nsmp-discord-bridge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utils/prometheus.pw.toml"
 metafile = true
 
 [[files]]
