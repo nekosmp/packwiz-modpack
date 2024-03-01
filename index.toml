@@ -162,10 +162,6 @@ file = "mods/content/create/create_oxidized.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/create/createaddition.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/create/expandingtechnologies.pw.toml"
 metafile = true
 
@@ -1074,7 +1070,43 @@ file = "mods/testing/newer/yungs-extras.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/newer2/alloy-forgery.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer2/autotag.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer2/modern-industrialization-sound-addon.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer2/modern-industrialization.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer2/mythicmetals-decorations.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer2/mythicmetals.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer2/nyfs-spiders.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/newer2/peculiarpieces.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer2/progression-reborn.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer2/simply-swords.pw.toml"
 metafile = true
 
 [[files]]
