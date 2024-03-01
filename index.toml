@@ -850,10 +850,6 @@ file = "mods/testing/frostiful.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/hellions-sniffer+.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/immersive-aircraft.pw.toml"
 metafile = true
 
