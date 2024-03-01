@@ -696,11 +696,27 @@ file = "mods/libraries/architectury-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/athena-ctm.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/azurelib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/balm.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/libraries/bclib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/bookshelf-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/botarium.pw.toml"
 metafile = true
 
 [[files]]
@@ -736,6 +752,10 @@ file = "mods/libraries/cupboard.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/dawn.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/fabric-api.pw.toml"
 metafile = true
 
@@ -745,6 +765,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/forge-config-api-port.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/framework-fabric.pw.toml"
 metafile = true
 
 [[files]]
@@ -808,6 +832,10 @@ file = "mods/libraries/mru.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/obscure-api.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/patchouli.pw.toml"
 metafile = true
 
@@ -840,7 +868,19 @@ file = "mods/libraries/searchables.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/supermartijn642s-config-lib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/supermartijn642s-core-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/thermoo.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/trinkets.pw.toml"
 metafile = true
 
 [[files]]
