@@ -22,6 +22,9 @@ file = "config/builtinservers.json"
 file = "config/craftpresence.json"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+
+[[files]]
 file = "config/diet-client.toml"
 
 [[files]]
