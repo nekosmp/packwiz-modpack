@@ -25,6 +25,9 @@ file = "config/craftpresence.json"
 file = "config/expanded_ecosphere/config.json5"
 
 [[files]]
+file = "config/fishontheline.json5"
+
+[[files]]
 file = "config/paxi/datapack_load_order.json"
 
 [[files]]

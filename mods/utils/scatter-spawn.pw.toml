@@ -5,4 +5,4 @@ side = "server"
 [download]
 url = "https://github.com/nekosmp/nsmp-artifacts/raw/main/ScatterSpawn-1.20.1-0.0.1.jar"
 hash-format = "sha256"
-hash = "86b1cc1e76345caaa9eb98e1049213de6940c0369c8db6c1aaf35ae1928ca80b"
+hash = "05a5057c9cecb4354cbd66bec1693debdae9c1e4ca7a7e0b3ea19700e3162d13"
