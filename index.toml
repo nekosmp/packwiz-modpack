@@ -954,6 +954,70 @@ file = "mods/testing/newer2/wyd.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/newer3/go-fish.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/guardians-galore-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/hopo-better-ruined-portals.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/immersivemc.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/ketkets-furnicraft.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/mighty-mail-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/nears.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/numismatic-overhaul.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/peculiarpieces.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/realistic-bees.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/sandwichable.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/scaffolding-drops-nearby.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/soulice.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/vanilla-zoom.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/visual-workbench.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/newer3/wavey-capes.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/thigh-highs-etc.pw.toml"
 metafile = true
 
