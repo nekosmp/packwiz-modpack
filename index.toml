@@ -734,6 +734,10 @@ file = "mods/testing/create/create-broken-bad-fabric.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/create/create-new-age.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/create/estrogen.pw.toml"
 metafile = true
 
