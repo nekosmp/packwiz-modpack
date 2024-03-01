@@ -1,0 +1,13 @@
+name = "When Dungeons Arise - No Flying Structures"
+filename = "WDA-NoFlyingStructures-OWEND-1.18.2-1.20.1.zip"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "52640949cb8de485cb738b3ed32f4110cbdc2a04"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4804136
+project-id = 827281

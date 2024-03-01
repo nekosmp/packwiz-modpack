@@ -1,0 +1,13 @@
+name = "When Dungeons Arise - Loot Tweaks"
+filename = "WDA-VanillaLoot-1.18.2-1.19.2-0.0.1.zip"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "32eb1fa6153cb0fae6ddac162d6d92d02123afbf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4503040
+project-id = 853631

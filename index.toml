@@ -39,6 +39,18 @@ file = "config/paxi/datapacks/nsmp-connected-chains-datapack.pw.toml"
 metafile = true
 
 [[files]]
+file = "config/paxi/datapacks/when-dungeons-arise-loot-tweaks.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/when-dungeons-arise-no-flying-structures.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/when-dungeons-arise-spacing-tweaks.pw.toml"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepack_load_order.json"
 
 [[files]]
@@ -686,10 +698,6 @@ file = "mods/libraries/geckolib.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/libraries/gravity-api-fork.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/libraries/iceberg.pw.toml"
 metafile = true
 
@@ -911,10 +919,6 @@ metafile = true
 
 [[files]]
 file = "mods/testing/potionparticlepack.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/powah.pw.toml"
 metafile = true
 
 [[files]]
