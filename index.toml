@@ -856,6 +856,10 @@ file = "mods/libraries/peripheralium.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/polylib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/puzzles-lib.pw.toml"
 metafile = true
 
@@ -1065,6 +1069,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gameplay/treechop.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/yigd.pw.toml"
 metafile = true
 
 [[files]]
@@ -1425,6 +1433,10 @@ metafile = true
 
 [[files]]
 file = "mods/utils/emi/extra-mod-integrations.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utils/ftb-backups-2.pw.toml"
 metafile = true
 
 [[files]]
