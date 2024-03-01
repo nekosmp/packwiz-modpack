@@ -43,14 +43,6 @@ file = "config/paxi/datapacks/when-dungeons-arise-loot-tweaks.pw.toml"
 metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/when-dungeons-arise-no-flying-structures.pw.toml"
-metafile = true
-
-[[files]]
-file = "config/paxi/datapacks/when-dungeons-arise-spacing-tweaks.pw.toml"
-metafile = true
-
-[[files]]
 file = "config/paxi/resourcepack_load_order.json"
 
 [[files]]
@@ -942,31 +934,7 @@ file = "mods/testing/worldgen/better-mineshaft.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/worldgen/explorations.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/worldgen/hopo-better-ruined-portals.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/worldgen/repurposed-structures-fabric.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/worldgen/yungs-better-dungeons.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/worldgen/yungs-better-mineshafts.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/worldgen/yungs-bridges.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/worldgen/yungs-extras.pw.toml"
 metafile = true
 
 [[files]]
@@ -1586,6 +1554,10 @@ file = "mods/worldgen/friends-and-foes-beekeeper-hut-fabric.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/worldgen/hopo-better-ruined-portals.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/worldgen/minerally.pw.toml"
 metafile = true
 
@@ -1615,6 +1587,10 @@ metafile = true
 
 [[files]]
 file = "mods/worldgen/yungs/yungs-better-desert-temples.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/yungs/yungs-better-dungeons.pw.toml"
 metafile = true
 
 [[files]]
