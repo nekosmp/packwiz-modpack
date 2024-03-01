@@ -510,6 +510,10 @@ file = "mods/content/mobs/more-mobs.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/mobs/mythic-mobs.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/mobs/naturalist.pw.toml"
 metafile = true
 
@@ -790,6 +794,10 @@ file = "mods/testing/create/estrogen.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/dunno/enchantery.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/emojiful.pw.toml"
 metafile = true
 
@@ -934,10 +942,6 @@ file = "mods/testing/newer/ears.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer/enchantery.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/newer/environmentz.pw.toml"
 metafile = true
 
@@ -951,10 +955,6 @@ metafile = true
 
 [[files]]
 file = "mods/testing/newer/fabric-simple-animated-guns.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer/flat-bedrock.pw.toml"
 metafile = true
 
 [[files]]
@@ -1002,14 +1002,6 @@ file = "mods/testing/newer/modern-industrialization.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/newer/mythic-mobs.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer/mythic-mounts.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/newer/mythic-upgrades.pw.toml"
 metafile = true
 
@@ -1035,10 +1027,6 @@ metafile = true
 
 [[files]]
 file = "mods/testing/newer/potionparticlepack.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/newer/progression-reborn.pw.toml"
 metafile = true
 
 [[files]]
@@ -1687,6 +1675,10 @@ metafile = true
 
 [[files]]
 file = "mods/worldgen/expanded-ecosphere.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/flat-bedrock.pw.toml"
 metafile = true
 
 [[files]]
