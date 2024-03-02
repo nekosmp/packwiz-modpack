@@ -55,6 +55,9 @@ file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
 file = "config/fancymenu/options.txt"
 
 [[files]]
+file = "config/figura.json"
+
+[[files]]
 file = "config/fishontheline.json5"
 
 [[files]]
