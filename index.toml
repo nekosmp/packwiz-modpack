@@ -627,10 +627,6 @@ file = "mods/content/mobs/tiny-skeletons.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/mobs/wildlife-fabric.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/mobs/wolves-of-other-furs.pw.toml"
 metafile = true
 
