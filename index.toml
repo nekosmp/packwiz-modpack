@@ -1375,6 +1375,10 @@ file = "mods/tweaks/visual/fallingleaves.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/visual/figura.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/visual/fog-looks-good-now-fabric.pw.toml"
 metafile = true
 
