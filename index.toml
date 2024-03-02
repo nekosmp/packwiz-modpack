@@ -1115,6 +1115,14 @@ file = "mods/tweaks/hud/chat-heads.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/hud/chatimage.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/emojiful.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/hud/highlight.pw.toml"
 metafile = true
 
