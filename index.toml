@@ -1271,10 +1271,6 @@ file = "mods/tweaks/inventory/shulkerboxtooltip.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/performance/async-locator.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/tweaks/performance/badoptimizations.pw.toml"
 metafile = true
 
