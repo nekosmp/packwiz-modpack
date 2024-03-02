@@ -1203,6 +1203,10 @@ file = "mods/tweaks/interface/fancymenu.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/interface/inventory-sorting.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/interface/language-reload.pw.toml"
 metafile = true
 
