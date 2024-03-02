@@ -923,6 +923,14 @@ file = "mods/libraries/yungs-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/mobtimizations.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/audio/ambientsounds.pw.toml"
 metafile = true
 
