@@ -1,6 +1,6 @@
 name = "Inventory Sorting"
 filename = "InventorySorter-1.9.0-1.20.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/5ibSyLAz/versions/tr2ZGtz4/InventorySorter-1.9.0-1.20.jar"
