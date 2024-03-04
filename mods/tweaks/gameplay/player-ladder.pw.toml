@@ -1,6 +1,6 @@
 name = "Player Ladder"
 filename = "player-ladder-0.6.0-1.20.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/YCcTxyDM/versions/8NZxDAIe/player-ladder-0.6.0-1.20.jar"

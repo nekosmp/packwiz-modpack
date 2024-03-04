@@ -1354,10 +1354,6 @@ file = "mods/tweaks/performance/reeses-sodium-options.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/performance/smooth-chunk-save.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/tweaks/performance/sodium-extra.pw.toml"
 metafile = true
 
