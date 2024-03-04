@@ -1014,6 +1014,10 @@ file = "mods/tweaks/gameplay/crawl.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/cut-through.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/do-a-barrel-roll.pw.toml"
 metafile = true
 
@@ -1079,6 +1083,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gameplay/scaffolding-drops-nearby.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/simple-cobblestone-generator.pw.toml"
 metafile = true
 
 [[files]]
