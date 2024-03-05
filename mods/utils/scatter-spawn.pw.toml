@@ -1,8 +1,8 @@
 name = "scatter-spawn"
-filename = "ScatterSpawn-1.20.1-0.0.1-build.3.jar"
+filename = "ScatterSpawn-1.20.1-0.0.1-build.4.jar"
 side = "server"
 
 [download]
-url = "https://github.com/nekosmp/nsmp-artifacts/raw/main/ScatterSpawn-1.20.1-0.0.1-build.3.jar"
+url = "https://github.com/nekosmp/nsmp-artifacts/raw/main/ScatterSpawn-1.20.1-0.0.1-build.4.jar"
 hash-format = "sha256"
 hash = "b48ae2eb74cb1e0b93c6d62ab999a86ad8556551928e2be5c805c62ada56145a"
