@@ -1,13 +1,13 @@
 name = "More Delight"
-filename = "moredelight-1.1.8.jar"
+filename = "moredelight-1.1.9-1.20.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/znHQQtuU/versions/oaJ0ggON/moredelight-1.1.8.jar"
+url = "https://cdn.modrinth.com/data/znHQQtuU/versions/s9YOpSd8/moredelight-1.1.9-1.20.1-fabric.jar"
 hash-format = "sha1"
-hash = "068d01bf45f0579d05bd3148144571eadfb51aa3"
+hash = "341e533f3a0d84620953a02bcfd53cb265613f84"
 
 [update]
 [update.modrinth]
 mod-id = "znHQQtuU"
-version = "oaJ0ggON"
+version = "s9YOpSd8"
