@@ -922,10 +922,6 @@ file = "mods/libraries/yungs-api.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/scatter-spawn.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/tweaks/audio/ambientsounds.pw.toml"
 metafile = true
 
