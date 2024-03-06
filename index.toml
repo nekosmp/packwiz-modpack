@@ -181,10 +181,6 @@ file = "mods/content/computer-craft/plethora-peripherals.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/computer-craft/powerae2cc.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/computer-craft/toms-peripherals.pw.toml"
 metafile = true
 
