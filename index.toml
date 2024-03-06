@@ -61,6 +61,9 @@ file = "config/figura.json"
 file = "config/fishontheline.json5"
 
 [[files]]
+file = "config/inventorysorter/blacklist.json5"
+
+[[files]]
 file = "config/paxi/datapack_load_order.json"
 
 [[files]]
