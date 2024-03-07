@@ -3,11 +3,11 @@ filename = "cratedelight-1.4.2-1.20.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9rlXSyLg/versions/afq67NOG/cratedelight-1.4.2-1.20.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/9rlXSyLg/versions/8u4Zpiu3/cratedelight-1.4.2-1.20.1-fabric.jar"
 hash-format = "sha1"
-hash = "43f7050a208a72b5e8b6dead06e7dc2937f9fac4"
+hash = "3804954bc46316669b59e0cdc8467fcea37c51e5"
 
 [update]
 [update.modrinth]
 mod-id = "9rlXSyLg"
-version = "afq67NOG"
+version = "8u4Zpiu3"
