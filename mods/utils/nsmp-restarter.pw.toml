@@ -1,6 +1,6 @@
 name = "nsmp-restarter"
 filename = "NSMP-Restarter-1.0.1+1.20.1-server.jar"
-side = "server"
+side = "none"
 
 [download]
 url = "https://github.com/nekosmp/nsmp-restarter/releases/download/mc1.20.1%2Fv1.0.1/NSMP-Restarter-1.0.1+1.20.1-server.jar"
