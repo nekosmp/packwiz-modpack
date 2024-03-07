@@ -1505,10 +1505,6 @@ file = "mods/utils/nsmp-discord-bridge.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/utils/nsmp-restarter.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/utils/scatter-spawn.pw.toml"
 metafile = true
 
