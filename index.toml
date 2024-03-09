@@ -961,10 +961,6 @@ file = "mods/tweaks/gameplay/armor-statues.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/gameplay/armorful.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/tweaks/gameplay/backslot.pw.toml"
 metafile = true
 
