@@ -1305,6 +1305,10 @@ file = "mods/tweaks/performance/badoptimizations.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/performance/c2me-fabric.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/performance/clumps.pw.toml"
 metafile = true
 
