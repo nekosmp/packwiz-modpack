@@ -1,8 +1,8 @@
 name = "hexdim"
-filename = "hexxy-dimensions-1.2.1.jar"
+filename = "hexxy-dimensions-1.3.0.jar"
 side = "both"
 
 [download]
-url = "https://github.com/nekosmp/nsmp-artifacts/raw/main/hexxy-dimensions-1.2.1.jar"
+url = "https://github.com/nekosmp/nsmp-artifacts/raw/main/hexxy-dimensions-1.3.0.jar"
 hash-format = "sha256"
-hash = "cfb021a3f7d811ad066322a3372769acc0a11c1faca8c0bb0d1cdefaa21001e3"
+hash = "118c3efb53e7cf1ac1ee86d729083da9f01ab5508d21f9a56372faf70f6fbb73"

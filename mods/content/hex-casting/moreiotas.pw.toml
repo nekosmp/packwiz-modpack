@@ -1,8 +1,8 @@
 name = "moreiotas"
-filename = "moreiotas-fabric-1.20.1-0.1.0-3.jar"
+filename = "moreiotas-fabric-1.20.1-0.1.0-4.jar"
 side = "both"
 
 [download]
-url = "https://github.com/nekosmp/nsmp-artifacts/raw/main/moreiotas-fabric-1.20.1-0.1.0-3.jar"
+url = "https://github.com/nekosmp/nsmp-artifacts/raw/main/moreiotas-fabric-1.20.1-0.1.0-4.jar"
 hash-format = "sha256"
-hash = "707cb226bf92304266091503353c256e02eec44224759fc8ebb387c28430b2fd"
+hash = "9cc2e20e1b067944ba6ef76b9751705b172a6ebf7766bf62b5d87c8875f3d166"
