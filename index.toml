@@ -484,10 +484,6 @@ file = "mods/content/hex-casting/hexdim.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/hex-casting/hextweaks.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/hex-casting/hexvr.pw.toml"
 metafile = true
 
