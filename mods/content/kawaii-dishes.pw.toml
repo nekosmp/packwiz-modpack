@@ -1,13 +1,13 @@
 name = "Kawaii Dishes"
-filename = "kawaiidishes-1.11.jar"
+filename = "kawaiidishes-1.11.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/v2Vpr5Uf/versions/wZ7s1HWq/kawaiidishes-1.11.jar"
+url = "https://cdn.modrinth.com/data/v2Vpr5Uf/versions/wOqJ74ee/kawaiidishes-1.11.1.jar"
 hash-format = "sha1"
-hash = "09b19ea7673ce3cd024eb531b9a4a7b13a077a02"
+hash = "10c0896a9cb2dbf8a56523ec9fd159cdd5b8aa12"
 
 [update]
 [update.modrinth]
 mod-id = "v2Vpr5Uf"
-version = "wZ7s1HWq"
+version = "wOqJ74ee"

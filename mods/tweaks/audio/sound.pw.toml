@@ -3,11 +3,11 @@ filename = "Sounds-0.6.0+1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZouiUX7t/versions/9UUqOuaG/Sounds-0.6.0%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/ZouiUX7t/versions/rsnEkgKq/Sounds-0.6.0%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "2c26efd13a1518be6e0014d1ddc46eadfd461640"
+hash = "275739c095d268e3c6f16193751fb5479ade9bff"
 
 [update]
 [update.modrinth]
 mod-id = "ZouiUX7t"
-version = "9UUqOuaG"
+version = "rsnEkgKq"
