@@ -74,6 +74,10 @@ file = "config/paxi/datapacks/better-villages-bountiful.pw.toml"
 metafile = true
 
 [[files]]
+file = "config/paxi/datapacks/nsmp-all-eggs-are-eggs-datapack.pw.toml"
+metafile = true
+
+[[files]]
 file = "config/paxi/datapacks/nsmp-connected-chains-datapack.pw.toml"
 metafile = true
 

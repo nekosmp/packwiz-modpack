@@ -1,0 +1,8 @@
+name = "nsmp-all-eggs-are-eggs-datapack"
+filename = "nsmp-all-eggs-are-eggs-datapack.zip"
+side = "server"
+
+[download]
+url = "https://github.com/nekosmp/nsmp-artifacts/raw/main/nsmp-all-eggs-are-eggs-datapack.zip"
+hash-format = "sha256"
+hash = "71fc06f2ed8f21c12f6abbd7331980bb11e8765866de279da11825e56bbc1f11"
