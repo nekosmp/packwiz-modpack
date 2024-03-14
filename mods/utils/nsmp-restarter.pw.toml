@@ -1,0 +1,8 @@
+name = "nsmp-restarter"
+filename = "NSMP.Restarter-1.1.1+1.20.1-server.jar"
+side = "server"
+
+[download]
+url = "https://github.com/nekosmp/nsmp-restarter/releases/download/mc1.20.1%2Fv1.1.1/NSMP.Restarter-1.1.1+1.20.1-server.jar"
+hash-format = "sha256"
+hash = "9287844120e8c8c4e56ca9751e8426c176fd71b32a1a24e57616c74842ddc6ec"
