@@ -1,13 +1,13 @@
 name = "EMI Ores"
-filename = "emi_ores-0.2+1.20.1.jar"
+filename = "emi_ores-0.3+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/sG4TqDb8/versions/q7SCgvKj/emi_ores-0.2%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/sG4TqDb8/versions/coEn5ieO/emi_ores-0.3%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "44d1ec65f5a79f0d3e924e1fab27c3657320ff8f"
+hash = "84edfc6bfd568d3082407d701cf278e2062cb8d7"
 
 [update]
 [update.modrinth]
 mod-id = "sG4TqDb8"
-version = "q7SCgvKj"
+version = "coEn5ieO"
