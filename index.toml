@@ -340,6 +340,10 @@ file = "mods/content/decoration/windchimes.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/difficulty/dehydration.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/difficulty/diet.pw.toml"
 metafile = true
 
