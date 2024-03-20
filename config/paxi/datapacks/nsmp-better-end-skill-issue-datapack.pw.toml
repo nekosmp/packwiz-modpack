@@ -1,0 +1,8 @@
+name = "nsmp-better-end-skill-issue-datapack"
+filename = "nsmp-better-end-skill-issue-datapack.zip"
+side = "server"
+
+[download]
+url = "https://github.com/nekosmp/nsmp-artifacts/raw/main/nsmp-better-end-skill-issue-datapack.zip"
+hash-format = "sha256"
+hash = "38ecfcc73710d600021f0ceb6102fe55f5f3e5d8033706f739e40911b9dd40ef"
