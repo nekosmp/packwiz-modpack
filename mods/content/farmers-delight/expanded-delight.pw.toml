@@ -1,13 +1,13 @@
 name = "Expanded Delight"
-filename = "expandeddelight-0.3.0.2.jar"
+filename = "expandeddelight-0.3.0.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/e9V6wFcR/versions/Corz4OBb/expandeddelight-0.3.0.2.jar"
+url = "https://cdn.modrinth.com/data/e9V6wFcR/versions/2F4IeJS3/expandeddelight-0.3.0.3.jar"
 hash-format = "sha1"
-hash = "433ee12b9a6f078ae61b672146d24b68014fadff"
+hash = "7bdc7e76c6bc54eb1840617d9f0f4e6841a2245e"
 
 [update]
 [update.modrinth]
 mod-id = "e9V6wFcR"
-version = "Corz4OBb"
+version = "2F4IeJS3"
