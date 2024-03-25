@@ -760,6 +760,10 @@ file = "mods/libraries/cardinal-components-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/cicada.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/cloth-config.pw.toml"
 metafile = true
 

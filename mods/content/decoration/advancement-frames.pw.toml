@@ -1,13 +1,13 @@
 name = "Advancement Frames"
-filename = "advancementframes-1.20-2.2.3-fabric.jar"
+filename = "advancementframes-1.20-2.2.6-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/zUBn5hHr/versions/AESqK5Ha/advancementframes-1.20-2.2.3-fabric.jar"
+url = "https://cdn.modrinth.com/data/zUBn5hHr/versions/o46bOKal/advancementframes-1.20-2.2.6-fabric.jar"
 hash-format = "sha1"
-hash = "5c903f8b45174067c365da15e82723c3b94a6cf6"
+hash = "ed40dbb0f3087a0de30296799ccc62627ad6566f"
 
 [update]
 [update.modrinth]
 mod-id = "zUBn5hHr"
-version = "AESqK5Ha"
+version = "o46bOKal"
