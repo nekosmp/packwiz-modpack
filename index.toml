@@ -936,6 +936,10 @@ file = "mods/libraries/yungs-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/audio/ambientsounds.pw.toml"
 metafile = true
 
