@@ -1,8 +1,13 @@
-name = "tis3d"
-filename = "tis3d-MC1.20.1-fabric-0.0.0+d007ba7.jar"
+name = "TIS-3D"
+filename = "tis3d-MC1.20.1-fabric-1.7.6+0f72925.jar"
 side = "both"
 
 [download]
-url = "https://github.com/nekosmp/nsmp-artifacts/raw/main/tis3d-MC1.20.1-fabric-0.0.0+d007ba7.jar"
-hash-format = "sha256"
-hash = "8aa2cbec6633ab4dd2d512d57781153eecc6ee92070f9135b349be2fd151f513"
+url = "https://cdn.modrinth.com/data/L23x7zL8/versions/aj3G4pcg/tis3d-MC1.20.1-fabric-1.7.6%2B0f72925.jar"
+hash-format = "sha1"
+hash = "e64091f29dc03af7c48cbc9e97ef05c3d4e5c0de"
+
+[update]
+[update.modrinth]
+mod-id = "L23x7zL8"
+version = "aj3G4pcg"
