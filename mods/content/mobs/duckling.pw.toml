@@ -1,13 +1,13 @@
 name = "Duckling"
-filename = "duckling-3.0.0-fabric.jar"
+filename = "duckling-fabric-1.20.4-4.0.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jkb861Ih/versions/4X1lMKaO/duckling-3.0.0-fabric.jar"
+url = "https://cdn.modrinth.com/data/jkb861Ih/versions/rYGqStCQ/duckling-fabric-1.20.4-4.0.0.jar"
 hash-format = "sha1"
-hash = "13efd4f4f41d181879d1e9438b171adb259805aa"
+hash = "ff219c21d3a8eee8b3db2da53dfd93bc5944bbcb"
 
 [update]
 [update.modrinth]
 mod-id = "jkb861Ih"
-version = "4X1lMKaO"
+version = "rYGqStCQ"
