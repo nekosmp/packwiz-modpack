@@ -13,6 +13,9 @@ file = "config/collective/checked.txt"
 file = "config/expanded_ecosphere/config.json5"
 
 [[files]]
+file = "config/fishontheline.json5"
+
+[[files]]
 file = "mods/content/applied-energistics/ae2-qol-recipes.pw.toml"
 metafile = true
 
@@ -134,6 +137,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gameplay/do-a-barrel-roll.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/fish-on-the-line.pw.toml"
 metafile = true
 
 [[files]]
