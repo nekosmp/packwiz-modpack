@@ -1,0 +1,16 @@
+name = "neko.smp"
+author = "Atakku"
+version = "3.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+
+[versions]
+fabric = "0.15.7"
+minecraft = "1.20.1"
+
+[options]
+datapack-folder = "config/paxi/datapacks"
+no-internal-hashes = true

@@ -1,0 +1,239 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/collective/checked.txt"
+
+[[files]]
+file = "config/expanded_ecosphere/config.json5"
+
+[[files]]
+file = "mods/content/applied-energistics/ae2-qol-recipes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/applied-energistics/ae2.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/applied-energistics/applied-energistics-2-wireless-terminals.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/computer-craft/cc-tweaked.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/cicada.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/cloth-config.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/collective.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/cristel-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/fabric-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/forge-config-api-port.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/midnightlib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/moonlight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/paxi.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/puzzles-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/yungs-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/advancement-screenshot.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/cut-through.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/do-a-barrel-roll.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/grass-seeds.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/kleeslabs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/netherportalfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/rightclickharvest.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/simple-cobblestone-generator.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/treechop.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/yigd.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/interface/better-advancements.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/interface/borderless-mining.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/interface/language-reload.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/interface/modmenu.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/interface/screenshot-to-clipboard.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/interface/seamless-loading-screen.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/interface/silent-screenshots.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/async-locator.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/badoptimizations.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/c2me-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/clumps.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/entityculling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/fast-paintings.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/ferrite-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/fix-gpu-memory-leak.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/indium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/iris.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/krypton.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/lithium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/memoryleakfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/modernfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/moreculling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/neruina.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/reeses-sodium-options.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/sodium-extra.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/sodium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/vmp-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/fabricbettergrass.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/fallingleaves.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/visuality.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/expanded-ecosphere.pw.toml"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+metafile = true
