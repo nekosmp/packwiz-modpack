@@ -51,6 +51,10 @@ file = "mods/emi/emi.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/bclib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/cicada.pw.toml"
 metafile = true
 
