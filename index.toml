@@ -35,6 +35,22 @@ file = "mods/content/create/create-track-map.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/silly/moyai.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/silly/mystical-oak-tree.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/emi/ae2-emi-crafting.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/emi/emi.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/cicada.pw.toml"
 metafile = true
 
@@ -76,6 +92,26 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/yungs-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/audio/plasmo-voice.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/audio/pv-addon-sculk.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/building/diagonal-fences.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/building/diagonal-walls.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/building/diagonal-windows.pw.toml"
 metafile = true
 
 [[files]]
@@ -239,7 +275,23 @@ file = "mods/tweaks/visual/visuality.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/worldgen/amplified-nether.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/betterend.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/betternether.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/worldgen/expanded-ecosphere.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/nullscape.pw.toml"
 metafile = true
 
 [[files]]
