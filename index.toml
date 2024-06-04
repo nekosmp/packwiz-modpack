@@ -23,10 +23,6 @@ file = "mods/content/computer-craft/cc-tweaked.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/libraries/cicada.pw.toml"
 metafile = true
 
