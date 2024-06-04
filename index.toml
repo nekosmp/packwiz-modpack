@@ -183,6 +183,22 @@ file = "mods/tweaks/interface/silent-screenshots.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/inventory/ae2-mousetweaks-fix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/inventory/mouse-tweaks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/inventory/norecipebook-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/inventory/shulkerboxtooltip.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/performance/async-locator.pw.toml"
 metafile = true
 
@@ -260,6 +276,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/performance/vmp-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/distinguished-potions.pw.toml"
 metafile = true
 
 [[files]]
