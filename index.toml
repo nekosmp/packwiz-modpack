@@ -23,6 +23,18 @@ file = "mods/content/computer-craft/cc-tweaked.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/computer-craft/cccbridge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-track-map.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/cicada.pw.toml"
 metafile = true
 
