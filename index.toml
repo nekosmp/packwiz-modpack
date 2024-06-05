@@ -192,6 +192,10 @@ file = "mods/libraries/fusion-connected-textures.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/geckolib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/jamlib.pw.toml"
 metafile = true
 
@@ -209,6 +213,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/puzzles-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/resourceful-config.pw.toml"
 metafile = true
 
 [[files]]
