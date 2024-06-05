@@ -168,11 +168,31 @@ file = "mods/tweaks/gameplay/advancement-screenshot.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/cat_jam.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/companion.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/crawl.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/cut-through.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/tweaks/gameplay/do-a-barrel-roll.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/easy-anvils.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/easy-magic.pw.toml"
 metafile = true
 
 [[files]]
@@ -204,6 +224,10 @@ file = "mods/tweaks/gameplay/yigd.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/interface/auth-me.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/interface/better-advancements.pw.toml"
 metafile = true
 
@@ -217,6 +241,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/interface/builtin-servers.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/interface/controlling.pw.toml"
 metafile = true
 
 [[files]]
@@ -356,6 +384,10 @@ file = "mods/tweaks/visual/fallingleaves.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/visual/lambdynamiclights.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/visual/visuality.pw.toml"
 metafile = true
 
@@ -380,7 +412,35 @@ file = "mods/worldgen/expanded-ecosphere.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/worldgen/flat-bedrock.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/worldgen/nullscape.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/yungs/yungs-better-desert-temples.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/yungs/yungs-better-jungle-temples.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/yungs/yungs-better-nether-fortresses.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/yungs/yungs-better-ocean-monuments.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/yungs/yungs-better-strongholds.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/yungs/yungs-better-witch-huts.pw.toml"
 metafile = true
 
 [[files]]
