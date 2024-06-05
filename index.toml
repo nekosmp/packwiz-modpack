@@ -44,6 +44,10 @@ file = "mods/content/create/copycats.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/create-dreams-and-desires.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/create-fabric.pw.toml"
 metafile = true
 
@@ -56,11 +60,51 @@ file = "mods/content/create/create-track-map.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/estrogen.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/interiors.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/decoration/nightlights.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/farmers-delight/farmers-delight-refabricated.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/furniture/dramatic-doors.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/mobs/creeper-overhaul.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/enderman-overhaul.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/other/exposure.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/other/mighty-mail-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/qol/mmmmmmmmmmmm.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/qol/sleep-tight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/qol/straw-statues.pw.toml"
 metafile = true
 
 [[files]]
@@ -69,6 +113,18 @@ metafile = true
 
 [[files]]
 file = "mods/content/silly/mystical-oak-tree.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/supplementaries/amendments.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/supplementaries/supplementaries-squared.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/supplementaries/supplementaries.pw.toml"
 metafile = true
 
 [[files]]
@@ -85,6 +141,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/bclib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/botarium.pw.toml"
 metafile = true
 
 [[files]]
@@ -152,7 +212,15 @@ file = "mods/libraries/puzzles-lib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/resourceful-lib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/searchables.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/trinkets.pw.toml"
 metafile = true
 
 [[files]]
@@ -181,6 +249,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gameplay/advancement-screenshot.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/armor-statues.pw.toml"
 metafile = true
 
 [[files]]
@@ -261,6 +333,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/interface/controlling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/interface/ding.pw.toml"
 metafile = true
 
 [[files]]
