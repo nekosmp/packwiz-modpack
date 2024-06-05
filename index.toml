@@ -52,10 +52,6 @@ file = "mods/content/create/create-track-map.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/create/interactive.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/silly/moyai.pw.toml"
 metafile = true
 
