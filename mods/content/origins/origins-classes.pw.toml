@@ -1,0 +1,13 @@
+name = "Origins: Classes"
+filename = "Origins-Classes-1.20-1.7.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FiDptjtR/versions/EnGfmh9y/Origins-Classes-1.20-1.7.0.jar"
+hash-format = "sha1"
+hash = "cb99c72a6f4f4fb40a225da7a52875a878b1168a"
+
+[update]
+[update.modrinth]
+mod-id = "FiDptjtR"
+version = "EnGfmh9y"

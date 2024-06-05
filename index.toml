@@ -134,6 +134,26 @@ file = "mods/content/mobs/mavm.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/origins/altorigingui.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/origins/extra-origins.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/origins/origins-classes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/origins/origins-plus-plus.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/origins/origins.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/other/exposure.pw.toml"
 metafile = true
 
@@ -267,6 +287,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/paxi.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/pehkui.pw.toml"
 metafile = true
 
 [[files]]
