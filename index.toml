@@ -104,6 +104,10 @@ file = "mods/libraries/forge-config-api-port.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/fusion-connected-textures.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/jamlib.pw.toml"
 metafile = true
 
