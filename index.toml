@@ -124,6 +124,10 @@ file = "mods/libraries/forge-config-api-port.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/framework-fabric.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/fusion-connected-textures.pw.toml"
 metafile = true
 
@@ -145,6 +149,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/puzzles-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/searchables.pw.toml"
 metafile = true
 
 [[files]]
