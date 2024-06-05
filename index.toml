@@ -40,7 +40,15 @@ file = "mods/content/computer-craft/cccbridge.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/bellsandwhistles.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/create-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-steam-n-rails.pw.toml"
 metafile = true
 
 [[files]]
