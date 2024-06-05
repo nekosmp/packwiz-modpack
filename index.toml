@@ -7,6 +7,9 @@ file = "config/bclib/client.json"
 file = "config/bclib/server.json"
 
 [[files]]
+file = "config/builtinservers.json"
+
+[[files]]
 file = "config/collective/checked.txt"
 
 [[files]]
@@ -181,7 +184,23 @@ file = "mods/tweaks/interface/better-advancements.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/interface/better-stats.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/interface/borderless-mining.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/interface/builtin-servers.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/interface/ding.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/interface/disable-accessibility-screen.pw.toml"
 metafile = true
 
 [[files]]
@@ -318,6 +337,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/visual/visuality.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/what-are-they-up-to.pw.toml"
 metafile = true
 
 [[files]]

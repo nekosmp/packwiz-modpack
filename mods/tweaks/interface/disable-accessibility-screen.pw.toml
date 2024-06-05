@@ -1,0 +1,13 @@
+name = "Disable Accessibility Screen"
+filename = "disableaccessibilityscreen-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DohVVqgL/versions/kHjurWm1/disableaccessibilityscreen-1.0.1.jar"
+hash-format = "sha1"
+hash = "2003c08feddc8f7cb4afb91a157d1ecbb4485724"
+
+[update]
+[update.modrinth]
+mod-id = "DohVVqgL"
+version = "kHjurWm1"
