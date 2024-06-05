@@ -98,6 +98,10 @@ file = "mods/content/create/interiors.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/decoration/connectible_chains.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/decoration/grass-overhaul.pw.toml"
 metafile = true
 
@@ -114,11 +118,19 @@ file = "mods/content/furniture/dramatic-doors.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/mobs/axolotl-bucket-fix.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/mobs/creeper-overhaul.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/content/mobs/enderman-overhaul.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/mavm.pw.toml"
 metafile = true
 
 [[files]]
@@ -235,6 +247,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/konkrete.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/mavapi.pw.toml"
 metafile = true
 
 [[files]]
