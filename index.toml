@@ -118,6 +118,10 @@ file = "mods/content/furniture/dramatic-doors.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/hex-casting/hex-casting.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/mobs/axolotl-bucket-fix.pw.toml"
 metafile = true
 
