@@ -40,6 +40,10 @@ file = "mods/content/create/bellsandwhistles.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/copycats.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/create-fabric.pw.toml"
 metafile = true
 
