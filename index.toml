@@ -228,10 +228,6 @@ file = "mods/tweaks/interface/builtin-servers.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/interface/ding.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/tweaks/interface/disable-accessibility-screen.pw.toml"
 metafile = true
 
