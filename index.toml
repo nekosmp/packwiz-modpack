@@ -32,10 +32,6 @@ file = "mods/content/computer-craft/cc-tweaked.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/computer-craft/cc-vs.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/computer-craft/cccbridge.pw.toml"
 metafile = true
 
@@ -68,19 +64,11 @@ file = "mods/content/silly/mystical-oak-tree.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/valkyrien-skies.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/emi/ae2-emi-crafting.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/emi/emi.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/interactive.pw.toml"
 metafile = true
 
 [[files]]
