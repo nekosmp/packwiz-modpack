@@ -1,6 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/NoChatReports/NCR-Client.json"
+
+[[files]]
+file = "config/NoChatReports/NCR-Encryption.json"
+
+[[files]]
 file = "config/bclib/client.json"
 
 [[files]]
@@ -14,6 +20,30 @@ file = "config/collective/checked.txt"
 
 [[files]]
 file = "config/expanded_ecosphere/config.json5"
+
+[[files]]
+file = "config/fancymenu/assets/logo.png"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+
+[[files]]
+file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
+
+[[files]]
+file = "config/fancymenu/customization/options_screen_layout.txt"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+
+[[files]]
+file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
+
+[[files]]
+file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
+
+[[files]]
+file = "config/fancymenu/options.txt"
 
 [[files]]
 file = "mods/content/applied-energistics/ae2-qol-recipes.pw.toml"
@@ -65,6 +95,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/create/interiors.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/decoration/grass-overhaul.pw.toml"
 metafile = true
 
 [[files]]
@@ -284,6 +318,10 @@ file = "mods/tweaks/gameplay/do-a-barrel-roll.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/double-doors.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/easy-anvils.pw.toml"
 metafile = true
 
@@ -316,11 +354,51 @@ file = "mods/tweaks/gameplay/simple-cobblestone-generator.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/smarter-farmers-farmers-replant.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/treechop.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/tweaks/gameplay/yigd.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/chat-heads.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/dcch.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/jade-addons-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/jade.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/modelfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/overflowing-bars.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/pick-up-notifier.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/show-me-what-you-got.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/status-effect-bars.pw.toml"
 metafile = true
 
 [[files]]
@@ -348,6 +426,10 @@ file = "mods/tweaks/interface/controlling.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/interface/dcwa.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/interface/ding.pw.toml"
 metafile = true
 
@@ -356,11 +438,23 @@ file = "mods/tweaks/interface/disable-accessibility-screen.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/interface/drippy-loading-screen.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/interface/fancymenu.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/interface/language-reload.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/tweaks/interface/modmenu.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/interface/no-chat-reports.pw.toml"
 metafile = true
 
 [[files]]
