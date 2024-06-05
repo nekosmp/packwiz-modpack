@@ -80,6 +80,14 @@ file = "mods/libraries/collective.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/completeconfig.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/coroutil.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/cristel-lib.pw.toml"
 metafile = true
 
