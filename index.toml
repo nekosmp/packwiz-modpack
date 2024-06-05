@@ -56,6 +56,10 @@ file = "mods/content/create/create-track-map.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/furniture/dramatic-doors.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/silly/moyai.pw.toml"
 metafile = true
 
