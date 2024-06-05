@@ -308,6 +308,10 @@ file = "mods/tweaks/performance/vmp-fabric.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/visual/bobby.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/visual/distinguished-potions.pw.toml"
 metafile = true
 
