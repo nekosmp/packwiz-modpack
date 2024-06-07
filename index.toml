@@ -88,6 +88,10 @@ file = "mods/content/computer-craft/plethora-peripherals.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/computer-craft/toms-peripherals.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/bellsandwhistles.pw.toml"
 metafile = true
 
@@ -97,6 +101,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/create/create-dreams-and-desires.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-enchantment-industry-fabric.pw.toml"
 metafile = true
 
 [[files]]
@@ -349,6 +357,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/konkrete.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/mariadb-jdbc.pw.toml"
 metafile = true
 
 [[files]]
