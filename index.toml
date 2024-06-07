@@ -19,6 +19,9 @@ file = "config/builtinservers.json"
 file = "config/collective/checked.txt"
 
 [[files]]
+file = "config/craftpresence.json"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 
 [[files]]
