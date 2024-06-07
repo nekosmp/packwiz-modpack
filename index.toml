@@ -208,6 +208,10 @@ file = "mods/content/origins/origins.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/other/evenmoreinstruments.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/other/exposure.pw.toml"
 metafile = true
 
@@ -908,6 +912,10 @@ file = "mods/worldgen/yungs/yungs-better-desert-temples.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/worldgen/yungs/yungs-better-dungeons.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/worldgen/yungs/yungs-better-jungle-temples.pw.toml"
 metafile = true
 
@@ -925,6 +933,10 @@ metafile = true
 
 [[files]]
 file = "mods/worldgen/yungs/yungs-better-witch-huts.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/yungs/yungs-extras.pw.toml"
 metafile = true
 
 [[files]]
