@@ -124,6 +124,10 @@ file = "mods/content/decoration/advancement-frames.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/decoration/bits-and-chisels.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/decoration/connectible_chains.pw.toml"
 metafile = true
 
