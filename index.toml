@@ -77,6 +77,10 @@ file = "mods/content/computer-craft/cccbridge.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/computer-craft/ducky-periphs.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/bellsandwhistles.pw.toml"
 metafile = true
 
@@ -546,6 +550,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/interface/controlling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/interface/craftpresence.pw.toml"
 metafile = true
 
 [[files]]
