@@ -140,6 +140,18 @@ file = "mods/content/decoration/nightlights.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/decoration/twigs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/decoration/verdantvibes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/decoration/windchimes.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/farmers-delight/farmers-delight-refabricated.pw.toml"
 metafile = true
 
@@ -189,6 +201,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/other/exposure.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/other/genshin-instruments.pw.toml"
 metafile = true
 
 [[files]]
