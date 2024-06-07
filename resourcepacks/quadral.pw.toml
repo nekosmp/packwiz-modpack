@@ -1,0 +1,13 @@
+name = "Quadral"
+filename = "1.20-Quadral v.6.091.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ldeyci7L/versions/S843Uo1j/1.20-Quadral%20v.6.091.zip"
+hash-format = "sha1"
+hash = "de401da0b9b212d5b2728987f69b3ef598f3fd3e"
+
+[update]
+[update.modrinth]
+mod-id = "Ldeyci7L"
+version = "S843Uo1j"

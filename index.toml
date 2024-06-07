@@ -797,5 +797,13 @@ file = "mods/worldgen/yungs/yungs-better-witch-huts.pw.toml"
 metafile = true
 
 [[files]]
+file = "resourcepacks/quadral.pw.toml"
+metafile = true
+
+[[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
+metafile = true
+
+[[files]]
+file = "shaderpacks/rethinking-voxels.pw.toml"
 metafile = true
