@@ -1,0 +1,13 @@
+name = "M.R.U"
+filename = "mru-0.4.2+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SNVQ2c0g/versions/bnInuGfl/mru-0.4.2%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "8e1fd166c154ee4b820524406bc4d0f7da978790"
+
+[update]
+[update.modrinth]
+mod-id = "SNVQ2c0g"
+version = "bnInuGfl"
