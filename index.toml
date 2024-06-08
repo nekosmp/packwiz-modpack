@@ -848,6 +848,10 @@ file = "mods/tweaks/visual/cave-dust.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/visual/distanthorizons.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/visual/distinguished-potions.pw.toml"
 metafile = true
 
