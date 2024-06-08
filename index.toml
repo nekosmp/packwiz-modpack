@@ -180,6 +180,18 @@ file = "mods/content/hex-casting/hex-casting.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/hex-casting/hexal.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/hex-casting/hexdim.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/hex-casting/moreiotas.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/mobs/axolotl-bucket-fix.pw.toml"
 metafile = true
 
@@ -385,10 +397,6 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/konkrete.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/libraries/lmft.pw.toml"
 metafile = true
 
 [[files]]
