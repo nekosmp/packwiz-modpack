@@ -72,6 +72,14 @@ file = "mods/content/applied-energistics/applied-energistics-2-wireless-terminal
 metafile = true
 
 [[files]]
+file = "mods/content/blocks/softer-pastels.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/blocks/wyd.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/computer-craft/cc-tweaked.pw.toml"
 metafile = true
 
@@ -188,6 +196,10 @@ file = "mods/content/mobs/mavm.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/mobs/more-mob-variants.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/origins/altorigingui.pw.toml"
 metafile = true
 
@@ -205,6 +217,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/origins/origins.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/other/endrem.pw.toml"
 metafile = true
 
 [[files]]
@@ -241,6 +257,14 @@ metafile = true
 
 [[files]]
 file = "mods/content/silly/mystical-oak-tree.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/storage/inmis.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/storage/inmisaddon.pw.toml"
 metafile = true
 
 [[files]]
@@ -361,6 +385,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/konkrete.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/lmft.pw.toml"
 metafile = true
 
 [[files]]
