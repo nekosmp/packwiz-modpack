@@ -120,6 +120,10 @@ file = "mods/content/create/create-fabric.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/create-railways-navigator.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/create-steam-n-rails.pw.toml"
 metafile = true
 
