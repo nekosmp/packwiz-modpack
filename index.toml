@@ -72,6 +72,10 @@ file = "mods/content/applied-energistics/applied-energistics-2-wireless-terminal
 metafile = true
 
 [[files]]
+file = "mods/content/blocks/rechiseled.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/blocks/softer-pastels.pw.toml"
 metafile = true
 
@@ -145,6 +149,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/create/interiors.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/rechiseled-create.pw.toml"
 metafile = true
 
 [[files]]
@@ -325,6 +333,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/other/mighty-mail-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/other/wiredredstone.pw.toml"
 metafile = true
 
 [[files]]

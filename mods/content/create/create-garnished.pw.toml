@@ -1,13 +1,13 @@
 name = "Create: Garnished"
-filename = "garnished-1.8.3+1.20.1-fabric.jar"
+filename = "garnished-1.8.4+1.20.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6e2SlzR4/versions/xM9frhZm/garnished-1.8.3%2B1.20.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/6e2SlzR4/versions/iXOkKT1x/garnished-1.8.4%2B1.20.1-fabric.jar"
 hash-format = "sha1"
-hash = "9364719c31722febbcfad4693efc5838c30f93a4"
+hash = "e8dba40e847acac2854aeaaee25d0fa17f340f8a"
 
 [update]
 [update.modrinth]
 mod-id = "6e2SlzR4"
-version = "xM9frhZm"
+version = "iXOkKT1x"
