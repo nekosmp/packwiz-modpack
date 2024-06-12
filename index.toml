@@ -548,6 +548,14 @@ file = "mods/libraries/searchables.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/supermartijn642s-config-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/supermartijn642s-core-lib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/trinkets.pw.toml"
 metafile = true
 
