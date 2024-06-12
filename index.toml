@@ -880,10 +880,6 @@ file = "mods/tweaks/performance/ferrite-core.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/performance/fix-gpu-memory-leak.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/tweaks/performance/indium.pw.toml"
 metafile = true
 
@@ -925,6 +921,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/performance/sodium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/videotape.pw.toml"
 metafile = true
 
 [[files]]
