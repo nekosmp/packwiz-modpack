@@ -280,6 +280,50 @@ file = "mods/content/hex-casting/moreiotas.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/macaws/macaws-bridges.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/macaws/macaws-doors.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/macaws/macaws-fences-and-walls.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/macaws/macaws-furniture.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/macaws/macaws-holidays.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/macaws/macaws-lights-and-lamps.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/macaws/macaws-paintings.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/macaws/macaws-paths-and-pavings.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/macaws/macaws-roofs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/macaws/macaws-trapdoors.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/macaws/macaws-windows.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/mobs/axolotl-bucket-fix.pw.toml"
 metafile = true
 
