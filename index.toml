@@ -212,6 +212,14 @@ file = "mods/content/farmers-delight/create-food.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/farmers-delight/cultural-creators-fabric-create-and-cultural.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/farmers-delight/cultural-delights-fabric.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/farmers-delight/ends-delight.pw.toml"
 metafile = true
 
@@ -228,6 +236,10 @@ file = "mods/content/farmers-delight/farmers-knives.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/farmers-delight/farmers-respite-fabric.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/farmers-delight/frights-delight.pw.toml"
 metafile = true
 
@@ -237,6 +249,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/farmers-delight/nethers-delight-refabricated.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/farmers-delight/oceans-delight.pw.toml"
 metafile = true
 
 [[files]]
