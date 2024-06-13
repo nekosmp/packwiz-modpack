@@ -72,11 +72,23 @@ file = "mods/content/applied-energistics/applied-energistics-2-wireless-terminal
 metafile = true
 
 [[files]]
+file = "mods/content/blocks/connected-glass.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/blocks/hearth-and-home.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/blocks/rechiseled.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/content/blocks/softer-pastels.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/blocks/stoneworks.pw.toml"
 metafile = true
 
 [[files]]
@@ -120,6 +132,10 @@ file = "mods/content/create/copycats.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/create-deco.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/create-dreams-and-desires.pw.toml"
 metafile = true
 
@@ -148,7 +164,15 @@ file = "mods/content/create/create-track-map.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/create_oxidized.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/estrogen.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/extended-cogwheels.pw.toml"
 metafile = true
 
 [[files]]
@@ -164,7 +188,19 @@ file = "mods/content/create/slice-and-dice.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/decoration/additional-lanterns.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/decoration/advancement-frames.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/decoration/another-furniture.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/decoration/bushier-flowers.pw.toml"
 metafile = true
 
 [[files]]
@@ -176,7 +212,19 @@ file = "mods/content/decoration/connectible_chains.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/decoration/decorative-blocks.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/decoration/grass-overhaul.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/decoration/handcrafted.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/decoration/labels.pw.toml"
 metafile = true
 
 [[files]]
@@ -185,6 +233,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/decoration/nightlights.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/decoration/searchlight.pw.toml"
 metafile = true
 
 [[files]]
@@ -353,6 +405,14 @@ metafile = true
 
 [[files]]
 file = "mods/content/mobs/more-mob-variants.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/naturalist.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/snuffles-fabric.pw.toml"
 metafile = true
 
 [[files]]
@@ -757,6 +817,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gameplay/snow-under-trees-remastered.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/spyglass-improvements.pw.toml"
 metafile = true
 
 [[files]]
