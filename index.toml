@@ -92,6 +92,10 @@ file = "mods/content/computer-craft/cccbridge.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/computer-craft/computer-cartographer.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/computer-craft/ducky-periphs.pw.toml"
 metafile = true
 
@@ -173,6 +177,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/decoration/grass-overhaul.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/decoration/mcr_blahaj.pw.toml"
 metafile = true
 
 [[files]]
@@ -336,6 +344,10 @@ file = "mods/content/other/mighty-mail-fabric.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/other/travelersbackpack.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/other/wiredredstone.pw.toml"
 metafile = true
 
@@ -357,14 +369,6 @@ metafile = true
 
 [[files]]
 file = "mods/content/silly/mystical-oak-tree.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/storage/inmis.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/storage/inmisaddon.pw.toml"
 metafile = true
 
 [[files]]
@@ -1008,11 +1012,27 @@ file = "mods/tweaks/visual/what-are-they-up-to.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/utils/bluemap/bluemap-offline-player-markers-(fabric).pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utils/bluemap/bluemap-sign-markers.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utils/bluemap/bluemap.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/utils/chunky.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/utils/fastback.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utils/fullstack-watchdog.pw.toml"
 metafile = true
 
 [[files]]
@@ -1025,6 +1045,10 @@ metafile = true
 
 [[files]]
 file = "mods/utils/nsmp-restarter.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utils/scatter-spawn.pw.toml"
 metafile = true
 
 [[files]]
