@@ -63,10 +63,6 @@ file = "config/paxi/resourcepacks/creeper-overhaul-overhaul.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/bookshelf-lib.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/applied-energistics/ae2-qol-recipes.pw.toml"
 metafile = true
 
@@ -463,19 +459,15 @@ file = "mods/content/other/endrem.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/other/evenmoreinstruments.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/other/exposure.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/other/genshin-instruments.pw.toml"
+file = "mods/content/other/go-fish.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/other/go-fish.pw.toml"
+file = "mods/content/other/immersive-melodies.pw.toml"
 metafile = true
 
 [[files]]
@@ -523,38 +515,6 @@ file = "mods/content/supplementaries/supplementaries.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/emi/ae2-emi-crafting.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/emi/emi-enchanting.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/emi/emi-ores.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/emi/emi.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/emi/emiffect.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/emi/emitrades.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/emi/extra-mod-integrations.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/fusion-connected-textures.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/libraries/architectury-api.pw.toml"
 metafile = true
 
@@ -564,6 +524,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/bclib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/bookshelf-lib.pw.toml"
 metafile = true
 
 [[files]]
@@ -612,6 +576,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/framework-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/fusion-connected-textures.pw.toml"
 metafile = true
 
 [[files]]
@@ -1172,6 +1140,34 @@ metafile = true
 
 [[files]]
 file = "mods/utils/chunky.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utils/emi/ae2-emi-crafting.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utils/emi/emi-enchanting.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utils/emi/emi-ores.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utils/emi/emi.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utils/emi/emiffect.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utils/emi/emitrades.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utils/emi/extra-mod-integrations.pw.toml"
 metafile = true
 
 [[files]]
