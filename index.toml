@@ -52,6 +52,9 @@ file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
 file = "config/fancymenu/options.txt"
 
 [[files]]
+file = "config/inventorysorter/blacklist.json5"
+
+[[files]]
 file = "config/paxi/resourcepacks/advancement-plaques-with-vines.pw.toml"
 metafile = true
 
@@ -200,6 +203,10 @@ file = "mods/content/decoration/another-furniture.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/decoration/beautify-refabricated.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/decoration/bushier-flowers.pw.toml"
 metafile = true
 
@@ -209,6 +216,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/decoration/connectible_chains.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/decoration/dark-paintings.pw.toml"
 metafile = true
 
 [[files]]
@@ -460,6 +471,10 @@ file = "mods/content/other/genshin-instruments.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/other/go-fish.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/other/mighty-mail-fabric.pw.toml"
 metafile = true
 
@@ -592,10 +607,6 @@ file = "mods/libraries/framework-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/libraries/fusion-connected-textures.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/libraries/geckolib.pw.toml"
 metafile = true
 
@@ -681,6 +692,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/trinkets.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/yacl.pw.toml"
 metafile = true
 
 [[files]]
@@ -940,6 +955,10 @@ file = "mods/tweaks/interface/fancymenu.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/interface/inventory-sorting.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/interface/language-reload.pw.toml"
 metafile = true
 
@@ -1180,6 +1199,10 @@ file = "mods/utils/stackdeobf.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/utils/validatebiomes.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/worldgen/amplified-nether.pw.toml"
 metafile = true
 
@@ -1197,6 +1220,10 @@ metafile = true
 
 [[files]]
 file = "mods/worldgen/flat-bedrock.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/friends-and-foes-beekeeper-hut-fabric.pw.toml"
 metafile = true
 
 [[files]]

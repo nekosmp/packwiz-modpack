@@ -1,0 +1,8 @@
+name = "validatebiomes"
+filename = "validatebiomes-1.20.1-0.0.1.jar"
+side = "server"
+
+[download]
+url = "https://github.com/nekosmp/nsmp-artifacts/raw/main/validatebiomes-1.20.1-0.0.1.jar"
+hash-format = "sha256"
+hash = "abc321d4bbdbe4cc52f284bb50836d159b2dffc1789879a6d8ace3517812c417"

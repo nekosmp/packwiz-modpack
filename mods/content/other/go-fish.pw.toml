@@ -1,0 +1,13 @@
+name = "Go Fish"
+filename = "go-fish-1.6.3+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "80dc8a9c5360de22866e7c1ca9e845b7e3386068"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4991432
+project-id = 431135
