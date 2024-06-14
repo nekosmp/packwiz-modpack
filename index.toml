@@ -923,10 +923,6 @@ file = "mods/tweaks/interface/default-options.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/interface/ding.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/tweaks/interface/disable-accessibility-screen.pw.toml"
 metafile = true
 
