@@ -135,6 +135,10 @@ file = "mods/content/create/copycats.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/create-clockwork.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/create-deco.pw.toml"
 metafile = true
 
@@ -668,6 +672,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/trinkets.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/valkyrien-skies.pw.toml"
 metafile = true
 
 [[files]]
