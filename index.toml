@@ -1115,10 +1115,6 @@ file = "mods/tweaks/visual/lambdynamiclights.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/visual/let-sleeping-dogs-lie.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/tweaks/visual/potionparticlepack.pw.toml"
 metafile = true
 
