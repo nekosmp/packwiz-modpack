@@ -847,6 +847,10 @@ file = "mods/tweaks/gameplay/netherportalfix.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/nyfs-spiders.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/polymorph.pw.toml"
 metafile = true
 
