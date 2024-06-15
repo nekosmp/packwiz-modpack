@@ -55,6 +55,14 @@ file = "config/fancymenu/options.txt"
 file = "config/inventorysorter/blacklist.json5"
 
 [[files]]
+file = "config/paxi/datapacks/better-villages-bountiful.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/better-villages-more-villagers-compatibility.pw.toml"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/advancement-plaques-with-vines.pw.toml"
 metafile = true
 
@@ -135,6 +143,10 @@ file = "mods/content/create/copycats.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/create-big-cannons.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/create-clockwork.pw.toml"
 metafile = true
 
@@ -156,6 +168,14 @@ metafile = true
 
 [[files]]
 file = "mods/content/create/create-garnished.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-metalwork-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-power-loader-fabric.pw.toml"
 metafile = true
 
 [[files]]
@@ -415,6 +435,10 @@ file = "mods/content/mobs/friends-and-foes.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/mobs/lovely_snails.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/mobs/mavm.pw.toml"
 metafile = true
 
@@ -427,7 +451,15 @@ file = "mods/content/mobs/naturalist.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/mobs/promenade.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/mobs/snuffles-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/species.pw.toml"
 metafile = true
 
 [[files]]
@@ -459,6 +491,10 @@ file = "mods/content/origins/origins.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/other/bountiful.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/other/endrem.pw.toml"
 metafile = true
 
@@ -471,11 +507,19 @@ file = "mods/content/other/go-fish.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/other/guardians-galore-fabric.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/other/immersive-melodies.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/content/other/mighty-mail-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/other/more-villagers-fabric.pw.toml"
 metafile = true
 
 [[files]]
@@ -1131,10 +1175,6 @@ file = "mods/utils/bluemap/bluemap-offline-player-markers-(fabric).pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/utils/bluemap/bluemap-sign-markers.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/utils/bluemap/bluemap.pw.toml"
 metafile = true
 
@@ -1211,6 +1251,10 @@ file = "mods/worldgen/amplified-nether.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/worldgen/better-village-fabric.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/worldgen/betterend.pw.toml"
 metafile = true
 
@@ -1228,6 +1272,22 @@ metafile = true
 
 [[files]]
 file = "mods/worldgen/friends-and-foes-beekeeper-hut-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/minerally.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/moogs/mes-moogs-end-structures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/moogs/mns-moogs-nether-structures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/moogs/moogs-voyager-structures.pw.toml"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Better Villages - Bountiful Compatibility"
+filename = "BetterVillages_Bountiful_1.19.4.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eaa2be57ae4d99525fde463f30022c4dd9933c30"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4493347
+project-id = 851257
