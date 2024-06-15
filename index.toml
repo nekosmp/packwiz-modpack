@@ -563,14 +563,6 @@ file = "mods/content/supplementaries/supplementaries.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/dawn.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/kambrik.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/libraries/architectury-api.pw.toml"
 metafile = true
 
@@ -619,6 +611,10 @@ file = "mods/libraries/cristel-lib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/dawn.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/fabric-api.pw.toml"
 metafile = true
 
@@ -648,6 +644,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/jamlib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/kambrik.pw.toml"
 metafile = true
 
 [[files]]
