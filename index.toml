@@ -839,7 +839,15 @@ file = "mods/tweaks/gameplay/kleeslabs.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/lmd.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/lootr.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/monsters-in-the-closet.pw.toml"
 metafile = true
 
 [[files]]
@@ -868,6 +876,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gameplay/simple-cobblestone-generator.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/skippy-pearls.pw.toml"
 metafile = true
 
 [[files]]
@@ -1011,6 +1023,10 @@ file = "mods/tweaks/interface/no-chat-reports.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/interface/no-resource-pack-warnings.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/interface/screenshot-to-clipboard.pw.toml"
 metafile = true
 
@@ -1080,6 +1096,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/performance/ferrite-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/feytweaks.pw.toml"
 metafile = true
 
 [[files]]
@@ -1176,6 +1196,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/visual/potionparticlepack.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/tiny-item-animations.pw.toml"
 metafile = true
 
 [[files]]
