@@ -1,0 +1,7 @@
+name = "nsmpgen"
+filename = "nsmpgen-0.0.1.zip"
+
+[download]
+url = "https://github.com/nekosmp/nsmp-artifacts/blob/main/nsmpgen-0.0.1.zip"
+hash-format = "sha256"
+hash = "4d2cf868f37b07e813756ee92e4030a2941b1321fbb201d55e2631f4e9f17c30"
