@@ -1,7 +1,0 @@
-name = "continents"
-filename = "Continents_1.20.x_v1.1.5-nekosmp.1.jar"
-
-[download]
-url = "https://raw.githubusercontent.com/nekosmp/nsmp-artifacts/main/Continents_1.20.x_v1.1.5-nekosmp.1.jar"
-hash-format = "sha256"
-hash = "772630a632ca1ea610e0e2f7c281a5b6a98b5f875d3771f174b6ab19ae6ce730"
