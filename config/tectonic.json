@@ -4,9 +4,9 @@
     // The horizontal mountain scale setting will change the thickness of mountain ranges and the spacing between them.
     // Lower values = thicker mountain ranges and more space between ranges. 0.15-0.25 is the sweet spot.
     // The terrain scale setting will vertically stretch/compress terrain. Higher values = more extreme terrain heights.
-    "horizontal_mountain_scale": 0.25,
+    "horizontal_mountain_scale": 0.2,
     "increased_height": true,
-    "terrain_scale": 1.5
+    "terrain_scale": 2
   },
   "features": {
     // Enabling deeper oceans will lower vanilla ocean monuments to compensate for lower depth.
