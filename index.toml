@@ -1287,23 +1287,11 @@ file = "mods/utils/validatebiomes.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/worldgen/amplified-nether.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/worldgen/better-village-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/worldgen/betterend.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/worldgen/betternether.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/worldgen/expanded-ecosphere.pw.toml"
+file = "mods/worldgen/continents.pw.toml"
 metafile = true
 
 [[files]]
@@ -1331,11 +1319,15 @@ file = "mods/worldgen/moogs/moogs-voyager-structures.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/worldgen/nullscape.pw.toml"
+file = "mods/worldgen/tectonic.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/worldgen/tectonic.pw.toml"
+file = "mods/worldgen/terralith.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/treeplacer.pw.toml"
 metafile = true
 
 [[files]]
@@ -1368,6 +1360,26 @@ metafile = true
 
 [[files]]
 file = "mods/worldgen/yungs/yungs-extras.pw.toml"
+metafile = true
+
+[[files]]
+file = "nuhuh/amplified-nether.pw.toml"
+metafile = true
+
+[[files]]
+file = "nuhuh/betterend.pw.toml"
+metafile = true
+
+[[files]]
+file = "nuhuh/betternether.pw.toml"
+metafile = true
+
+[[files]]
+file = "nuhuh/expanded-ecosphere.pw.toml"
+metafile = true
+
+[[files]]
+file = "nuhuh/nullscape.pw.toml"
 metafile = true
 
 [[files]]
