@@ -19,20 +19,16 @@ This config is only for replacing biomes, the main Expanded Ecosphere config is 
 	   If a biome doesn't exist, the game will crash!
 	*/
 	"replace": {
+		"wythers:temperate_island": "minecraft:ocean",
 		"wythers:jungle_island": "minecraft:warm_ocean",
+		"wythers:tropical_island": "minecraft:warm_ocean"
 		"wythers:mushroom_island": "minecraft:warm_ocean",
 		"minecraft:mushroom_fields": "minecraft:warm_ocean",
-
-
-
-		"wythers:frigid_island": "minecraft:icy_ocean",
-		"wythers:frozen_island": "minecraft:icy_ocean",
-
+		"wythers:frigid_island": "minecraft:cold_ocean",
+		"wythers:cold_island": "minecraft:cold_ocean",
+		"wythers:frozen_island": "minecraft:cold_ocean",
 		"wythers:mediterranean_island": "minecraft:lukewarm_ocean",
 		"wythers:mediterranean_island_thermal_springs": "minecraft:lukewarm_ocean",
 		"wythers:desert_island": "minecraft:lukewarm_ocean",
-
-		"wythers:temperate_island": "minecraft:plains",
-		"wythers:tropical_island": "minecraft:plains"
 	}
 }
