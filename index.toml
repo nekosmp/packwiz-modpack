@@ -234,10 +234,6 @@ file = "mods/content/decoration/beautify-refabricated.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/decoration/bushier-flowers.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/decoration/chisels-bits-for-fabric.pw.toml"
 metafile = true
 
@@ -251,6 +247,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/decoration/decorative-blocks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/decoration/flower-patch.pw.toml"
 metafile = true
 
 [[files]]
@@ -686,6 +686,10 @@ file = "mods/libraries/mru.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/owo-lib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/patchouli.pw.toml"
 metafile = true
 
@@ -727,6 +731,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/supermartijn642s-core-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/sushi-bar.pw.toml"
 metafile = true
 
 [[files]]
@@ -1198,6 +1206,10 @@ file = "mods/tweaks/visual/lambdynamiclights.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/visual/particular.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/visual/potionparticlepack.pw.toml"
 metafile = true
 
@@ -1266,6 +1278,10 @@ file = "mods/utils/invview.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/utils/ledger.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/utils/nsmp-discord-bridge.pw.toml"
 metafile = true
 
@@ -1287,6 +1303,14 @@ metafile = true
 
 [[files]]
 file = "mods/utils/validatebiomes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utils/watson.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utils/world-preview.pw.toml"
 metafile = true
 
 [[files]]
@@ -1379,10 +1403,6 @@ metafile = true
 
 [[files]]
 file = "mods/worldgen/yungs/yungs-extras.pw.toml"
-metafile = true
-
-[[files]]
-file = "nuhuh/terralith.pw.toml"
 metafile = true
 
 [[files]]
