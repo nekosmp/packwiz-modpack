@@ -1,8 +1,8 @@
 name = "nsmp-worldgen"
-filename = "NSMP Worldgen-0.0.5+1.20.1-server.jar"
+filename = "NSMP Worldgen-0.0.6+1.20.1-server.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/nekosmp/nsmp-artifacts/main/NSMP%20Worldgen-0.0.5%2B1.20.1-server.jar"
+url = "https://raw.githubusercontent.com/nekosmp/nsmp-artifacts/main/NSMP%20Worldgen-0.0.6%2B1.20.1-server.jar"
 hash-format = "sha256"
-hash = "f54ec1885930729b6c2d0276265b61e3309418e74c1bba5e1b5cda9b8c91f568"
+hash = "63618cbe3e7a17ce21aa0598b27c61e52d6aa435bd588deb57e89a28c57dd6e7"
