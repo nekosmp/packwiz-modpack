@@ -28,6 +28,9 @@ file = "config/defaultoptions/keybindings.txt"
 file = "config/expanded_ecosphere/config.json5"
 
 [[files]]
+file = "config/expanded_ecosphere/replace_biomes.json5"
+
+[[files]]
 file = "config/fancymenu/assets/logo.png"
 
 [[files]]
@@ -755,10 +758,6 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/yungs-api.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/nsmp-worldgen.pw.toml"
 metafile = true
 
 [[files]]
