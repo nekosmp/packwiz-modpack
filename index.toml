@@ -573,6 +573,10 @@ file = "mods/libraries/architectury-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/async-locator.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/balm.pw.toml"
 metafile = true
 
@@ -1318,6 +1322,10 @@ metafile = true
 
 [[files]]
 file = "mods/utils/world-preview.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/all-roads.pw.toml"
 metafile = true
 
 [[files]]
