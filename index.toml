@@ -213,6 +213,10 @@ file = "mods/content/create/interiors.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/iris-flw-compat.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/rechiseled-create.pw.toml"
 metafile = true
 
@@ -921,6 +925,10 @@ file = "mods/tweaks/gameplay/treechop.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/unloaded-activity.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/yigd.pw.toml"
 metafile = true
 
@@ -1322,10 +1330,6 @@ metafile = true
 
 [[files]]
 file = "mods/utils/world-preview.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/worldgen/all-roads.pw.toml"
 metafile = true
 
 [[files]]
