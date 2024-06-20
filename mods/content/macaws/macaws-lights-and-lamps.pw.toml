@@ -1,13 +1,13 @@
 name = "Macaw's Lights and Lamps"
-filename = "mcw-lights-1.0.6-mc1.20.1fabric.jar"
+filename = "mcw-lights-1.1.0-mc1.20.1fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/w4an97C2/versions/8TyuwqlN/mcw-lights-1.0.6-mc1.20.1fabric.jar"
+url = "https://cdn.modrinth.com/data/w4an97C2/versions/NAOBNy4Z/mcw-lights-1.1.0-mc1.20.1fabric.jar"
 hash-format = "sha1"
-hash = "43095b08e632ea587c4fe9483e29224d47cb7051"
+hash = "de8ca93bd62919736870b00530b41082df1fde0e"
 
 [update]
 [update.modrinth]
 mod-id = "w4an97C2"
-version = "8TyuwqlN"
+version = "NAOBNy4Z"

@@ -89,6 +89,10 @@ file = "mods/content/applied-energistics/applied-energistics-2-wireless-terminal
 metafile = true
 
 [[files]]
+file = "mods/content/applied-energistics/mega.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/blocks/connected-glass.pw.toml"
 metafile = true
 
