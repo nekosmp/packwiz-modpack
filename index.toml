@@ -701,6 +701,10 @@ file = "mods/libraries/lavender.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/malilib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/mariadb-jdbc.pw.toml"
 metafile = true
 
