@@ -265,6 +265,10 @@ file = "mods/content/decoration/flower-patch.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/decoration/flower-power.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/decoration/grass-overhaul.pw.toml"
 metafile = true
 
