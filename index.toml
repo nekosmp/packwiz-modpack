@@ -905,6 +905,10 @@ file = "mods/testing/cosmetic-nametags.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/cycle-paintings.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/ironfish.pw.toml"
 metafile = true
 
