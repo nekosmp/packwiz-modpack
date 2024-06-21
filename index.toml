@@ -77,10 +77,6 @@ metafile = true
 file = "config/tectonic.json"
 
 [[files]]
-file = "gwaaa/treeplacer-wythers-addon.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/applied-energistics/ae2-qol-recipes.pw.toml"
 metafile = true
 
