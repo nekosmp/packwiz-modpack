@@ -1,0 +1,13 @@
+name = "Biome Tinted Flowers"
+filename = "tintedflowers-1.0.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/RqCCEWdL/versions/xYyTyXOf/tintedflowers-1.0.5.jar"
+hash-format = "sha1"
+hash = "1317263a561b3fda64f8f7e234d93264ddd9032a"
+
+[update]
+[update.modrinth]
+mod-id = "RqCCEWdL"
+version = "xYyTyXOf"

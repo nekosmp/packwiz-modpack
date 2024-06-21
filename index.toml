@@ -897,6 +897,18 @@ file = "mods/testing/better-end-cities-for-betterend.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/biome-tinted-flowers.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/cosmetic-nametags.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/ironfish.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/mes-moogs-end-structures.pw.toml"
 metafile = true
 
@@ -906,6 +918,10 @@ metafile = true
 
 [[files]]
 file = "mods/testing/moogs-voyager-structures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/qraftyfied.pw.toml"
 metafile = true
 
 [[files]]
