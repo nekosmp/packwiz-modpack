@@ -1,6 +1,6 @@
 name = "Potion Particle Pack"
 filename = "potionparticlepack-1.0.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/uGKlslKZ/versions/1XaXief2/potionparticlepack-1.0.1.jar"

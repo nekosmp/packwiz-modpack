@@ -1,0 +1,13 @@
+name = "Create: Train Perspective"
+filename = "create-train-perspective-0.5.0+mc1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MAuPqvf1/versions/tuGWdBsA/create-train-perspective-0.5.0%2Bmc1.20.1.jar"
+hash-format = "sha1"
+hash = "957beb26886f9e68665160261fba97856478de80"
+
+[update]
+[update.modrinth]
+mod-id = "MAuPqvf1"
+version = "tuGWdBsA"

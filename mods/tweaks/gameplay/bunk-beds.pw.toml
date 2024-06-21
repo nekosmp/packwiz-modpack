@@ -1,0 +1,13 @@
+name = "Bunk Beds"
+filename = "bunk-beds-1.0.0+1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/AYrOhk54/versions/v6LTIhu3/bunk-beds-1.0.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "74e58eb1b6adbfdb6c2866004da7e2cdc9529f3a"
+
+[update]
+[update.modrinth]
+mod-id = "AYrOhk54"
+version = "v6LTIhu3"

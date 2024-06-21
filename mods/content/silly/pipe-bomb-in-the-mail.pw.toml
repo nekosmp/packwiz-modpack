@@ -1,0 +1,13 @@
+name = "Pipe Bomb in the Mail"
+filename = "PipeBombInTheMail-0.2-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cKeK4tD0/versions/GLSxcU3I/PipeBombInTheMail-0.2-1.20.1.jar"
+hash-format = "sha1"
+hash = "ba86756f9d4bb86b4db89bde5ead1e6940024bdb"
+
+[update]
+[update.modrinth]
+mod-id = "cKeK4tD0"
+version = "GLSxcU3I"

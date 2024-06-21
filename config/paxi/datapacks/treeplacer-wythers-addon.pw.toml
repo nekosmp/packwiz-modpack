@@ -1,0 +1,13 @@
+name = "Treeplacer Wyther's Addon"
+filename = "Treeplacer-Wyther's-Addon-1.0-datapack.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BPhOreRX/versions/iaDRoj7A/Treeplacer-Wyther%27s-Addon-1.0-datapack.zip"
+hash-format = "sha1"
+hash = "cf4c6cc6c506dc2ac4258f67988e7ffda4e6db95"
+
+[update]
+[update.modrinth]
+mod-id = "BPhOreRX"
+version = "iaDRoj7A"
