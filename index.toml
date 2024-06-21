@@ -921,10 +921,6 @@ file = "mods/tweaks/gameplay/armor-statues.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/gameplay/beacon-overhaul-reloaded.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/tweaks/gameplay/better-climbing.pw.toml"
 metafile = true
 
