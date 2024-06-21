@@ -77,10 +77,6 @@ metafile = true
 file = "config/tectonic.json"
 
 [[files]]
-file = "gwaaa/emi-loot.pw.toml"
-metafile = true
-
-[[files]]
 file = "gwaaa/treeplacer-wythers-addon.pw.toml"
 metafile = true
 
@@ -1298,6 +1294,10 @@ metafile = true
 
 [[files]]
 file = "mods/utilities/emi/ae2-emi-crafting.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/emi/emi-loot.pw.toml"
 metafile = true
 
 [[files]]
