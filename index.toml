@@ -66,6 +66,10 @@ file = "config/paxi/datapacks/better-villages-more-villagers-compatibility.pw.to
 metafile = true
 
 [[files]]
+file = "config/paxi/datapacks/treeplacer-wythers-addon.pw.toml"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/advancement-plaques-with-vines.pw.toml"
 metafile = true
 
@@ -77,27 +81,7 @@ metafile = true
 file = "config/tectonic.json"
 
 [[files]]
-file = "gwaaa/autism.pw.toml"
-metafile = true
-
-[[files]]
-file = "gwaaa/create-aquatic-ambitions.pw.toml"
-metafile = true
-
-[[files]]
-file = "gwaaa/create-cards.pw.toml"
-metafile = true
-
-[[files]]
 file = "gwaaa/emi-loot.pw.toml"
-metafile = true
-
-[[files]]
-file = "gwaaa/pipe-bomb-in-the-mail.pw.toml"
-metafile = true
-
-[[files]]
-file = "gwaaa/treeplacer-wythers-addon.pw.toml"
 metafile = true
 
 [[files]]
@@ -181,7 +165,15 @@ file = "mods/content/create/copycats.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/create-aquatic-ambitions.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/create-big-cannons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-cards.pw.toml"
 metafile = true
 
 [[files]]
@@ -577,11 +569,19 @@ file = "mods/content/other/wiredredstone.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/silly/autism.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/silly/moyai.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/content/silly/mystical-oak-tree.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/silly/pipe-bomb-in-the-mail.pw.toml"
 metafile = true
 
 [[files]]
