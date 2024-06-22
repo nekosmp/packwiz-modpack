@@ -71,6 +71,10 @@ file = "config/paxi/resourcepacks/creeper-overhaul-overhaul.pw.toml"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/simple-create-radios.pw.toml"
+metafile = true
+
+[[files]]
 file = "config/tectonic.json"
 
 [[files]]
@@ -1483,10 +1487,6 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/quadral.pw.toml"
-metafile = true
-
-[[files]]
-file = "resourcepacks/simple-create-radios.pw.toml"
 metafile = true
 
 [[files]]
