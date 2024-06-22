@@ -889,6 +889,10 @@ file = "mods/testing/adorabuild-structures.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/beacon-overhaul-reloaded.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/better-end-cities-for-betterend.pw.toml"
 metafile = true
 
