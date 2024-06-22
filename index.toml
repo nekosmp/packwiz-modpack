@@ -650,6 +650,14 @@ file = "mods/libraries/dawn.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/entity-model-features.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/entitytexturefeatures.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/fabric-api.pw.toml"
 metafile = true
 
@@ -691,6 +699,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/lavender.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/lexiconfig.pw.toml"
 metafile = true
 
 [[files]]
@@ -1370,15 +1382,15 @@ file = "mods/utilities/ledger.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/utilities/simple-voice-chat/analog.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/utilities/simple-voice-chat/simple-voice-chat-radio.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/utilities/simple-voice-chat/simple-voice-chat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/simple-voice-chat/simple-voice-radio.pw.toml"
 metafile = true
 
 [[files]]
@@ -1471,6 +1483,10 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/quadral.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/simple-create-radios.pw.toml"
 metafile = true
 
 [[files]]
