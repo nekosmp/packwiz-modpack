@@ -697,6 +697,10 @@ file = "mods/libraries/lavender.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/lexiconfig.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/library-ferret-fabric.pw.toml"
 metafile = true
 
@@ -1370,6 +1374,30 @@ metafile = true
 
 [[files]]
 file = "mods/utilities/ledger.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/simple-voice-chat/analog.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/simple-voice-chat/simple-voice-chat-radio.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/simple-voice-chat/simple-voice-chat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/simple-voice-chat/simple-voice-radio.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/simple-voice-chat/voice-chat-interaction.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/simple-voice-chat/voicechat-soundboard.pw.toml"
 metafile = true
 
 [[files]]
