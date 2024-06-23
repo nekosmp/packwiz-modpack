@@ -1,0 +1,13 @@
+name = "Beacon Overhaul Reloaded"
+filename = "BeaconOverhaulReloaded-0.1.1-SNAPSHOT.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gTf4SrWI/versions/yls4N4LQ/BeaconOverhaulReloaded-0.1.1-SNAPSHOT.jar"
+hash-format = "sha1"
+hash = "b5f57505a2871515a9f3d4a63cd2252bc0b2749d"
+
+[update]
+[update.modrinth]
+mod-id = "gTf4SrWI"
+version = "yls4N4LQ"
