@@ -63,11 +63,19 @@ file = "config/paxi/datapacks/better-villages-more-villagers-compatibility.pw.to
 metafile = true
 
 [[files]]
+file = "config/paxi/datapacks/nsmp-datapack.pw.toml"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/advancement-plaques-with-vines.pw.toml"
 metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/creeper-overhaul-overhaul.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/nsmp-resourcepack.pw.toml"
 metafile = true
 
 [[files]]
