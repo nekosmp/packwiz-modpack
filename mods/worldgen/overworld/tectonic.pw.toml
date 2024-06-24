@@ -1,11 +1,11 @@
 name = "Tectonic"
-filename = "tectonic-fabric-1.20-2.3.5b-nsmp-patch.jar"
+filename = "tectonic-fabric-1.20-2.3.5b-nsmp-patch-test2.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/nekosmp/nsmp-artifacts/main/tectonic-fabric-1.20-2.3.5b-nsmp-patch.jar"
+url = "https://raw.githubusercontent.com/nekosmp/nsmp-artifacts/main/tectonic-fabric-1.20-2.3.5b-nsmp-patch-test2.jar"
 hash-format = "sha256"
-hash = "608ebff38f1f2ad75ae95dd333238bdd6347b6fcd4321e42e1a353f6b1659deb"
+hash = "3a639fcd6ff8d8bdbf9af8f79835a906b2a8bb35e1cea3edf811320507cf57bd"
 
 #[update]
 #[update.modrinth]
