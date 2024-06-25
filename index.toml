@@ -382,7 +382,8 @@ file = "mods/content/hexcasting/hexal.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/hexcasting/hexcasting.toml"
+file = "mods/content/hexcasting/hexcasting.pw.toml"
+metafile = true
 
 [[files]]
 file = "mods/content/hexcasting/hexdim.pw.toml"
