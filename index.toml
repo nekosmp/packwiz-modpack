@@ -594,11 +594,15 @@ file = "mods/content/supplementaries/supplementaries.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/custom/nsmp-discord-bridge.pw.toml"
+file = "mods/custom/nsmp-bridge.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/custom/nsmp-restarter.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/custom/nsmp-spawner.pw.toml"
 metafile = true
 
 [[files]]
@@ -607,10 +611,6 @@ metafile = true
 
 [[files]]
 file = "mods/custom/nsmp-worldtest.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/custom/scatter-spawn.pw.toml"
 metafile = true
 
 [[files]]

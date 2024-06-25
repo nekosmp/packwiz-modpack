@@ -1,15 +1,15 @@
 name = "nsmp-worldtest"
-filename = "nsmp-worldtest-0.0.1+1.20.1-server.jar"
-side = "both"
+filename = "nsmp-worldtest-0.0.3+1.20.1-server.jar"
+side = "server"
 
 [download]
-url = "https://github.com/nekosmp/nsmp-worldtest/releases/download/mc1.20.1/v0.0.1/nsmp-worldtest-0.0.1%2B1.20.1-server.jar"
+url = "https://github.com/nekosmp/nsmp-worldtest/releases/download/mc1.20.1/v0.0.3/nsmp-worldtest-0.0.3%2B1.20.1-server.jar"
 hash-format = "sha256"
-hash = "52d557fb983f58e7f85bee9a898dface18a39ef646e80ac92a94337bf79fe7e6"
+hash = "c5bdecfcb821049f8dbd144ce175e925d2b6f9e3b79fdf03277a78a6f3ad5f79"
 
 [update]
 [update.github]
 branch = "1.20.1"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "nekosmp/nsmp-worldtest"
-tag = "mc1.20.1/v0.0.1"
+tag = "mc1.20.1/v0.0.3"
