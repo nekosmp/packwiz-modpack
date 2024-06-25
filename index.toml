@@ -606,11 +606,11 @@ file = "mods/custom/nsmp-worldgen.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/custom/scatter-spawn.pw.toml"
+file = "mods/custom/nsmp-worldtest.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/custom/validatebiomes.pw.toml"
+file = "mods/custom/scatter-spawn.pw.toml"
 metafile = true
 
 [[files]]
