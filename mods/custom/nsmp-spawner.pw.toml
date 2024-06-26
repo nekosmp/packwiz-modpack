@@ -1,15 +1,15 @@
 name = "nsmp-spawner"
-filename = "nsmp-spawner-0.1.1+1.20.1-server.jar"
+filename = "nsmp-spawner-0.1.2+1.20.1-server.jar"
 side = "server"
 
 [download]
-url = "https://github.com/nekosmp/nsmp-spawner/releases/download/mc1.20.1/v0.1.1/nsmp-spawner-0.1.1%2B1.20.1-server.jar"
+url = "https://github.com/nekosmp/nsmp-spawner/releases/download/mc1.20.1/v0.1.2/nsmp-spawner-0.1.2%2B1.20.1-server.jar"
 hash-format = "sha256"
-hash = "32ce97931ab1e21a50adf124491dd7d0c65808ea3c7e5cc2f14c938b745b0b46"
+hash = "c392918b14fd5184a98eb1cc052a0728b87826b2f582e64e8e731fdb3f8c294d"
 
 [update]
 [update.github]
 branch = "1.20.1"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "nekosmp/nsmp-spawner"
-tag = "mc1.20.1/v0.1.1"
+tag = "mc1.20.1/v0.1.2"
