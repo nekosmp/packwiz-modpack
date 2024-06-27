@@ -86,6 +86,10 @@ metafile = true
 file = "config/tectonic.json"
 
 [[files]]
+file = "gwag/adorabuild-structures.pw.toml"
+metafile = true
+
+[[files]]
 file = "gwag/adorn.pw.toml"
 metafile = true
 
@@ -99,6 +103,26 @@ metafile = true
 
 [[files]]
 file = "gwag/crops-love-rain.pw.toml"
+metafile = true
+
+[[files]]
+file = "gwag/door-knocker-updated.pw.toml"
+metafile = true
+
+[[files]]
+file = "gwag/meow!.pw.toml"
+metafile = true
+
+[[files]]
+file = "gwag/morefrogs.pw.toml"
+metafile = true
+
+[[files]]
+file = "gwag/passable-leaves.pw.toml"
+metafile = true
+
+[[files]]
+file = "gwag/qraftyfied.pw.toml"
 metafile = true
 
 [[files]]
@@ -926,67 +950,43 @@ file = "mods/performance/vmp-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/adorabuild-structures.pw.toml"
+file = "mods/testing/client/chat-calc.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/better-end-cities-for-betterend.pw.toml"
+file = "mods/testing/client/immersive-winds.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/chat-calc.pw.toml"
+file = "mods/testing/client/particle-rain.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/cosmetic-nametags.pw.toml"
+file = "mods/testing/part1/better-end-cities-for-betterend.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/cycle-paintings.pw.toml"
+file = "mods/testing/part1/cosmetic-nametags.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/door-knocker-updated.pw.toml"
+file = "mods/testing/part1/cycle-paintings.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/immersive-winds.pw.toml"
+file = "mods/testing/part1/mes-moogs-end-structures.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/meow!.pw.toml"
+file = "mods/testing/part1/mns-moogs-nether-structures.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/mes-moogs-end-structures.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/mns-moogs-nether-structures.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/moogs-voyager-structures.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/morefrogs.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/particle-rain.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/passable-leaves.pw.toml"
+file = "mods/testing/part1/moogs-voyager-structures.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/testing/pick-your-poison.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/qraftyfied.pw.toml"
 metafile = true
 
 [[files]]
