@@ -1,6 +1,6 @@
 name = "Satin API"
 filename = "satin-1.14.0.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/fRbqPLg4/versions/e3HU1vAD/satin-1.14.0.jar"
