@@ -978,15 +978,7 @@ file = "mods/testing/passable-leaves.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/pick-your-poison.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/qraftyfied.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/satin-api.pw.toml"
 metafile = true
 
 [[files]]
