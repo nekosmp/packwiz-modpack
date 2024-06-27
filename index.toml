@@ -986,6 +986,10 @@ file = "mods/testing/qraftyfied.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/satin-api.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/yummy_glass.pw.toml"
 metafile = true
 
