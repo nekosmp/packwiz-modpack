@@ -86,11 +86,11 @@ metafile = true
 file = "config/tectonic.json"
 
 [[files]]
-file = "gwag/crops-love-rain.pw.toml"
+file = "gwag/better-end-rod.pw.toml"
 metafile = true
 
 [[files]]
-file = "gwag/door-knocker-updated.pw.toml"
+file = "gwag/passable-leaves.pw.toml"
 metafile = true
 
 [[files]]
@@ -914,10 +914,6 @@ file = "mods/performance/vmp-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/better-end-rod.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/client/chat-calc.pw.toml"
 metafile = true
 
@@ -927,6 +923,14 @@ metafile = true
 
 [[files]]
 file = "mods/testing/client/particle-rain.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/crops-love-rain.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/door-knocker-updated.pw.toml"
 metafile = true
 
 [[files]]
@@ -983,10 +987,6 @@ metafile = true
 
 [[files]]
 file = "mods/testing/part2/satin-api.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/passable-leaves.pw.toml"
 metafile = true
 
 [[files]]
