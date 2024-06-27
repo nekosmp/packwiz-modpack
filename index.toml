@@ -910,7 +910,19 @@ file = "mods/testing/adorabuild-structures.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/adorn.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/better-end-cities-for-betterend.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/better-end-rod.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/chat-calc.pw.toml"
 metafile = true
 
 [[files]]
@@ -918,7 +930,27 @@ file = "mods/testing/cosmetic-nametags.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/cozy.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/crops-love-rain.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/cycle-paintings.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/door-knocker-updated.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/immersive-winds.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/meow!.pw.toml"
 metafile = true
 
 [[files]]
@@ -934,7 +966,27 @@ file = "mods/testing/moogs-voyager-structures.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/morefrogs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/particle-rain.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/passable-leaves.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/pick-your-poison.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/qraftyfied.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/yummy_glass.pw.toml"
 metafile = true
 
 [[files]]

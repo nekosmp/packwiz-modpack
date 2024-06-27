@@ -1,0 +1,13 @@
+name = "Meow!"
+filename = "fabric-meow_keybind-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xE4vWy6F/versions/ItvGmZG2/fabric-meow_keybind-1.0.0.jar"
+hash-format = "sha1"
+hash = "cf5654f0c3e4b2746830e6f0174b3fecc227d2e3"
+
+[update]
+[update.modrinth]
+mod-id = "xE4vWy6F"
+version = "ItvGmZG2"
