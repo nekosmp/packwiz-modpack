@@ -86,23 +86,11 @@ metafile = true
 file = "config/tectonic.json"
 
 [[files]]
-file = "gwag/better-end-rod.pw.toml"
-metafile = true
-
-[[files]]
 file = "gwag/crops-love-rain.pw.toml"
 metafile = true
 
 [[files]]
 file = "gwag/door-knocker-updated.pw.toml"
-metafile = true
-
-[[files]]
-file = "gwag/passable-leaves.pw.toml"
-metafile = true
-
-[[files]]
-file = "gwag/yummy_glass.pw.toml"
 metafile = true
 
 [[files]]
@@ -926,11 +914,7 @@ file = "mods/performance/vmp-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/adorabuild-structures.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/adorn.pw.toml"
+file = "mods/testing/better-end-rod.pw.toml"
 metafile = true
 
 [[files]]
@@ -943,18 +927,6 @@ metafile = true
 
 [[files]]
 file = "mods/testing/client/particle-rain.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/cozy.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/meow!.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/morefrogs.pw.toml"
 metafile = true
 
 [[files]]
@@ -982,7 +954,31 @@ file = "mods/testing/part1/moogs-voyager-structures.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/part2/adorabuild-structures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/part2/adorn.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/part2/cozy.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/part2/meow!.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/part2/morefrogs.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/part2/pick-your-poison.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/part2/qraftyfied.pw.toml"
 metafile = true
 
 [[files]]
@@ -990,7 +986,11 @@ file = "mods/testing/part2/satin-api.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/qraftyfied.pw.toml"
+file = "mods/testing/passable-leaves.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/yummy_glass.pw.toml"
 metafile = true
 
 [[files]]
