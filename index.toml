@@ -986,6 +986,18 @@ file = "mods/testing/part2/yummy_glass.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/part3/blossom.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/part3/kiwi.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/part3/passable-foliage.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/vs/create-clockwork.pw.toml"
 metafile = true
 
