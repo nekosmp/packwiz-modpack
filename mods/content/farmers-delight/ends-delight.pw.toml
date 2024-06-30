@@ -1,13 +1,13 @@
 name = "End's Delight"
-filename = "ends_delight-refabricated-1.20.1-2.0.jar"
+filename = "ends_delight-refabricated-1.20.1-2.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/yHN0njMr/versions/PBVRl0y6/ends_delight-refabricated-1.20.1-2.0.jar"
+url = "https://cdn.modrinth.com/data/yHN0njMr/versions/lwedC2P6/ends_delight-refabricated-1.20.1-2.1.jar"
 hash-format = "sha1"
-hash = "f5f0caa3a7f1f8fd901b809688df95bc8f032bd2"
+hash = "0799f461bd17bd9568b0c186f2119ebbbe90a5ad"
 
 [update]
 [update.modrinth]
 mod-id = "yHN0njMr"
-version = "PBVRl0y6"
+version = "lwedC2P6"

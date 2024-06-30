@@ -86,14 +86,6 @@ metafile = true
 file = "config/tectonic.json"
 
 [[files]]
-file = "gwag/better-end-rod.pw.toml"
-metafile = true
-
-[[files]]
-file = "gwag/passable-leaves.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/applied-energistics/ae2-qol-recipes.pw.toml"
 metafile = true
 
@@ -914,6 +906,10 @@ file = "mods/performance/vmp-fabric.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/better-end-rod.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/client/chat-calc.pw.toml"
 metafile = true
 
@@ -923,14 +919,6 @@ metafile = true
 
 [[files]]
 file = "mods/testing/client/particle-rain.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/crops-love-rain.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/door-knocker-updated.pw.toml"
 metafile = true
 
 [[files]]
@@ -970,11 +958,15 @@ file = "mods/testing/part2/cozy.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/part2/meow!.pw.toml"
+file = "mods/testing/part2/crops-love-rain.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/part2/morefrogs.pw.toml"
+file = "mods/testing/part2/door-knocker-updated.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/part2/meow!.pw.toml"
 metafile = true
 
 [[files]]
@@ -990,7 +982,7 @@ file = "mods/testing/part2/satin-api.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/yummy_glass.pw.toml"
+file = "mods/testing/part2/yummy_glass.pw.toml"
 metafile = true
 
 [[files]]
