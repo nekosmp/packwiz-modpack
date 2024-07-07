@@ -706,6 +706,10 @@ file = "mods/libraries/kambrik.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/kiwi.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/konkrete.pw.toml"
 metafile = true
 
@@ -966,10 +970,6 @@ file = "mods/testing/part2/door-knocker-updated.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/part2/meow!.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/part2/pick-your-poison.pw.toml"
 metafile = true
 
@@ -987,14 +987,6 @@ metafile = true
 
 [[files]]
 file = "mods/testing/part3/blossom.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/part3/kiwi.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/part3/passable-foliage.pw.toml"
 metafile = true
 
 [[files]]
@@ -1118,6 +1110,10 @@ file = "mods/tweaks/gameplay/lootr.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/meow!.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/monsters-in-the-closet.pw.toml"
 metafile = true
 
@@ -1127,6 +1123,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gameplay/nyfs-spiders.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/passable-foliage.pw.toml"
 metafile = true
 
 [[files]]
