@@ -986,6 +986,22 @@ file = "mods/testing/part3/blossom.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/part4/developer-resources.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/part4/horseshoes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/part4/spawn-animations.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/part4/trade-villager-hats.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/vs/create-clockwork.pw.toml"
 metafile = true
 
