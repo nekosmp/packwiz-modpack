@@ -794,6 +794,10 @@ file = "mods/libraries/resourceful-lib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/satin-api.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/searchables.pw.toml"
 metafile = true
 
@@ -971,10 +975,6 @@ metafile = true
 
 [[files]]
 file = "mods/testing/part2/qraftyfied.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/part2/satin-api.pw.toml"
 metafile = true
 
 [[files]]
