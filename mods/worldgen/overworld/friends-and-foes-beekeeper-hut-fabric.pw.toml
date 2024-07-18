@@ -1,13 +1,13 @@
 name = "Friends&Foes - Beekeeper Hut (Fabric/Quilt)"
-filename = "friendsandfoes-beekeeperhut-fabric-mc1.20.1-2.0.0.jar"
+filename = "beekeeperhut-fabric-mc1.20.1-2.0.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/Kt4RVKEd/versions/T4di0VX8/friendsandfoes-beekeeperhut-fabric-mc1.20.1-2.0.0.jar"
+url = "https://cdn.modrinth.com/data/Kt4RVKEd/versions/Iya1d63p/beekeeperhut-fabric-mc1.20.1-2.0.1.jar"
 hash-format = "sha1"
-hash = "cd73fe7a27c36c0c2f07d0dc8c66eae6173a7032"
+hash = "f57da4ab2436e621b6c837dc46eb9ca6bacae2b0"
 
 [update]
 [update.modrinth]
 mod-id = "Kt4RVKEd"
-version = "T4di0VX8"
+version = "Iya1d63p"

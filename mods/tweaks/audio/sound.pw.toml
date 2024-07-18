@@ -1,13 +1,13 @@
 name = "Sounds"
-filename = "Sounds-1.0.1+1.20.1.jar"
+filename = "Sounds-1.1.0+1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZouiUX7t/versions/5MMDOc9T/Sounds-1.0.1%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/ZouiUX7t/versions/IeoTZXLE/Sounds-1.1.0%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "3f6b187bb3b3b242de8acfdac1b454866be9f3b7"
+hash = "d4780b17cbde63bc3ef5a5b4cad614ecf1f1247b"
 
 [update]
 [update.modrinth]
 mod-id = "ZouiUX7t"
-version = "5MMDOc9T"
+version = "IeoTZXLE"
