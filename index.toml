@@ -814,7 +814,15 @@ file = "mods/libraries/sushi-bar.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/tcdcommons.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/trinkets.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/unilib.pw.toml"
 metafile = true
 
 [[files]]
