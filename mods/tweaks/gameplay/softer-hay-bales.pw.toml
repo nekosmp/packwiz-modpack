@@ -1,13 +1,13 @@
 name = "Softer Hay Bales"
-filename = "softerhaybales-1.20.1-3.2.jar"
+filename = "softerhaybales-1.20.1-3.3.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/RtmujAUl/versions/XpjSUCI8/softerhaybales-1.20.1-3.2.jar"
+url = "https://cdn.modrinth.com/data/RtmujAUl/versions/BKLFbQWT/softerhaybales-1.20.1-3.3.jar"
 hash-format = "sha1"
-hash = "3bf4a7520c89cae579ac3ce138d51a567b6559eb"
+hash = "bcea2fd475cce2505ab791d55d5cf03e4452e3d4"
 
 [update]
 [update.modrinth]
 mod-id = "RtmujAUl"
-version = "XpjSUCI8"
+version = "BKLFbQWT"
