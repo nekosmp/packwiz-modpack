@@ -854,10 +854,6 @@ file = "mods/performance/ferrite-core.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/performance/feytweaks.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/performance/immediatelyfast.pw.toml"
 metafile = true
 
