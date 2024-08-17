@@ -610,6 +610,10 @@ file = "mods/custom/nsmp-spawner.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/custom/nsmp-structurefix.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/custom/nsmp-worldgen.pw.toml"
 metafile = true
 
