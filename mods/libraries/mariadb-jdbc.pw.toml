@@ -1,6 +1,6 @@
 name = "MariaDB JDBC"
 filename = "mariadb-jdbc-3.1.4+20230506-all.jar"
-side = "server"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/Rn50PHM9/versions/2RGGABYP/mariadb-jdbc-3.1.4%2B20230506-all.jar"

@@ -1,6 +1,6 @@
 name = "Let Me Despawn"
 filename = "letmedespawn-fabric-1.20.x-1.2.1.jar"
-side = "server"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/vE2FN5qn/versions/CCOsRL93/letmedespawn-fabric-1.20.x-1.2.1.jar"

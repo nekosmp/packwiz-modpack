@@ -1,6 +1,6 @@
 name = "nsmp-bridge"
 filename = "nsmp-bridge-1.2.0+1.20.1-server.jar"
-side = "server"
+side = "client"
 
 [download]
 url = "https://github.com/nekosmp/nsmp-bridge/releases/download/mc1.20.1/v1.2.0/nsmp-bridge-1.2.0%2B1.20.1-server.jar"
