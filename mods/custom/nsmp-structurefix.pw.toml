@@ -1,15 +1,15 @@
 name = "nsmp-structurefix"
-filename = "nsmp-structurefix-0.1.5+1.20.1-server.jar"
+filename = "nsmp-structurefix-0.1.6+1.20.1-server.jar"
 side = "server"
 
 [download]
-url = "https://github.com/nekosmp/nsmp-structurefix/releases/download/mc1.20.1/v0.1.5/nsmp-structurefix-0.1.5%2B1.20.1-server.jar"
+url = "https://github.com/nekosmp/nsmp-structurefix/releases/download/mc1.20.1/v0.1.6/nsmp-structurefix-0.1.6%2B1.20.1-server.jar"
 hash-format = "sha256"
-hash = "9994f92d832787d8f22455370451c384f0186b610fff4a64c0a05fb358da8f69"
+hash = "3ab9347c6e4ca9c8d9aec66e457ad1dfc600f5db02c03fc6ad9bd5e2e33ed395"
 
 [update]
 [update.github]
 branch = "1.20.1"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "nekosmp/nsmp-structurefix"
-tag = "mc1.20.1/v0.1.5"
+tag = "mc1.20.1/v0.1.6"
