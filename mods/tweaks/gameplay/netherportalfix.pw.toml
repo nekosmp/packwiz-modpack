@@ -1,6 +1,6 @@
 name = "NetherPortalFix"
 filename = "netherportalfix-fabric-1.20-13.0.1.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/nPZr02ET/versions/NANcEzKA/netherportalfix-fabric-1.20-13.0.1.jar"

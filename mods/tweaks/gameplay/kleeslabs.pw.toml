@@ -1,6 +1,6 @@
 name = "KleeSlabs"
 filename = "kleeslabs-fabric-1.20-15.0.0.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/7uh75ruZ/versions/IDj7kzhS/kleeslabs-fabric-1.20-15.0.0.jar"

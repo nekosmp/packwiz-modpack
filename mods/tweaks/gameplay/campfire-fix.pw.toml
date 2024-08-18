@@ -1,6 +1,6 @@
 name = "Campfire Fix"
 filename = "campfirefix-fabric-1.20.1-1.0.1.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/6KdIlRiC/versions/TILV2Y7S/campfirefix-fabric-1.20.1-1.0.1.jar"

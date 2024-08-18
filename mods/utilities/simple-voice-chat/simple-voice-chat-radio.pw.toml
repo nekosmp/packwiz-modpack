@@ -1,6 +1,6 @@
 name = "Simple Voice Chat Radio"
 filename = "radio-1.1.1+1.20.1.fabric.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/Ab2GBNpI/versions/XuO1bkpC/radio-1.1.1%2B1.20.1.fabric.jar"

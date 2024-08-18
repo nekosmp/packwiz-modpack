@@ -1,6 +1,6 @@
 name = "nsmp-spawner"
 filename = "nsmp-spawner-0.1.2+1.20.1-server.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://github.com/nekosmp/nsmp-spawner/releases/download/mc1.20.1/v0.1.2/nsmp-spawner-0.1.2%2B1.20.1-server.jar"
