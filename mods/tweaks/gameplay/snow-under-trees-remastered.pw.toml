@@ -1,6 +1,6 @@
 name = "Snow Under Trees (Fabric)"
 filename = "SnowUnderTrees-2.5.1+1.20.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/XVnUIUAQ/versions/i2E71Kma/SnowUnderTrees-2.5.1%2B1.20.1.jar"
