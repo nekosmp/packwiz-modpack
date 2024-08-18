@@ -1,6 +1,6 @@
 name = "Flat Bedrock"
 filename = "flatbedrock-fabric-3.0.1-build.18+mc1.20.1.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/ZYLnkiVu/versions/dEGPNZwJ/flatbedrock-fabric-3.0.1-build.18%2Bmc1.20.1.jar"

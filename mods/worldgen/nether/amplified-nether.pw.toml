@@ -1,6 +1,6 @@
 name = "Amplified Nether"
 filename = "Amplified_Nether_1.20.x_v1.2.5.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/wXiGiyGX/versions/qO36KEYQ/Amplified_Nether_1.20.x_v1.2.5.jar"

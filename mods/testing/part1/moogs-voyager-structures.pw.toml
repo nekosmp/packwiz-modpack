@@ -1,6 +1,6 @@
 name = "MVS - Moog's Voyager Structures"
 filename = "mvs-4.1.2-1.20-fabric.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/OQAgZMH1/versions/tbOvFJdA/mvs-4.1.2-1.20-fabric.jar"
