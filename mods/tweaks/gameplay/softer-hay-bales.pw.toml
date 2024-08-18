@@ -1,6 +1,6 @@
 name = "Softer Hay Bales"
 filename = "softerhaybales-1.20.1-3.3.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/RtmujAUl/versions/BKLFbQWT/softerhaybales-1.20.1-3.3.jar"

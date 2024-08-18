@@ -1,6 +1,6 @@
 name = "Unloaded Activity"
 filename = "unloadedactivity-v0.6.3+1.20-1.20.1.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Oo4rJCDP/versions/HBkpQoBq/unloadedactivity-v0.6.3%2B1.20-1.20.1.jar"

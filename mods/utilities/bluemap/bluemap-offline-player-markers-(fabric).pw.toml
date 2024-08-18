@@ -1,6 +1,6 @@
 name = "BlueMap Offline Player Markers (Fabric)"
 filename = "bluemap-offline-player-markers-3.0.1-fabric.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/4h9u0qdE/versions/zsPcTTAp/bluemap-offline-player-markers-3.0.1-fabric.jar"

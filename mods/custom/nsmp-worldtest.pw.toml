@@ -1,6 +1,6 @@
 name = "nsmp-worldtest"
 filename = "nsmp-worldtest-0.0.3+1.20.1-server.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://github.com/nekosmp/nsmp-worldtest/releases/download/mc1.20.1/v0.0.3/nsmp-worldtest-0.0.3%2B1.20.1-server.jar"
