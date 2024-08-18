@@ -974,10 +974,6 @@ file = "mods/testing/part2/crops-love-rain.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/part2/qraftyfied.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/part2/yummy_glass.pw.toml"
 metafile = true
 
