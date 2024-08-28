@@ -1,0 +1,13 @@
+name = "Structure Credits"
+filename = "structurecredits-1.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9VEHG3zg/versions/doyWpvYp/structurecredits-1.6.jar"
+hash-format = "sha1"
+hash = "bda472590ea28b541f454b14ac71dac2ef2d5a33"
+
+[update]
+[update.modrinth]
+mod-id = "9VEHG3zg"
+version = "doyWpvYp"

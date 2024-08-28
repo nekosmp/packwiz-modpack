@@ -942,10 +942,6 @@ file = "mods/testing/part1/cosmetic-nametags.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/part1/cycle-paintings.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/part1/mes-moogs-end-structures.pw.toml"
 metafile = true
 
@@ -999,6 +995,10 @@ metafile = true
 
 [[files]]
 file = "mods/testing/part4/trade-villager-hats.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/structure-credits.pw.toml"
 metafile = true
 
 [[files]]
