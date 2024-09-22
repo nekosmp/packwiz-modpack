@@ -25,6 +25,10 @@ file = "mods/content/create/create-fabric.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/exposure.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/custom/nsmp-bridge.pw.toml"
 metafile = true
 
@@ -57,11 +61,23 @@ file = "mods/libraries/bclib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/cloth-config.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/cristel-lib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/fabric-api.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/libraries/fabric-language-kotlin.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/forge-config-api-port.pw.toml"
 metafile = true
 
 [[files]]
@@ -81,7 +97,23 @@ file = "mods/performance/bobby.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/performance/c2me-fabric.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/performance/indium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/krypton.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/lithium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/moreculling.pw.toml"
 metafile = true
 
 [[files]]
@@ -126,6 +158,10 @@ metafile = true
 
 [[files]]
 file = "mods/worldgen/end/nullscape.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/overworld/expanded-ecosphere.pw.toml"
 metafile = true
 
 [[files]]
