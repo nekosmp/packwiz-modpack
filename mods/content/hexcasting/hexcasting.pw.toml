@@ -1,8 +1,0 @@
-name = "hexcasting"
-filename = "hexcasting-fabric-1.20.1-0.11.1-7-pre-651.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/nekosmp/nsmp-artifacts/main/hexcasting-fabric-1.20.1-0.11.1-7-pre-651.jar"
-hash-format = "sha256"
-hash = "d8a23325e3ee94cd384c7c1e2f9ece138004b32436a5cd5bae8b25775509fd64"
