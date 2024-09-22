@@ -198,10 +198,6 @@ file = "mods/tweaks/ui/modmenu.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/visual/effective.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/tweaks/visual/iris.pw.toml"
 metafile = true
 
