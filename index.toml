@@ -10,6 +10,12 @@ file = "config/bclib/server.json"
 file = "config/builtinservers.json"
 
 [[files]]
+file = "config/expanded_ecosphere/config.json5"
+
+[[files]]
+file = "config/expanded_ecosphere/replace_biomes.json5.old"
+
+[[files]]
 file = "config/tectonic.json"
 
 [[files]]
