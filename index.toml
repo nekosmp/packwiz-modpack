@@ -53,11 +53,15 @@ file = "mods/libraries/resourceful-lib.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/emi/emi.pw.toml"
+file = "mods/performance/indium.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/eye-candy/effective.pw.toml"
+file = "mods/performance/sodium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/emi/emi.pw.toml"
 metafile = true
 
 [[files]]
@@ -74,6 +78,14 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/ui/modmenu.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/effective.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/iris.pw.toml"
 metafile = true
 
 [[files]]
