@@ -10,7 +10,7 @@ file = "config/bclib/server.json"
 file = "config/builtinservers.json"
 
 [[files]]
-file = "config/collective/checked.txt"
+file = "config/expanded_ecosphere/collective/checked.txt"
 
 [[files]]
 file = "config/expanded_ecosphere/config.json5"
