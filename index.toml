@@ -16,6 +16,10 @@ file = "config/expanded_ecosphere/config.json5"
 file = "config/expanded_ecosphere/replace_biomes.json5.old"
 
 [[files]]
+file = "config/paxi/datapacks/nsmp-datapack.pw.toml"
+metafile = true
+
+[[files]]
 file = "config/tectonic.json"
 
 [[files]]
@@ -95,7 +99,15 @@ file = "mods/libraries/melody.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/paxi.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/resourceful-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/yungs-api.pw.toml"
 metafile = true
 
 [[files]]
