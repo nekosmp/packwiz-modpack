@@ -14,3 +14,4 @@ version = "RMaZ3tSJ"
 
 [option]
 optional = true
+default = true
