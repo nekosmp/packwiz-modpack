@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bclib/client.json"
+
+[[files]]
+file = "config/bclib/server.json"
+
+[[files]]
+file = "config/builtinservers.json"
+
+[[files]]
+file = "config/tectonic.json"
+
+[[files]]
 file = "mods/content/blocks/chipped.pw.toml"
 metafile = true
 
@@ -81,6 +93,10 @@ file = "mods/tweaks/ui/auth-me.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/ui/builtin-servers.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/ui/fancymenu.pw.toml"
 metafile = true
 
@@ -102,6 +118,10 @@ metafile = true
 
 [[files]]
 file = "mods/worldgen/end/nullscape.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/overworld/tectonic.pw.toml"
 metafile = true
 
 [[files]]

@@ -1,0 +1,10 @@
+{
+  "badgeVisible": false,
+  "builtinServers": [
+    {
+      "name": "neko.smp",
+      "address": "smp.neko.rs",
+      "forced": true
+    }
+  ]
+}
