@@ -5,6 +5,10 @@ file = "mods/content/blocks/chipped.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/compat/create-compat-betterend-betternether.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/create-fabric.pw.toml"
 metafile = true
 
@@ -34,6 +38,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/athena-ctm.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/bclib.pw.toml"
 metafile = true
 
 [[files]]
@@ -86,6 +94,14 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/visual/iris.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/end/betterend.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/end/nullscape.pw.toml"
 metafile = true
 
 [[files]]
