@@ -1,15 +1,15 @@
 name = "nsmp-worldgen"
-filename = "nsmp-worldgen-0.1.5+1.20.1-server.jar"
+filename = "nsmp-worldgen-0.1.6+1.20.1-server.jar"
 side = "both"
 
 [download]
-url = "https://github.com/nekosmp/nsmp-worldgen/releases/download/mc1.20.1/v0.1.5/nsmp-worldgen-0.1.5%2B1.20.1-server.jar"
+url = "https://github.com/nekosmp/nsmp-worldgen/releases/download/mc1.20.1/v0.1.6/nsmp-worldgen-0.1.6%2B1.20.1-server.jar"
 hash-format = "sha256"
-hash = "ef54194cb81bd710c653e64c5fa90cfc96fcf82ea4fb97bd7fd5c6f5152bcad4"
+hash = "806690eacc006951603467ebd0da0c8be0c952ec75a9d28a3eb12ed04963a200"
 
 [update]
 [update.github]
 branch = "1.20.1"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "nekosmp/nsmp-worldgen"
-tag = "mc1.20.1/v0.1.5"
+tag = "mc1.20.1/v0.1.6"
