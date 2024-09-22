@@ -26,7 +26,7 @@ This config is only for replacing biomes, the main Expanded Ecosphere config is 
 		"minecraft:mushroom_fields": "minecraft:warm_ocean",
 		"wythers:frigid_island": "minecraft:cold_ocean",
 		"wythers:cold_island": "minecraft:cold_ocean",
-		"wythers:frozen_island": "minecraft:cold_ocean",
+		"wythers:frozen_island": "minecraft:frozen_ocean",
 		"wythers:mediterranean_island": "minecraft:lukewarm_ocean",
 		"wythers:mediterranean_island_thermal_springs": "minecraft:lukewarm_ocean",
 		"wythers:desert_island": "minecraft:lukewarm_ocean",

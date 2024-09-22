@@ -16,7 +16,7 @@ file = "config/collective/checked.txt"
 file = "config/expanded_ecosphere/config.json5"
 
 [[files]]
-file = "config/expanded_ecosphere/replace_biomes.json5.old"
+file = "config/expanded_ecosphere/replace_biomes.json5"
 
 [[files]]
 file = "config/fancymenu/assets/logo.png"
