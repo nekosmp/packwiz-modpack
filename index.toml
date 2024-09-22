@@ -61,6 +61,10 @@ file = "mods/libraries/fabric-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/fabric-language-kotlin.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/konkrete.pw.toml"
 metafile = true
 
