@@ -77,6 +77,10 @@ file = "mods/libraries/resourceful-lib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/performance/bobby.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/performance/indium.pw.toml"
 metafile = true
 
