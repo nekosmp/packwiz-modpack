@@ -54,11 +54,47 @@ metafile = true
 file = "config/tectonic.json"
 
 [[files]]
+file = "mods/content/applied-energistics/ae2-qol-recipes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/applied-energistics/ae2.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/applied-energistics/applied-energistics-2-wireless-terminals.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/applied-energistics/mega.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/blocks/chipped.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/compat/cccbridge.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/compat/create-compat-betterend-betternether.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/compat/polymorphic-energistics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/computer-craft/cc-tweaked.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/computer-craft/embeddedcomputer.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/computer-craft/plethora-peripherals.pw.toml"
 metafile = true
 
 [[files]]
@@ -138,6 +174,10 @@ file = "mods/libraries/resourceful-lib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/trinkets.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/yungs-api.pw.toml"
 metafile = true
 
@@ -175,6 +215,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/hud/appleskin.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/inventory/polymorph.pw.toml"
 metafile = true
 
 [[files]]
