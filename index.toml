@@ -102,6 +102,18 @@ file = "mods/content/exposure.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/supplementaries/amendments.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/supplementaries/supplementaries-squared.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/supplementaries/supplementaries.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/custom/nsmp-bridge.pw.toml"
 metafile = true
 
@@ -159,6 +171,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/melody.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/moonlight.pw.toml"
 metafile = true
 
 [[files]]
@@ -235,6 +251,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/hud/appleskin.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/modelfix.pw.toml"
 metafile = true
 
 [[files]]
