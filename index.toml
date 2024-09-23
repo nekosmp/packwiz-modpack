@@ -178,6 +178,10 @@ file = "mods/libraries/yungs-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/performance/async-locator.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/performance/bobby.pw.toml"
 metafile = true
 
@@ -186,11 +190,31 @@ file = "mods/performance/c2me-fabric.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/performance/entityculling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/ferrite-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/gputape.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/immediatelyfast.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/performance/indium.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/performance/krypton.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/language-reload.pw.toml"
 metafile = true
 
 [[files]]
