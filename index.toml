@@ -90,10 +90,6 @@ file = "mods/content/computer-craft/cc-tweaked.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/computer-craft/embeddedcomputer.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/computer-craft/plethora-peripherals.pw.toml"
 metafile = true
 
@@ -259,6 +255,14 @@ metafile = true
 
 [[files]]
 file = "mods/worldgen/end/nullscape.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/nether/amplified-nether.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/nether/betternether.pw.toml"
 metafile = true
 
 [[files]]
