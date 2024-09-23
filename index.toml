@@ -102,6 +102,14 @@ file = "mods/content/exposure.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/silly/moyai.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/silly/mystical-oak-tree.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/supplementaries/amendments.pw.toml"
 metafile = true
 
@@ -267,6 +275,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/ui/builtin-servers.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/ui/disable-accessibility-screen.pw.toml"
 metafile = true
 
 [[files]]
