@@ -342,6 +342,18 @@ file = "mods/utilities/bluemap/bluemap.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/utilities/chunky.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/invview.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/spark.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/utilities/world-preview.pw.toml"
 metafile = true
 
