@@ -150,18 +150,6 @@ file = "mods/custom/nsmp-worldtest.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/emiffect.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/emitrades.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/extra-mod-integrations.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/libraries/athena-ctm.pw.toml"
 metafile = true
 
@@ -287,6 +275,18 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/emi/emienchants.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/emi/emiffect.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/emi/emitrades.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/emi/extra-mod-integrations.pw.toml"
 metafile = true
 
 [[files]]
