@@ -74,6 +74,10 @@ file = "mods/content/blocks/chipped.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/compat/ae2-emi-crafting.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/compat/cccbridge.pw.toml"
 metafile = true
 
@@ -146,6 +150,18 @@ file = "mods/custom/nsmp-worldtest.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/emiffect.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/athena-ctm.pw.toml"
 metafile = true
 
@@ -171,6 +187,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/forge-config-api-port.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/fzzy-config.pw.toml"
 metafile = true
 
 [[files]]
@@ -254,7 +274,19 @@ file = "mods/performance/sodium.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/emi/emi-loot.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/emi/emi-ores.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/emi/emi.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/emi/emienchants.pw.toml"
 metafile = true
 
 [[files]]
