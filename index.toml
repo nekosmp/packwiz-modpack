@@ -162,6 +162,10 @@ file = "mods/libraries/cloth-config.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/collective.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/cristel-lib.pw.toml"
 metafile = true
 
@@ -334,6 +338,14 @@ file = "mods/tweaks/gameplay/passable-foliage.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/skippy-pearls.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/softer-hay-bales.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/hud/appleskin.pw.toml"
 metafile = true
 
@@ -459,6 +471,10 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/quadral.pw.toml"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
 metafile = true
 
 [[files]]
