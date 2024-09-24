@@ -326,6 +326,10 @@ file = "mods/tweaks/gameplay/diagonal-windows.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/grass-seeds.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/ironfish.pw.toml"
 metafile = true
 
@@ -346,6 +350,14 @@ file = "mods/tweaks/gameplay/softer-hay-bales.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/treechop.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/unloaded-activity.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/hud/appleskin.pw.toml"
 metafile = true
 
@@ -355,6 +367,14 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/inventory/bettersmithingtable.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/inventory/easy-anvils.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/inventory/easy-magic.pw.toml"
 metafile = true
 
 [[files]]
