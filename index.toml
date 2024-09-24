@@ -182,6 +182,10 @@ file = "mods/libraries/fzzy-config.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/kiwi.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/konkrete.pw.toml"
 metafile = true
 
@@ -194,11 +198,27 @@ file = "mods/libraries/moonlight.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/owo-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/patchouli.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/paxi.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/puzzles-lib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/resourceful-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/sushi-bar.pw.toml"
 metafile = true
 
 [[files]]
@@ -290,6 +310,30 @@ file = "mods/tweaks/emi/extra-mod-integrations.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/diagonal-fences.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/diagonal-walls.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/diagonal-windows.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/ironfish.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/lootr.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/passable-foliage.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/hud/appleskin.pw.toml"
 metafile = true
 
@@ -298,7 +342,23 @@ file = "mods/tweaks/hud/modelfix.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/inventory/bettersmithingtable.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/inventory/norecipebook.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/inventory/patchoulibutton.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/inventory/polymorph.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/inventory/tooltipfix.pw.toml"
 metafile = true
 
 [[files]]
@@ -331,6 +391,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/visual/iris.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/particular.pw.toml"
 metafile = true
 
 [[files]]

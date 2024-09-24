@@ -1,0 +1,13 @@
+name = "Diagonal Walls"
+filename = "DiagonalWalls-v8.0.3-1.20.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FQgc8dib/versions/ISD6tUmP/DiagonalWalls-v8.0.3-1.20.1-Fabric.jar"
+hash-format = "sha1"
+hash = "73b63b2ac921eb0a0e7a92ce22e1802f4d6963c8"
+
+[update]
+[update.modrinth]
+mod-id = "FQgc8dib"
+version = "ISD6tUmP"

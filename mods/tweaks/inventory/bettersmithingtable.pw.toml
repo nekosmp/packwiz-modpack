@@ -1,0 +1,13 @@
+name = "Better Smithing Table"
+filename = "BetterSmithingTable-1.1.0-Fabric-1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Vt8TI045/versions/QUipFQuL/BetterSmithingTable-1.1.0-Fabric-1.20.jar"
+hash-format = "sha1"
+hash = "36f88a96bd222d171be481f7f185e0f7274419cb"
+
+[update]
+[update.modrinth]
+mod-id = "Vt8TI045"
+version = "QUipFQuL"
