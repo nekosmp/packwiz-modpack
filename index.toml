@@ -334,7 +334,27 @@ file = "mods/tweaks/visual/iris.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/utilities/bluemap/bluemap-offline-player-markers-(fabric).pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/bluemap/bluemap.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/utilities/world-preview.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/xaero/remote-player-waypoints-for-xaeros-map.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/xaero/xaeros-minimap.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/xaero/xaeros-world-map.pw.toml"
 metafile = true
 
 [[files]]
