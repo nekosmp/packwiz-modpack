@@ -55,6 +55,9 @@ file = "config/paxi/resourcepacks/nsmp-resourcepack.pw.toml"
 metafile = true
 
 [[files]]
+file = "config/remote_player_waypoints_for_xaero/general.json5"
+
+[[files]]
 file = "config/tectonic.json"
 
 [[files]]
@@ -95,6 +98,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/computer-craft/cc-tweaked.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/computer-craft/computer-cartographer.pw.toml"
 metafile = true
 
 [[files]]
@@ -151,6 +158,10 @@ metafile = true
 
 [[files]]
 file = "mods/custom/nsmp-worldtest.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/architectury-api.pw.toml"
 metafile = true
 
 [[files]]
