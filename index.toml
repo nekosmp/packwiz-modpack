@@ -55,10 +55,11 @@ file = "config/paxi/resourcepacks/nsmp-resourcepack.pw.toml"
 metafile = true
 
 [[files]]
-file = "config/remote_player_waypoints_for_xaero/general.json5"
+file = "config/tectonic.json"
 
 [[files]]
-file = "config/tectonic.json"
+file = "mods/antique-atlas-4.pw.toml"
+metafile = true
 
 [[files]]
 file = "mods/content/applied-energistics/ae2-qol-recipes.pw.toml"
@@ -305,6 +306,10 @@ file = "mods/performance/sodium.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/surveyor.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/emi/emi-loot.pw.toml"
 metafile = true
 
@@ -474,18 +479,6 @@ metafile = true
 
 [[files]]
 file = "mods/utilities/world-preview.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/utilities/xaero/remote-player-waypoints-for-xaeros-map.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/utilities/xaero/xaeros-minimap.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/utilities/xaero/xaeros-world-map.pw.toml"
 metafile = true
 
 [[files]]
