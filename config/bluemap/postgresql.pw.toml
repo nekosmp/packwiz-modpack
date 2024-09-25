@@ -1,0 +1,7 @@
+name = "postgresql"
+filename = "postgresql-42.7.4.jar"
+
+[download]
+url = "https://jdbc.postgresql.org/download/postgresql-42.7.4.jar"
+hash-format = "sha256"
+hash = "188976721ead8e8627eb6d8389d500dccc0c9bebd885268a3047180274a6031e"

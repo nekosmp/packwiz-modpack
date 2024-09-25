@@ -7,6 +7,10 @@ file = "config/bclib/client.json"
 file = "config/bclib/server.json"
 
 [[files]]
+file = "config/bluemap/postgresql.pw.toml"
+metafile = true
+
+[[files]]
 file = "config/builtinservers.json"
 
 [[files]]
@@ -151,6 +155,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/athena-ctm.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/balm.pw.toml"
 metafile = true
 
 [[files]]
@@ -335,6 +343,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gameplay/lootr.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/netherportalfix.pw.toml"
 metafile = true
 
 [[files]]
