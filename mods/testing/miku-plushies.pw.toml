@@ -1,0 +1,13 @@
+name = "Miku Plushies"
+filename = "miku-plushie-1.2.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LnqZM7XU/versions/aiApPXDP/miku-plushie-1.2.1-1.20.1.jar"
+hash-format = "sha1"
+hash = "2ec0a8434af475a452c99f7f5009cabb54e4ae53"
+
+[update]
+[update.modrinth]
+mod-id = "LnqZM7XU"
+version = "aiApPXDP"

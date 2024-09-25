@@ -58,10 +58,6 @@ metafile = true
 file = "config/tectonic.json"
 
 [[files]]
-file = "mods/antique-atlas-4.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/applied-energistics/ae2-qol-recipes.pw.toml"
 metafile = true
 
@@ -106,7 +102,19 @@ file = "mods/content/computer-craft/computer-cartographer.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/computer-craft/ducky-periphs.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/computer-craft/plethora-peripherals.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/computer-craft/toms-peripherals.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/computer-craft/unlimitedperipheralworks.pw.toml"
 metafile = true
 
 [[files]]
@@ -234,6 +242,10 @@ file = "mods/libraries/paxi.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/peripheralium.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/puzzles-lib.pw.toml"
 metafile = true
 
@@ -306,7 +318,15 @@ file = "mods/performance/sodium.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/surveyor.pw.toml"
+file = "mods/testing/antique-atlas-4.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/miku-plushies.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/surveyor.pw.toml"
 metafile = true
 
 [[files]]
