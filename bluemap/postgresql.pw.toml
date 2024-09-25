@@ -1,5 +1,6 @@
 name = "postgresql"
 filename = "postgresql-42.7.4.jar"
+side = "server"
 
 [download]
 url = "https://jdbc.postgresql.org/download/postgresql-42.7.4.jar"
