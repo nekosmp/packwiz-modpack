@@ -346,6 +346,10 @@ file = "mods/testing/antique-atlas-4.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/miku-plushies.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/ribbits.pw.toml"
 metafile = true
 
