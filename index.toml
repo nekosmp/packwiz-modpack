@@ -122,6 +122,10 @@ file = "mods/content/create/create-fabric.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/decor/miku-plushies.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/exposure.pw.toml"
 metafile = true
 
@@ -346,14 +350,6 @@ file = "mods/testing/antique-atlas-4.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/miku-plushies.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/ribbits.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/surveyor.pw.toml"
 metafile = true
 
@@ -547,6 +543,10 @@ metafile = true
 
 [[files]]
 file = "mods/worldgen/overworld/expanded-ecosphere.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/overworld/ribbits.pw.toml"
 metafile = true
 
 [[files]]
