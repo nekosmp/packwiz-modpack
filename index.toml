@@ -134,10 +134,6 @@ file = "mods/content/hexcasting/hexdim.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/hexcasting/hextweaks.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/silly/moyai.pw.toml"
 metafile = true
 
