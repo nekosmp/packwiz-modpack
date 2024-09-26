@@ -254,6 +254,10 @@ file = "mods/libraries/patchouli.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/paucal.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/paxi.pw.toml"
 metafile = true
 
