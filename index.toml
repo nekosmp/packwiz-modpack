@@ -382,6 +382,10 @@ file = "mods/tweaks/emi/extra-mod-integrations.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/connectiblechains.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/diagonal-fences.pw.toml"
 metafile = true
 
