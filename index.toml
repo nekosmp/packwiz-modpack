@@ -226,6 +226,10 @@ file = "mods/libraries/fzzy-config.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/geckolib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/kiwi.pw.toml"
 metafile = true
 
@@ -335,6 +339,10 @@ metafile = true
 
 [[files]]
 file = "mods/testing/miku-plushies.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/ribbits.pw.toml"
 metafile = true
 
 [[files]]
