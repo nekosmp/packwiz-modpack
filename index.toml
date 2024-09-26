@@ -134,11 +134,19 @@ file = "mods/content/hexcasting/hexdim.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/silly/autism.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/silly/moyai.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/content/silly/mystical-oak-tree.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/silly/pipe-bomb-in-the-mail.pw.toml"
 metafile = true
 
 [[files]]
