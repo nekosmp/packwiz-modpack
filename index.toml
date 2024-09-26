@@ -8,6 +8,9 @@ metafile = true
 file = "config/bclib/client.json"
 
 [[files]]
+file = "config/bclib/main.json"
+
+[[files]]
 file = "config/bclib/server.json"
 
 [[files]]
