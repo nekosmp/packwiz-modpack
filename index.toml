@@ -361,6 +361,10 @@ file = "mods/libraries/sushi-bar.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/tcdcommons.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/trinkets.pw.toml"
 metafile = true
 
@@ -509,7 +513,51 @@ file = "mods/tweaks/gameplay/unloaded-activity.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gui/better-advancements.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/better-stats.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/bettersmithingtable.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/borderless-mining.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/easy-anvils.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/easy-magic.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/norecipebook.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/patchoulibutton.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/polymorph.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/tooltipfix.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/hud/appleskin.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/chat-heads.pw.toml"
 metafile = true
 
 [[files]]
@@ -517,55 +565,39 @@ file = "mods/tweaks/hud/modelfix.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/inventory/bettersmithingtable.pw.toml"
+file = "mods/tweaks/hud/overflowing-bars.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/inventory/easy-anvils.pw.toml"
+file = "mods/tweaks/hud/status-effect-bars.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/inventory/easy-magic.pw.toml"
+file = "mods/tweaks/menu/auth-me.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/inventory/norecipebook.pw.toml"
+file = "mods/tweaks/menu/builtin-servers.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/inventory/patchoulibutton.pw.toml"
+file = "mods/tweaks/menu/disable-accessibility-screen.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/inventory/polymorph.pw.toml"
+file = "mods/tweaks/menu/drippy-loading-screen.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/inventory/tooltipfix.pw.toml"
+file = "mods/tweaks/menu/fancymenu.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/ui/auth-me.pw.toml"
+file = "mods/tweaks/menu/modmenu.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/ui/builtin-servers.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/tweaks/ui/disable-accessibility-screen.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/tweaks/ui/drippy-loading-screen.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/tweaks/ui/fancymenu.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/tweaks/ui/modmenu.pw.toml"
+file = "mods/tweaks/menu/seamless-loading-screen.pw.toml"
 metafile = true
 
 [[files]]
@@ -574,6 +606,14 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/visual/distanthorizons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/distinguished-potions.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/highlight.pw.toml"
 metafile = true
 
 [[files]]
@@ -586,6 +626,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/visual/particular.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/screenshot-to-clipboard.pw.toml"
 metafile = true
 
 [[files]]
