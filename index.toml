@@ -613,6 +613,10 @@ file = "mods/utilities/world-preview.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/utilities/worldedit.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/worldgen/end/betterend.pw.toml"
 metafile = true
 
