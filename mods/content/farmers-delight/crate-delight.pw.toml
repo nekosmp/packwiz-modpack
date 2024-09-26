@@ -1,0 +1,13 @@
+name = "Crate Delight"
+filename = "cratedelight-24.09.03-1.20-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9rlXSyLg/versions/QV8Xp2VI/cratedelight-24.09.03-1.20-fabric.jar"
+hash-format = "sha1"
+hash = "0c63aeae002197b0b78bc132f41c9aed17644d04"
+
+[update]
+[update.modrinth]
+mod-id = "9rlXSyLg"
+version = "QV8Xp2VI"

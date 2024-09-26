@@ -130,11 +130,71 @@ file = "mods/content/exposure.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/farmers-delight/crate-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/farmers-delight/cultural-delights-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/farmers-delight/ends-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/farmers-delight/expanded-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/farmers-delight/farmers-delight-refabricated.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/farmers-delight/frights-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/farmers-delight/more-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/farmers-delight/nethers-delight-refabricated.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/farmers-delight/oceans-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/farmers-delight/ubes-delight.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/hexcasting/hexcasting.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/content/hexcasting/hexdim.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mighty-mail-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/creeper-overhaul.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/enderman-overhaul.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/species.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/pick-your-poison.pw.toml"
 metafile = true
 
 [[files]]
@@ -230,6 +290,10 @@ file = "mods/libraries/forge-config-api-port.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/framework-fabric.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/fzzy-config.pw.toml"
 metafile = true
 
@@ -275,6 +339,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/puzzles-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/resourceful-config.pw.toml"
 metafile = true
 
 [[files]]
@@ -494,11 +562,19 @@ file = "mods/tweaks/ui/modmenu.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/visual/ambient-environment.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/visual/distanthorizons.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/tweaks/visual/iris.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/lambdynamiclights.pw.toml"
 metafile = true
 
 [[files]]
