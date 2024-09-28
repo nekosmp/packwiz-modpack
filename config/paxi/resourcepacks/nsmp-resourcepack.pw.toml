@@ -1,6 +1,6 @@
 name = "nsmp-resourcepack"
 filename = "nsmp-datapack-0.0.7.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://github.com/nekosmp/nsmp-datares/releases/download/mc1.20.1/v0.0.7/nsmp-datapack-0.0.7.zip"

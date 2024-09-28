@@ -54,6 +54,10 @@ file = "config/paxi/datapacks/nsmp-datapack.pw.toml"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/creeper-overhaul-overhaul.pw.toml"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/nsmp-resourcepack.pw.toml"
 metafile = true
 
