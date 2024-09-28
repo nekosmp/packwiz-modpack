@@ -1,0 +1,7 @@
+{
+  "redstone": {
+    "faucet": {
+      "enabled": false
+    }
+  }
+}

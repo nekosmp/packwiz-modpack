@@ -58,6 +58,9 @@ file = "config/paxi/resourcepacks/nsmp-resourcepack.pw.toml"
 metafile = true
 
 [[files]]
+file = "config/supplementaries-common.json"
+
+[[files]]
 file = "config/tectonic.json"
 
 [[files]]
@@ -421,11 +424,27 @@ file = "mods/performance/lithium.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/performance/memoryleakfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/modernfix.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/performance/moreculling.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/performance/sodium-extra.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/performance/sodium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/vmp-fabric.pw.toml"
 metafile = true
 
 [[files]]
@@ -589,6 +608,14 @@ file = "mods/tweaks/hud/chat-heads.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/hud/jade-addons-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/jade.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/hud/modelfix.pw.toml"
 metafile = true
 
@@ -622,6 +649,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/menu/modmenu.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/menu/reeses-sodium-options.pw.toml"
 metafile = true
 
 [[files]]
