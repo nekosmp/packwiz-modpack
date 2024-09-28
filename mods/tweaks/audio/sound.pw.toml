@@ -1,0 +1,13 @@
+name = "Sounds"
+filename = "Sounds-2.1.0+1.20.1+fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZouiUX7t/versions/7Wra4eBi/Sounds-2.1.0%2B1.20.1%2Bfabric.jar"
+hash-format = "sha1"
+hash = "8124c215c1ad23c9189c54d9851b564519efd23d"
+
+[update]
+[update.modrinth]
+mod-id = "ZouiUX7t"
+version = "7Wra4eBi"
