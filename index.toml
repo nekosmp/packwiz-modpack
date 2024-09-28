@@ -136,10 +136,6 @@ file = "mods/content/decor/miku-plushies.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/exposure.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/farmers-delight/crate-delight.pw.toml"
 metafile = true
 
@@ -188,10 +184,6 @@ file = "mods/content/hexcasting/hexdim.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/mighty-mail-fabric.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/mobs/creeper-overhaul.pw.toml"
 metafile = true
 
@@ -200,11 +192,31 @@ file = "mods/content/mobs/enderman-overhaul.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/mobs/mavm.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/mobs/species.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/pick-your-poison.pw.toml"
+file = "mods/content/other/exposure.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/other/immersive-melodies.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/other/mighty-mail-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/other/pick-your-poison.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/other/sleep-tight.pw.toml"
 metafile = true
 
 [[files]]
@@ -317,6 +329,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/konkrete.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/mavapi.pw.toml"
 metafile = true
 
 [[files]]
@@ -508,6 +524,10 @@ file = "mods/tweaks/emi/extra-mod-integrations.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/better-third-person.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/connectiblechains.pw.toml"
 metafile = true
 
@@ -525,6 +545,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gameplay/grass-seeds.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/highlight.pw.toml"
 metafile = true
 
 [[files]]
@@ -564,6 +588,10 @@ file = "mods/tweaks/gameplay/unloaded-activity.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gui/axolotl-bucket-fix.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gui/better-advancements.pw.toml"
 metafile = true
 
@@ -577,6 +605,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gui/borderless-mining.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/distinguished-potions.pw.toml"
 metafile = true
 
 [[files]]
@@ -669,14 +701,6 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/visual/distanthorizons.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/tweaks/visual/distinguished-potions.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/tweaks/visual/highlight.pw.toml"
 metafile = true
 
 [[files]]
