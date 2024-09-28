@@ -433,6 +433,14 @@ file = "mods/testing/antique-atlas-4.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/explosive-enhancement.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/spice-of-life-valheim-edition.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/surveyor.pw.toml"
 metafile = true
 
