@@ -62,6 +62,9 @@ file = "config/paxi/resourcepacks/nsmp-resourcepack.pw.toml"
 metafile = true
 
 [[files]]
+file = "config/spiceoffabric.hjson"
+
+[[files]]
 file = "config/supplementaries-common.json"
 
 [[files]]
@@ -284,6 +287,10 @@ file = "mods/libraries/bclib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/cicada.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/cloth-config.pw.toml"
 metafile = true
 
@@ -357,6 +364,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/paxi.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/pehkui.pw.toml"
 metafile = true
 
 [[files]]
@@ -533,6 +544,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gameplay/diagonal-windows.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/do-a-barrel-roll.pw.toml"
 metafile = true
 
 [[files]]
