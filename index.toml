@@ -441,6 +441,10 @@ file = "mods/tweaks/audio/dynamicsurroundingsfabric.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/audio/presence-footsteps.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/audio/sound.pw.toml"
 metafile = true
 
