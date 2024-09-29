@@ -54,6 +54,10 @@ file = "config/paxi/datapacks/nsmp-datapack.pw.toml"
 metafile = true
 
 [[files]]
+file = "config/paxi/datapacks/william-wythers-expanded-ecosphere-and-overhauled.pw.toml"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/creeper-overhaul-overhaul.pw.toml"
 metafile = true
 

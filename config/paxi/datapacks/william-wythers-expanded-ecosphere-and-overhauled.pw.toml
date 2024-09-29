@@ -1,0 +1,13 @@
+name = "William Wyther's Expanded Ecosphere and Overhauled Overworld Create Compat"
+filename = "WWOO_EE_CREATE-v1.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f8f3b1bd3dfcdf237f152f8c85c51aa46c2bb845"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5033192
+project-id = 962226
