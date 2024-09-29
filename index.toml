@@ -399,6 +399,10 @@ file = "mods/libraries/tcdcommons.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/treeplacer.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/trinkets.pw.toml"
 metafile = true
 
