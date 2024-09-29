@@ -1,15 +1,15 @@
 name = "nsmp-datapack"
-filename = "nsmp-datapack-0.0.7.zip"
+filename = "nsmp-datapack-0.0.8.zip"
 side = "both"
 
 [download]
-url = "https://github.com/nekosmp/nsmp-datares/releases/download/mc1.20.1/v0.0.7/nsmp-datapack-0.0.7.zip"
+url = "https://github.com/nekosmp/nsmp-datares/releases/download/mc1.20.1/v0.0.8/nsmp-datapack-0.0.8.zip"
 hash-format = "sha256"
-hash = "022151dcdbcce99c3121827e4a992e1618aad76d86ad1f45cad9f5e819bf0c02"
+hash = "3af09cddf1aeea18040081894eb7d3a81a2fbcc3c117f9bba9f14478f08cef13"
 
 [update]
 [update.github]
 branch = "1.20.1"
 regex = "nsmp-datapack-.*\\.zip$"
 slug = "nekosmp/nsmp-datares"
-tag = "mc1.20.1/v0.0.7"
+tag = "mc1.20.1/v0.0.8"
