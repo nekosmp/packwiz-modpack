@@ -251,6 +251,10 @@ file = "mods/content/supplementaries/supplementaries.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/custom/nsmp-biosap.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/custom/nsmp-bridge.pw.toml"
 metafile = true
 
@@ -400,10 +404,6 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/tcdcommons.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/libraries/treeplacer.pw.toml"
 metafile = true
 
 [[files]]
