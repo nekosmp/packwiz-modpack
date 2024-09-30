@@ -1,15 +1,15 @@
 name = "nsmp-biosap"
-filename = "nsmp-biosap-0.0.7+1.20.1-server.jar"
+filename = "nsmp-biosap-0.0.8+1.20.1-server.jar"
 side = "both"
 
 [download]
-url = "https://github.com/nekosmp/nsmp-biosap/releases/download/mc1.20.1/v0.0.7/nsmp-biosap-0.0.7%2B1.20.1-server.jar"
+url = "https://github.com/nekosmp/nsmp-biosap/releases/download/mc1.20.1/v0.0.8/nsmp-biosap-0.0.8%2B1.20.1-server.jar"
 hash-format = "sha256"
-hash = "38acfad3399608c8864c9251f67939f462919a092d9595da0e94472597189ff4"
+hash = "fa1733085adac10b425b4bcf59b7e98df52455845cff93a5ba04da6eb7b6e706"
 
 [update]
 [update.github]
 branch = "1.20.1"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "nekosmp/nsmp-biosap"
-tag = "mc1.20.1/v0.0.7"
+tag = "mc1.20.1/v0.0.8"
